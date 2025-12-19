@@ -1,0 +1,217 @@
+{
+  "extraction_metadata": {
+    "page_number": 63,
+    "phase": "Phase 4",
+    "extraction_date": "2025-11-01",
+    "source_url": "https://chefaa.com/eg-ar/now/category/medications?page=63",
+    "total_medications_extracted": 20,
+    "cumulative_total": 1117
+  },
+  "medications": [
+    {
+      "arabic_name": "فاجيكلند 2% كريم مهبلي",
+      "english_brand_name": "Vagiclind 2%",
+      "price_egp": 52,
+      "availability_status": "In Stock",
+      "prescription_required": false,
+      "dosage_information": "2% vaginal cream | 20gm",
+      "therapeutic_uses": "Vaginal cream"
+    },
+    {
+      "arabic_name": "ليمتلس الزايم ماكس",
+      "english_brand_name": "Limitless Allzym Max",
+      "price_egp": 145,
+      "availability_status": "In Stock",
+      "prescription_required": false,
+      "dosage_information": "20 tablets",
+      "therapeutic_uses": "Digestive enzyme supplement"
+    },
+    {
+      "arabic_name": "فورتوكسيكالم",
+      "english_brand_name": "Vortoxicalm",
+      "price_egp": 340,
+      "availability_status": "In Stock",
+      "prescription_required": false,
+      "dosage_information": "10mg | 20 film-coated tablets",
+      "therapeutic_uses": "Anti-anxiety medication"
+    },
+    {
+      "arabic_name": "نوفورابيد انسولين",
+      "english_brand_name": "Novorapid Insulin",
+      "price_egp": 1260,
+      "availability_status": "In Stock",
+      "prescription_required": true,
+      "dosage_information": "100 U/ml | 5 pens, 3ml",
+      "therapeutic_uses": "Insulin for diabetes"
+    },
+    {
+      "arabic_name": "فيمارا",
+      "english_brand_name": "Femara",
+      "price_egp": 1139,
+      "availability_status": "In Stock",
+      "prescription_required": true,
+      "dosage_information": "2.5mg | 30 tablets",
+      "therapeutic_uses": "Hormonal cancer treatment"
+    },
+    {
+      "arabic_name": "ريالتريس سبراي للانف",
+      "english_brand_name": "Ryaltris Nasal Spray",
+      "price_egp": 230,
+      "availability_status": "In Stock",
+      "prescription_required": false,
+      "dosage_information": "600mcg/25mcg | 120 metered sprays",
+      "therapeutic_uses": "Nasal spray for allergies"
+    },
+    {
+      "arabic_name": "هيرو بيبي لبن نيوتراديفنس 3 لتقوية المناعة",
+      "english_brand_name": "Hero Baby Nutradefense 3 Milk",
+      "price_egp": 349,
+      "availability_status": "In Stock",
+      "prescription_required": false,
+      "dosage_information": "400gm",
+      "therapeutic_uses": "Baby milk for strengthening immunity"
+    },
+    {
+      "arabic_name": "كيورام شراب مضاد حيوي",
+      "english_brand_name": "Curam Antibiotic",
+      "price_egp": 82,
+      "availability_status": "In Stock",
+      "prescription_required": true,
+      "dosage_information": "312.5mg/75ml suspension",
+      "therapeutic_uses": "Antibiotic for bacterial infections"
+    },
+    {
+      "arabic_name": "نيكسيكور",
+      "english_brand_name": "Nexicure",
+      "price_egp": 168,
+      "availability_status": "In Stock",
+      "prescription_required": false,
+      "dosage_information": "5mg | 28 sachets",
+      "therapeutic_uses": "Pain relief medication"
+    },
+    {
+      "arabic_name": "اوجمنتين مضاد حيوي",
+      "english_brand_name": "Augmentin Antibiotic",
+      "price_egp": 137,
+      "availability_status": "In Stock",
+      "prescription_required": true,
+      "dosage_information": "457mg/70ml syrup",
+      "therapeutic_uses": "Antibiotic for bacterial infections"
+    },
+    {
+      "arabic_name": "إنفلوفاك تترا",
+      "english_brand_name": "Influvac Tetra",
+      "price_egp": 350,
+      "availability_status": "In Stock",
+      "prescription_required": false,
+      "dosage_information": "1 dose | 0.5ml",
+      "therapeutic_uses": "Influenza vaccine"
+    },
+    {
+      "arabic_name": "دولفين مضاد للروماتيزم",
+      "english_brand_name": "Dolphin Antirheumatic",
+      "price_egp": 36,
+      "availability_status": "In Stock",
+      "prescription_required": false,
+      "dosage_information": "12.5mg | 10 suppositories",
+      "therapeutic_uses": "Anti-rheumatic medication"
+    },
+    {
+      "arabic_name": "جليبوفين لعلاج السكر من النوع الثاني",
+      "english_brand_name": "Glybofen",
+      "price_egp": 48,
+      "availability_status": "In Stock",
+      "prescription_required": true,
+      "dosage_information": "1000mg/5mg | 30 tablets",
+      "therapeutic_uses": "Type 2 diabetes treatment"
+    },
+    {
+      "arabic_name": "تافونيفلوكس لعلاج الالتهابات البكتيرية",
+      "english_brand_name": "Tavoniflox",
+      "price_egp": 66,
+      "availability_status": "In Stock",
+      "prescription_required": true,
+      "dosage_information": "750mg | 7 tablets",
+      "therapeutic_uses": "Bacterial infections treatment"
+    },
+    {
+      "arabic_name": "كيناكورت",
+      "english_brand_name": "Kenacort",
+      "price_egp": 110,
+      "availability_status": "In Stock",
+      "prescription_required": true,
+      "dosage_information": "4mg | 100 tablets",
+      "therapeutic_uses": "Corticosteroid medication"
+    },
+    {
+      "arabic_name": "ليمتلس وومان مالتي جاميز",
+      "english_brand_name": "Limitless Woman Multigummies",
+      "price_egp": 320,
+      "availability_status": "In Stock",
+      "prescription_required": false,
+      "dosage_information": "90 gummies",
+      "therapeutic_uses": "Multivitamin for women"
+    },
+    {
+      "arabic_name": "ماكسيكال اقراص حبوب الكالسيوم وفيتامين د",
+      "english_brand_name": "Maxical Tab",
+      "price_egp": 87,
+      "availability_status": "In Stock",
+      "prescription_required": false,
+      "dosage_information": "30 tablets",
+      "therapeutic_uses": "Calcium and Vitamin D supplement"
+    },
+    {
+      "arabic_name": "جالفس مت حبوب لمرضى السكر",
+      "english_brand_name": "Galvus Met",
+      "price_egp": 315,
+      "availability_status": "In Stock",
+      "prescription_required": true,
+      "dosage_information": "50mg/1000mg | 30 tablets",
+      "therapeutic_uses": "For diabetic patients"
+    },
+    {
+      "arabic_name": "جليبتس بلس",
+      "english_brand_name": "Gliptus Plus",
+      "price_egp": 192,
+      "availability_status": "In Stock",
+      "prescription_required": true,
+      "dosage_information": "50mg/1000mg | 30 tablets",
+      "therapeutic_uses": "Diabetes medication"
+    },
+    {
+      "arabic_name": "دانست لتقليل شعور الغثيان والقيء",
+      "english_brand_name": "Danset",
+      "price_egp": 142.5,
+      "availability_status": "In Stock",
+      "prescription_required": false,
+      "dosage_information": "8mg/4ml | 3 ampoules",
+      "therapeutic_uses": "To reduce nausea and vomiting"
+    }
+  ],
+  "therapeutic_categories": {
+    "antibiotics": ["Curam Antibiotic", "Augmentin Antibiotic", "Tavoniflox"],
+    "diabetes_treatments": ["Novorapid Insulin", "Glybofen", "Galvus Met", "Gliptus Plus"],
+    "hormonal_treatments": ["Femara", "Vagiclind 2%"],
+    "vaccines": ["Influvac Tetra"],
+    "supplements": ["Limitless Allzym Max", "Limitless Woman Multigummies", "Maxical Tab"],
+    "baby_formula": ["Hero Baby Nutradefense 3 Milk"],
+    "nasal_spray": ["Ryaltris Nasal Spray"],
+    "anti_anxiety": ["Vortoxicalm"],
+    "antirheumatic": ["Dolphin Antirheumatic"],
+    "corticosteroids": ["Kenacort"],
+    "anti_nausea": ["Danset"],
+    "pain_relief": ["Nexicure"]
+  },
+  "price_analysis": {
+    "minimum_price": 36,
+    "maximum_price": 1260,
+    "average_price": 249.9,
+    "total_page_value": 4999.5
+  },
+  "prescription_distribution": {
+    "prescription_required": 8,
+    "otc_available": 12,
+    "prescription_percentage": 40.0
+  }
+}

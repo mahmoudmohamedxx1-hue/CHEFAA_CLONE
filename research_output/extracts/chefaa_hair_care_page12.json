@@ -1,0 +1,148 @@
+{
+  "page_number": 12,
+  "extraction_date": "2025-11-01",
+  "status": "SUCCESS",
+  "products_extracted": 20,
+  "products": [
+    {
+      "product_name": "تريكو اكت شامبو ضد القشرة",
+      "brand_name": "ديرما اكتيف",
+      "price_egp": 199,
+      "volume_size": "200مل",
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/dermactive-tricho-act-anti-dandruff-shampoo-200ml-ppqc_dutoEiYK_duGeKTOT"
+    },
+    {
+      "product_name": "شامبو ترطيب للشعر الكيرلى",
+      "brand_name": "تريسمى",
+      "price_egp": 210,
+      "volume_size": "400ملى",
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/tresemme-moisturizing-shampoo-for-curly-hair-400ml-kdbb"
+    },
+    {
+      "product_name": "حمام كريم ببذور الحبة السوداء",
+      "brand_name": "فاتيكا",
+      "price_egp": 45,
+      "volume_size": "250جم",
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/vatika-hammam-cream-habba-souda-250gm-2iye"
+    },
+    {
+      "product_name": "زيت الشعر",
+      "brand_name": "دابر املا",
+      "price_egp": 26,
+      "volume_size": "45مل",
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/dabur-amla-hair-oil-45ml-p1jl_duDhxHVZ"
+    },
+    {
+      "product_name": "زيت شعر بجوز الهند من دابر املا",
+      "brand_name": "فاتيكا",
+      "price_egp": 40,
+      "volume_size": "180مل",
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/dabur-vatika-hair-coconut-oil-180m-lwnx"
+    },
+    {
+      "product_name": "زيت شعر بالجرجير",
+      "brand_name": "فاتيكا",
+      "price_egp": 40,
+      "volume_size": "180مل",
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/vatika-watercress-oil-for-hair-180m-rmfm"
+    },
+    {
+      "product_name": "زيت الجرجير للشعر",
+      "brand_name": "فاتيكا",
+      "price_egp": 10,
+      "volume_size": "45 مل",
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/dabur-vatika-h-oil-45ml-watercress-xxns"
+    },
+    {
+      "product_name": "زيت الشعر",
+      "brand_name": "دابر املا",
+      "price_egp": 50,
+      "volume_size": "90 مل",
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/dabur-amla-hair-oil-90-ozzz"
+    },
+    {
+      "product_name": "صبغة الشعر الرائعة إكسيلانس كريم",
+      "brand_name": "لوريال باريس",
+      "price_egp": 460,
+      "volume_size": "1 أسود",
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/excellence-creme-hair-color-1-black"
+    },
+    {
+      "product_name": "سيرم للتصفيف وعلاج تلف الشعر",
+      "brand_name": "تويست اند جو",
+      "price_egp": 250,
+      "volume_size": "60مل",
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/twist-go-hair-serum-dry-touch-60ml-lqcc_dupUajKF"
+    },
+    {
+      "product_name": "أكياس ليف ان كريم لترطيب الشعر بزبدة الشيا",
+      "brand_name": "بليس",
+      "price_egp": 10,
+      "volume_size": "35مل",
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/bless-leave-in-cream-with-shea-butter-sachets-35ml-waaj_duuWWKYt"
+    },
+    {
+      "product_name": "صبغة شعر كولور ناتشرالز كريم",
+      "brand_name": "غارنييه",
+      "price_egp": 161,
+      "volume_size": "5 بني فاتح",
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/color-naturals-hair-color-5-light-brown-mskj_dua6MGcw"
+    },
+    {
+      "product_name": "أكسجين كريم 20",
+      "brand_name": "بيوبيونت",
+      "price_egp": 20,
+      "volume_size": "75جم",
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/biopoint-emulsion-oxydante-20-75gm-nhzj"
+    },
+    {
+      "product_name": "ناتشورال ريتشارج بديل الزيت لترطيب الشعر بجوز الهند",
+      "brand_name": "صانسيلك",
+      "price_egp": 145,
+      "volume_size": "300مل",
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/sunsilk-oil-replacement-coconut-300-scfu"
+    },
+    {
+      "product_name": "كيس حناء ملون ماهوجني",
+      "brand_name": "جلورى",
+      "price_egp": 45,
+      "volume_size": "10 جم",
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/glory-colored-henna-sachet-burgundy-10-gm-soah_ducOgHNT"
+    },
+    {
+      "product_name": "حنة بالشيكاكي والاملا",
+      "brand_name": "جلورى",
+      "price_egp": 45,
+      "volume_size": "10 جم - عنابي",
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/glory-henna-with-shikaki-and-amla-pack-of-6-10-gm-burgundy-wacv"
+    },
+    {
+      "product_name": "صبغة شعر بودرة دائمة",
+      "brand_name": "بايجن",
+      "price_egp": 87,
+      "volume_size": "57 بني غامق",
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/bigen-permanent-hair-color-powder-57-dark-brown-91ew"
+    },
+    {
+      "product_name": "بديل الزيت بالعسل و زيت اللوز",
+      "brand_name": "صانسيلك",
+      "price_egp": 144,
+      "volume_size": "300مل",
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/sunsilk-natural-recharge-anti-breakage-oil-replacement-hair-cream-with-honey-300ml-igvo"
+    },
+    {
+      "product_name": "كريم زيت البيرجاموت",
+      "brand_name": "بالمرز",
+      "price_egp": 80,
+      "volume_size": "50 جم",
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/palmers-cream-bergamot-oil-formula-50-x6ia"
+    },
+    {
+      "product_name": "شامبو للمحجبات لتساقط الشعر بخلاصة الكافيين",
+      "brand_name": "الوكيتا",
+      "price_egp": 179,
+      "volume_size": "250مل",
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/aloekita-ds-da-caffeine-rich-shampoo-250ml-ciuh"
+    }
+  ]
+}

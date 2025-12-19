@@ -1,0 +1,33 @@
+📄 Extracted from page: العناية بالشعر - شفاء
+URL: https://chefaa.com/eg-ar/now/category/hair-care?page=15
+
+Extracted content:
+```json
+{
+  "title": "العناية بالشعر - شفاء",
+  "url": "https://chefaa.com/eg-ar/now/category/hair-care?page=15",
+  "summary": "This page, which is page 15 of the 'Hair Care' category on Chefaa, displays 20 hair care products. Pagination controls indicate that there are multiple pages of products, with page 15 being the current page and links to previous and subsequent pages (up to page 51).",
+  "key_points": [
+    "20 products are displayed on this specific page (page 15).",
+    "Pagination controls are present, indicating more products are available on other pages.",
+    "The current page is 15.",
+    "There are links to previous pages (e.g., page 14) and next pages (e.g., page 16).",
+    "The last page shown in the pagination control is page 51."
+  ],
+  "relevant_links": [
+    "https://chefaa.com:443/eg-ar/now/category/hair-care?page=1",
+    "https://chefaa.com:443/eg-ar/now/category/hair-care?page=14",
+    "https://chefaa.com:443/eg-ar/now/category/hair-care?page=16",
+    "https://chefaa.com:443/eg-ar/now/category/hair-care?page=51"
+  ],
+  "product_info": {
+    "count_on_page": 20,
+    "pagination_present": true,
+    "current_page": 15,
+    "has_next_page": true,
+    "has_previous_page": true,
+    "total_pages_indicated": 51
+  },
+  "file_name": "chefaa_hair_care_page_15_product_info.json"
+}
+```

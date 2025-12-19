@@ -1,0 +1,333 @@
+# Chefaa Medications 1401+ Extraction Progress and Evidence-Aligned Update Plan
+
+## Executive Overview and Objectives
+
+The objective is to deliver a robust, evidence-backed pharmaceutical dataset for Chefaa products indexed 1401 and beyond, culminating in a consolidated, clinically credible JSON record set suitable for analytics and operations. This report consolidates what has been reliably extracted so far, identifies and quantifies the remaining gaps, and sets out a pragmatic, evidence-first plan to complete the work within strict step and efficiency constraints.
+
+Progress snapshot. To date, six high-quality product evidence packs have been compiled from Chefaa product pages across antibiotics, non-steroidal anti-inflammatory drugs (NSAIDs), diabetes, and antacids. These provide a strong calibration baseline for clinical fields, dosing ranges, pricing anchors, and safety content: Augmentin (amoxicillin/clavulanic acid), Floxamo (amoxicillin/flucloxacillin), Victoza (liraglutide), Sapofen 400 (ibuprofen), Nurofen children’s syrup (ibuprofen), and Duphalac (lactulose).[^4][^5][^6][^7][^8][^11] Evidence for Telfast 180 (fexofenadine) further strengthens the antihistamine class representation.[^10] Together, these cover core therapeutic classes and validate the schema against real-world detail pages.
+
+Narrative arc. First, we define the concrete scope, anchor the 1401+ sequence, and document provenance and extraction constraints. Next, we standardize the data model based on the evidence set and codify validation rules. We then present extracted exemplars and synthesis findings across categories, summarize pricing anchors, and propose a streamlined plan to scale to the remaining products within the step limit. Finally, we define the QA, acceptance criteria, and file output specification. The plan is deliberately evidence-grounded and staged, prioritizing field coverage, clinical reliability, and speed to value.
+
+Figure 1 below evidences the category structure and listing patterns used to plan traversals and anchor field mapping.
+
+![Chefaa medications category landing (evidence of source structure)](/workspace/docs/chefaa_homepage/chefaa_medications_category.png)
+
+The category landing is the basis for structured link harvesting, pagination handling, and taxonomy cues—critical for consistent ingestion and alignment with product detail pages.[^2]
+
+### Scope and Constraints
+
+This work targets the 1401+ slice of Chefaa’s product inventory, leveraging category pagination and product detail pages. The inventory references 130 page files, with documented gaps in specific ranges and occasional zero-result pages, requiring resilience in enumeration and reconciliation. The market context includes Egypt and Saudi Arabia, which is reflected in EGP and SAR pricing fields on product pages and impacts currency normalization for downstream analytics.[^3]
+
+To orient execution, Table 1 summarizes the scope posture to be used for planning, progress tracking, and acceptance testing.
+
+Table 1. Scope Snapshot: Products 1401–Final
+
+| Metric | Value |
+|---|---|
+| Total products discovered (pages) | 2,280 |
+| Estimated products ≥ ID 1401 | 880 |
+| Subcategory summaries available | 9 categories; 168 products |
+| Source page range | 1–134 |
+| Pages with zero results | 55–61, 73–83 |
+| Missing page files | 5, 6, 7, 68 |
+| Final output file | data/overviews/medications_final/medications_overview_final.json |
+
+These counts and anomalies are carried through to QA checks and acceptance criteria to ensure completeness and traceability of the final dataset.[^2][^3]
+
+![Pagination and listing evidence used to plan traversals](/workspace/docs/chefaa_homepage/chefaa_medications_listing.png)
+
+As shown above, listing pages provide stable pagination and product card layouts, enabling systematic traversal, slug harvesting, and field verification—even when detail pages are intermittently unavailable.[^2][^3]
+
+## Data Provenance, Inventory, and Extraction Constraints
+
+Provenance. Extraction is based on Chefaa’s medications category and individual product pages across Egypt (eg-ar) and Saudi Arabia (sa-ar) locales. Pages present structured fields such as names (Arabic with occasional English), brand/manufacturer, strength, pack size, price, and availability; richer clinical fields (indications, dosing, contraindications, side effects, interactions, storage) appear consistently in some classes and variably in others. This variability informs both field mapping and a staged validation plan.
+
+Inventory posture. The 130-page corpus has gaps and zero-result ranges; therefore, enumeration is based on ascending pagination with gap awareness, deduplication, and canonicalization before slicing to products ≥1401. Subcategory summaries (nine groups; 168 products) are used to cross-check taxonomy and provide fallback clinical content when detail pages lack key fields.
+
+Constraints. Constructed URLs require validation against live pages; some product pages exhibit partial content for clinical fields and safety data. Strong localization (ar and en content across markets) demands normalization of language, currency, and dosage units. These constraints are explicitly mitigated by validation rules, alias handling, and targeted re-crawls for high-importance classes (e.g., antibiotics, anticoagulants, antihypertensives, diabetes).
+
+![Listing architecture used for link harvesting](/workspace/docs/chefaa_homepage/chefaa_medications_listing.png)
+
+The listing architecture above confirms consistent product card structures and slugs, which supports URL reconstruction and alternative link discovery when dynamic content or partial listings occur.[^2]
+
+### Provenance Mapping and Link Harvesting
+
+When product detail links are missing from listing records, candidate URLs are constructed from the canonical product path and slugs inferred from titles or names. Given variability in slug formatting and the presence of multiple locales, candidate URLs require validation. Practical mitigations include:
+
+- Harvesting multiple slug variants and comparing resolved page titles.
+- Preferring eg-ar or sa-ar product pages with consistent field presence.
+- Using subcategory breadcrumbs to corroborate class and form when details are sparse.[^2]
+
+These tactics reduce failed fetches and support sustained throughput, especially under constrained steps.
+
+## Data Model and Standardization Rules
+
+The schema is designed to capture identification, commercial, clinical, regulatory, provenance, and multilingual fields. It balances clinical utility with operational completeness and downstream analytics. The model is derived from observed page elements across the evidence set and generalized to cover the catalog.
+
+Field catalog. Table 2 consolidates the field catalog used for the 1401+ dataset. It specifies types, examples, and source priority—guiding both extraction and QA.
+
+Table 2. Data Field Catalog (overview)
+
+| Field name | Type | Example | Source priority |
+|---|---|---|---|
+| product_id | Integer | 1401 | Derived (sequence) |
+| product_name_ar | String | اوجمنتين | Page files |
+| product_name_en | String | Augmentin | Detail page/transliteration |
+| brand_name | String | GSK | Detail page/page files |
+| therapeutic_class | String | Antibiotic (Penicillin combination) | Detail page/subcategory |
+| indication | String | Various bacterial infections | Detail page |
+| active_ingredient | String | Amoxicillin; Clavulanic acid | Detail page |
+| strength | String | 625 mg | Page files/detail page |
+| dosage_form | String | Tablet | Detail page |
+| pack_size | String | 10 tablets | Page files/detail page |
+| concentration | String | 3.335 g/5 ml (lactulose) | Detail page |
+| route | String | Oral | Detail page |
+| category | String | Antibiotic; NSAID; Diabetes; Laxative | Page files/subcategory |
+| subcategory | String | Main Medications; Allergy | Page files |
+| price_egp | Number | 117 | Page files |
+| price_sar | Number | 17.15 | Page files |
+| availability_status | String | In stock | Page files |
+| prescription_required | Boolean | true/false | Detail page/inference |
+| storage_conditions | String | Store below 25°C (dry place) | Detail page |
+| contraindications | Array[String] | [“Penicillin allergy”] | Detail page |
+| warnings | Array[String] | [“Complete full course”] | Detail page |
+| side_effects | Array[String] | [“Diarrhea”] | Detail page |
+| interactions | Array[String] | [“Anticoagulants”] | Detail page |
+| pregnancy_lactation | String | “Consult a physician” | Detail page |
+| pediatric_use | String | “Not recommended under X age” | Detail page |
+| geriatric_use | String | “Use with caution” | Detail page |
+| pharmacokinetics | String | Onset ~1 hour (urticaria) | Detail page |
+| clinical_data | String | Mechanism; notes | Detail page |
+| product_link | String | Constructed | Derived |
+| source_file | String | medications_page_X.json | Provenance |
+| source_page | Integer | 90 | Provenance |
+| extraction_timestamp | ISO-8601 | 2025-11-01T13:37:23Z | Workflow |
+| language | String | ar/en | Metadata |
+| notes | String | “Duplicate variant resolved” | Editorial |
+
+![Detail page field pattern used to define schema alignment](/workspace/research_output/screenshots/chefaa_doliprane_product_detail_page.png)
+
+The detail page pattern above (Doliprane) informs expected field availability and aids normalization decisions—especially for dosage forms, strengths, and pack sizes that must be standardized across markets and languages.[^7]
+
+### Normalization and Category Controls
+
+- Names. Strip Arabic diacritics, collapse whitespace, and generate Latin transliterations with a preferred English title case.
+- Dosage and packaging. Normalize to “X mg,” “X mg/5 ml,” or “X%”; unify pack_size to “N units” (e.g., “21 tablets”).
+- Category mapping. Map to controlled therapeutic vocabulary (e.g., “Antibiotic (Penicillin combination)”, “NSAID”, “GLP-1 agonist”, “Osmotic laxative”). Use subcategory to resolve ambiguous classes.
+- Brand normalization. Group script/spacing variants; for generics, prefer richer clinical record while preserving aliases for auditability.
+
+## Extracted Evidence: Product Summaries and Calibration
+
+The following summaries anchor the schema against real pages, calibrate clinical field coverage, and illustrate pricing anchors across markets.
+
+Antibiotics: Augmentin 625 mg (10 tablets). The product page provides basic identification (brand: GSK; strength; pack size) and price (117 EGP). Clinical details are limited on this page; the leaflet is referenced for full prescribing information. This is sufficient for identification and pricing, while indications and safety require confirmation via label/leaflet.[^4]
+
+Antibiotics: Floxamo 1 g (16 tablets). The page provides comprehensive clinical content: fixed-dose amoxicillin 500 mg + flucloxacillin 500 mg; broad-spectrum indications (respiratory, bone/joint, ENT, gastrointestinal, gallbladder, typhoid, kidney, prostatitis, gonorrhea, skin/soft tissue, post-surgical wounds, intra-abdominal, dental abscess, middle ear, bronchitis, pneumonia, paratyphoid); adult dosing (1 g every 8 hours, oral); administration advice (swallow whole; preferably 1 hour before or 2 hours after food); contraindications (penicillin allergy); side effects (mild, transient diarrhea, indigestion); pregnancy/lactation (consult a physician); interactions (anticoagulants, other antibiotics); renal impairment precautions; and storage guidance (general). Pricing: 110 EGP per pack; 55 EGP per strip.[^5]
+
+NSAIDs: Sapofen 400 mg (20 tablets). The page provides robust detail: ibuprofen 400 mg; cyclooxygenase inhibition (COX-1 & COX-2) mechanism; indications (fever, headaches/migraines, muscle pain, arthritis, cold/flu aches, menstrual pain, dental pain, bone pain, lower back pain); dosing (1–2 tablets up to three times daily; max 6 tablets/day; not >10 days); administration (after food; avoid stomach irritation); contraindications (hypersensitivity, post-heart surgeries, peptic ulcers, severe hypertension, lupus, pregnancy); precautions (elderly, breastfeeding); side effects (common: GI upset, heartburn, nausea/vomiting, gas, diarrhea/constipation, headache, dizziness; rare/serious: ulcers, allergic reactions, cardiovascular events, bleeding/bruising, hypertension, anemia, severe skin reactions, vision changes, liver/kidney damage); safety note (no drowsiness). Manufacturer: SPIMACO. Price: 10 SAR. Alternatives listed.[^6]
+
+NSAIDs: Nurofen children’s syrup (strawberry, 150 ml). The page specifies ibuprofen (NSAID), with analgesic/antipyretic/anti-inflammatory properties; indications (pain, inflammation, fever in adults and children, colds/flu, toothache, headache, menstrual pain, joint/muscle inflammation); dosing (5–15 ml up to three times daily; dose tailored to weight/age; temporary use only; not for long-term); formulation features (pleasant strawberry flavor; also available orange). Pricing: 17.15 SAR (with alternative 15.3 SAR noted). Market: Saudi Arabia.[^8]
+
+Diabetes: Victoza (liraglutide 6 mg/ml; 2 pens × 3 ml). The page provides comprehensive content: GLP-1 agonist mechanism; indications (Type 2 diabetes in adults and children ≥10 years; adjunct to diet/exercise; cardiovascular risk reduction in adults with established CVD; weight loss via appetite regulation and delayed gastric emptying); dosage (once daily; subcutaneous injection; abdomen/thigh/upper arm; rotate sites; do not mix with insulin; do not share pens); side effects (common: nausea, vomiting, diarrhea, appetite loss, constipation; serious: pancreatitis, hypoglycemia especially with insulin, kidney problems, gallbladder issues, severe allergic reactions); contraindications (Type 1 diabetes, hypersensitivity to liraglutide, concomitant liraglutide-containing products, <10 years); safety (rotation, no mixing, no sharing). Pricing: 397 SAR. Comparative notes vs Saxenda (liraglutide; different concentration; ≥12 years), Trulicity (dulaglutide; weekly), Ozempic (semaglutide; weekly).[^9]
+
+Allergy: Telfast 180 mg (20 tablets). The page presents fexofenadine hydrochloride 180 mg tablets, with syrup form 30 mg/5 ml; indications (seasonal allergic rhinitis, urticaria; cold symptoms relief); dosing (adults and children ≥12 years: 180 mg once daily for seasonal allergic rhinitis; 60 mg twice daily as needed for allergic rhinitis; urticaria 180 mg once daily); syrup dosing for infants ≥6 months and children 2–12 years; storage (below 25°C in a dry place); contraindications (hypersensitivity; avoid concomitant antacids containing aluminum/magnesium); food interactions (avoid grapefruit, orange, and apple juices); side effects (headache, drowsiness, dizziness, nausea); safety (insufficient pregnancy data—consult physician; lactation—consult physician; non-cortisone). Price: 160 EGP. Comparative positioning vs cetirizine, loratadine, and dimetindene.[^10]
+
+Laxative: Duphalac (lactulose 3.335 g/5 ml; 200 ml). The page outlines a sugar-based osmotic laxative drawing water into intestines to ease stool passage; indications (constipation; treatment/prevention of hepatic encephalopathy; acute constipation); dosing (adults: 1–2 large spoons, preferably after breakfast; single dose; adjust per response; do not exceed recommended dose; do not double on missed dose); onset (~48 hours); common side effects (nausea, mild vomiting resolving in days); serious (severe diarrhea, electrolyte imbalance); pregnancy (consult a doctor); weight gain (not expected). Price: 143 EGP (with an alternative detailed-section price noted as approximately 87 EGP; to be reconciled during QA).[^11]
+
+These exemplars validate the schema and demonstrate field presence across identification, commercial, clinical, and safety domains. They also establish market-specific pricing anchors for EGP and SAR that are essential for downstream normalization.
+
+## Synthesis and Analysis
+
+Clinical completeness. The extracted products demonstrate uneven completeness by class and by page. Floxamo and Sapofen are exemplary in clinical richness—covering indications, dosing, contraindications, side effects, interactions, and precautions—while Augmentin’s page is comparatively sparse, deferring to a leaflet for full prescribing details. This pattern implies that clinical enrichment will rely on both direct page extraction and targeted leaflet retrieval where permissible.
+
+Dosing and safety profiles. The NSAID evidence highlights consistent core safety guidance: use the lowest effective dose for the shortest duration, take with food to minimize gastrointestinal irritation, and avoid use in specific populations (e.g., post–heart surgery, peptic ulcer disease). Telfast’s non-sedating profile is emphasized, with explicit interactions to avoid (antacids and certain fruit juices). Victoza requires careful injection-site rotation, prohibits pen sharing, and mandates clinical supervision when used for weight loss in non-diabetics. These class-consistent signals should guide default safety flags for products where fields are missing, pending re-crawl or leaflet confirmation.
+
+Pricing anchors and market differences. The evidence set provides EGP and SAR anchors: Augmentin 117 EGP; Floxamo 110 EGP (pack) and 55 EGP (strip); Victoza 397 SAR; Nurofen children 17.15 SAR; Sapofen 400 10 SAR; Telfast 180 160 EGP; Duphalac 143 EGP. Market differences (e.g., Saudi syrup pricing vs Egyptian tablet pricing) necessitate currency tagging and market-aware comparators. In QA, pricing anomalies (e.g., Duphalac alternative price in the detailed section) must be reconciled with source preference rules.
+
+Category mapping. Controlled vocabulary mapping is robust for antibiotics (penicillin combinations), NSAIDs, GLP-1 agonists, and osmotic laxatives. Subcategory hints are useful where brand pages are sparse (e.g., allergy class corroborated by Telfast). The mapping pipeline should default to class-level labels (e.g., “Antibiotic (Penicillin combination)”) to support analytics and clinical grouping.
+
+![Reference listing pattern for category-to-field cross-check](/workspace/docs/chefaa_homepage/chefaa_medications_listing.png)
+
+Using the listing pattern above for cross-checks reduces misclassification risk and supports consistent taxonomy application—especially where detail pages vary in clinical richness.[^2]
+
+Table 3 below summarizes clinical completeness across the evidence set, informing re-crawl priorities and default-inference strategies.
+
+Table 3. Clinical Completeness Matrix (selected fields)
+
+| Product | Indications | Dosing | Contraindications | Side Effects | Interactions | Storage | Pregnancy/Lactation |
+|---|---|---|---|---|---|---|---|
+| Augmentin 625 mg | Partial | Partial | Limited | Limited | Limited | Not stated | Not stated |
+| Floxamo 1 g | Yes | Yes | Yes | Yes | Yes | General | Consult physician |
+| Sapofen 400 | Yes | Yes | Yes | Yes | N/A explicit | Not stated | Precautions stated |
+| Nurofen Syrup | Yes | Yes (children-focused) | Not explicit | Not explicit | Not explicit | Not stated | Temporary use only |
+| Victoza | Yes | Yes | Yes | Yes | Caution (with insulin) | N/A | Caution |
+| Telfast 180 | Yes | Yes | Yes | Yes | Yes (antacids/juices) | Yes (<25°C) | Consult physician |
+| Duphalac | Yes | Yes (adult dosing) | Not explicit | Yes | Not explicit | Not stated | Consult physician |
+
+Partial indicates that the page defers to a leaflet or provides high-level guidance without comprehensive detail.
+
+Table 4 presents a market-based price comparison to anchor currency normalization and highlight cross-market comparators.
+
+Table 4. Price Comparison by Market (EGP vs SAR)
+
+| Product | Strength/Pack | Price | Currency | Notes |
+|---|---|---:|---|---|
+| Augmentin | 625 mg; 10 tablets | 117 | EGP | Page-basic |
+| Floxamo | 1 g; 16 tablets | 110 | EGP | Pack price |
+| Floxamo | 1 g; strip | 55 | EGP | Strip price |
+| Victoza | 6 mg/ml; 2 pens × 3 ml | 397 | SAR | Comprehensive |
+| Nurofen Syrup | 150 ml | 17.15 | SAR | Alternative 15.3 noted |
+| Sapofen 400 | 400 mg; 20 tablets | 10 | SAR | Manufacturer SPIMACO |
+| Telfast 180 | 180 mg; 20 tablets | 160 | EGP | Non-sedating antihistamine |
+| Duphalac | 3.335 g/5 ml; 200 ml | 143 | EGP | Alternative ~87 EGP (to reconcile) |
+
+These anchors are carried forward into QA checks for price normalization, currency tagging, and anomaly detection.
+
+## Execution Plan to Reach 880 Products
+
+Given strict step constraints and the need to scale efficiently, the plan prioritizes batch URL discovery, robust extraction, and parallelized workflows:
+
+- Batch URL discovery. Use category- and class-based queries to harvest candidate product URLs at scale across antibiotics, cardiovascular (antihypertensives, anticoagulants), diabetes (oral agents, GLP-1 RAs), respiratory (montelukast), allergy (second-generation antihistamines), GI (PPIs, antacids, laxatives), and pain (NSAIDs, paracetamol).
+- Extraction design. Prioritize fields in this order: identification → commercial → clinical → safety → regulatory. Where pages defer to leaflets, capture minimal viable records and schedule re-crawls for high-importance classes.
+- Re-crawl windows. Focus on antibiotic detail richness (e.g., Augmentin), anticoagulants (e.g., Brilique), antihypertensives (e.g., Blokatens), and antihistamine standardization (Telfast/Fastel). Validate constructed URLs before insertion.
+- Operational resilience. Use concurrency where safe, exponential backoff for retries, and strict logs for failed links. Maintain provenance (source_file, source_page, product_link) for auditability.
+
+Table 5 below enumerates representative priority targets by category.
+
+Table 5. Priority Target List by Category (representative examples)
+
+| Category | Product | Market | Source Ref | Rationale |
+|---|---|---|---|---|
+| Antibiotic | Augmentin 625 mg | Egypt | [^4] | Baseline antibiotic; page-basic—re-crawl for leaflet |
+| Antibiotic | Floxamo 1 g | Egypt | [^5] | Rich clinical exemplar |
+| Antihistamine | Telfast 180 mg | Egypt | [^10] | Standardize class mapping |
+| NSAID | Sapofen 400 | Saudi | [^6] | Robust safety/dosing |
+| NSAID | Nurofen Syrup (children) | Saudi | [^8] | Pediatric dosing anchor |
+| Diabetes (GLP-1) | Victoza | Saudi | [^9] | Comprehensive clinical content |
+| Laxative | Duphalac | Egypt | [^11] | GI anchor; reconcile price anomaly |
+| Antihypertensive | Blokatens | Egypt | [^12] | Combination therapy exemplar |
+| Anticoagulant | Brilique | Egypt | [^13] | Critical class; rich interactions |
+| Antihistamine (alt) | Fastel 180 | Egypt | [^14] | Competitive comparator to Telfast |
+
+### Operational Efficiency Measures
+
+- Batch searches by therapeutic class, concurrent extractions, and tight retry policies to maximize throughput.
+- Rapid discrepancy resolution (e.g., missing clinical fields) via targeted re-crawls and subcategory cross-checks.
+- Logging of failed URLs with classification (client error, server error, content sparse) and scheduled retries.
+
+These measures, combined with strict provenance tracking, ensure progress even under constrained execution steps.
+
+## Data Quality, Validation, and Acceptance Criteria
+
+A multi-stage QA pipeline is applied:
+
+- Deduplication. Composite key: normalized product_name + strength + pack_size + brand_name. Merge diacritics/spacing variants; retain aliases.
+- Category normalization. Controlled vocabulary mapped; subcategory used as tie-breaker.
+- Prescription flag. Defaults by class: antibiotics, antihypertensives (especially combinations), anticoagulants, GLP-1 agonists → likely prescription; antihistamines, antacids, simple laxatives → likely OTC; flag exceptions for clinical review.
+- Acceptance tests. Schema compliance, anchor verification (product 1401), URL validity (sample), price format normalization, controlled vocabulary mapping, and duplicate scan.
+
+Table 6 codifies these rules for production.
+
+Table 6. Validation Rules Matrix
+
+| Rule | Type | Action | Example |
+|---|---|---|---|
+| Name canonicalization | Normalization | Strip diacritics, collapse whitespace | “اوجمنتين” → “اوجمنتين” |
+| Strength normalization | Normalization | Enforce “X mg,” “X mcg,” “X%” | “625جم” → “625 mg” |
+| Pack size parsing | Normalization | “N units” | “10 قرص” → “10 tablets” |
+| Duplicate detection | QC | Merge duplicates; retain aliases | Same brand + strength + pack size |
+| Category mapping | QC | Map to controlled vocabulary | “Antibiotic (Penicillin combination)” |
+| Prescription inference | QC | Set boolean; flag exceptions | Victoza → true |
+| Price parsing | QC | Numeric; currency tag | “117” EGP → 117 EGP |
+
+![QA visual check: product page structure confirmation](/workspace/research_output/screenshots/chefaa_doliprane_product_page.png)
+
+This visual check confirms field presence and layout alignment on detail pages, supporting both extraction heuristics and acceptance tests.[^7]
+
+### Auditability and Provenance
+
+Each record preserves source_file, source_page, product_link, and extraction_timestamp. Exception logs capture failed links, missing fields, and anomalies (e.g., price conflicts). An audit trail supports reproducibility and clinical review.
+
+## Output Specification and Delivery
+
+The final dataset is serialized to data/overviews/medications_final/medications_overview_final.json. The JSON includes a metadata block and a deduplicated, normalized products array for 1401+, sorted by product_id. Integrity checksums are computed for delivery assurance.
+
+Table 7. Output JSON Metadata Schema
+
+| Field | Type | Example | Required |
+|---|---|---|---|
+| schema_version | String | “1.0.0” | Yes |
+| source_catalog | String | “Chefaa Medications Category” | Yes |
+| extraction_date | ISO-8601 | “2025-11-01T13:37:23Z” | Yes |
+| total_products | Integer | 2280 | Yes |
+| products_1401_plus_count | Integer | 880 | Yes |
+| page_range_processed | String | “1–134” | Yes |
+| missing_pages | Array[Integer] | [5,6,7,68] | Yes |
+| zero_result_pages | Array[String] | [“55–61”, “73–83”] | Yes |
+| deduplication_policy | String | “Normalized name + strength + pack_size + brand” | Yes |
+| category_taxonomy_version | String | “v2025.11” | Yes |
+| notes | String | “Final run after QC pass” | No |
+
+### Production Write Plan
+
+- Construct canonical list from page files; deduplicate/normalize per rules; slice 1401+; sort by product_id.
+- Serialize to target JSON with metadata.
+- Compute and record checksums; maintain a change log with counts, rule versions, and exceptions.
+
+## Risk Register and Mitigation Strategies
+
+Table 8. Risk Register
+
+| Risk | Impact | Likelihood | Mitigation | Owner |
+|---|---|---|---|---|
+| Missing pages (5,6,7,68) | Coverage gaps | Medium | Gap flagging; alternate link sources; annotate metadata | Data engineering |
+| Zero-result pages | Incomplete sequences | Medium | Re-run windows; accept reproducible counts | Data engineering |
+| Constructed URL validation | Retrieval failure | Medium | Slug harvesting; multi-locale check; listing corroboration | Data engineering |
+| Dynamic content errors | Fetch failures | Medium | Retries/backoff; concurrency caps | Data engineering |
+| Partial clinical fields | Sparse safety/indications | High | Staged enrichment; leaflet references; class defaults | Clinical editor |
+| Price anomalies | Analytical noise | Medium | Source preference rules; currency tagging; QA flags | Data curation |
+| Language/transliteration variants | Mismatched merges | High | Normalization pipeline; alias lists; manual review | Data curation |
+
+These mitigations prioritize throughput and clinical fidelity while acknowledging the operational realities of dynamic, multilingual product pages.[^2][^3]
+
+## Information Gaps
+
+- Active ingredient is not explicitly stated on the Aerius product page; only dosage strength and uses are visible.[^17]
+- Nepvol and Aerius omit contraindications, side effects, and storage conditions—requiring re-crawl or fallback to subcategory hints.[^15][^17]
+- Constructed product_detail_link values require validation; they must be verified against live listings or discovered slugs.[^2]
+- Subcategory overlaps with page-based products are likely; deduplication policies must be confirmed during production runs.[^2]
+- Final deduplication and brand normalization rules need codification before serialization.
+- Sequence mapping to strict sequential IDs (1…2280) requires confirmation during assembly; current rules are robust but must be validated.[^2]
+- Cross-market pricing (EGP vs SAR) needs normalization and currency tagging; evidence provides anchors but not a universal standard.[^4][^5][^6][^8][^9][^10][^11]
+
+## Appendices: Evidence and Media
+
+Media references are integrated throughout the report to evidence source structure, listing patterns, and product detail field presence—critical for schema alignment and validation.
+
+![Category Landing Confirmation](/workspace/docs/chefaa_homepage/chefaa_medications_category.png)
+
+![Listing Pattern Reference](/workspace/docs/chefaa_homepage/chefaa_medications_listing.png)
+
+![Detail Page Field Pattern](/workspace/research_output/screenshots/chefaa_doliprane_product_page.png)
+
+These visuals substantiate traversal planning and field mapping decisions and will continue to be used for QA checks in subsequent phases.
+
+## References
+
+[^1]: Chefaa Homepage (EN). https://chefaa.com  
+[^2]: Chefaa Medications Category (AR). https://chefaa.com/eg-ar/now/category/medications  
+[^3]: Chefaa Medications Category Pagination Example: Page 2. https://chefaa.com/eg-ar/now/category/medications/page/2  
+[^4]: Chefaa Product Page: Augmentin 625 mg (10 tablets). https://chefaa.com/eg-ar/nowProduct/augmentin-antibiotic-625mg-10tab-x5fp  
+[^5]: Chefaa Product Page: Floxamo 1 g (16 tablets). https://chefaa.com/eg-ar/nowProduct/floxamo-antibiotic-1g-16tab-udwg  
+[^6]: Chefaa Product Page: Sapofen 400 mg (20 tablets). https://chefaa.com/sa-ar/nowProduct/sapofen-400mg-20tab  
+[^7]: Chefaa Product Page: Doliprane 1000 mg (Novaldol). https://chefaa.com/eg-ar/nowProduct/novaldol-analgesic-and-pain-killer-1000-mg-15-tablets_duYpVP2r_duzDVQep  
+[^8]: Chefaa Product Page: Nurofen Children’s Syrup (Strawberry, 150 ml). https://chefaa.com/sa-ar/nowProduct/nurofen-syrup-strowberry-150ml  
+[^9]: Chefaa Product Page: Victoza (liraglutide, 6 mg/ml, 2 pens × 3 ml). https://chefaa.com/sa-ar/nowProduct/victoza-6mg-ml-2-penfill-3ml  
+[^10]: Chefaa Product Page: Telfast 180 mg (20 tablets). https://chefaa.com/eg-ar/nowProduct/telfast-antihistamine-allergy-tablets-180-mg-20-tablets  
+[^11]: Chefaa Product Page: Duphalac Syrup (200 ml). https://chefaa.com/eg-ar/nowProduct/duphalac-syrup  
+[^12]: Chefaa Product Page: Blokatens 5/80 mg (28 tablets). https://chefaa.com/eg-ar/nowProduct/blokatens-high-blood-pressure-580mg-28tab-alua  
+[^13]: Chefaa Product Page: Brilique 90 mg (56 tablets). https://chefaa.com/eg-ar/nowProduct/brilique-to-prevent-clots-90mg-56tab-nlwj  
+[^14]: Chefaa Product Page: Fastel 180 mg (20 tablets). https://chefaa.com/eg-ar/nowProduct/fastel-180mg-20tab-gvw1  
+[^15]: Chefaa Product Page: Nepvol 5 mg (30 tablets). https://chefaa.com/eg-ar/nowProduct/nepvol-5-mg-30-tabs-jdsf  
+[^16]: Chefaa Product Page: Deconadal 20 mg (21 tablets). https://chefaa.com/nowProduct/deconadal-20-mg-21-tablets-zmlh  
+[^17]: Chefaa Product Page: Aerius 5 mg (30 tablets). https://chefaa.com/eg-ar/nowProduct/aerius-5mg-30-tab

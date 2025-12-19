@@ -1,0 +1,24 @@
+📄 Extracted from page: أدوية الأطفال - شفاء
+URL: https://chefaa.com/eg-ar/now/category/medications/kids-infant-medications?page=3
+
+Extracted content:
+```json
+{
+    "title": "أدوية الأطفال - شفاء",
+    "url": "https://chefaa.com/eg-ar/now/category/medications/kids-infant-medications?page=3",
+    "summary": "Page 3 of the 'Kids & Infant Medications' category on Chefaa.com does not display any products. Instead, it shows a 'No results' message, indicating that there are no items available on this specific page or that the page parameter is not yielding results. The pagination visible only offers a link to page 1.",
+    "key_points": [
+        "The page URL explicitly requests 'page=3'.",
+        "The content clearly states 'لا توجد نتائج ل undefined' (No results for undefined) and 'لا توجد نتائج' (No results).",
+        "No products or medication listings are present on the page.",
+        "The pagination control only shows a link for '[1]' (page 1), suggesting that subsequent pages might be empty or non-existent in terms of product listings.",
+        "The page does not redirect to a different URL but rather displays an empty result set for the requested page number."
+    ],
+    "relevant_links": [
+        "https://chefaa.com/eg-ar/now/category/medications/kids-infant-medications?products_eg%5Bpage%5D=1",
+        "https://chefaa.com:443/eg-ar/now/order-medicine-online-prescription",
+        "https://chefaa.com:443/eg-ar/contact-us"
+    ],
+    "file_name": "chefaa_kids_meds_page3_check.json"
+}
+```

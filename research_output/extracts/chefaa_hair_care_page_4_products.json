@@ -1,0 +1,255 @@
+📄 Extracted from page: العناية بالشعر - شفاء
+URL: https://chefaa.com/eg-ar/now/category/hair-care?page=4
+
+Extracted content:
+```json
+{
+  "title": "العناية بالشعر - شفاء",
+  "url": "https://chefaa.com/eg-ar/now/category/hair-care?page=4",
+  "summary": "This page, URL `https://chefaa.com/eg-ar/now/category/hair-care?page=4`, displays a listing of hair care products on page 4 of the 'Hair Care' category on the Chefaa.com platform. It features 20 distinct hair care products, including creams, sprays, shampoos, conditioners, hair masks, and even a lice treatment. Each product is listed with its Arabic name, a price in EGP, and an 'Add to Cart' button, indicating availability. The pagination shows that there are a total of 51 pages in this category.",
+  "key_points": [
+    "The page is for the 'Hair Care' category, specifically page 4, despite the extraction goal mentioning 'skin care category, page 2'.",
+    "A total of 20 hair care products are visible on this page.",
+    "Products include various types such as hair creams, sprays, shampoos, conditioners, hair masks, and a lice treatment.",
+    "All visible products appear to be available for purchase, indicated by an 'Add to Cart' button.",
+    "Prices are listed in Egyptian Pounds (EGP).",
+    "The pagination indicates a total of 51 pages within the 'Hair Care' category."
+  ],
+  "products": [
+    {
+      "product_name_arabic": "فيفيدول | كريم للشعر لتنشيطه وتحسين صحته | 100جم",
+      "product_name_english": "Vividol | Hair cream to revitalize and improve its health | 100gm",
+      "price_egp": 170,
+      "brand_name": "فيفيدول",
+      "product_type_category": "كريم للشعر",
+      "size_volume": "100جم",
+      "ratings": "Not visible",
+      "availability_status": "In Stock",
+      "description_key_features": "كريم للشعر لتنشيطه وتحسين صحته"
+    },
+    {
+      "product_name_arabic": "كابيكسي | كريم للشعر | 120مل",
+      "product_name_english": "Capixy | Hair cream | 120ml",
+      "price_egp": 275,
+      "brand_name": "كابيكسي",
+      "product_type_category": "كريم للشعر",
+      "size_volume": "120مل",
+      "ratings": "Not visible",
+      "availability_status": "In Stock",
+      "description_key_features": "كريم للشعر"
+    },
+    {
+      "product_name_arabic": "سترونج فيل سبراي بخاخ لتساقط الشعر من الصيدلية | 220 مل",
+      "product_name_english": "Strong Ville Spray for Hair Loss from the Pharmacy | 220 ml",
+      "price_egp": 185,
+      "brand_name": "سترونج فيل",
+      "product_type_category": "سبراي بخاخ لتساقط الشعر",
+      "size_volume": "220 مل",
+      "ratings": "Not visible",
+      "availability_status": "In Stock",
+      "description_key_features": "سبراي بخاخ لتساقط الشعر"
+    },
+    {
+      "product_name_arabic": "إنليفن | بخاخ الشعر بتقنية التثبيت الفائق | 300مل",
+      "product_name_english": "Enliven | Ultra Hold Hair Spray | 300ml",
+      "price_egp": 300,
+      "brand_name": "إنليفن",
+      "product_type_category": "بخاخ الشعر",
+      "size_volume": "300مل",
+      "ratings": "Not visible",
+      "availability_status": "In Stock",
+      "description_key_features": "بخاخ شعر بتقنية التثبيت الفائق"
+    },
+    {
+      "product_name_arabic": "إيڤا هونى هير كريم | كريم شعر بالعسل | 45جم",
+      "product_name_english": "Eva Honey Hair Cream | Hair cream with honey | 45gm",
+      "price_egp": 45,
+      "brand_name": "إيڤا",
+      "product_type_category": "كريم شعر",
+      "size_volume": "45جم",
+      "ratings": "Not visible",
+      "availability_status": "In Stock",
+      "description_key_features": "كريم شعر بالعسل"
+    },
+    {
+      "product_name_arabic": "فاتيكا | كريم الشعر بالزيتون | 190مل",
+      "product_name_english": "Vatika | Hair Cream with Olive | 190ml",
+      "price_egp": 75,
+      "brand_name": "فاتيكا",
+      "product_type_category": "كريم الشعر",
+      "size_volume": "190مل",
+      "ratings": "Not visible",
+      "availability_status": "In Stock",
+      "description_key_features": "كريم الشعر بالزيتون"
+    },
+    {
+      "product_name_arabic": "دوف | شامبو ضد تساقط الشعر | 200مل",
+      "product_name_english": "Dove | Anti-Hair Fall Shampoo | 200ml",
+      "price_egp": 80,
+      "brand_name": "دوف",
+      "product_type_category": "شامبو",
+      "size_volume": "200مل",
+      "ratings": "Not visible",
+      "availability_status": "In Stock",
+      "description_key_features": "شامبو ضد تساقط الشعر"
+    },
+    {
+      "product_name_arabic": "لونا | ماء اكسجين حجم 10 | 80مل",
+      "product_name_english": "Luna | Hydrogen Peroxide Volume 10 | 80ml",
+      "price_egp": 17,
+      "brand_name": "لونا",
+      "product_type_category": "ماء اكسجين",
+      "size_volume": "80مل",
+      "ratings": "Not visible",
+      "availability_status": "In Stock",
+      "description_key_features": "ماء اكسجين حجم 10"
+    },
+    {
+      "product_name_arabic": "غارنييه | صبغة شعر كولور ناتشرالز كريم | 1 أسود",
+      "product_name_english": "Garnier | Color Naturals Creme Hair Color | 1 Black",
+      "price_egp": 146,
+      "brand_name": "غارنييه",
+      "product_type_category": "صبغة شعر",
+      "size_volume": "Not specified (Color 1 Black)",
+      "ratings": "Not visible",
+      "availability_status": "In Stock",
+      "description_key_features": "صبغة شعر كولور ناتشرالز كريم، لون أسود"
+    },
+    {
+      "product_name_arabic": "جاستن بلو | شامبو لصحة وكثافة الشعر ومضاد للقشرة | 80مل",
+      "product_name_english": "Justin Blue | Shampoo for Hair Health and Density and Anti-Dandruff | 80ml",
+      "price_egp": 195,
+      "brand_name": "جاستن بلو",
+      "product_type_category": "شامبو",
+      "size_volume": "80مل",
+      "ratings": "Not visible",
+      "availability_status": "In Stock",
+      "description_key_features": "شامبو لصحة وكثافة الشعر ومضاد للقشرة"
+    },
+    {
+      "product_name_arabic": "بلسم بوبانا بجوز الهند للشعر الجاف والهايش | 400 مل",
+      "product_name_english": "Bobana Conditioner with Coconut for Dry and Frizzy Hair | 400 ml",
+      "price_egp": 120,
+      "brand_name": "بوبانا",
+      "product_type_category": "بلسم",
+      "size_volume": "400 مل",
+      "ratings": "Not visible",
+      "availability_status": "In Stock",
+      "description_key_features": "بلسم بجوز الهند للشعر الجاف والهايش"
+    },
+    {
+      "product_name_arabic": "شامبو كلاري clary shampoo للشعر الجاف والتالف | 300 مل",
+      "product_name_english": "Clary Shampoo for Dry and Damaged Hair | 300 ml",
+      "price_egp": 300,
+      "brand_name": "كلاري",
+      "product_type_category": "شامبو",
+      "size_volume": "300 مل",
+      "ratings": "Not visible",
+      "availability_status": "In Stock",
+      "description_key_features": "شامبو للشعر الجاف والتالف"
+    },
+    {
+      "product_name_arabic": "فاتيكا | ماسك وكريم معالج للشعر بالثوم ناتشورالز | 1كجم",
+      "product_name_english": "Vatika | Hair Treatment Mask and Cream with Garlic Naturals | 1kg",
+      "price_egp": 135,
+      "brand_name": "فاتيكا",
+      "product_type_category": "ماسك وكريم معالج للشعر",
+      "size_volume": "1كجم",
+      "ratings": "Not visible",
+      "availability_status": "In Stock",
+      "description_key_features": "ماسك وكريم معالج للشعر بالثوم ناتشورالز"
+    },
+    {
+      "product_name_arabic": "فيشي | شامبو ديركوس المضاد للقشرة للشعر العادي الى الدهني |...",
+      "product_name_english": "Vichy | Dercos Anti-Dandruff Shampoo for Normal to Oily Hair | 200ml",
+      "price_egp": 720,
+      "brand_name": "فيشي",
+      "product_type_category": "شامبو",
+      "size_volume": "200مل",
+      "ratings": "Not visible",
+      "availability_status": "In Stock",
+      "description_key_features": "شامبو ديركوس المضاد للقشرة للشعر العادي الى الدهني"
+    },
+    {
+      "product_name_arabic": "فاتيكا | كريم تصفيف الشعر فائق الترطيب باللوز | 190مل + 10%...",
+      "product_name_english": "Vatika | Ultra Moisturizing Hair Styling Cream with Almond | 190ml + 10%...",
+      "price_egp": 75,
+      "brand_name": "فاتيكا",
+      "product_type_category": "كريم تصفيف الشعر",
+      "size_volume": "190مل",
+      "ratings": "Not visible",
+      "availability_status": "In Stock",
+      "description_key_features": "كريم تصفيف الشعر فائق الترطيب باللوز"
+    },
+    {
+      "product_name_arabic": "لوريال | الفيف شامبو جليكوليك جلوس للشعر الباهت | 400مل",
+      "product_name_english": "L'Oreal | Elvive Glycolic Gloss Shampoo for Dull Hair | 400ml",
+      "price_egp": 200,
+      "brand_name": "لوريال",
+      "product_type_category": "شامبو",
+      "size_volume": "400مل",
+      "ratings": "Not visible",
+      "availability_status": "In Stock",
+      "description_key_features": "اليف شامبو جليكوليك جلوس للشعر الباهت"
+    },
+    {
+      "product_name_arabic": "كبسولات هير تونيك للشعر لتطويله وتكثيفه hairtonic | ٦٠ كبسوله",
+      "product_name_english": "Hairtonic Capsules for Hair Lengthening and Thickening | 60 Capsules",
+      "price_egp": 190,
+      "brand_name": "هير تونيك",
+      "product_type_category": "كبسولات (مكمل غذائي/دواء)",
+      "size_volume": "60 كبسوله",
+      "ratings": "Not visible",
+      "availability_status": "In Stock",
+      "description_key_features": "كبسولات لتطويله وتكثيف الشعر"
+    },
+    {
+      "product_name_arabic": "سيروبايب بلسم طبي للشعر الجاف والتالف | 200 جم",
+      "product_name_english": "Seropipe Medical Conditioner for Dry and Damaged Hair | 200gm",
+      "price_egp": 215,
+      "brand_name": "سيروبايب",
+      "product_type_category": "بلسم طبي",
+      "size_volume": "200 جم",
+      "ratings": "Not visible",
+      "availability_status": "In Stock",
+      "description_key_features": "بلسم طبي للشعر الجاف والتالف"
+    },
+    {
+      "product_name_arabic": "سيروبايب هير ماسك لترطيب الشعر seropipe hair mask | ٣٠٠ مل",
+      "product_name_english": "Seropipe Hair Mask for Hair Moisturizing | 300 ml",
+      "price_egp": 285,
+      "brand_name": "سيروبايب",
+      "product_type_category": "هير ماسك",
+      "size_volume": "300 مل",
+      "ratings": "Not visible",
+      "availability_status": "In Stock",
+      "description_key_features": "هير ماسك لترطيب الشعر"
+    },
+    {
+      "product_name_arabic": "دواء نيتوليك للقمل وحشرات الرأس للاطفال | nitolic kit",
+      "product_name_english": "Nitolic Medicine for Lice and Head Insects for Children | Nitolic Kit",
+      "price_egp": 460,
+      "brand_name": "نيتوليك",
+      "product_type_category": "دواء للقمل",
+      "size_volume": "50مل",
+      "ratings": "Not visible",
+      "availability_status": "In Stock",
+      "description_key_features": "دواء للقمل وحشرات الرأس للاطفال"
+    }
+  ],
+  "pagination_details": {
+    "current_page": 4,
+    "total_pages": 51,
+    "products_on_page": 20,
+    "pages_visible_in_nav": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, "...", 50, 51]
+  },
+  "relevant_links": [
+    "https://chefaa.com:443/eg-ar/now/category/hair-care?products_eg%5Bpage%5D=1",
+    "https://chefaa.com:443/eg-ar/now/category/hair-care?page=3",
+    "https://chefaa.com:443/eg-ar/now/category/hair-care?page=5",
+    "https://chefaa.com:443/eg-ar/now/category/hair-care?page=51"
+  ],
+  "file_name": "chefaa_hair_care_page_4_products.json",
+  "note": "The extraction goal specified 'Skin Care category, page 2', but the provided URL is for 'Hair Care category, page 4'. The extraction was performed based on the actual content of the provided URL (Hair Care, page 4)."
+}
+```

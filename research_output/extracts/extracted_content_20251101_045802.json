@@ -1,0 +1,122 @@
+📄 Extracted from page: شفاء لطلب كل احتياجاتك من الصيدلية أونلاين
+URL: https://chefaa.com/eg-ar
+
+Extracted content:
+```json
+{
+  "title": "شفاء لطلب كل احتياجاتك من الصيدلية أونلاين",
+  "url": "https://chefaa.com/eg-ar",
+  "summary": "This page is the home page for Chefaa, an online pharmacy in Egypt. It offers a wide array of pharmaceutical products and personal care items for online ordering and delivery, categorized into sections like medications, hair care, skin care, mother & baby products, and more. The page highlights deals, popular brands, and customer feedback.",
+  "key_points": [
+    "Online pharmacy service in Egypt offering a broad range of health and beauty products.",
+    "Categorized product listings including a dedicated 'Hair Care' section.",
+    "Features deals, top brands, and customer testimonials.",
+    "Provides immediate and super saver delivery options.",
+    "Available via mobile application for iOS, Android, and Huawei AppGallery."
+  ],
+  "relevant_links": [
+    "https://chefaa.com:443/eg-ar/now/category/hair-care",
+    "https://chefaa.com:443/eg-ar/now/category/medications",
+    "https://chefaa.com:443/eg-ar/now/category/skin-care",
+    "https://chefaa.com:443/eg-ar/now/category/daily-essentials",
+    "https://chefaa.com:443/eg-ar/now/category/mom-baby",
+    "https://chefaa.com:443/eg-ar/now/brands",
+    "https://apps.apple.com/eg/app/chefaa-medicine-delivery/id1438961456",
+    "https://play.google.com/store/apps/details?id=app.com.chefaa&hl=ar"
+  ],
+  "hair_care_products": [
+    {
+      "product_name": "بوستر شوت",
+      "brand_name": "كلاري",
+      "price_egp": 450,
+      "volume_size": "30مل",
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/clary-booster-shot-for-hair-loss-30ml-0pim_dutDyizZ"
+    },
+    {
+      "product_name": "حمام كريم مرطب للشعر بزيت المنيك",
+      "brand_name": "دابر فاتيكا",
+      "price_egp": 45,
+      "volume_size": "250جم",
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/dabur-vatika-conditioning-hammam-cream-with-mink-oil-250gm-klex"
+    },
+    {
+      "product_name": "مقشر لتنظيف فروة الرآس وتقليل تساقط الشعر بالبروكابيل والماتشا",
+      "brand_name": "كلاري",
+      "price_egp": 370,
+      "volume_size": "300مل",
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/clary-hair-fall-control-fresh-scalp-with-procapil-matcha-300ml-xmsb_dugdFtIw"
+    },
+    {
+      "product_name": "ليف ان للشعر المتساقط والجاف والكيرلى",
+      "brand_name": "سيروبايب",
+      "price_egp": 250,
+      "volume_size": "200 مل",
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/seropipe-leave-in-conditioner-200ml-ygq1_duAQGTIF"
+    },
+    {
+      "product_name": "اوبتيموم كير ريسبي سترينث بوستر بلند شامبو برائحة الموكا",
+      "brand_name": "إيفا",
+      "price_egp": 125,
+      "volume_size": "350مل",
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/eva-optimum-care-recipe-strength-booster-blend-conditioner-mocha-scent-350ml-gxfw_du0sg14E_du05TqIG"
+    },
+    {
+      "product_name": "شامبو للجنسين بزيت المكاديميا",
+      "brand_name": "جى.دو",
+      "price_egp": 245,
+      "volume_size": "400مل",
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/gdoux-shampoo-with-macadamia-oil-400ml-ne2o_duQHp84w"
+    },
+    {
+      "product_name": "شامبو بالكيراتين ناعم ومستقيم + بلسم كيراتين متعدد الألوان",
+      "brand_name": "تريسمي",
+      "price_egp": 380,
+      "volume_size": "400مل + 400مل",
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/tresemm%C3%A9-shampoo-keratin-smooth-straight-400ml-conditioner-keratin-multicolour-400ml-ywk6"
+    },
+    {
+      "product_name": "بلسم بزيت الأفوكادو للشعر المجعد و المتقصف",
+      "brand_name": "جي دو",
+      "price_egp": 246,
+      "volume_size": "400مل",
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/668kj4b-g-doux-balsam-400-ml_du7PKIOo_duO1T1Ra"
+    },
+    {
+      "product_name": "حمام كريم ماسك لتطويل وتقوية الشعر",
+      "brand_name": "تريشوب",
+      "price_egp": 168,
+      "volume_size": "450مل",
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/trichup-healthy-long-and-strong-hot-oil-treatment-hair-mask-500ml-bg2s"
+    },
+    {
+      "product_name": "مايا ليف ان وكرلي انهانسر",
+      "brand_name": "رو افريكان",
+      "price_egp": 282,
+      "volume_size": "250جم",
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/raw-african-maya-curl-enhancer-250gm_dua8fndu"
+    },
+    {
+      "product_name": "سيرم لترطيب الشعر الجاف",
+      "brand_name": "لوريال الفيف",
+      "price_egp": 460,
+      "volume_size": "150مل",
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/loreal-elvive-hyaluron-moisture-plump-serum-150ml-imjd"
+    },
+    {
+      "product_name": "ماسك للشعر",
+      "brand_name": "كلاري",
+      "price_egp": 360,
+      "volume_size": "300مل",
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/clary-hair-mask-300ml-ivfe"
+    },
+    {
+      "product_name": "علاج الشعر بالنخاع",
+      "brand_name": "بيوبوينت",
+      "price_egp": 20,
+      "volume_size": "50 جرام",
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/biopint-sachet-marrow-treatment-50ml-ebig"
+    },
+    {
+      "product_name": "تريكو اكت هير ماسك",
+      "brand_name": "ديرما اكتيف",
+      "price_eg

@@ -1,0 +1,27 @@
+📄 Extracted from page: أدوية الأطفال - شفاء
+URL: https://chefaa.com/eg-ar/now/category/medications/kids-infant-medications?page=1
+
+Extracted content:
+```json
+{
+  "title": "أدوية الأطفال - شفاء",
+  "url": "https://chefaa.com/eg-ar/now/category/medications/kids-infant-medications?page=1",
+  "summary": "This page is dedicated to 'Kids' Medications' (أدوية الأطفال) on the Chefaa.com website. It lists various pharmaceutical and health products specifically for children, such as nasal sprays, oral drops, vitamins, and fever-reducing gels. Despite the extraction goal being for hair care products, this page does not contain any hair care items. The website navigation, however, indicates separate categories for hair care products.",
+  "key_points": [
+    "The page content exclusively displays products categorized under 'Kids' Medications'.",
+    "No hair care products were found on this specific page.",
+    "The products listed are primarily children's health items like Baby Nadif nasal spray, Kalobin oral drops, Limitless Baby D drops, Zyrtec drops, Gripe Water, Kids Appetite vitamin syrup, Sanso Baby water syrup, and Tempo Cool Gel.",
+    "Prices are listed in EGP for each of the children's medication products.",
+    "The website's main navigation clearly separates 'Medications' from 'Hair Care' and other categories."
+  ],
+  "relevant_links": [
+    "https://chefaa.com:443/eg-ar/now/category/hair-care",
+    "https://chefaa.com:443/eg-ar/now/category/hair-care/shampoo-conditioner",
+    "https://chefaa.com:443/eg-ar/now/category/hair-care/nourishment-treatment",
+    "https://chefaa.com:443/eg-ar/now/category/hair-care/hair-styling-devices",
+    "https://chefaa.com:443/eg-ar/now/category/hair-care/hair-coloring"
+  ],
+  "hair_care_products": [],
+  "notes": "The extraction goal was to find hair care products, but this page is specifically for 'Kids' Medications'. Therefore, no hair care products were extracted from this page. The 'relevant_links' section provides URLs to the actual hair care categories on the Chefaa website."
+}
+```

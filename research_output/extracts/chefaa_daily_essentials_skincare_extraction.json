@@ -1,0 +1,244 @@
+📄 Extracted from page: العناية اليومية - شفاء
+URL: https://chefaa.com/eg-ar/now/category/daily-essentials
+
+Extracted content:
+```json
+{
+  "title": "العناية اليومية - شفاء",
+  "url": "https://chefaa.com/eg-ar/now/category/daily-essentials",
+  "summary": "This page on Chefaa.com, titled \"Daily Essentials,\" lists various personal care products available for purchase. While the main category of the page is \"Daily Essentials,\" some of the products listed have direct skin care properties, such as soaps, foot scrubs, and whitening creams. The website's global navigation menu also features a distinct \"Skin Care\" category with its own subcategories. The page provides filtering options by categories, brands, product type, skin type, and price, along with sorting preferences. A general promotion offering up to a 15% discount and free delivery is also advertised.",
+  "key_points": [
+    "The page's primary category is 'Daily Essentials', not 'Skin Care', despite the extraction goal's focus.",
+    "Several products with skin care properties (e.g., specific soaps, scrubs, whitening creams) are listed under 'Daily Essentials'.",
+    "A comprehensive 'Skin Care' category with detailed subcategories is available in the main navigation.",
+    "Products displayed include items from brands like Nivea, Sensodyne, Eva, Durex, and Starville.",
+    "Prices are listed in Egyptian Pounds (جنيه).",
+    "Filtering options cover categories, brands, product types, skin types, sizes, and price ranges.",
+    "Sorting options include 'Available Only', 'Price: High to Low', and 'Price: Low to High'.",
+    "A promotional offer of up to 15% discount plus free delivery for 'Super Saving' orders is visible."
+  ],
+  "relevant_information": {
+    "page_main_category": "العناية اليومية (Daily Essentials)",
+    "skin_care_categories_from_navigation": {
+      "main_category": "العناية بالبشرة (Skin Care)",
+      "subcategories": [
+        "كل العناية بالبشرة (All Skin Care)",
+        "الغسول (Cleansers)",
+        "الترطيب (Moisturizers)",
+        "السيروم (Serum)",
+        "الماسك (Masks)",
+        "الوقاية من الشمس (Sun Care)",
+        "أجهزة البشرة (Skin Tech Tools)",
+        "العناية بالعيون (Eye Care)"
+      ]
+    },
+    "skin_care_products_listed_on_page": [
+      {
+        "product_name": "ايفا | صابونة جليسرين للبشره الجافة والحساسة | 120جم",
+        "brand": "Eva",
+        "price": "45 جنيه",
+        "category": "العناية اليومية",
+        "subcategory": "العناية بالجسم و الاستحمام",
+        "available_options": "120gm"
+      },
+      {
+        "product_name": "مقشر القدمين من ايفا سكين كير - تروبيكال | 60 مل",
+        "brand": "Eva Skin Care",
+        "price": "85 جنيه",
+        "category": "العناية اليومية",
+        "subcategory": "العناية بالجسم و الاستحمام",
+        "available_options": "60ml"
+      },
+      {
+        "product_name": "إيڤا بي وايت | كريم لتفتيح المناطق الحساسة | 50جم",
+        "brand": "Eva B White",
+        "price": "40 جنيه",
+        "category": "العناية اليومية",
+        "subcategory": "العناية النسائية",
+        "available_options": "50gm"
+      },
+      {
+        "product_name": "ديودرنت ستارفيل مزيل عرق للتفتيح برائحة الفانيليا starville...",
+        "brand": "Starville",
+        "price": "130 جنيه",
+        "category": "العناية اليومية",
+        "subcategory": "العناية بالجسم و الاستحمام",
+        "available_options": "60ml"
+      },
+      {
+        "product_name": "ستارفيل | وايتنج رول أون مضاد للتعرق فريش بريز | 60مل",
+        "brand": "Starville",
+        "price": "130 جنيه",
+        "category": "العناية اليومية",
+        "subcategory": "العناية بالجسم و الاستحمام",
+        "available_options": "60ml"
+      }
+    ],
+    "other_daily_essentials_products_listed_on_page": [
+      {
+        "product_name": "نيفيا ستيك مزيل عرق للنساء انفيزيبل أوريجنال للملابس السودا...",
+        "brand": "Nivea",
+        "price": "350 جنيه",
+        "category": "العناية اليومية",
+        "subcategory": "العناية بالجسم و الاستحمام",
+        "available_options": "40ml"
+      },
+      {
+        "product_name": "نيفيا | ستيك مزيل عرق للرجال انفيزيبل أوريجنال للملابس السو...",
+        "brand": "Nivea",
+        "price": "350 جنيه",
+        "category": "العناية اليومية",
+        "subcategory": "العناية بالجسم و الاستحمام",
+        "available_options": "40ml"
+      },
+      {
+        "product_name": "نيفيا | ستيك مزيل عرق للنساء بيرل آند بيوتي خلاصة اللؤلؤ | ...",
+        "brand": "Nivea",
+        "price": "350 جنيه",
+        "category": "العناية اليومية",
+        "subcategory": "العناية بالجسم و الاستحمام",
+        "available_options": "40ml"
+      },
+      {
+        "product_name": "معجون سنسوداين عناية متعددة + تبييض الأسنان | 100مل",
+        "brand": "Sensodyne",
+        "price": "135 جنيه",
+        "category": "العناية اليومية",
+        "subcategory": "العناية بالفم و الاسنان",
+        "available_options": "100ml"
+      },
+      {
+        "product_name": "بودرة الو ايفا بالصبار للعرق | 70 جم",
+        "brand": "Eva",
+        "price": "60 جنيه",
+        "category": "العناية اليومية",
+        "subcategory": "العناية بالجسم و الاستحمام",
+        "available_options": "70gm"
+      },
+      {
+        "product_name": "إيڤا | بودرة قدم بالصبار | 50جم",
+        "brand": "Eva",
+        "price": "40 جنيه",
+        "category": "العناية اليومية",
+        "subcategory": "العناية بالجسم و الاستحمام",
+        "available_options": "50gm"
+      },
+      {
+        "product_name": "ايفا | بادى سبلاش مورنينج بلوسوم | 240مل",
+        "brand": "Eva",
+        "price": "200 جنيه",
+        "category": "العناية اليومية",
+        "subcategory": "العناية بالجسم و الاستحمام",
+        "available_options": "240ml"
+      },
+      {
+        "product_name": "ايفا | بادى سبلاش - مسك وياسمين | 240مل",
+        "brand": "Eva",
+        "price": "195 جنيه",
+        "category": "العناية اليومية",
+        "subcategory": "العناية بالجسم و الاستحمام",
+        "available_options": "240ml"
+      },
+      {
+        "product_name": "ايفا | بادى سبلاش - نايت اوت | 240مل",
+        "brand": "Eva",
+        "price": "220 جنيه",
+        "category": "العناية اليومية",
+        "subcategory": "العناية بالجسم و الاستحمام",
+        "available_options": "240ml"
+      },
+      {
+        "product_name": "ايفا | سكين كير بادي سبلاش ريد جلامور | 240مل",
+        "brand": "Eva Skin Care",
+        "price": "200 جنيه",
+        "category": "العناية اليومية",
+        "subcategory": "العناية بالجسم و الاستحمام",
+        "available_options": "240ml"
+      },
+      {
+        "product_name": "إيڤا | سموكرز بودرة تنظيف الاسنان بالفحم | 40جم",
+        "brand": "Eva",
+        "price": "50 جنيه",
+        "category": "العناية اليومية",
+        "subcategory": "العناية بالفم و الاسنان",
+        "available_options": "40gm"
+      },
+      {
+        "product_name": "إيفا | معجون أسنان سموكرز إي لاين بالمنثول | 50جم",
+        "brand": "Eva",
+        "price": "50 جنيه",
+        "category": "العناية اليومية",
+        "subcategory": "العناية بالفم و الاسنان",
+        "available_options": "50gm"
+      },
+      {
+        "product_name": "إيفا | غسول الفم للمدخنين لمستخدمي السجائر الإلكترونية بالم...",
+        "brand": "Eva",
+        "price": "110 جنيه",
+        "category": "العناية اليومية",
+        "subcategory": "العناية بالفم و الاسنان",
+        "available_options": "250ml"
+      },
+      {
+        "product_name": "ديوركس كوندوم للرجال الترا فيثرلايت واقي ذكري | 3 قطع",
+        "brand": "Durex",
+        "price": "169 جنيه",
+        "category": "الصحة الجنسية",
+        "subcategory": "واقي ذكري",
+        "available_options": "3 قطع"
+      },
+      {
+        "product_name": "ديوركس | واقي ذكري بيرفورماكس انتينس لمتعة اكثر لكليكما | 1...",
+        "brand": "Durex",
+        "price": "425 جنيه",
+        "category": "الصحة الجنسية",
+        "subcategory": "واقي ذكري",
+        "available_options": "10 قطع"
+      }
+    ],
+    "filters": [
+      "التصنيفات (Categories)",
+      "الأقسام الأساسية (Main Categories)",
+      "الأقسام الفرعية (Sub Categories)",
+      "الأقسام الفرعية الثانوية (Secondary Sub Categories)",
+      "الماركات (Brands)",
+      "النوع (Type)",
+      "نوع البشرة (Skin Type)",
+      "التكوين (Formulation)",
+      "الحجم (Size)",
+      "التركيز (Concentration)",
+      "اللون (Color)",
+      "الفئة العمرية (Age Group)",
+      "العناية بالاسنان (Dental Care)",
+      "نوع الشعر (Hair Type)",
+      "لون الشعر (Hair Color)",
+      "حجم العبوه (Packaging Size)",
+      "مناسب ل (Suitable For)",
+      "خالي من (Free From)",
+      "مميزات خاصة (Special Features)",
+      "الرائحة (Scent)",
+      "المذاق (Taste)",
+      "السعر (Price: 0-8000 جنيه)"
+    ],
+    "sorting_options": [
+      "المتاح فقط (Available Only)",
+      "السعر : من الأعلى إلى الأقل (Price: High to Low)",
+      "السعر : من الأقل إلى الأعلى (Price: Low to High)"
+    ],
+    "promotions": [
+      "⚡ خصم حتي 15% + توصيل مجاني لما تطلب من سوبر توفير (Up to 15% discount + free delivery when ordering from Super Saving)"
+    ]
+  },
+  "relevant_links": [
+    "https://chefaa.com:443/eg-ar/now/category/skin-care",
+    "https://chefaa.com:443/eg-ar/now/category/daily-essentials/bath-body-care",
+    "https://chefaa.com:443/eg-ar/now/category/daily-essentials/oral-care",
+    "https://chefaa.com:443/eg-ar/nowProduct/eva-glycerine-soap-for-dry-sensitive-skin-120gm-bpcp_du6T19FS",
+    "https://chefaa.com:443/eg-ar/nowProduct/eva-skin-care-foot-scrub-tropical-60ml-2csw_duqTspzC",
+    "https://chefaa.com:443/eg-ar/nowProduct/eva-b-white-whitening-cream-for-sensitive-areas-50gm-urib",
+    "https://chefaa.com:443/eg-ar/nowProduct/starville-roll-on-vanilla-60ml-opsw",
+    "https://chefaa.com:443/eg-ar/nowProduct/starville-whitening-roll-on-antiperspirant-fresh-breeze-60ml-9j0q_dueLvNle"
+  ],
+  "file_name": "chefaa_daily_essentials_skincare_extraction.json"
+}
+```

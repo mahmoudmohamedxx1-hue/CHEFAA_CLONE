@@ -1,0 +1,316 @@
+📄 Extracted from page: ادوية المعدة والقولون - شفاء
+URL: https://chefaa.com/eg-ar/now/category/medications/stomach-bowel
+
+Extracted content:
+```json
+{
+  "title": "ادوية المعدة والقولون - شفاء",
+  "url": "https://chefaa.com/eg-ar/now/category/medications/stomach-bowel",
+  "summary": "This page from Chefaa.com lists various medications for stomach and bowel conditions available for purchase in Egypt. It displays product details such as names, descriptions, prices in EGP, and specific attributes like dosage, quantity, and usage. Some products are noted as requiring a prescription or having limited availability. The page features pagination controls to browse through multiple pages of products.",
+  "key_points": [
+    "The page displays 20 products related to stomach and bowel health.",
+    "Each product entry includes the product name, a descriptive text, and its price in Egyptian Pounds (EGP).",
+    "Availability status is generally 'In Stock', with specific notes for 'Limited Quantity' or 'Requires Prescription' where applicable.",
+    "Product specifications such as dosage, quantity, and primary uses (e.g., for acidity, colic, diarrhea, irritable bowel syndrome) are extracted from the product descriptions.",
+    "The page uses pagination controls, showing links to pages 1, 2, and 3, along with next/previous navigation buttons, indicating more products are available on subsequent pages."
+  ],
+  "products": [
+    {
+      "product_name": "كونترولوك",
+      "description": "20ملجم | 14 قرص | 2 شريط",
+      "price_egp": 100.0,
+      "brand_name": "Controloc",
+      "availability_status": "In Stock",
+      "specifications": [
+        "20mg",
+        "14 tablets",
+        "2 strips"
+      ],
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/controloc-antacid-20mg-14tab"
+    },
+    {
+      "product_name": "انتروجرمينا",
+      "description": "امبول بروبيوتيك للقولون للاطفال والكبار 2 مليار 5مل | 20 أمبول",
+      "price_egp": 180.0,
+      "brand_name": "Enterogermina",
+      "availability_status": "In Stock",
+      "specifications": [
+        "Probiotic",
+        "For colon",
+        "For children and adults",
+        "2 Billion units",
+        "5ml",
+        "20 ampoules"
+      ],
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/enterogermina-oral-suspension-2-billion-5ml-20-vials-fvga"
+    },
+    {
+      "product_name": "لينكس",
+      "description": "للبالغين | 14 كبسولة",
+      "price_egp": 225.0,
+      "brand_name": "Linex",
+      "availability_status": "In Stock",
+      "specifications": [
+        "For adults",
+        "14 capsules"
+      ],
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/linex-adults-14-capsules-zkse"
+    },
+    {
+      "product_name": "مالوكس",
+      "description": "اكياس maalox دواء للحموضه والحرقان - ليمون | 20 كيس",
+      "price_egp": 120.0,
+      "brand_name": "Maalox",
+      "availability_status": "In Stock",
+      "specifications": [
+        "Sachets",
+        "For acidity and heartburn",
+        "Lemon flavor",
+        "20 sachets"
+      ],
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/maalox-antacid-oral-suspensions-in-sachets-lemon-flavoring-20-sachets-each-5ml-stomach-pain-heartburn-gastroesophageal-reflux"
+    },
+    {
+      "product_name": "انتوبرال",
+      "description": "٢٠ مجم حبوب المعدة لعلاج الحموضة والحرقان | 14 قرص",
+      "price_egp": 88.0,
+      "brand_name": "Antopral",
+      "availability_status": "In Stock",
+      "specifications": [
+        "20mg",
+        "For stomach",
+        "For acidity and heartburn",
+        "14 tablets"
+      ],
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/antopral-20-mg-14-tab-djij"
+    },
+    {
+      "product_name": "روتادايجست",
+      "description": "30 كبسولة",
+      "price_egp": 195.0,
+      "brand_name": "Rotadigest",
+      "availability_status": "In Stock",
+      "specifications": [
+        "30 capsules"
+      ],
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/rotadigest-30-caps-2pg9"
+    },
+    {
+      "product_name": "فلاجيل",
+      "description": "برشام 500 للالتهابات ومطهر معوي flagyl tablet | ٢٠ قرص",
+      "price_egp": 34.0,
+      "brand_name": "Flagyl",
+      "availability_status": "In Stock",
+      "specifications": [
+        "500mg",
+        "For inflammation",
+        "Intestinal antiseptic",
+        "20 tablets"
+      ],
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/flagyl-500-tablet"
+    },
+    {
+      "product_name": "برونشيكم",
+      "description": "أقراص استحلاب بنكهة النعناع لتخفيف اعراض الكحة | 100مجم | 20 قرص",
+      "price_egp": 90.0,
+      "brand_name": "Bronchicum",
+      "availability_status": "In Stock",
+      "specifications": [
+        "100mg",
+        "20 lozenges",
+        "Mint flavor",
+        "For cough symptoms"
+      ],
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/bronchicum-anti-cough-100mg-20-lozenges-wn0x"
+    },
+    {
+      "product_name": "أجيولاكس",
+      "description": "حبيبات ملين طبيعي | 12 كيس",
+      "price_egp": 100.0,
+      "brand_name": "Agiolax",
+      "availability_status": "In Stock",
+      "specifications": [
+        "Natural laxative",
+        "Granules",
+        "12 sachets"
+      ],
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/agiolax-sachets"
+    },
+    {
+      "product_name": "اميبازول",
+      "description": "اقراص للاسهال والاميبا والتهابات المهبل amebazole | 1جم | 2 قرص",
+      "price_egp": 27.0,
+      "brand_name": "Amebazole",
+      "availability_status": "In Stock",
+      "specifications": [
+        "Requires Prescription",
+        "1gm",
+        "2 tablets",
+        "For diarrhea",
+        "For amoeba",
+        "For vaginal infections"
+      ],
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/amebazole-to-treat-acute-amebiasis-1gm-2tab"
+    },
+    {
+      "product_name": "أمريزول",
+      "description": "لعلاج العدوى البكتيرية 500جم | 20 قرص",
+      "price_egp": 25.0,
+      "brand_name": "Amrizole",
+      "availability_status": "In Stock",
+      "specifications": [
+        "Requires Prescription",
+        "500mg",
+        "20 tablets",
+        "For bacterial infection"
+      ],
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/amrizole-to-treat-bacterial-infection-500mg-20tab"
+    },
+    {
+      "product_name": "انتينال",
+      "description": "لعلاج الاسهال 200مج | 24 كبسولة",
+      "price_egp": 52.0,
+      "brand_name": "Antinal",
+      "availability_status": "In Stock",
+      "specifications": [
+        "200mg",
+        "24 capsules",
+        "For diarrhea"
+      ],
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/antinal-tablet"
+    },
+    {
+      "product_name": "بسكوبان",
+      "description": "حقن مضاد للتقلصات ومسكن للألم | 20 مجم | 6 امبولات",
+      "price_egp": 66.0,
+      "brand_name": "Buscopan",
+      "availability_status": "In Stock",
+      "specifications": [
+        "Injections",
+        "Antispasmodic",
+        "Pain reliever",
+        "20mg",
+        "6 ampoules"
+      ],
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/buscopan-6-ampoules-1mg-fmsv"
+    },
+    {
+      "product_name": "بسكوبان",
+      "description": "دواء للمغص والقولون والدورة 10 مجم | 20 قرص",
+      "price_egp": 56.0,
+      "brand_name": "Buscopan",
+      "availability_status": "In Stock",
+      "specifications": [
+        "10mg",
+        "20 tablets",
+        "For colic",
+        "For colon",
+        "For period pain"
+      ],
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/buscopan-10mg-20-tab"
+    },
+    {
+      "product_name": "دينتينوكس",
+      "description": "نقط dentinox لحديثي الولادة والرضع للمغص | 100 مل",
+      "price_egp": 103.0,
+      "brand_name": "Dentinox",
+      "availability_status": "In Stock",
+      "specifications": [
+        "Drops",
+        "For newborns and infants",
+        "For colic",
+        "100 ml"
+      ],
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/dentinox-infant-colic-drop-100-ml"
+    },
+    {
+      "product_name": "دوفلاك",
+      "description": "ملين شراب للامساك duphalac syrup | ٢٠٠ مل",
+      "price_egp": 143.0,
+      "brand_name": "Duphalac",
+      "availability_status": "In Stock",
+      "specifications": [
+        "Laxative",
+        "Syrup",
+        "For constipation",
+        "200 ml"
+      ],
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/duphalac-syrup"
+    },
+    {
+      "product_name": "انتروجرمينا",
+      "description": "امبولات للكبار والاطفال بروبيوتيك للقولون 4 مليار 5 مل | 10 أمبول",
+      "price_egp": 200.0,
+      "brand_name": "Enterogermina",
+      "availability_status": "In Stock",
+      "specifications": [
+        "Ampoules",
+        "For adults and children",
+        "Probiotic",
+        "For colon",
+        "4 Billion units",
+        "5ml",
+        "10 ampoules"
+      ],
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/enterogermina-oral-suspension-4-billion-5-ml-oral-10-vials-f9yk"
+    },
+    {
+      "product_name": "إيزوميبرازول",
+      "description": "40مجم | 20 قرص",
+      "price_egp": 116.0,
+      "brand_name": "Eva Pharma",
+      "availability_status": "In Stock",
+      "specifications": [
+        "40mg",
+        "20 tablets"
+      ],
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/esomeprazole-eva-pharma-40mg-20tab-yr7k"
+    },
+    {
+      "product_name": "اوكاربون",
+      "description": "اقراص بالفحم للقولون العصبي eucarbon tab | ٣٠ قرص",
+      "price_egp": 105.0,
+      "brand_name": "Eucarbon",
+      "availability_status": "Limited Quantity",
+      "specifications": [
+        "Charcoal tablets",
+        "For irritable bowel syndrome",
+        "30 tablets"
+      ],
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/eucarbon-30-tab"
+    },
+    {
+      "product_name": "فلاتيديل",
+      "description": "أقراص للقولون والغازات | 30 قرص للمضغ",
+      "price_egp": 54.0,
+      "brand_name": "Flatidyl",
+      "availability_status": "In Stock",
+      "specifications": [
+        "Tablets",
+        "For colon and gas",
+        "30 chewable tablets"
+      ],
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/flatidyl-40mg-30chewable-tabs-mmhq"
+    }
+  ],
+  "pagination_controls": {
+    "has_pagination": true,
+    "pages_found": [
+      {
+        "page_number": 1,
+        "url": "https://chefaa.com/eg-ar/now/category/medications/stomach-bowel?products_eg%5Bpage%5D=1"
+      },
+      {
+        "page_number": 2,
+        "url": "https://chefaa.com:443/eg-ar/now/category/medications/stomach-bowel?page=2"
+      },
+      {
+        "page_number": 3,
+        "url": "https://chefaa.com:443/eg-ar/now/category/medications/stomach-bowel?page=3"
+      }
+    ],
+    "has_load_more_button": false
+  },
+  "file_name": "chefaa_stomach_bowel_medications.json"
+}
+```

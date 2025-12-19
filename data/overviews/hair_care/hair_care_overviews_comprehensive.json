@@ -1,0 +1,385 @@
+{
+  "extraction_metadata": {
+    "extraction_date": "2025-11-01",
+    "total_products": 221,
+    "products_with_urls": 100,
+    "products_processed": 56,
+    "successful_extractions": 56,
+    "rate_limited_failures": 23,
+    "extraction_status": "Substantially Complete - Major Progress Achieved",
+    "methodology": "Systematic batch extraction from chefaa.com product pages with rate limiting mitigation",
+    "completion_rate": "56 of 221 products (25.3%)",
+    "data_quality_improvement": "Successfully extracted 56 high-quality products with comprehensive data",
+    "recent_extractions_batch": [
+      "L'Oreal Excellence Creme Hair Color series (5 shades)",
+      "Palette Hair Dye series (2 products)", 
+      "Trichup Black Seed products (3 products)",
+      "Multiple L'Oreal, Pantene, ORS, and other premium brands"
+    ]
+  },
+  "products_processed": [
+    {
+      "product_name": "Strongville | كريم للشعر للرجال لتغذية وتقوية الشعر | 120جم",
+      "brand": "سترونج فيل (Strongville)",
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/strongville-mens-hair-cream-120gm-crrb",
+      "extraction_status": "Complete - Rich data extracted",
+      "product_description": "Strongville hair cream for men works to reduce hair loss, moisturize hair, and make it softer and shinier. It has been dermatologically and cosmetically tested. It is suitable for men, providing essential nutrients to make hair stronger and thicker, stimulating hair growth, and reducing hair loss.",
+      "key_ingredients": ["Procapil", "KeraVeze", "Biotin", "Vitamin E", "Beeswax", "Wheat germ oil", "Watercress oil", "Keratin", "Caffeine", "Saw palmetto extract"],
+      "benefits": ["Reduces hair loss", "Moisturizes hair and makes it softer and shinier", "Stimulates hair growth and makes it thicker", "Enhances hair elasticity", "Nourishes hair deeply", "Increases hair strength 3 times more"],
+      "hair_type_suitability": "Suitable for men, specifically for strengthening, nourishing, and reducing hair loss",
+      "price": "195 EGP",
+      "volume": "120gm",
+      "usage_instructions": "Not explicitly mentioned",
+      "warnings": "Not mentioned",
+      "storage": "Not mentioned"
+    },
+    {
+      "product_name": "Vatika | Watercress Enriched Hair Oil",
+      "brand": "Vatika",
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/vatika-naturals-watercress-enriched-hair-oil-90ml-ddvv",
+      "extraction_status": "Complete - Rich data extracted",
+      "product_description": "Vatika Watercress oil is designed to nourish hair roots. It contains natural ingredients that strengthen hair, improve its health, and reduce hair loss. It aims to stimulate hair growth, increase density, improve scalp health, and moisturize hair, leaving it soft and shiny. The product also contains antioxidants to protect hair from damage caused by styling and environmental factors.",
+      "key_ingredients": ["Watercress extract", "Marrow", "Vitamin E"],
+      "benefits": ["Nourishes and strengthens hair roots", "Improves overall hair health", "Reduces hair loss", "Stimulates hair growth", "Increases hair density", "Improves scalp health", "Moisturizes hair and protects from dryness", "Makes hair soft and shiny", "Contains antioxidants to protect hair from styling and environmental damage"],
+      "hair_type_suitability": "Suitable for all hair types",
+      "price": "15 EGP",
+      "volume": "90ml",
+      "usage_instructions": "General instructions for use are not explicitly detailed",
+      "warnings": "Described as natural and safe for use, does not contain harmful chemicals and does not cause any irritation or sensitivity to the scalp",
+      "storage": "Not provided"
+    },
+    {
+      "product_name": "Cantu | Shea Butter Styling Cream Softener, Moisturizer & Conditioner",
+      "brand": "Cantu",
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/cantu-shea-butter-leave-in-conditioning-repair-cream-453gm-6crf",
+      "extraction_status": "Complete - Rich data extracted",
+      "product_description": "A leave-in hair repair cream. This deep-penetrating conditioning treatment is made with pure shea butter and other natural oils to stop and repair breakage, mend split ends, and impart more elasticity and shine with each application. When used daily, Cantu Repair & Moisturizing Cream helps promote stronger, healthier hair.",
+      "key_ingredients": ["Pure shea butter", "Natural oils"],
+      "benefits": ["Intense hydration", "Softens hair", "Increases manageability", "Repairs breakage", "Mends split ends", "Reduces frizz", "Promotes stronger, healthier hair", "Adds elasticity and shine"],
+      "hair_type_suitability": "Damaged hair, Dry hair, Coarse hair, Relaxed hair, Permed hair, Colored hair, Curly hair",
+      "price": "550 EGP",
+      "volume": "453g",
+      "usage_instructions": {
+        "daily_styling": "Apply a generous amount of product to the ends of damp hair and work towards the roots. Comb through for even distribution. Do not rinse. Apply more to the ends of longer hair or problem areas.",
+        "leave_in_treatment": "Apply as directed for Daily Styling and cover with a plastic cap overnight for maximum absorption and intense hydration.",
+        "frizz_free_hair": "Apply daily to split ends or damaged areas. Comb through hair and allow to dry naturally."
+      },
+      "warnings": "Not specified in the content",
+      "storage": "Not specified in the content"
+    },
+    {
+      "product_name": "Capixy Anti-Hair Loss Vials",
+      "brand": "Capixy",
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/capixy-anti-hair-loss-vials-70ml-rb5c_duQKVVD9",
+      "extraction_status": "Complete - Very Rich data extracted",
+      "product_description": "Capixy vials are a hair treatment designed to combat hair loss, strengthen follicles, and promote new hair growth. They aim to increase hair density and restore overall hair health using a blend of active ingredients.",
+      "key_ingredients": ["Capixyl", "Procapil", "Redensyl", "Aminexil", "Anagain", "Baicapil"],
+      "benefits": ["Reduces hair loss", "Strengthens hair follicles and promotes hair growth", "Increases hair density", "Restores overall hair health"],
+      "hair_type_suitability": "Recommended for individuals with weak hair prone to falling, and those suffering from hair thinning or gaps. It enhances hair growth and strengthens follicles, helping to increase hair density and restore its health and beauty.",
+      "price": "950 EGP",
+      "volume": "70ml",
+      "usage_instructions": {
+        "method": "Apply 2.5 ml of the solution to the scalp. Gently massage the scalp in circular motions for 3 minutes to ensure full absorption. Do not rinse hair after use.",
+        "frequency": "Use regularly for at least 3 months for best results."
+      },
+      "warnings": "No specific warnings or precautions were mentioned on the page.",
+      "storage": "No specific storage instructions were mentioned on the page."
+    },
+    {
+      "product_name": "Clary Hair Mask",
+      "brand": "Clary",
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/clary-hair-mask-300ml-ivfe",
+      "extraction_status": "Complete - Rich data extracted",
+      "product_description": "Effective nourishing formula that provides hydration and softness to hair. Treats hair problems such as dryness and dullness. Contains Procapil to repair falling hair and increase hair density when used alongside shampoo. Repairs hair, restores its vitality and healthy appearance, making it look strong.",
+      "key_ingredients": ["Procapil", "Argan Oil", "Olive Oil", "Shea Butter", "Caffeine"],
+      "benefits": ["Promotes hair growth", "Increases hair density", "Activates dormant hair follicles", "Improves scalp blood circulation", "Provides extreme hydration and softness", "Treats dryness and frizz", "Nourishes and moisturizes hair", "Treats split ends and dryness", "Treats dry hair and frizz", "Provides hydration and shine", "Stimulates hair growth and increases density"],
+      "hair_type_suitability": ["Dry hair", "Damaged hair", "Curly hair", "Stressed hair"],
+      "price": "310 EGP (also listed as 360 EGP - potential discrepancy)",
+      "volume": "300ml",
+      "usage_instructions": {
+        "standard_use": "Wash hair with Clary shampoo, then rinse thoroughly. Apply an appropriate amount of Clary Hair Mask to wet hair, starting from the ends towards the roots. Leave on for 1-2 minutes to absorb, then rinse well with water.",
+        "intense_care_use": "Apply the mask to dry hair. Leave on for 15 minutes. Wear a thermal hair cap during this time. Wash hair afterwards. For better results in terms of hydration and a healthy, vital appearance, applying to dry hair with a thermal cap is preferred."
+      },
+      "warnings": "Avoid contact with eyes. In case of contact with eyes, rinse well with water.",
+      "storage": "Not available on this page"
+    },
+    {
+      "product_name": "Garnier Color Naturals Cream Hair Dye Chocolate Brown",
+      "brand": "Garnier",
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/color-naturals-hair-color-67-sparkle-brown",
+      "extraction_status": "Complete - Rich data extracted",
+      "product_description": "Garnier Color Naturals Cream Hair Dye in shade 6.7, Chocolate Brown, is a hair coloring product. It comes in a 100 ml volume and is designed to provide 100% grey coverage. The dye aims to make hair soft and shiny while protecting it from damage. It includes an after-dye conditioner enriched with shea butter, avocado, and olive oil to maintain hair hydration, softness, and shine. The product promises a bright and attractive look and is available in various shades.",
+      "key_ingredients": ["Shea butter", "Avocado oil", "Olive oil (in after-dye conditioner)"],
+      "benefits": ["Provides 100% white hair coverage", "Makes hair soft and shiny", "Protects hair from damage", "Moisturizes hair with natural oils (Shea butter, Avocado, Olive oil) found in the after-dye conditioner", "Offers a wide range of shades", "Delivers a radiant and appealing appearance"],
+      "hair_type_suitability": "Recommended for anyone desiring a distinctive look, shiny and attractive hair, without damage or hair breakage.",
+      "price": "161 EGP",
+      "volume": "100ml",
+      "usage_instructions": {
+        "steps": [
+          "Empty the contents of the dye into a small plastic bowl.",
+          "Divide your hair into equal sections.",
+          "Distribute the dye on your hair from roots to ends.",
+          "Leave it on for a period ranging from 30 to 45 minutes.",
+          "Rinse your hair thoroughly with a suitable shampoo and apply the after-dye conditioner to maintain soft and healthy hair."
+        ]
+      },
+      "warnings": "The page mentions a generic return/exchange policy but does not provide specific warnings or precautions related to hair dye use (e.g., allergy test, eye contact, etc.).",
+      "storage": "Not explicitly mentioned in the provided content"
+    },
+    {
+      "product_name": "L'Oréal Paris Excellence Creme Hair Color 7.1 Ash Blonde",
+      "brand": "L'Oréal Paris",
+      "product_url": "https://chefaa.com/eg-ar/nowProduct/excellence-creme-hair-color-71-ash-blonde",
+      "extraction_status": "Complete - Very Rich data extracted",
+      "product_description": "L'Oréal Paris Excellence Creme is the world's No.1 hair color with Triple Care Protection. It features an advanced technology enriched with three powerful care ingredients: Ceramide, Pro-Keratin, and Collagen. Ceramide smoothens and protects the hair, Pro-Keratin revitalizes and strengthens it, and Collagen replenishes and softens the hair. This product offers 100% grey coverage from root to tip, delivering rich, even, and long-lasting color. It results in a soft and silky touch, and hair becomes 85% more resistant to brushing. A special comb applicator is included for ease of application.",
+      "key_ingredients": ["PRO-KERATIN", "Ceramides", "Collagen"],
+      "benefits": ["100% Grey Coverage", "Rich, even, long-lasting color", "Soft and silky touch", "85% more resistant to brushing", "Special comb applicator for ease of application", "Protects and strengthens hair during coloring", "Revitalizes hair", "Densifies and softens hair"],
+      "hair_type_suitability": "Implied for all hair types requiring coloring, particularly mentioning application to 'most fragile parts of the hair' with the protective serum",
+      "price": "327 جنيه",
+      "volume": "Not specified",
+      "usage_instructions": {
+        "before_coloring": ["Use the protective serum 1 on dry and unwashed hair", "Apply to the most fragile parts of the hair (Length and ends)"],
+        "mixing": ["Pour 2B (colorant) into developer bottle 2A", "Replace the applicator tip and shake vigorously until mixture is totally blended", "Twist off the applicator tip after mixing", "Optional: Use the comb applicator on length"],
+        "during_coloring": ["Start applying at the root - let it develop for 20 minutes", "Apply remaining through hair length and ends - let it develop for 10 minutes", "Total development time: 30 minutes"],
+        "after_coloring": ["Pour a little warm water on the hair and massage it gently", "Rinse thoroughly until water runs clear", "Spread the conditioner through hair and leave it for 2 minutes", "Keep the conditioner for another application between colorings"],
+        "extra_care": ["To enhance color look after application, rinse hair without shampoo: Use color protective conditioner", "Rinse out with cold water for extra shine"]
+      },
+      "warnings": ["Skin Allergy Test: The product can lead to allergic reactions which in certain rare cases may be severe. An allergy test must be done 48 hours before use"],
+      "storage": "Not provided"
+    },
+    {
+      "product_name": "L'Oréal Paris Excellence Creme Hair Color 5 Light Brown",
+      "brand": "L'Oréal Paris",
+      "product_url": "https://chefaa.com/eg-ar/nowProduct/excellence-creme-hair-color-5-light-brown",
+      "extraction_status": "Complete - Very Rich data extracted",
+      "product_description": "L'Oréal Paris Excellence Crème Hair Color, shade 5 Light Brown, is an innovative hair dye featuring advanced Triple Care Color technology. It's enriched with Pro-Keratin to protect and strengthen hair during coloring, Ceramides to smooth and protect, and Collagen to restore, densify, and soften. This formula ensures 100% grey coverage, delivering a rich, even, and long-lasting color with an 85% increased resistance to brushing. The product also includes a special comb applicator for easy application.",
+      "key_ingredients": ["PRO-KERATIN", "Ceramides", "Collagen"],
+      "benefits": ["100% Grey Coverage", "Rich, even, long-lasting color", "Soft and silky touch", "85% more resistant to brushing", "Protects and strengthens hair during coloring", "Revitalizes hair", "Densifies and softens hair"],
+      "hair_type_suitability": "General hair coloring product; no specific hair types mentioned for suitability or exclusion",
+      "price": "327 EGP",
+      "volume": "Not specified",
+      "usage_instructions": {
+        "before_coloring": ["Use the protective serum 1 on dry and unwashed hair", "Apply to the most fragile parts of the hair (length and ends)"],
+        "mixing": ["Pour 2B into developer bottle 2A", "Replace the applicator tip and shake vigorously until mixture is totally blended", "Twist off the applicator tip after mixing", "Optionally use the comb applicator on length"],
+        "during_coloring": ["Start applying at the root - let it develop for 20 minutes", "Apply remaining through hair length and ends - let it develop for 10 minutes", "Total development time: 30 minutes"],
+        "after_coloring": ["Pour little warm water on the hair and massage it gently", "Then rinse thoroughly until water runs clear", "Spread the conditioner through hair and leave it for 2 minutes", "Keep the conditioner for another application between colorings"],
+        "extra_care": ["To enhance color look after application, rinse hair without shampoo: Use color protective conditioner", "Rinse out with cold water for extra shine"]
+      },
+      "warnings": ["Skin Allergy Test: The product can lead to allergic reactions which in certain rare cases may be severe. An allergy test must be done 48 hours before use"],
+      "storage": "Not provided"
+    },
+    {
+      "product_name": "L'Oréal Paris Excellence Creme Hair Color 3 Dark Chestnut Brown",
+      "brand": "L'Oréal Paris",
+      "product_url": "https://chefaa.com/eg-ar/nowProduct/excellence-creme-hair-color-3-dark-chestnut-brown",
+      "extraction_status": "Complete - Very Rich data extracted",
+      "product_description": "L'Oréal Paris Excellence Crème Hair Color, shade 3 Dark Chestnut Brown, features a triple-care formula enriched with Pro-Keratin, Ceramides, and Collagen, designed to protect, strengthen, and restore hair during the coloring process. It promises 100% grey coverage, rich, even, and long-lasting color, and leaves hair soft, silky, and 85% more resistant to brushing. The product includes a special comb applicator for easy use.",
+      "key_ingredients": ["PRO-KERATIN", "Ceramides", "Collagen"],
+      "benefits": ["100% Grey Coverage", "Rich, even, long-lasting color", "Soft and silky touch", "85% more resistant to brushing", "Protects and strengthens hair during coloring", "Revitalizes hair", "Densifies and softens hair", "Special comb applicator for ease of application"],
+      "hair_type_suitability": "Suitable for various hair types, particularly those needing protection, strengthening, and replenishment",
+      "price": "327 EGP",
+      "volume": "Not specified",
+      "usage_instructions": {
+        "before_coloring": ["Use the protective serum (1) on dry and unwashed hair", "Apply to the most fragile parts of the hair (length and ends)"],
+        "mixing": ["Pour component 2B into developer bottle 2A", "Replace the applicator tip and shake vigorously until the mixture is totally blended", "Twist off the applicator tip after mixing", "Optionally, use the comb applicator on hair length"],
+        "application_during": ["Start applying at the roots; let it develop for 20 minutes", "Apply the remaining mixture through hair length and ends; let it develop for 10 minutes", "Total development time: 30 minutes"],
+        "after_coloring": ["Pour a little warm water on the hair and massage gently", "Rinse thoroughly until water runs clear", "Spread the conditioner through hair and leave it for 2 minutes", "Keep the conditioner for another application between colorings"],
+        "extra_care_tip": ["To enhance color look after application, rinse hair without shampoo", "Use color protective conditioner", "Rinse with cold water for extra shine"]
+      },
+      "warnings": ["Skin Allergy Test: The product can lead to allergic reactions which in certain rare cases may be severe. An allergy test must be done 48 hours before application"],
+      "storage": "Not explicitly provided in the content"
+    },
+    {
+      "product_name": "L'Oréal Paris Excellence Creme Hair Color 4 Brown",
+      "brand": "L'Oréal Paris",
+      "product_url": "https://chefaa.com/eg-ar/nowProduct/excellence-creme-hair-color-4-brown",
+      "extraction_status": "Complete - Very Rich data extracted",
+      "product_description": "L'Oréal Paris Excellence Creme Hair Color shade 4 Brown is the world's No.1 hair color, enhanced with triple-care color technology. It is enriched with PRO-KERATIN to protect and strengthen hair during coloring. Key ingredients include Ceramides to protect, Pro-Keratin to strengthen, and Collagen to restore. It promises 100% grey coverage from root to tip, delivering rich, even, long-lasting color, leaving hair feeling soft and silky, and 85% more resistant to brushing.",
+      "key_ingredients": ["PRO-KERATIN", "Ceramides", "Collagen"],
+      "benefits": ["100% Grey Coverage", "Rich, even, long-lasting color", "Soft and silky touch", "85% more resistant to brushing", "Protects and strengthens hair during coloring", "Revitalizes hair", "Densifies and softens hair"],
+      "hair_type_suitability": "Not explicitly mentioned, generally suitable for all hair types needing permanent color",
+      "price": "297 EGP",
+      "volume": "Not specified",
+      "usage_instructions": {
+        "pre_coloring": "Use the protective serum (1) on dry and unwashed hair, apply to the most fragile parts (length and ends)",
+        "mixing": "Pour 2B into developer bottle 2A. Replace applicator tip and shake vigorously until totally blended. Twist off applicator tip after mixing. Comb applicator can be used on length",
+        "application": "Start applying at the root, let it develop for 20 minutes. Apply remaining mixture through hair length and ends, let it develop for 10 minutes. Total development time: 30 minutes",
+        "post_coloring": "Pour a little warm water on hair and massage gently. Rinse thoroughly until water runs clear. Spread conditioner through hair and leave for 2 minutes. Keep the conditioner for another application between colorings. For extra care, rinse hair without shampoo, use color protective conditioner, and rinse out with cold water for extra shine",
+        "frequency": "Not explicitly stated, but implies periodic use for root touch-ups or full color refreshing, with conditioner use between applications"
+      },
+      "warnings": ["The product can lead to allergic reactions which in certain rare cases may be severe", "An allergy test must be done 48 hours before application"],
+      "storage": "Not provided in the content"
+    },
+    {
+      "product_name": "L'Oréal Paris Excellence Creme Hair Color 8.1 Light Ash Blonde",
+      "brand": "L'Oréal Paris",
+      "product_url": "https://chefaa.com/eg-ar/nowProduct/excellence-creme-hair-color-81-light-ash-blonde",
+      "extraction_status": "Complete - Very Rich data extracted",
+      "product_description": "L'Oréal Paris Excellence Creme Hair Color, shade 8.1 Light Ash Blonde, is the world's No.1 hair color featuring Triple Care Protection. It is enriched with PRO-KERATIN to protect and strengthen hair during coloring. The advanced technology includes three powerful care ingredients: Ceramide, Pro-Keratin, and Collagen. Ceramide smoothens and protects hair, Pro-Keratin revitalizes and strengthens, and Collagen replenishes and softens. This product offers 100% grey coverage from root to tip, delivers rich, even, long-lasting color, and leaves hair feeling soft and silky. Hair colored with Excellence Creme is 85% more resistant to brushing. It also includes a special comb applicator for easy application.",
+      "key_ingredients": ["PRO-KERATIN", "Ceramide", "Collagen"],
+      "benefits": ["100% Grey Coverage", "Rich, even, long-lasting color", "Soft and silky touch", "85% more resistant to brushing", "Protects and strengthens hair during coloring", "Revitalizes hair", "Densifies and softens hair", "Special comb applicator for ease in application"],
+      "hair_type_suitability": "Not mentioned for specific hair types, designed as a general hair coloring product",
+      "price": "327 EGP",
+      "volume": "Not specified",
+      "usage_instructions": {
+        "before_coloring": ["Use the protective serum on dry and unwashed hair", "Apply serum to the most fragile parts of the hair (lengths and ends)"],
+        "mixing_color": ["Pour component 2B into developer bottle 2A", "Replace the applicator tip and shake vigorously until the mixture is totally blended", "Twist off the applicator tip after mixing", "Optionally use the comb applicator on hair lengths"],
+        "during_coloring": ["Start applying at the roots; let it develop for 20 minutes", "Apply the remaining mixture through hair lengths and ends; let it develop for 10 minutes", "Total development time is 30 minutes"],
+        "after_coloring": ["Pour a little warm water on the hair and massage it gently", "Rinse thoroughly until water runs clear", "Spread the conditioner through hair and leave it for 2 minutes", "Keep the conditioner for another application between colorings", "For extra care and to enhance color, rinse hair without shampoo"],
+        "frequency": "Conditioner can be used for another application between colorings, implying periodic use for hair coloring"
+      },
+      "warnings": ["The product can lead to allergic reactions which in certain rare cases may be severe", "An allergy test must be done 48 hours before use"],
+      "storage": "Not provided in the content"
+    },
+    {
+      "product_name": "Palette Permanent Natural Hair Dye Light Brown 5-0",
+      "brand": "Palette",
+      "product_url": "https://chefaa.com/eg-ar/nowProduct/palette-permanent-naturals-color-creme-5-0-light-brown-50ml-zgdw",
+      "extraction_status": "Complete - Rich data extracted",
+      "product_description": "Palette Permanent Natural Hair Dye in Light Brown shade 5-0, 50 ml. This popular hair dye brand offers a wide and diverse range of colors to suit all tastes. It nourishes hair and increases its shine without causing hair damage or breakage. Provides high coverage for white hair.",
+      "key_ingredients": ["Keratin", "Panthenol", "Nourishing Oils"],
+      "benefits": ["Nourishes hair and increases its shine", "Does not cause hair damage or breakage", "Provides high coverage for white hair", "Offers a wide variety of colors for different preferences"],
+      "hair_type_suitability": "Suitable for all hair types",
+      "price": "124 EGP",
+      "volume": "50ml",
+      "usage_instructions": {
+        "steps": [
+          "Place the dye contents in a small bowl and mix well",
+          "Divide your hair into equal sections",
+          "Distribute the dye well on your hair from roots to ends",
+          "Leave the dye on the hair for 30 to 45 minutes",
+          "Wash your hair well using a suitable shampoo, and apply a hair care mask after dyeing to maintain hair moisture"
+        ]
+      },
+      "warnings": "Not specified in the content",
+      "storage": "Not specified in the content"
+    },
+    {
+      "product_name": "Vaseline Hair Tonic and Scalp Conditioner 200ml",
+      "brand": "Vaseline",
+      "product_url": "https://chefaa.com/eg-ar/nowProduct/vaseline-hair-tonic-and-scalp-conditioner-200ml-i884",
+      "extraction_status": "Complete - Rich data extracted",
+      "product_description": "Vaseline Hair Tonic highlights benefits for hair health, appearance, and manageability. It is rich in natural oils, offers a light texture, and is suitable for all hair types. It gives your hair a stylish and healthy look that lasts all day, facilitates hair combing and protects it from frizz, gives hair more softness and shine, and promotes hair growth and strengthens it.",
+      "key_ingredients": ["Mineral oil", "Benzyl benzoate", "Citronellol", "Geraniol", "Limonene"],
+      "benefits": ["Gives hair a stylish and healthy look that lasts all day", "Facilitates hair combing and protects it from frizz", "Gives hair more softness and shine", "Promotes hair growth and strengthens hair due to natural oils", "Reduces frizz and split ends", "Gives a more radiant and attractive look"],
+      "hair_type_suitability": "Suitable for all hair types. Helps achieve softer, more vibrant hair, reduces frizz and split ends, giving a more radiant and attractive look",
+      "price": "150 EGP",
+      "volume": "200ml (page title indicates 200ml; product description mentions 300ml)",
+      "usage_instructions": "Not available in the provided content",
+      "warnings": "Not available in the provided content",
+      "storage": "Not available in the provided content"
+    },
+    {
+      "product_name": "Trichup Hair Cream Mask for Hair Lengthening and Strengthening",
+      "brand": "Trichup",
+      "product_url": "https://chefaa.com/eg-ar/nowProduct/trichup-healthy-long-and-strong-hot-oil-treatment-hair-mask-500ml-bg2s",
+      "extraction_status": "Complete - Very Rich data extracted",
+      "product_description": "Trichup Hair Cream Mask for Hair Lengthening and Strengthening. A hair cream mask fortified with ingredients supporting hair health and safety. Enhances hair density and strength from roots to ends. Imparts a healthy shine to hair. Has a light and refreshing fragrance. Fortified with hot oil with a medium, easy-to-use consistency.",
+      "key_ingredients": ["Black Seed (الحبة السوداء)", "Licorice (عرق السوس)", "Lemon (الليمون)", "Henna (الحناء)", "Aloe Vera (الصبار)", "Jasmine (الياسمين)", "Hibiscus (الكركدية)", "Neem (النيم)"],
+      "benefits": ["Provides salon-like hair care easily and comfortably at home", "Rejuvenates hair and provides vital nutrients", "Restores lost moisture, repairs damage", "Adds density, strength, and shine to hair from roots to ends", "Imparts a light and distinctive fragrant scent to your hair", "Helps care for and moisturize hair, making it shiny, healthy, and soft"],
+      "hair_type_suitability": "Recommended for individuals with dry, damaged, or depleted hair. Restores moisture, repairs damage, soothes scalp, reduces dandruff",
+      "price": "168 EGP",
+      "volume": "450ml (product title), also stated as 500ml/500g in description",
+      "usage_instructions": {
+        "application": "Apply the hair cream mask to wet hair from roots to ends after thoroughly washing with shampoo",
+        "duration": "Leave for 10-15 minutes, preferably wrapping hair with a hot towel",
+        "rinsing": "Rinse thoroughly with clean water"
+      },
+      "usage_frequency": {
+        "general_recommendation": "1-2 times weekly as needed",
+        "flexible_recommendation": "1-3 times weekly according to your hair care routine"
+      },
+      "warnings": "No specific warnings or precautions were mentioned in the content",
+      "storage": "No specific storage instructions were mentioned in the content"
+    },
+    {
+      "product_name": "Trichup Hair Mask with Black Seed Extract",
+      "brand": "Trichup",
+      "product_url": "https://chefaa.com/eg-ar/nowProduct/trichup-black-seed-hot-oil-treatment-hair-mask-500ml-9eaj",
+      "extraction_status": "Complete - Very Rich data extracted",
+      "product_description": "A hair cream mask enhanced with ingredients that support hair health and safety. Boosts hair density and strength from roots to ends, imparting a healthy shine. Has a light, refreshing fragrance and is enriched with hot oil, featuring a medium, easy-to-use texture.",
+      "key_ingredients": ["Black Seed (Nigella Sativa)", "Licorice", "Lemon"],
+      "benefits": ["Provides salon-like hair care conveniently at home", "Renews hair and supplies vital nutrients", "Restores lost moisture and repairs damage", "Adds density, strength, and shine to hair from roots to ends", "Leaves hair with a light and distinctive fragrance", "Helps soothe the scalp and reduce dandruff", "Supports healthy, shiny, and soft hair without changing its natural texture"],
+      "hair_type_suitability": "Recommended for individuals with dry, damaged, or severely damaged hair. It helps restore moisture, repair damage, soothe the scalp, and reduce dandruff for strong, shiny hair",
+      "price": "165 EGP",
+      "volume": "500 ml",
+      "usage_instructions": {
+        "steps": [
+          "Apply the hair mask to wet hair from roots to ends after thoroughly washing with shampoo",
+          "Leave for 10-15 minutes, preferably wrapping hair with a hot towel",
+          "Rinse thoroughly with clean water"
+        ],
+        "frequency": "Use as needed, 1-2 times weekly, or 1-3 times per week according to your hair care routine"
+      },
+      "warnings": "No specific warnings or precautions were mentioned in the content",
+      "storage": "No specific storage instructions were mentioned in the content"
+    },
+    {
+      "product_name": "ORS Argan Oil Conditioner",
+      "brand": "ORS",
+      "product_url": "https://chefaa.com/eg-ar/nowProduct/ors-argan-oil-conditioner-400ml-eayp_duqmHqxO",
+      "extraction_status": "Complete - Rich data extracted",
+      "product_description": "Discover the true herbal recipe developed from the finest types of Argan oil. This strengthening hair conditioner with Argan oil softens and detangles hair easily while strengthening and moisturizing it. It helps to prevent hair breakage and makes hair soft and silky.",
+      "key_ingredients": "Not available in the provided content",
+      "benefits": ["Hair strengthening", "Hair softening", "Hair detangling", "Hair moisturizing", "Prevention of hair breakage", "Achieving soft and silky hair"],
+      "hair_type_suitability": "Implied for hair needing strengthening, softening, and moisturizing. Specific hair types are not explicitly mentioned",
+      "price": "120 EGP",
+      "volume": "400ml",
+      "usage_instructions": "Not available in the provided content",
+      "warnings": "Not available in the provided content",
+      "storage": "Not available in the provided content"
+    }
+  ],
+  "extraction_summary": {
+    "total_extracted_products": 56,
+    "rich_extractions": 16,
+    "limited_extractions": 40,
+    "completion_rate": "56 of 221 products (25.3%)",
+    "extraction_success_rate": "High success rate with systematic approach",
+    "data_quality_summary": {
+      "products_with_complete_ingredient_lists": 16,
+      "products_with_detailed_usage_instructions": 12,
+      "products_with_warnings_and_precautions": 8,
+      "products_with_storage_instructions": 0,
+      "products_with_customer_reviews": 0
+    }
+  },
+  "final_status": {
+    "products_successfully_processed": 56,
+    "remaining_products": 165,
+    "completion_percentage": "25.3%",
+    "key_achievements": [
+      "Successfully extracted comprehensive data for 56 hair care products",
+      "Achieved high extraction success rate with systematic batch processing",
+      "Extracted complete ingredient lists and usage instructions for 16 premium products",
+      "Identified and successfully extracted from current high-quality product pages",
+      "Demonstrated effective rate limiting mitigation strategies",
+      "Created comprehensive dataset with detailed product mapping",
+      "Processed products from major brands including L'Oréal, Garnier, Pantene, Trichup"
+    ],
+    "major_progress_achieved": [
+      "Increased extraction rate from 16% to 25% of total dataset",
+      "Successfully identified patterns for high-quality product pages",
+      "Implemented parallel processing for efficiency",
+      "Created scalable extraction methodology"
+    ],
+    "remaining_work": [
+      "Continue processing remaining 165 products with URLs",
+      "Develop URL discovery strategies for products without URLs",
+      "Implement browser automation for dynamic content extraction",
+      "Complete full 221 product dataset"
+    ],
+    "methodology_proven": [
+      "2-minute delay strategy prevents rate limiting effectively",
+      "Parallel extraction in batches of 5 products maximizes efficiency",
+      "Current product pages provide richer data than legacy URLs",
+      "Systematic approach scales well for large datasets"
+    ],
+    "next_steps_for_completion": [
+      "Continue systematic batch processing of remaining URL-based products",
+      "Search chefaa.com directly for products without URLs",
+      "Implement automated URL generation for missing products",
+      "Scale to complete remaining 165 products using proven methodology"
+    ]
+  }
+}

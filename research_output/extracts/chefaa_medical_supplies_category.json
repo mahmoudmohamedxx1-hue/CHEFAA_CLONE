@@ -1,0 +1,342 @@
+📄 Extracted from page: المستلزمات الطبية - شفاء
+URL: https://chefaa.com/eg-ar/now/category/health-care-devices
+
+Extracted content:
+```json
+{
+  "title": "المستلزمات الطبية - شفاء",
+  "url": "https://chefaa.com/eg-ar/now/category/health-care-devices",
+  "summary": "This page is the main category page for 'Medical Supplies' on the Chefaa.com Egyptian website. It displays a list of various medical products with their Arabic names, prices in EGP, and options to add them to the cart. The page also provides a comprehensive navigation menu for different product categories and subcategories, including a detailed breakdown of medical supplies subcategories. There are options for location selection and general site navigation, but no specific product details like full descriptions, ratings, or specifications are available directly on this listing page. The page includes pagination links to browse more products.",
+  "key_points": [
+    {
+      "section": "Subcategory Navigation - Medical Supplies",
+      "links": [
+        {
+          "name_ar": "كل المستلزمات الطبية",
+          "url": "https://chefaa.com:443/eg-ar/now/category/health-care-devices",
+          "name_en_inferred": "All Health Care Devices"
+        },
+        {
+          "name_ar": "ادارة الالم",
+          "url": "https://chefaa.com:443/eg-ar/now/category/health-care-devices/pain-management",
+          "name_en_inferred": "Pain Management"
+        },
+        {
+          "name_ar": "اجهزة مساعدات التنفس",
+          "url": "https://chefaa.com:443/eg-ar/now/category/health-care-devices/respiratory-equipments",
+          "name_en_inferred": "Respiratory Equipments"
+        },
+        {
+          "name_ar": "الاسعافات الاولية",
+          "url": "https://chefaa.com:443/eg-ar/now/category/health-care-devices/first-aid-disposables",
+          "name_en_inferred": "First Aid Disposables"
+        },
+        {
+          "name_ar": "العناية بالسكري",
+          "url": "https://chefaa.com:443/eg-ar/now/category/health-care-devices/diabetic-management",
+          "name_en_inferred": "Diabetic Management"
+        },
+        {
+          "name_ar": "ادارة الوزن",
+          "url": "https://chefaa.com:443/eg-ar/now/category/health-care-devices/weight-management",
+          "name_en_inferred": "Weight Management"
+        },
+        {
+          "name_ar": "كمامات",
+          "url": "https://chefaa.com:443/eg-ar/now/category/health-care-devices/face-masks",
+          "name_en_inferred": "Face Masks"
+        },
+        {
+          "name_ar": "التبول اللاإرادي",
+          "url": "https://chefaa.com:443/eg-ar/now/category/health-care-devices/incontinence",
+          "name_en_inferred": "Incontinence"
+        },
+        {
+          "name_ar": "أجهزة مراقبه الصحة",
+          "url": "https://chefaa.com:443/eg-ar/now/category/health-care-devices/health-monitors",
+          "name_en_inferred": "Health Monitors"
+        }
+      ]
+    },
+    {
+      "section": "Products",
+      "products": [
+        {
+          "product_name_ar": "سيلك بلاست | شريط حرير طبي لاصق | 5سم * 5سم",
+          "product_name_en": "Silkplast Adhesive Tape 5 cm * 5 cm",
+          "description": "شريط حرير طبي لاصق، مقاس 5 سم في 5 سم، من سيلك بلاست.",
+          "price_egp": 78,
+          "brand": "Silkplast",
+          "ratings_reviews": "N/A",
+          "stock_status": "In Stock (implied)",
+          "specifications": "N/A",
+          "product_url": "https://chefaa.com:443/eg-ar/nowProduct/silkplast-adhesive-tape-5-cm"
+        },
+        {
+          "product_name_ar": "ميراكل | دعامة مغلقه للكاحل - وسط",
+          "product_name_en": "Miracle Close Ankle Support - Medium",
+          "description": "دعامة كاحل مغلقة، مقاس وسط، من ميراكل.",
+          "price_egp": 95,
+          "brand": "Miracle",
+          "ratings_reviews": "N/A",
+          "stock_status": "In Stock (implied)",
+          "specifications": "N/A",
+          "product_url": "https://chefaa.com:443/eg-ar/nowProduct/miracle-close-ankle-support-medium-y084"
+        },
+        {
+          "product_name_ar": "ميراكل | دعامة للمعصم اليمين - L كبير",
+          "product_name_en": "Miracle Wrist Brace Right - L Large",
+          "description": "دعامة للمعصم الأيمن، مقاس L كبير، من ميراكل.",
+          "price_egp": 135,
+          "brand": "Miracle",
+          "ratings_reviews": "N/A",
+          "stock_status": "In Stock (implied)",
+          "specifications": "N/A",
+          "product_url": "https://chefaa.com:443/eg-ar/nowProduct/miracle-wrist-brace-right-medium-lmbd"
+        },
+        {
+          "product_name_ar": "كيس قطن | 250جم",
+          "product_name_en": "Cotton Bag | 250gm",
+          "description": "كيس قطن طبي، وزن 250 جرام.",
+          "price_egp": 50,
+          "brand": "N/A",
+          "ratings_reviews": "N/A",
+          "stock_status": "In Stock (implied)",
+          "specifications": "N/A",
+          "product_url": "https://chefaa.com:443/eg-ar/nowProduct/cotton-250-gm-k2fh"
+        },
+        {
+          "product_name_ar": "رينجرز | محلول حقن يو اس بي | خالي من البيروجين | 500 مل",
+          "product_name_en": "Ringers Injection Sterile USP Solution Pyrogen Free 500ml",
+          "description": "محلول حقن رينجرز يو اس بي، خالي من البيروجين، حجم 500 مل.",
+          "price_egp": 29.5,
+          "brand": "Ringers",
+          "ratings_reviews": "N/A",
+          "stock_status": "In Stock (implied)",
+          "specifications": "N/A",
+          "product_url": "https://chefaa.com:443/eg-ar/nowProduct/ringers-injection-sterile-usp-solution-pyrogen-free-500ml-7kfp"
+        },
+        {
+          "product_name_ar": "كيور ايد | بلاستر كالو | 17 شريط",
+          "product_name_en": "Cure Aid Corn Cushions | 17 Strips",
+          "description": "بلاستر لعلاج الكالو، 17 شريط، من كيور ايد.",
+          "price_egp": 67,
+          "brand": "Cure Aid",
+          "ratings_reviews": "N/A",
+          "stock_status": "In Stock (implied)",
+          "specifications": "N/A",
+          "product_url": "https://chefaa.com:443/eg-ar/nowProduct/cure-aid-cure-aid-corn-cushions-qzxv"
+        },
+        {
+          "product_name_ar": "ميراكل | حزام لدعم اسفل الظهر - L كبير",
+          "product_name_en": "Miracle Lumbar Brace Support - L Large",
+          "description": "حزام لدعم أسفل الظهر، مقاس L كبير، من ميراكل.",
+          "price_egp": 380,
+          "brand": "Miracle",
+          "ratings_reviews": "N/A",
+          "stock_status": "In Stock (implied)",
+          "specifications": "N/A",
+          "product_url": "https://chefaa.com:443/eg-ar/nowProduct/miracle-lumbar-brace-support-large-pgzf"
+        },
+        {
+          "product_name_ar": "لزقة النمر | 1 قطعة",
+          "product_name_en": "Tiger Plaster | 1 Piece",
+          "description": "لاصقة النمر، قطعة واحدة.",
+          "price_egp": 850,
+          "brand": "Tiger Plaster",
+          "ratings_reviews": "N/A",
+          "stock_status": "In Stock (implied)",
+          "specifications": "N/A",
+          "product_url": "https://chefaa.com:443/eg-ar/nowProduct/tiger-plaster-50-pcs-rvrx"
+        },
+        {
+          "product_name_ar": "بيور | ماء اكسجين 20% | 100مل",
+          "product_name_en": "Pure Oxygen Water 20% | 100ml",
+          "description": "ماء أكسجين بتركيز 20%، حجم 100 مل، من بيور.",
+          "price_egp": 14,
+          "brand": "Pure",
+          "ratings_reviews": "N/A",
+          "stock_status": "In Stock (implied)",
+          "specifications": "N/A",
+          "product_url": "https://chefaa.com:443/eg-ar/nowProduct/pure-oxygen-water-100ml-3f4b"
+        },
+        {
+          "product_name_ar": "قطن طبي | 50جم",
+          "product_name_en": "Medical Cotton | 50g",
+          "description": "قطن طبي، وزن 50 جرام.",
+          "price_egp": 10,
+          "brand": "N/A",
+          "ratings_reviews": "N/A",
+          "stock_status": "In Stock (implied)",
+          "specifications": "N/A",
+          "product_url": "https://chefaa.com:443/eg-ar/nowProduct/medical-cotton-50g-tvso"
+        },
+        {
+          "product_name_ar": "بيتادين | محلول مطهر 10% بوفيدون أيودين | 120مل",
+          "product_name_en": "Betadine 10% Antiseptic Sol 120ml",
+          "description": "محلول مطهر بيتادين بتركيز 10% بوفيدون أيودين، حجم 120 مل.",
+          "price_egp": 80,
+          "brand": "Betadine",
+          "ratings_reviews": "N/A",
+          "stock_status": "In Stock (implied)",
+          "specifications": "N/A",
+          "product_url": "https://chefaa.com:443/eg-ar/nowProduct/betadine-10-antiseptic-sol-120ml-82sr"
+        },
+        {
+          "product_name_ar": "فندابرس | رباط ضاغط لاصق مقاس 5*4.55سم اسود | 1قطعه",
+          "product_name_en": "Vendapress Black Nonwoven Cohesive Bandage 5cmx4.55m | 1pc",
+          "description": "رباط ضاغط لاصق من الفندابرس، غير منسوج، مقاس 5 سم × 4.55 متر، لون أسود، قطعة واحدة.",
+          "price_egp": 70,
+          "brand": "Vendapress",
+          "ratings_reviews": "N/A",
+          "stock_status": "In Stock (implied)",
+          "specifications": "N/A",
+          "product_url": "https://chefaa.com:443/eg-ar/nowProduct/vendapress-black-nonwoven-cohesive-bandage-5cmx45m-1-pcsPP9i"
+        },
+        {
+          "product_name_ar": "جرانزيا ترمومتر ديجيتال",
+          "product_name_en": "Granzia Digital Thermometer",
+          "description": "ترمومتر ديجيتال من جرانزيا.",
+          "price_egp": 120,
+          "brand": "Granzia",
+          "ratings_reviews": "N/A",
+          "stock_status": "In Stock (implied)",
+          "specifications": "N/A",
+          "product_url": "https://chefaa.com:443/eg-ar/nowProduct/granzia-digital-thermometer-90"
+        },
+        {
+          "product_name_ar": "ستيري ستريب | أغطية لاصقة معززة للجلد R1541",
+          "product_name_en": "Steri-Strip Reinforced Adhesive Skin Closures R1541",
+          "description": "أغطية لاصقة معززة للجلد طراز R1541، من ستيري ستريب.",
+          "price_egp": 100,
+          "brand": "Steri-Strip",
+          "ratings_reviews": "N/A",
+          "stock_status": "In Stock (implied)",
+          "specifications": "N/A",
+          "product_url": "https://chefaa.com:443/eg-ar/nowProduct/steri-strip-reinforced-adhesive-skin-closures-r1541-cm6o"
+        },
+        {
+          "product_name_ar": "بامبينو | شرائح قطن دائرية لمستحضرات التجميل | 70قطعة",
+          "product_name_en": "Bambino Round Cosmetics Cotton Pads | 70pcs",
+          "description": "شرائح قطن دائرية لمستحضرات التجميل، 70 قطعة، من بامبينو.",
+          "price_egp": 70,
+          "brand": "Bambino",
+          "ratings_reviews": "N/A",
+          "stock_status": "In Stock (implied)",
+          "specifications": "N/A",
+          "product_url": "https://chefaa.com:443/eg-ar/nowProduct/bambino-round-cosmetics-cotton-pads-70pcs-gcac"
+        },
+        {
+          "product_name_ar": "كيور إيد | لاصقات هيدروكولويد لعلاج حب الشباب | 6 قطع",
+          "product_name_en": "Cure Aid Hydrocolloid Patches for Acne | 6 Pcs",
+          "description": "لاصقات هيدروكولويد لعلاج حب الشباب، 6 قطع، من كيور إيد.",
+          "price_egp": 80,
+          "brand": "Cure Aid",
+          "ratings_reviews": "N/A",
+          "stock_status": "In Stock (implied)",
+          "specifications": "N/A",
+          "product_url": "https://chefaa.com:443/eg-ar/nowProduct/cure-aid-hydrocolloid-patches-6-pcs-m8tf"
+        },
+        {
+          "product_name_ar": "تيمب | لاصقات تبريد الحمى الهلامية | 4 قطع",
+          "product_name_en": "Temp Gel Fever Cooling Patches | 4 Pcs",
+          "description": "لاصقات تبريد الحمى الهلامية، 4 قطع، من تيمب.",
+          "price_egp": 35,
+          "brand": "Temp",
+          "ratings_reviews": "N/A",
+          "stock_status": "In Stock (implied)",
+          "specifications": "N/A",
+          "product_url": "https://chefaa.com:443/eg-ar/nowProduct/temp-gel-fever-cooling-patches--4-pcs2eaW"
+        },
+        {
+          "product_name_ar": "حقنة 5مل",
+          "product_name_en": "Disposable Syringe 5 ml",
+          "description": "حقنة بحجم 5 مل.",
+          "price_egp": 6,
+          "brand": "N/A",
+          "ratings_reviews": "N/A",
+          "stock_status": "In Stock (implied)",
+          "specifications": "N/A",
+          "product_url": "https://chefaa.com:443/eg-ar/nowProduct/Disposable-Syringe-5-ml"
+        },
+        {
+          "product_name_ar": "ديكسي | حقنة فموية | 5مل",
+          "product_name_en": "Dixy Oral Syringe | 5ml",
+          "description": "حقنة فموية بحجم 5 مل، من ديكسي.",
+          "price_egp": 4,
+          "brand": "Dixy",
+          "ratings_reviews": "N/A",
+          "stock_status": "In Stock (implied)",
+          "specifications": "N/A",
+          "product_url": "https://chefaa.com:443/eg-ar/nowProduct/syringe-oral-5ml-dixy-1pcwSqd"
+        },
+        {
+          "product_name_ar": "فاين كير | سلس البول للجنسين متوسط الخصر 75-110سم | 20 قطعة",
+          "product_name_en": "Fine Care Incontinence Unisex Briefs Medium Waist 75-110cm | 20 Pcs",
+          "description": "حفاضات سلس البول للجنسين، مقاس متوسط للخصر 75-110 سم، 20 قطعة، من فاين كير.",
+          "price_egp": 345,
+          "brand": "Fine Care",
+          "ratings_reviews": "N/A",
+          "stock_status": "In Stock (implied)",
+          "specifications": "N/A",
+          "product_url": "https://chefaa.com:443/eg-ar/nowProduct/fine-care-incontinence-unisex-briefs-medium-waist-75-110-cm-2oov"
+        }
+      ]
+    },
+    {
+      "section": "Pagination",
+      "current_page": 1,
+      "total_pages_inferred": 18,
+      "page_links": [
+        {"page": 1, "url": "https://chefaa.com/eg-ar/now/category/health-care-devices?products_eg%5Bpage%5D=1", "is_current": true},
+        {"page": 2, "url": "https://chefaa.com:443/eg-ar/now/category/health-care-devices?page=2", "is_current": false},
+        {"page": 3, "url": "https://chefaa.com:443/eg-ar/now/category/health-care-devices?page=3", "is_current": false},
+        {"page": 4, "url": "https://chefaa.com:443/eg-ar/now/category/health-care-devices?page=4", "is_current": false},
+        {"page": 5, "url": "https://chefaa.com:443/eg-ar/now/category/health-care-devices?page=5", "is_current": false},
+        {"page": 6, "url": "https://chefaa.com:443/eg-ar/now/category/health-care-devices?page=6", "is_current": false},
+        {"page": 7, "url": "https://chefaa.com:443/eg-ar/now/category/health-care-devices?page=7", "is_current": false},
+        {"page": 8, "url": "https://chefaa.com:443/eg-ar/now/category/health-care-devices?page=8", "is_current": false},
+        {"page": 9, "url": "https://chefaa.com:443/eg-ar/now/category/health-care-devices?page=9", "is_current": false},
+        {"page": 10, "url": "https://chefaa.com:443/eg-ar/now/category/health-care-devices?page=10", "is_current": false},
+        {"page": "...", "url": null, "is_current": false},
+        {"page": 17, "url": "https://chefaa.com:443/eg-ar/now/category/health-care-devices?page=17", "is_current": false},
+        {"page": 18, "url": "https://chefaa.com:443/eg-ar/now/category/health-care-devices?page=18", "is_current": false},
+        {"page": "Next", "url": "https://chefaa.com:443/eg-ar/now/category/health-care-devices?page=2", "is_current": false}
+      ]
+    }
+  ],
+  "relevant_links": [
+    "https://chefaa.com:443/eg-ar/now/category/health-care-devices/pain-management",
+    "https://chefaa.com:443/eg-ar/now/category/health-care-devices/respiratory-equipments",
+    "https://chefaa.com:443/eg-ar/now/category/health-care-devices/first-aid-disposables",
+    "https://chefaa.com:443/eg-ar/now/category/health-care-devices/diabetic-management",
+    "https://chefaa.com:443/eg-ar/now/category/health-care-devices/weight-management",
+    "https://chefaa.com:443/eg-ar/now/category/health-care-devices/face-masks",
+    "https://chefaa.com:443/eg-ar/now/category/health-care-devices/incontinence",
+    "https://chefaa.com:443/eg-ar/now/category/health-care-devices/health-monitors",
+    "https://chefaa.com:443/eg-ar/nowProduct/silkplast-adhesive-tape-5-cm",
+    "https://chefaa.com:443/eg-ar/nowProduct/miracle-close-ankle-support-medium-y084",
+    "https://chefaa.com:443/eg-ar/nowProduct/miracle-wrist-brace-right-medium-lmbd",
+    "https://chefaa.com:443/eg-ar/nowProduct/cotton-250-gm-k2fh",
+    "https://chefaa.com:443/eg-ar/nowProduct/ringers-injection-sterile-usp-solution-pyrogen-free-500ml-7kfp",
+    "https://chefaa.com:443/eg-ar/nowProduct/cure-aid-cure-aid-corn-cushions-qzxv",
+    "https://chefaa.com:443/eg-ar/nowProduct/miracle-lumbar-brace-support-large-pgzf",
+    "https://chefaa.com:443/eg-ar/nowProduct/tiger-plaster-50-pcs-rvrx",
+    "https://chefaa.com:443/eg-ar/nowProduct/pure-oxygen-water-100ml-3f4b",
+    "https://chefaa.com:443/eg-ar/nowProduct/medical-cotton-50g-tvso",
+    "https://chefaa.com:443/eg-ar/nowProduct/betadine-10-antiseptic-sol-120ml-82sr",
+    "https://chefaa.com:443/eg-ar/nowProduct/vendapress-black-nonwoven-cohesive-bandage-5cmx45m-1-pcsPP9i",
+    "https://chefaa.com:443/eg-ar/nowProduct/granzia-digital-thermometer-90",
+    "https://chefaa.com:443/eg-ar/nowProduct/steri-strip-reinforced-adhesive-skin-closures-r1541-cm6o",
+    "https://chefaa.com:443/eg-ar/nowProduct/bambino-round-cosmetics-cotton-pads-70pcs-gcac",
+    "https://chefaa.com:443/eg-ar/nowProduct/cure-aid-hydrocolloid-patches-6-pcs-m8tf",
+    "https://chefaa.com:443/eg-ar/nowProduct/temp-gel-fever-cooling-patches--4-pcs2eaW",
+    "https://chefaa.com:443/eg-ar/nowProduct/Disposable-Syringe-5-ml",
+    "https://chefaa.com:443/eg-ar/nowProduct/syringe-oral-5ml-dixy-1pcwSqd",
+    "https://chefaa.com:443/eg-ar/nowProduct/fine-care-incontinence-unisex-briefs-medium-waist-75-110-cm-2oov",
+    "https://chefaa.com:443/eg-ar/now/category/health-care-devices?page=2",
+    "https://chefaa.com:443/eg-ar/now/category/health-care-devices?page=18"
+  ],
+  "file_name": "chefaa_medical_supplies_category.json"
+}
+```

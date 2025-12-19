@@ -1,0 +1,27 @@
+📄 Extracted from page: العناية بالبشرة - شفاء
+URL: https://chefaa.com/eg-ar/now/category/skin-care
+
+Extracted content:
+```json
+{
+  "title": "العناية بالبشرة - شفاء",
+  "url": "https://chefaa.com/eg-ar/now/category/skin-care",
+  "summary": "This page, titled \"العناية بالبشرة - شفاء\" (Skin Care - Chefaa), is dedicated to listing various skin care products. Despite the specific extraction goal of finding 'Hair Care products', no such products are found directly on this page. The page primarily showcases items related to skin care, such as moisturizers, deodorants, serums, masks, cleansers, and eye creams from brands like Nivea, Eva, and Starville. The site's navigation menu, however, does provide links to a dedicated 'Hair Care' section and its subcategories, indicating where hair care products would typically be located.",
+  "key_points": [
+    "The page content is exclusively for 'Skin Care' products.",
+    "No 'Hair Care' products are listed on this specific page.",
+    "Skin care products found include items for moisturizing, cleansing, anti-aging, and acne treatment.",
+    "Brands featured for skin care include Nivea, Eva, and Starville.",
+    "A comprehensive navigation menu is available, which includes a separate section for 'العناية بالشعر' (Hair Care) with subcategories like shampoo, conditioner, treatments, styling devices, and hair coloring."
+  ],
+  "relevant_links": [
+    "https://chefaa.com:443/eg-ar/now/category/hair-care",
+    "https://chefaa.com:443/eg-ar/now/category/hair-care/shampoo-conditioner",
+    "https://chefaa.com:443/eg-ar/now/category/hair-care/nourishment-treatment",
+    "https://chefaa.com:443/eg-ar/now/category/hair-care/hair-styling-devices",
+    "https://chefaa.com:443/eg-ar/now/category/hair-care/hair-coloring"
+  ],
+  "hair_care_products": [],
+  "file_name": "chefaa_hair_care_products_not_found.json"
+}
+```

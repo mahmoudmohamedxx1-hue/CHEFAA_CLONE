@@ -1,0 +1,215 @@
+{
+  "extraction_metadata": {
+    "page_number": 64,
+    "phase": "Phase 4",
+    "extraction_date": "2025-11-01",
+    "source_url": "https://chefaa.com/eg-ar/now/category/medications?page=64",
+    "total_medications_extracted": 20,
+    "cumulative_total": 1137
+  },
+  "medications": [
+    {
+      "arabic_name": "دانست لتقليل شعور الغثيان والقيء 8مجم / 4مل | 3 أمبولات",
+      "english_brand_name": "Danset",
+      "price_egp": 142.5,
+      "availability_status": "In Stock",
+      "prescription_required": false,
+      "dosage_information": "8mg/4ml | 3 ampoules",
+      "therapeutic_uses": "To reduce nausea and vomiting"
+    },
+    {
+      "arabic_name": "اكرتين 0.05% كريم لعلاج حب الشباب | 30جم",
+      "english_brand_name": "Acretin",
+      "price_egp": 43.0,
+      "availability_status": "In Stock",
+      "prescription_required": false,
+      "dosage_information": "0.05% Cream | 30g",
+      "therapeutic_uses": "For treating acne"
+    },
+    {
+      "arabic_name": "جليفلوزينو 10مجم | 30 قرص",
+      "english_brand_name": "Gliflozino",
+      "price_egp": 214.5,
+      "availability_status": "In Stock",
+      "prescription_required": true,
+      "dosage_information": "10mg | 30 tablets",
+      "therapeutic_uses": "Diabetes medication"
+    },
+    {
+      "arabic_name": "فاركوفيت | بي 12 | 30كبسولة",
+      "english_brand_name": "Farcovit B12",
+      "price_egp": 45.0,
+      "availability_status": "In Stock",
+      "prescription_required": false,
+      "dosage_information": "B12 | 30 capsules",
+      "therapeutic_uses": "Vitamin B12 supplement"
+    },
+    {
+      "arabic_name": "سيديبروكت | 6لبوس",
+      "english_brand_name": "Sediproct",
+      "price_egp": 26.0,
+      "availability_status": "In Stock",
+      "prescription_required": true,
+      "dosage_information": "6 suppositories",
+      "therapeutic_uses": "Hemorrhoid treatment"
+    },
+    {
+      "arabic_name": "كوليتريكس فيتامين د3 قطرات عن طريق الفم للرضع 400 وحدة دولي...",
+      "english_brand_name": "Choletrix Vitamin D3",
+      "price_egp": 75.0,
+      "availability_status": "In Stock",
+      "prescription_required": false,
+      "dosage_information": "Vitamin D3, 400 IU | 20ml oral drops for infants",
+      "therapeutic_uses": "Vitamin D3 supplement for infants"
+    },
+    {
+      "arabic_name": "امريزول مضاد حيوي 500جم | 1 امبول",
+      "english_brand_name": "Amrizole",
+      "price_egp": 47.0,
+      "availability_status": "In Stock",
+      "prescription_required": true,
+      "dosage_information": "500mg | 1 ampoule (IV infusion)",
+      "therapeutic_uses": "Antibiotic"
+    },
+    {
+      "arabic_name": "ديب فريز | فارماكون سبراي | 125جم",
+      "english_brand_name": "Pharmakon Deepfreeze Massage Cold Spray",
+      "price_egp": 138.0,
+      "availability_status": "In Stock",
+      "prescription_required": false,
+      "dosage_information": "125g spray",
+      "therapeutic_uses": "Massage cold spray for pain relief"
+    },
+    {
+      "arabic_name": "التراسولف | علاج طارد للبلغم | 120 مل شراب",
+      "english_brand_name": "Ultrasolv",
+      "price_egp": 40.0,
+      "availability_status": "In Stock",
+      "prescription_required": false,
+      "dosage_information": "120ml syrup",
+      "therapeutic_uses": "Expectorant treatment"
+    },
+    {
+      "arabic_name": "نورينوز بخاخ للانف للحساسية norhinose spray | ١٢٠ جرعة",
+      "english_brand_name": "Norhinose spray",
+      "price_egp": 90.0,
+      "availability_status": "In Stock",
+      "prescription_required": false,
+      "dosage_information": "120 doses nasal spray",
+      "therapeutic_uses": "Nasal spray for allergy"
+    },
+    {
+      "arabic_name": "ايزابريل |“Hay刺史ک트領ا(rEleva在10مجم | 30 قرص",
+      "english_brand_name": "Ezapril",
+      "price_egp": 54.0,
+      "availability_status": "In Stock",
+      "prescription_required": false,
+      "dosage_information": "10mg | 30 tablets",
+      "therapeutic_uses": "For treating high blood pressure"
+    },
+    {
+      "arabic_name": "دواء بلوكاتنس 5/80 blokatens لعلاج ارتفاع ضغط الدم | 28 قرص",
+      "english_brand_name": "Blokatens",
+      "price_egp": 122.0,
+      "availability_status": "In Stock",
+      "prescription_required": true,
+      "dosage_information": "5/80 | 28 tablets",
+      "therapeutic_uses": "For treating high blood pressure"
+    },
+    {
+      "arabic_name": "تريكسوزولا 2.5مجم | 10 أقراص",
+      "english_brand_name": "Trexozola",
+      "price_egp": 197.0,
+      "availability_status": "In Stock",
+      "prescription_required": true,
+      "dosage_information": "2.5mg | 10 tablets",
+      "therapeutic_uses": "Antibiotic"
+    },
+    {
+      "arabic_name": "سيدامكس | 250 ملجم | 20 قرص",
+      "english_brand_name": "Cidamex",
+      "price_egp": 60.0,
+      "availability_status": "In Stock",
+      "prescription_required": true,
+      "dosage_information": "250mg | 20 tablets",
+      "therapeutic_uses": "Antibiotic"
+    },
+    {
+      "arabic_name": "هيدروكين | لمعالجة آلام العظام 200مج | 20 قرص",
+      "english_brand_name": "Hydroquine",
+      "price_egp": 82.0,
+      "availability_status": "In Stock",
+      "prescription_required": true,
+      "dosage_information": "200mg | 20 tablets",
+      "therapeutic_uses": "For treating bone pain"
+    },
+    {
+      "arabic_name": "الكابرس | لعلاج ارتفاع ضغط الدم 10مج | 30 قرص",
+      "english_brand_name": "Alkapress",
+      "price_egp": 108.0,
+      "availability_status": "In Stock",
+      "prescription_required": true,
+      "dosage_information": "10mg | 30 tablets",
+      "therapeutic_uses": "For treating high blood pressure"
+    },
+    {
+      "arabic_name": "بانادول اكسترا لتخفيف إضافي ومسكن فعال للألم والحمي 500مجم ...",
+      "english_brand_name": "Panadol Extra",
+      "price_egp": 108.0,
+      "availability_status": "In Stock",
+      "prescription_required": false,
+      "dosage_information": "500mg | 48 FC tablets",
+      "therapeutic_uses": "For extra relief and effective pain and fever relief"
+    },
+    {
+      "arabic_name": "جلينسرت كريم | 20جم",
+      "english_brand_name": "Glensert Cream",
+      "price_egp": 52.0,
+      "availability_status": "In Stock",
+      "prescription_required": false,
+      "dosage_information": "20g cream",
+      "therapeutic_uses": "Anti-inflammatory cream"
+    },
+    {
+      "arabic_name": "ديباكين 200 مل/مجم | 40 مل",
+      "english_brand_name": "Depakine",
+      "price_egp": 47.0,
+      "availability_status": "In Stock",
+      "prescription_required": false,
+      "dosage_information": "200ml/mg | 40ml",
+      "therapeutic_uses": "Epilepsy medication"
+    },
+    {
+      "arabic_name": "فاجلوزينو 25مجم | 30 قرص",
+      "english_brand_name": "Faglozino",
+      "price_egp": 207.0,
+      "availability_status": "In Stock",
+      "prescription_required": true,
+      "dosage_information": "25mg | 30 tablets",
+      "therapeutic_uses": "Diabetes medication"
+    }
+  ],
+  "therapeutic_categories": {
+    "antibiotics": ["Amrizole", "Trexozola", "Cidamex"],
+    "diabetes_treatments": ["Gliflozino", "Faglozino"],
+    "blood_pressure": ["Ezapril", "Blokatens", "Alkapress"],
+    "pain_relief": ["Panadol Extra", "Pharmakon Deepfreeze", "Hydroquine"],
+    "vitamins_supplements": ["Farcovit B12", "Choletrix Vitamin D3"],
+    "respiratory": ["Ultrasolv expectorant", "Norhinose nasal spray"],
+    "dermatological": ["Acretin acne cream", "Glensert cream"],
+    "epilepsy": ["Depakine"],
+    "hemorrhoids": ["Sediproct"],
+    "anti_nausea": ["Danset"]
+  },
+  "price_analysis": {
+    "minimum_price": 26.0,
+    "maximum_price": 214.5,
+    "average_price": 96.9,
+    "total_page_value": 1938.5
+  },
+  "prescription_distribution": {
+    "prescription_required": 9,
+    "otc_available": 11,
+    "prescription_percentage": 45.0
+  }
+}

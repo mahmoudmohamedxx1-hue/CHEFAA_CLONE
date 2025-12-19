@@ -1,0 +1,247 @@
+📄 Extracted from page: العناية بالبشرة - شفاء
+URL: https://chefaa.com/eg-ar/now/category/skin-care?page=2
+
+Extracted content:
+```json
+{
+  "title": "العناية بالبشرة - شفاء",
+  "url": "https://chefaa.com/eg-ar/now/category/skin-care?page=2",
+  "summary": "This page displays a selection of skin care products, primarily from the brands Starville and Shaan, under the 'Skin Care' category on Chefaa's Egyptian website. The products include a variety of items such as serums, cleansers, micellar water, deodorants with whitening properties, creams, gels, masks, lip balms, and body moisturizers. The pricing for these products ranges from 45 EGP to 290 EGP. The page is part of a larger catalog, indicated by clear pagination showing it as page 2 of 56.",
+  "key_points": [
+    "Displays 20 distinct skin care products from two primary brands: Starville and Shaan.",
+    "Product types include serums, cleansers, micellar products, deodorants, creams, gels, masks, soaps, lip balms, and body lotions.",
+    "Prices for products on this page range from 45 EGP to 290 EGP.",
+    "Many products feature benefits like moisturizing, whitening, skin tone unifying, and addressing specific skin types (dry, oily, combination, sensitive).",
+    "One product is marked as 'كمية محدودة' (Limited quantity), while others are generally available for purchase.",
+    "The page uses a clear pagination system, indicating it is 'page 2' within a category of 56 pages."
+  ],
+  "products": [
+    {
+      "product_name_arabic": "سيروم ستارفيل هيالورونيك اسيد مرطب وموحد للون البشرة",
+      "product_name_english": "Starville Hyaluronic Acid Serum Moisturizing and Skin Tone Unifying",
+      "price_egp": 290.00,
+      "brand_name": "Starville",
+      "product_type_category": "Serum",
+      "size_volume": "30 مل",
+      "ratings": null,
+      "availability_status": "Available",
+      "brief_description_features": "Hyaluronic Acid serum for moisturizing and unifying skin tone."
+    },
+    {
+      "product_name_arabic": "ستارفيل | ماء ميسيلار تربيل اكشن لجميع انواع البشرة",
+      "product_name_english": "Starville | Triple Action Micellar Water for All Skin Types",
+      "price_egp": 125.00,
+      "brand_name": "Starville",
+      "product_type_category": "Micellar Water",
+      "size_volume": "200مل",
+      "ratings": null,
+      "availability_status": "Available",
+      "brief_description_features": "Triple action micellar water suitable for all skin types."
+    },
+    {
+      "product_name_arabic": "ستارفيل | مناديل ميسيلار المبللة لإزالة المكياج",
+      "product_name_english": "Starville | Micellar Wipes for Makeup Removal",
+      "price_egp": 100.00,
+      "brand_name": "Starville",
+      "product_type_category": "Micellar Wipes",
+      "size_volume": "50منديل",
+      "ratings": null,
+      "availability_status": "Available",
+      "brief_description_features": "Micellar wet wipes for effective makeup removal."
+    },
+    {
+      "product_name_arabic": "ستارفيل | رول اون لايت بينك مزيل للعرق ومفتح للبشرة برائحة ...",
+      "product_name_english": "Starville | Light Pink Roll-on Deodorant and Whitening with ... scent",
+      "price_egp": 130.00,
+      "brand_name": "Starville",
+      "product_type_category": "Deodorant Roll-on",
+      "size_volume": "60ml",
+      "ratings": null,
+      "availability_status": "Available",
+      "brief_description_features": "Light pink scented roll-on deodorant with skin whitening properties."
+    },
+    {
+      "product_name_arabic": "مزيل عرق ستارفيل بالتوت رول اون",
+      "product_name_english": "Starville Berry Roll-on Deodorant",
+      "price_egp": 130.00,
+      "brand_name": "Starville",
+      "product_type_category": "Deodorant Roll-on",
+      "size_volume": "60 مل",
+      "ratings": null,
+      "availability_status": "Available",
+      "brief_description_features": "Berry scented roll-on deodorant."
+    },
+    {
+      "product_name_arabic": "ستارفيل | فيتامين سي سيروم لتقليل التجاعيد وتوحيد لون البشر...",
+      "product_name_english": "Starville | Vitamin C Serum for Wrinkle Reduction and Skin Tone Unification",
+      "price_egp": 290.00,
+      "brand_name": "Starville",
+      "product_type_category": "Serum",
+      "size_volume": "30ml",
+      "ratings": null,
+      "availability_status": "Available",
+      "brief_description_features": "Vitamin C serum designed to reduce wrinkles and unify skin tone."
+    },
+    {
+      "product_name_arabic": "غسول ستارفيل للتفتيح الابيض starville whitening cleanser",
+      "product_name_english": "Starville Whitening Cleanser",
+      "price_egp": 160.00,
+      "brand_name": "Starville",
+      "product_type_category": "Cleanser",
+      "size_volume": "200ml",
+      "ratings": null,
+      "availability_status": "Limited quantity",
+      "brief_description_features": "Whitening cleanser."
+    },
+    {
+      "product_name_arabic": "ستارفيل | منظف ومبيض200مل + كريم تبييض 60جم عرض 1+1",
+      "product_name_english": "Starville | Cleanser and Whitening 200ml + Whitening Cream 60g 1+1 Offer",
+      "price_egp": 142.50,
+      "brand_name": "Starville",
+      "product_type_category": "Cleanser & Whitening Cream Bundle",
+      "size_volume": "Cleanser 200ml + Cream 60g",
+      "ratings": null,
+      "availability_status": "Available",
+      "brief_description_features": "Bundle offer including a whitening cleanser and a whitening cream."
+    },
+    {
+      "product_name_arabic": "كريم ستارفيل للتفتيح starville whitening cream",
+      "product_name_english": "Starville Whitening Cream",
+      "price_egp": 130.00,
+      "brand_name": "Starville",
+      "product_type_category": "Cream",
+      "size_volume": "60 مل/جم",
+      "ratings": null,
+      "availability_status": "Available",
+      "brief_description_features": "Whitening cream with Arbutin."
+    },
+    {
+      "product_name_arabic": "ستارفيل | ماسك ورقي للبشرة للتفتيح",
+      "product_name_english": "Starville | Skin Sheet Mask for Whitening",
+      "price_egp": 45.00,
+      "brand_name": "Starville",
+      "product_type_category": "Sheet Mask",
+      "size_volume": null,
+      "ratings": null,
+      "availability_status": "Available",
+      "brief_description_features": "Sheet mask for skin whitening."
+    },
+    {
+      "product_name_arabic": "ستارفيل وايتنج جل للتفتيح starville whitening gel",
+      "product_name_english": "Starville Whitening Gel",
+      "price_egp": 110.00,
+      "brand_name": "Starville",
+      "product_type_category": "Gel",
+      "size_volume": "60 جم",
+      "ratings": null,
+      "availability_status": "Available",
+      "brief_description_features": "Whitening gel."
+    },
+    {
+      "product_name_arabic": "ستارفيل رول اون مزيل عرق ومبيض بدون رائحة",
+      "product_name_english": "Starville Roll-on Deodorant and Whitening Unscented",
+      "price_egp": 140.00,
+      "brand_name": "Starville",
+      "product_type_category": "Deodorant Roll-on",
+      "size_volume": "60 مل",
+      "ratings": null,
+      "availability_status": "Available",
+      "brief_description_features": "Unscented roll-on deodorant with whitening effect."
+    },
+    {
+      "product_name_arabic": "ستارفيل | رول اون للتفتيح و تقليل الشعر",
+      "product_name_english": "Starville | Roll-on for Whitening and Hair Reduction",
+      "price_egp": 160.00,
+      "brand_name": "Starville",
+      "product_type_category": "Deodorant Roll-on",
+      "size_volume": "60مل",
+      "ratings": null,
+      "availability_status": "Available",
+      "brief_description_features": "Roll-on for skin whitening and hair reduction."
+    },
+    {
+      "product_name_arabic": "ستارفيل مزيل عرق رول اون للتفتيح بمزيج العطور العربية",
+      "product_name_english": "Starville Whitening Roll-on Deodorant with Oriental Pearl Scent",
+      "price_egp": 130.00,
+      "brand_name": "Starville",
+      "product_type_category": "Deodorant Roll-on",
+      "size_volume": "60 مل",
+      "ratings": null,
+      "availability_status": "Available",
+      "brief_description_features": "Roll-on deodorant with whitening and Oriental Pearl scent."
+    },
+    {
+      "product_name_arabic": "ستارفيل | صابونة للتفتيح",
+      "product_name_english": "Starville | Whitening Soap",
+      "price_egp": 50.00,
+      "brand_name": "Starville",
+      "product_type_category": "Soap",
+      "size_volume": "100جم",
+      "ratings": null,
+      "availability_status": "Available",
+      "brief_description_features": "Soap bar for skin whitening."
+    },
+    {
+      "product_name_arabic": "غسول شان للبشرة الجافة والمختلطة shaan cleanser",
+      "product_name_english": "Shaan Cleanser for Dry and Combination Skin",
+      "price_egp": 175.00,
+      "brand_name": "Shaan",
+      "product_type_category": "Cleanser",
+      "size_volume": "250 مل",
+      "ratings": null,
+      "availability_status": "Available",
+      "brief_description_features": "Cleanser formulated for dry and combination skin."
+    },
+    {
+      "product_name_arabic": "ليب بالم شان مرطب شفايف shaan lip balm",
+      "product_name_english": "Shaan Lip Balm Moisturizer",
+      "price_egp": 90.00,
+      "brand_name": "Shaan",
+      "product_type_category": "Lip Balm",
+      "size_volume": "5 جم",
+      "ratings": null,
+      "availability_status": "Available",
+      "brief_description_features": "Moisturizing lip balm."
+    },
+    {
+      "product_name_arabic": "مرطب شان كريم للبشرة الجافة والحساسة shaan cream",
+      "product_name_english": "Shaan Moisturizing Cream for Dry and Sensitive Skin",
+      "price_egp": 150.00,
+      "brand_name": "Shaan",
+      "product_type_category": "Cream",
+      "size_volume": "120 جم",
+      "ratings": null,
+      "availability_status": "Available",
+      "brief_description_features": "Moisturizing cream for dry and sensitive skin."
+    },
+    {
+      "product_name_arabic": "شان مرطب جل للبشره الدهنية والمختلطة",
+      "product_name_english": "Shaan Moisturizing Gel for Oily and Combination Skin",
+      "price_egp": 100.00,
+      "brand_name": "Shaan",
+      "product_type_category": "Gel",
+      "size_volume": "60 جم",
+      "ratings": null,
+      "availability_status": "Available",
+      "brief_description_features": "Moisturizing gel for oily and combination skin, contains Aloe Vera extract."
+    },
+    {
+      "product_name_arabic": "شان مرطب للجسم للبشرة الجافة وشديدة الجفاف",
+      "product_name_english": "Shaan Body Moisturizer for Dry and Very Dry Skin",
+      "price_egp": 200.00,
+      "brand_name": "Shaan",
+      "product_type_category": "Body Moisturizer",
+      "size_volume": "300 مل",
+      "ratings": null,
+      "availability_status": "Available",
+      "brief_description_features": "Body moisturizer specifically for dry and very dry skin."
+    }
+  ],
+  "relevant_links": [
+    "https://chefaa.com:443/eg-ar/now/category/skin-care?products_eg%5Bpage%5D=1",
+    "https://chefaa.com:443/eg-ar/now/category/skin-care?page=3",
+    "https://chefaa.com:443/eg-ar/now/category/skin-care?page=56"
+  ],
+  "file_name": "chefaa_skin_care_page2_products.json"
+}
+```

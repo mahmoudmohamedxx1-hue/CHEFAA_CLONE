@@ -1,0 +1,144 @@
+{
+  "medications": [
+    {
+      "product_name": "نيركاردوا 5مجم | 30 قرص",
+      "price_egp": 90.0,
+      "brand": null,
+      "description_category": "Medications",
+      "package_size": "30 قرص"
+    },
+    {
+      "product_name": "أوليبتينا | 25مجم | 30قرص",
+      "price_egp": 195.0,
+      "brand": null,
+      "description_category": "Medications",
+      "package_size": "30 قرص"
+    },
+    {
+      "product_name": "اومنيسيف 125 مجم \\ 5 مل | 40 مل شراب",
+      "price_egp": 150.0,
+      "brand": null,
+      "description_category": "Syrup",
+      "package_size": "40 مل شراب"
+    },
+    {
+      "product_name": "أوراماكس بي | غسول فم للأطفال | 30مل",
+      "price_egp": 59.5,
+      "brand": "Oramax",
+      "description_category": "Mouthwash for children",
+      "package_size": "30 مل"
+    },
+    {
+      "product_name": "اورجانيك نيشن بي-كومبلكس | 60 قرص",
+      "price_egp": 325.0,
+      "brand": "Organic Nation",
+      "description_category": "Vitamins",
+      "package_size": "60 قرص"
+    },
+    {
+      "product_name": "فيتامين نيشن | 30أقراص",
+      "price_egp": 225.0,
+      "brand": "Organic Nation",
+      "description_category": "Vitamins",
+      "package_size": "30 أقراص"
+    },
+    {
+      "product_name": "أوسيلتامفير | 75مجم | 10كبسوله",
+      "price_egp": 200.0,
+      "brand": null,
+      "description_category": "Medications",
+      "package_size": "10 كبسوله"
+    },
+    {
+      "product_name": "أوستوفال | 14 قرص",
+      "price_egp": 64.0,
+      "brand": null,
+      "description_category": "Medications",
+      "package_size": "14 قرص"
+    },
+    {
+      "product_name": "باروكسيديب سي ار | 37.5مجم | 30قرص",
+      "price_egp": 132.0,
+      "brand": null,
+      "description_category": "Medications",
+      "package_size": "30 قرص"
+    },
+    {
+      "product_name": "بريدابوكس | 30مجم | 6أقراص",
+      "price_egp": 57.0,
+      "brand": null,
+      "description_category": "Medications",
+      "package_size": "6 أقراص"
+    },
+    {
+      "product_name": "بريفاجليب | 5مجم | 30قرص",
+      "price_egp": 270.0,
+      "brand": null,
+      "description_category": "Medications",
+      "package_size": "30 قرص"
+    },
+    {
+      "product_name": "بروتوفيكس | 20مجم | 14قرص",
+      "price_egp": 90.0,
+      "brand": null,
+      "description_category": "Medications",
+      "package_size": "14 قرص"
+    },
+    {
+      "product_name": "بالميبروف | 125مجم | 30قرص",
+      "price_egp": 1767.0,
+      "brand": null,
+      "description_category": "Medications",
+      "package_size": "30 قرص"
+    },
+    {
+      "product_name": "كوينوستراماكس 750مجم | 5 أقراص",
+      "price_egp": 152.0,
+      "brand": null,
+      "description_category": "Medications",
+      "package_size": "5 أقراص"
+    },
+    {
+      "product_name": "كويتكول | 150مجم | 30قرص",
+      "price_egp": 243.0,
+      "brand": null,
+      "description_category": "Medications",
+      "package_size": "30 قرص"
+    },
+    {
+      "product_name": "رونما 100مجم | 10 أكياس",
+      "price_egp": 130.0,
+      "brand": null,
+      "description_category": "Lactoferrin supplement",
+      "package_size": "10 أكياس"
+    },
+    {
+      "product_name": "سانوليفوكس نقط للعين | 5مل",
+      "price_egp": 59.0,
+      "brand": null,
+      "description_category": "Eye drops",
+      "package_size": "5 مل"
+    },
+    {
+      "product_name": "سيبتونا | شرائح قطن دائرية للاستخدام اليومي",
+      "price_egp": 150.0,
+      "brand": "Septona",
+      "description_category": "Daily Clean Cotton Pads",
+      "package_size": "Not specified"
+    },
+    {
+      "product_name": "سيترنوميت 4مجم | 4 أقراص",
+      "price_egp": 78.0,
+      "brand": null,
+      "description_category": "Medications",
+      "package_size": "4 أقراص"
+    },
+    {
+      "product_name": "شلجاتين | 300مجم | 30كبسولة",
+      "price_egp": 126.0,
+      "brand": null,
+      "description_category": "Medications",
+      "package_size": "30 كبسولة"
+    }
+  ]
+}

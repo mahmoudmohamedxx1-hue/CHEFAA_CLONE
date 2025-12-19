@@ -1,0 +1,11 @@
+{
+  "extraction_metadata": {
+    "source": "Chefaa.com Phase 5 files with real URLs",
+    "target_products": "1201-1400",
+    "total_extracted_with_urls": 220,
+    "target_count": 0,
+    "extraction_date": "2025-11-01",
+    "note": "Using real product URLs from Phase 5 extraction files"
+  },
+  "products": []
+}

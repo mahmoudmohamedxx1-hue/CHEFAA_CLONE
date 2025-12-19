@@ -1,0 +1,278 @@
+📄 Extracted from page: العناية اليومية - شفاء
+URL: https://chefaa.com/eg-ar/now/category/daily-essentials?page=3
+
+Extracted content:
+```json
+{
+  "title": "العناية اليومية - شفاء",
+  "url": "https://chefaa.com/eg-ar/now/category/daily-essentials?page=3",
+  "summary": "This page, categorized under 'العناية اليومية' (Daily Essentials) on Chefaa.com, displays a list of personal care and hygiene products. The page does not contain any first aid medical supplies such as bandages, antiseptics, medical tapes, gauze, syringes, hydrogen peroxide, or general emergency medical supplies, which were the specific focus of the extraction goal. Instead, the products listed are primarily moisturizers, glycerin soaps, and various types of sanitary pads from brands like Luna, Always, and Molped.",
+  "key_points": [
+    "The page is part of the 'Daily Essentials' category (العناية اليومية).",
+    "No first aid medical supplies, including bandages, antiseptics, medical tapes, gauze, syringes, hydrogen peroxide, or emergency medical supplies, were found on this page.",
+    "Products displayed include skin creams, glycerin soaps, and a variety of sanitary pads.",
+    "Brands featured on this page are Luna, Always, and Molped.",
+    "Prices are listed in Egyptian Pounds (EGP).",
+    "All listed products appear to be in stock with an 'Add to cart' option.",
+    "The page is page 3 out of 62 pages for this category."
+  ],
+  "relevant_links": [
+    "https://chefaa.com:443/eg-ar/now/category/medications",
+    "https://chefaa.com:443/eg-ar/now/category/hair-care",
+    "https://chefaa.com:443/eg-ar/now/category/skin-care",
+    "https://chefaa.com:443/eg-ar/now/category/daily-essentials",
+    "https://chefaa.com:443/eg-ar/now/category/mom-baby",
+    "https://chefaa.com:443/eg-ar/now/category/makeup-accessories",
+    "https://chefaa.com:443/eg-ar/now/category/health-care-devices",
+    "https://chefaa.com:443/eg-ar/now/category/health-care-devices/first-aid-disposables (Note: This link leads to the 'First Aid' category, not the current page.)",
+    "https://chefaa.com:443/eg-ar/now/category/vitamins-supplements",
+    "https://chefaa.com:443/eg-ar/now/category/sexual-welness",
+    "https://chefaa.com:443/eg-ar/now/category/pet-supplies",
+    "https://chefaa.com:443/eg-ar/now/category/daily-essentials?page=1",
+    "https://chefaa.com:443/eg-ar/now/category/daily-essentials?page=2",
+    "https://chefaa.com:443/eg-ar/now/category/daily-essentials?page=4",
+    "https://chefaa.com:443/eg-ar/now/category/daily-essentials?page=62"
+  ],
+  "products": [
+    {
+      "product_name_arabic": "لونا | كريم ايمولاينت كريم مرطب ناعم بالجليسرين وزيت الجوجو...",
+      "product_name_english_inferred": "Luna Emollient Soft Cream Glycerin Jojoba Oil 160gm",
+      "description": "كريم مرطب ناعم بالجليسرين وزيت الجوجوبا",
+      "price_egp": 32,
+      "brand": "Luna (لونا)",
+      "ratings_reviews": "Not available on this page",
+      "stock_status": "In Stock",
+      "specifications": "160gm",
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/luna-emollient-soft-cream-glycerin-jojoba-oil-160gm-teg5_duBh5Tv2_duOQKbEu"
+    },
+    {
+      "product_name_arabic": "لونا صابونة الجلسرين الأصلية | 72جم",
+      "product_name_english_inferred": "Luna Glycerin Soap 72g",
+      "description": "صابونة الجلسرين الأصلية | 72جم",
+      "price_egp": 30,
+      "brand": "Luna (لونا)",
+      "ratings_reviews": "Not available on this page",
+      "stock_status": "In Stock",
+      "specifications": "72gm",
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/luna-glycerin-soap-72g-w99u"
+    },
+    {
+      "product_name_arabic": "أولويز | فوط صحية 3 في 1 انتعاش الاعشاب الترا رفيع طويل | 8...",
+      "product_name_english_inferred": "Always Ultra Fresh Long Pads 8pcs",
+      "description": "فوط صحية 3 في 1 انتعاش الاعشاب الترا رفيع طويل | 8 قطعة",
+      "price_egp": 43,
+      "brand": "Always (أولويز)",
+      "ratings_reviews": "Not available on this page",
+      "stock_status": "In Stock",
+      "specifications": "8 pads",
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/always-ultra-fresh-long-pads-8pcs-5xd0"
+    },
+    {
+      "product_name_arabic": "اولويز | فوط صحية كول & دراي مفيش احساس بالكتمة وبانتعاش ال...",
+      "product_name_english_inferred": "Always Super 8pads",
+      "description": "فوط صحية كول & دراي مفيش احساس بالكتمة وبانتعاش الصبار | 8 قطعة",
+      "price_egp": 30,
+      "brand": "Always (اولويز)",
+      "ratings_reviews": "Not available on this page",
+      "stock_status": "In Stock",
+      "specifications": "8 pads",
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/always-super-8pads-romw_dup7zXWO"
+    },
+    {
+      "product_name_arabic": "أولويز | ماكسي سميكة بنعومة القطن فوط صحية طويلة جدا بالاجن...",
+      "product_name_english_inferred": "Always Cotton Soft Maxi Thick Long Sanitary Pads With Wings 8 Pads",
+      "description": "ماكسي سميكة بنعومة القطن فوط صحية طويلة جدا بالاجنحة | 8 قطع",
+      "price_egp": 38,
+      "brand": "Always (أولويز)",
+      "ratings_reviews": "Not available on this page",
+      "stock_status": "In Stock",
+      "specifications": "8 pads",
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/always-cotton-soft-maxi-thick-long-sanitary-pads-with-wings-8-pads"
+    },
+    {
+      "product_name_arabic": "أولويز | نعومة القطن ماكسي سميكة فوط صحية طويلة بالاجنحة | ...",
+      "product_name_english_inferred": "Always Cotton Soft Long Maxi Thick 8 Pads",
+      "description": "نعومة القطن ماكسي سميكة فوط صحية طويلة بالاجنحة | 8 قطع",
+      "price_egp": 35,
+      "brand": "Always (أولويز)",
+      "ratings_reviews": "Not available on this page",
+      "stock_status": "In Stock",
+      "specifications": "8 pads",
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/always-cotton-soft-long-maxi-thick-8-pads"
+    },
+    {
+      "product_name_arabic": "أولويز | فوط صحية طويلة فائقة النضارة بالأعشاب | 26 فوطة",
+      "product_name_english_inferred": "Always Ultra Quattro 26p Long",
+      "description": "فوط صحية طويلة فائقة النضارة بالأعشاب | 26 فوطة",
+      "price_egp": 114,
+      "brand": "Always (أولويز)",
+      "ratings_reviews": "Not available on this page",
+      "stock_status": "In Stock",
+      "specifications": "26 pads",
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/always-ultra-quattro-26p-long-g3j5_dugBc02J"
+    },
+    {
+      "product_name_arabic": "أولويز | فوط بانتعاش الاعشاب صحية رفيعة وطويلة بالاجنحة | 1...",
+      "product_name_english_inferred": "Always Ultra Extra Absorbant Value Pack Thin Long Sanitary Pads With Wings 16pads",
+      "description": "فوط بانتعاش الاعشاب صحية رفيعة وطويلة بالاجنحة | 16 فوطة",
+      "price_egp": 55,
+      "brand": "Always (أولويز)",
+      "ratings_reviews": "Not available on this page",
+      "stock_status": "In Stock",
+      "specifications": "16 pads",
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/always-ultra-extra-absorbant-value-pack-thin-long-sanitary-pads-with-wings-16pads"
+    },
+    {
+      "product_name_arabic": "اولويز | ماكسي سميكه طويله جدا | 14 + 2 مجانا",
+      "product_name_english_inferred": "Always Maxi Thick Extra Long 14+2 Free Pads",
+      "description": "ماكسي سميكه طويله جدا | 14 + 2 مجانا",
+      "price_egp": 55,
+      "brand": "Always (اولويز)",
+      "ratings_reviews": "Not available on this page",
+      "stock_status": "In Stock",
+      "specifications": "14+2 free pads",
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/always-maxi-thick-extra-long-14-2-free-pads-ug7t_dud9VFdQ"
+    },
+    {
+      "product_name_arabic": "اولويز | ماكسي سميكه طويله | 14 + 2 مجانا",
+      "product_name_english_inferred": "Always Maxi Thick Long 14+2 Free Pads",
+      "description": "ماكسي سميكه طويله | 14 + 2 مجانا",
+      "price_egp": 55,
+      "brand": "Always (اولويز)",
+      "ratings_reviews": "Not available on this page",
+      "stock_status": "In Stock",
+      "specifications": "14+2 free pads",
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/always-maxi-thick-extra-long-14-2-free-pads-ug7t_dubHdZjH_duUBHoTi"
+    },
+    {
+      "product_name_arabic": "اولويز | ماكسي سميكة و طويلة للبشرة الحساسة | 28 قطعة",
+      "product_name_english_inferred": "Always Maxi Thick Long Sanitary Sensitive Skin 28 Pcs",
+      "description": "ماكسي سميكة و طويلة للبشرة الحساسة | 28 قطعة",
+      "price_egp": 100,
+      "brand": "Always (اولويز)",
+      "ratings_reviews": "Not available on this page",
+      "stock_status": "In Stock",
+      "specifications": "28 pieces",
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/always-maxi-thick-long-sanitary-sensitive-skin-28-pcs-qlde"
+    },
+    {
+      "product_name_arabic": "اولويز | ماكسي سميك بالصبار طويل جدًا | 16 قطعة",
+      "product_name_english_inferred": "Always Maxi Thick With Aloe Vera Extra Long 16 Pads",
+      "description": "ماكسي سميك بالصبار طويل جدًا | 16 قطعة",
+      "price_egp": 70,
+      "brand": "Always (اولويز)",
+      "ratings_reviews": "Not available on this page",
+      "stock_status": "In Stock",
+      "specifications": "16 pads",
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/always-maxi-thick-with-aloe-vera-extra-long-16-padaGgO"
+    },
+    {
+      "product_name_arabic": "اولويز | حماية زائد مع لمسة من الالوفيرا ماكسي سميك طويل لل...",
+      "product_name_english_inferred": "Always Protect Plus With Touch Of Aloe Vera Maxi Thick Extra Long 24 Pcs",
+      "description": "حماية زائد مع لمسة من الالوفيرا ماكسي سميك طويل جدا | 24 قطعة",
+      "price_egp": 100,
+      "brand": "Always (اولويز)",
+      "ratings_reviews": "Not available on this page",
+      "stock_status": "In Stock",
+      "specifications": "24 pieces",
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/always-protect-plus-with-touch-of-aloe-vera-maxi-thick-extra-long-24-pcs-doae"
+    },
+    {
+      "product_name_arabic": "أولويز | فوط صحية رفيعة و طويلة جدا بالاجنحة | 14 فوطة",
+      "product_name_english_inferred": "Always Ultra Thin Extra Long With Wings Pads",
+      "description": "فوط صحية رفيعة و طويلة جدا بالاجنحة | 14 فوطة",
+      "price_egp": 78,
+      "brand": "Always (أولويز)",
+      "ratings_reviews": "Not available on this page",
+      "stock_status": "In Stock",
+      "specifications": "14 pads",
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/always-ultra-thin-extra-long-with-wings-pads"
+    },
+    {
+      "product_name_arabic": "اولويز | الترا رقيقة هيربل | 24 قطعة",
+      "product_name_english_inferred": "Always Ultra Thin Herbal Ext Long 24pc",
+      "description": "الترا رقيقة هيربل | 24 قطعة",
+      "price_egp": 110,
+      "brand": "Always (اولويز)",
+      "ratings_reviews": "Not available on this page",
+      "stock_status": "In Stock",
+      "specifications": "24 pieces",
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/always-ultra-thin-herbalextlong24pcMtaw"
+    },
+    {
+      "product_name_arabic": "مولبد | ماكسي مضغوط مضاد للبكتيريا طويل للغاية | 8فوطه",
+      "product_name_english_inferred": "Molped Antibacterial Maxi Compressed Extra Long 8pads",
+      "description": "ماكسي مضغوط مضاد للبكتيريا طويل للغاية | 8 فوطه",
+      "price_egp": 33,
+      "brand": "Molped (مولبد)",
+      "ratings_reviews": "Not available on this page",
+      "stock_status": "In Stock",
+      "specifications": "8 pads",
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/molped-antibacterial-maxi-compressed-extra-long-8pads-f4o6_duPUKLyo"
+    },
+    {
+      "product_name_arabic": "مولبيد | مسك الزهور عبوة اقتصادية طويلة | 18 قطعة",
+      "product_name_english_inferred": "Molped Limited Edition Floral Musk Value Pack Long 18 Pads",
+      "description": "مسك الزهور عبوة اقتصادية طويلة | 18 قطعة",
+      "price_egp": 65,
+      "brand": "Molped (مولبيد)",
+      "ratings_reviews": "Not available on this page",
+      "stock_status": "In Stock",
+      "specifications": "18 pieces",
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/molped-limited-edition-floral-musk-value-pack-long-18-pads-esyk_ducZEM0X"
+    },
+    {
+      "product_name_arabic": "مولبيد | فوط حواجز 7 ماكسى طويل جدا | 6 قطع",
+      "product_name_english_inferred": "Molped Barriers 7 Maxi Thick Extra Long 6 Pads",
+      "description": "فوط حواجز 7 ماكسى طويل جدا | 6 قطع",
+      "price_egp": 31,
+      "brand": "Molped (مولبيد)",
+      "ratings_reviews": "Not available on this page",
+      "stock_status": "In Stock",
+      "specifications": "6 pieces",
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/molped-barriers-7-maxi-thick-extra-long-61pads-vu06_duFWBfqw_duGRqJSY"
+    },
+    {
+      "product_name_arabic": "مولبيد | فوط حماية كاملة طويل | 6+1 قطع",
+      "product_name_english_inferred": "Molped Total Protection Free Long 6+1 Pads",
+      "description": "فوط حماية كاملة طويل | 6+1 قطع",
+      "price_egp": 32,
+      "brand": "Molped (مولبيد)",
+      "ratings_reviews": "Not available on this page",
+      "stock_status": "In Stock",
+      "specifications": "6+1 pieces",
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/molped-total-protection-free-long-61pads-dmcv"
+    },
+    {
+      "product_name_arabic": "مولبيد | حماية ضد البكتيريا - طويل جدا | 20+4 فوطة مجاناً",
+      "product_name_english_inferred": "Molped Protection Against Bacteria Very Long 20+4 Free Pads",
+      "description": "حماية ضد البكتيريا - طويل جدا | 20+4 فوطة مجاناً",
+      "price_egp": 90,
+      "brand": "Molped (مولبيد)",
+      "ratings_reviews": "Not available on this page",
+      "stock_status": "In Stock",
+      "specifications": "20+4 free pads",
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/molped-protection-against-bacteria-very-long-cqbz_duT4uhps"
+    }
+  ],
+  "pagination_info": {
+    "current_page": 3,
+    "total_pages": 62,
+    "page_links": {
+      "previous": "https://chefaa.com:443/eg-ar/now/category/daily-essentials?page=2",
+      "next": "https://chefaa.com:443/eg-ar/now/category/daily-essentials?page=4",
+      "page_1": "https://chefaa.com/eg-ar/now/category/daily-essentials?products_eg%5Bpage%5D=1",
+      "page_2": "https://chefaa.com:443/eg-ar/now/category/daily-essentials?page=2",
+      "page_4": "https://chefaa.com:443/eg-ar/now/category/daily-essentials?page=4",
+      "page_5": "https://chefaa.com:443/eg-ar/now/category/daily-essentials?page=5",
+      "page_6": "https://chefaa.com:443/eg-ar/now/category/daily-essentials?page=6",
+      "page_7": "https://chefaa.com:443/eg-ar/now/category/daily-essentials?page=7",
+      "page_8": "https://chefaa.com:443/eg-ar/now/category/daily-essentials?page=8",
+      "page_9": "https://chefaa.com:443/eg-ar/now/category/daily-essentials?page=9",
+      "page_10": "https://chefaa.com:443/eg-ar/now/category/daily-essentials?page=10",
+      "last_page": "https://chefaa.com:443/eg-ar/now/category/daily-essentials?page=62"
+    }
+  },
+  "file_name": "chefaa_daily_essentials_page3.json"
+}
+```

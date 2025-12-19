@@ -1,0 +1,32 @@
+{
+  "medications": [
+    {
+      "product_name": "روجيتامين 10 مجم/مل للحقن العضلي",
+      "price_egp": 415,
+      "brand_manufacturer": null,
+      "product_description": "أدوية (Medications)",
+      "package_size_or_quantity": "5 امبولات"
+    },
+    {
+      "product_name": "سانسو بوتاسيوم 200مجم",
+      "price_egp": 200,
+      "brand_manufacturer": "سانسو (Sanso)",
+      "product_description": "أدوية (Medications)",
+      "package_size_or_quantity": "28 قرص"
+    },
+    {
+      "product_name": "ستروجينزو",
+      "price_egp": 180,
+      "brand_manufacturer": null,
+      "product_description": "أدوية (Medications)",
+      "package_size_or_quantity": "30 كبسولة"
+    },
+    {
+      "product_name": "زانبرازان 10مجم",
+      "price_egp": 96,
+      "brand_manufacturer": null,
+      "product_description": "أدوية (Medications)",
+      "package_size_or_quantity": "30 قرص"
+    }
+  ]
+}

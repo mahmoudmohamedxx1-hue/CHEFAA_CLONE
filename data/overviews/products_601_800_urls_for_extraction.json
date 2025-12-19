@@ -1,0 +1,1010 @@
+{
+  "extraction_metadata": {
+    "batch_name": "products_601_800",
+    "total_products": 200,
+    "total_urls": 200,
+    "extraction_date": "2025-11-01"
+  },
+  "urls_for_extraction": [
+    {
+      "url": "https://chefaa.com:443/eg-ar/nowProduct/ganaton",
+      "prompt": "Extract comprehensive pharmaceutical information from this Chefaa product page. Extract: 1) Active Ingredients with exact strengths, 2) Therapeutic Applications, 3) Detailed Dosage Information, 4) Safety Information (contraindications, warnings), 5) Adverse Effects, 6) Drug Interactions, 7) Pregnancy/Lactation guidance, 8) Storage Requirements, 9) Clinical Pharmacology, 10) Additional relevant pharmaceutical details. Return structured JSON with null for missing information. Never fabricate data.",
+      "task_name": "product_1_ganaton"
+    },
+    {
+      "url": "https://chefaa.com:443/eg-ar/nowProduct/gaptin",
+      "prompt": "Extract comprehensive pharmaceutical information from this Chefaa product page. Extract: 1) Active Ingredients with exact strengths, 2) Therapeutic Applications, 3) Detailed Dosage Information, 4) Safety Information (contraindications, warnings), 5) Adverse Effects, 6) Drug Interactions, 7) Pregnancy/Lactation guidance, 8) Storage Requirements, 9) Clinical Pharmacology, 10) Additional relevant pharmaceutical details. Return structured JSON with null for missing information. Never fabricate data.",
+      "task_name": "product_2_gaptin"
+    },
+    {
+      "url": "https://chefaa.com:443/eg-ar/nowProduct/gaptin",
+      "prompt": "Extract comprehensive pharmaceutical information from this Chefaa product page. Extract: 1) Active Ingredients with exact strengths, 2) Therapeutic Applications, 3) Detailed Dosage Information, 4) Safety Information (contraindications, warnings), 5) Adverse Effects, 6) Drug Interactions, 7) Pregnancy/Lactation guidance, 8) Storage Requirements, 9) Clinical Pharmacology, 10) Additional relevant pharmaceutical details. Return structured JSON with null for missing information. Never fabricate data.",
+      "task_name": "product_3_gaptin"
+    },
+    {
+      "url": "https://chefaa.com:443/eg-ar/nowProduct/gaptin",
+      "prompt": "Extract comprehensive pharmaceutical information from this Chefaa product page. Extract: 1) Active Ingredients with exact strengths, 2) Therapeutic Applications, 3) Detailed Dosage Information, 4) Safety Information (contraindications, warnings), 5) Adverse Effects, 6) Drug Interactions, 7) Pregnancy/Lactation guidance, 8) Storage Requirements, 9) Clinical Pharmacology, 10) Additional relevant pharmaceutical details. Return structured JSON with null for missing information. Never fabricate data.",
+      "task_name": "product_4_gaptin"
+    },
+    {
+      "url": "https://chefaa.com:443/eg-ar/nowProduct/garamycin",
+      "prompt": "Extract comprehensive pharmaceutical information from this Chefaa product page. Extract: 1) Active Ingredients with exact strengths, 2) Therapeutic Applications, 3) Detailed Dosage Information, 4) Safety Information (contraindications, warnings), 5) Adverse Effects, 6) Drug Interactions, 7) Pregnancy/Lactation guidance, 8) Storage Requirements, 9) Clinical Pharmacology, 10) Additional relevant pharmaceutical details. Return structured JSON with null for missing information. Never fabricate data.",
+      "task_name": "product_5_garamycin"
+    },
+    {
+      "url": "https://chefaa.com:443/eg-ar/nowProduct/garamycin",
+      "prompt": "Extract comprehensive pharmaceutical information from this Chefaa product page. Extract: 1) Active Ingredients with exact strengths, 2) Therapeutic Applications, 3) Detailed Dosage Information, 4) Safety Information (contraindications, warnings), 5) Adverse Effects, 6) Drug Interactions, 7) Pregnancy/Lactation guidance, 8) Storage Requirements, 9) Clinical Pharmacology, 10) Additional relevant pharmaceutical details. Return structured JSON with null for missing information. Never fabricate data.",
+      "task_name": "product_6_garamycin"
+    },
+    {
+      "url": "https://chefaa.com:443/eg-ar/nowProduct/garopride",
+      "prompt": "Extract comprehensive pharmaceutical information from this Chefaa product page. Extract: 1) Active Ingredients with exact strengths, 2) Therapeutic Applications, 3) Detailed Dosage Information, 4) Safety Information (contraindications, warnings), 5) Adverse Effects, 6) Drug Interactions, 7) Pregnancy/Lactation guidance, 8) Storage Requirements, 9) Clinical Pharmacology, 10) Additional relevant pharmaceutical details. Return structured JSON with null for missing information. Never fabricate data.",
+      "task_name": "product_7_garopride"
+    },
+    {
+      "url": "https://chefaa.com:443/eg-ar/nowProduct/disflatyl",
+      "prompt": "Extract comprehensive pharmaceutical information from this Chefaa product page. Extract: 1) Active Ingredients with exact strengths, 2) Therapeutic Applications, 3) Detailed Dosage Information, 4) Safety Information (contraindications, warnings), 5) Adverse Effects, 6) Drug Interactions, 7) Pregnancy/Lactation guidance, 8) Storage Requirements, 9) Clinical Pharmacology, 10) Additional relevant pharmaceutical details. Return structured JSON with null for missing information. Never fabricate data.",
+      "task_name": "product_8_disflatyl"
+    },
+    {
+      "url": "https://chefaa.com:443/eg-ar/nowProduct/gast-reg",
+      "prompt": "Extract comprehensive pharmaceutical information from this Chefaa product page. Extract: 1) Active Ingredients with exact strengths, 2) Therapeutic Applications, 3) Detailed Dosage Information, 4) Safety Information (contraindications, warnings), 5) Adverse Effects, 6) Drug Interactions, 7) Pregnancy/Lactation guidance, 8) Storage Requirements, 9) Clinical Pharmacology, 10) Additional relevant pharmaceutical details. Return structured JSON with null for missing information. Never fabricate data.",
+      "task_name": "product_9_gast reg"
+    },
+    {
+      "url": "https://chefaa.com:443/eg-ar/nowProduct/gast-reg",
+      "prompt": "Extract comprehensive pharmaceutical information from this Chefaa product page. Extract: 1) Active Ingredients with exact strengths, 2) Therapeutic Applications, 3) Detailed Dosage Information, 4) Safety Information (contraindications, warnings), 5) Adverse Effects, 6) Drug Interactions, 7) Pregnancy/Lactation guidance, 8) Storage Requirements, 9) Clinical Pharmacology, 10) Additional relevant pharmaceutical details. Return structured JSON with null for missing information. Never fabricate data.",
+      "task_name": "product_10_gast reg"
+    },
+    {
+      "url": "https://chefaa.com:443/eg-ar/nowProduct/gast-reg",
+      "prompt": "Extract comprehensive pharmaceutical information from this Chefaa product page. Extract: 1) Active Ingredients with exact strengths, 2) Therapeutic Applications, 3) Detailed Dosage Information, 4) Safety Information (contraindications, warnings), 5) Adverse Effects, 6) Drug Interactions, 7) Pregnancy/Lactation guidance, 8) Storage Requirements, 9) Clinical Pharmacology, 10) Additional relevant pharmaceutical details. Return structured JSON with null for missing information. Never fabricate data.",
+      "task_name": "product_11_gast reg"
+    },
+    {
+      "url": "https://chefaa.com:443/eg-ar/nowProduct/gatistar",
+      "prompt": "Extract comprehensive pharmaceutical information from this Chefaa product page. Extract: 1) Active Ingredients with exact strengths, 2) Therapeutic Applications, 3) Detailed Dosage Information, 4) Safety Information (contraindications, warnings), 5) Adverse Effects, 6) Drug Interactions, 7) Pregnancy/Lactation guidance, 8) Storage Requirements, 9) Clinical Pharmacology, 10) Additional relevant pharmaceutical details. Return structured JSON with null for missing information. Never fabricate data.",
+      "task_name": "product_12_gatistar"
+    },
+    {
+      "url": "https://chefaa.com:443/eg-ar/nowProduct/gaviscon-advance",
+      "prompt": "Extract comprehensive pharmaceutical information from this Chefaa product page. Extract: 1) Active Ingredients with exact strengths, 2) Therapeutic Applications, 3) Detailed Dosage Information, 4) Safety Information (contraindications, warnings), 5) Adverse Effects, 6) Drug Interactions, 7) Pregnancy/Lactation guidance, 8) Storage Requirements, 9) Clinical Pharmacology, 10) Additional relevant pharmaceutical details. Return structured JSON with null for missing information. Never fabricate data.",
+      "task_name": "product_13_gaviscon advance"
+    },
+    {
+      "url": "https://chefaa.com:443/eg-ar/nowProduct/gaviscon-double-action",
+      "prompt": "Extract comprehensive pharmaceutical information from this Chefaa product page. Extract: 1) Active Ingredients with exact strengths, 2) Therapeutic Applications, 3) Detailed Dosage Information, 4) Safety Information (contraindications, warnings), 5) Adverse Effects, 6) Drug Interactions, 7) Pregnancy/Lactation guidance, 8) Storage Requirements, 9) Clinical Pharmacology, 10) Additional relevant pharmaceutical details. Return structured JSON with null for missing information. Never fabricate data.",
+      "task_name": "product_14_gaviscon double action"
+    },
+    {
+      "url": "https://chefaa.com:443/eg-ar/nowProduct/gengigel-adult-oral-gel",
+      "prompt": "Extract comprehensive pharmaceutical information from this Chefaa product page. Extract: 1) Active Ingredients with exact strengths, 2) Therapeutic Applications, 3) Detailed Dosage Information, 4) Safety Information (contraindications, warnings), 5) Adverse Effects, 6) Drug Interactions, 7) Pregnancy/Lactation guidance, 8) Storage Requirements, 9) Clinical Pharmacology, 10) Additional relevant pharmaceutical details. Return structured JSON with null for missing information. Never fabricate data.",
+      "task_name": "product_15_gengigel adult oral gel"
+    },
+    {
+      "url": "https://chefaa.com:443/eg-ar/nowProduct/gengigel-mouthwash",
+      "prompt": "Extract comprehensive pharmaceutical information from this Chefaa product page. Extract: 1) Active Ingredients with exact strengths, 2) Therapeutic Applications, 3) Detailed Dosage Information, 4) Safety Information (contraindications, warnings), 5) Adverse Effects, 6) Drug Interactions, 7) Pregnancy/Lactation guidance, 8) Storage Requirements, 9) Clinical Pharmacology, 10) Additional relevant pharmaceutical details. Return structured JSON with null for missing information. Never fabricate data.",
+      "task_name": "product_16_gengigel mouthwash"
+    },
+    {
+      "url": "https://chefaa.com:443/eg-ar/nowProduct/gengigel-teething-gel",
+      "prompt": "Extract comprehensive pharmaceutical information from this Chefaa product page. Extract: 1) Active Ingredients with exact strengths, 2) Therapeutic Applications, 3) Detailed Dosage Information, 4) Safety Information (contraindications, warnings), 5) Adverse Effects, 6) Drug Interactions, 7) Pregnancy/Lactation guidance, 8) Storage Requirements, 9) Clinical Pharmacology, 10) Additional relevant pharmaceutical details. Return structured JSON with null for missing information. Never fabricate data.",
+      "task_name": "product_17_gengigel teething gel"
+    },
+    {
+      "url": "https://chefaa.com:443/eg-ar/nowProduct/genuphil-original",
+      "prompt": "Extract comprehensive pharmaceutical information from this Chefaa product page. Extract: 1) Active Ingredients with exact strengths, 2) Therapeutic Applications, 3) Detailed Dosage Information, 4) Safety Information (contraindications, warnings), 5) Adverse Effects, 6) Drug Interactions, 7) Pregnancy/Lactation guidance, 8) Storage Requirements, 9) Clinical Pharmacology, 10) Additional relevant pharmaceutical details. Return structured JSON with null for missing information. Never fabricate data.",
+      "task_name": "product_18_genuphil original"
+    },
+    {
+      "url": "https://chefaa.com:443/eg-ar/nowProduct/genuphil-advance",
+      "prompt": "Extract comprehensive pharmaceutical information from this Chefaa product page. Extract: 1) Active Ingredients with exact strengths, 2) Therapeutic Applications, 3) Detailed Dosage Information, 4) Safety Information (contraindications, warnings), 5) Adverse Effects, 6) Drug Interactions, 7) Pregnancy/Lactation guidance, 8) Storage Requirements, 9) Clinical Pharmacology, 10) Additional relevant pharmaceutical details. Return structured JSON with null for missing information. Never fabricate data.",
+      "task_name": "product_19_genuphil advance"
+    },
+    {
+      "url": "https://chefaa.com:443/eg-ar/nowProduct/genuphil-advance",
+      "prompt": "Extract comprehensive pharmaceutical information from this Chefaa product page. Extract: 1) Active Ingredients with exact strengths, 2) Therapeutic Applications, 3) Detailed Dosage Information, 4) Safety Information (contraindications, warnings), 5) Adverse Effects, 6) Drug Interactions, 7) Pregnancy/Lactation guidance, 8) Storage Requirements, 9) Clinical Pharmacology, 10) Additional relevant pharmaceutical details. Return structured JSON with null for missing information. Never fabricate data.",
+      "task_name": "product_20_genuphil advance"
+    },
+    {
+      "url": "https://chefaa.com:443/eg-ar/nowProduct/genuphil-women-7-in-1",
+      "prompt": "Extract comprehensive pharmaceutical information from this Chefaa product page. Extract: 1) Active Ingredients with exact strengths, 2) Therapeutic Applications, 3) Detailed Dosage Information, 4) Safety Information (contraindications, warnings), 5) Adverse Effects, 6) Drug Interactions, 7) Pregnancy/Lactation guidance, 8) Storage Requirements, 9) Clinical Pharmacology, 10) Additional relevant pharmaceutical details. Return structured JSON with null for missing information. Never fabricate data.",
+      "task_name": "product_21_genuphil women 7-in-1"
+    },
+    {
+      "url": "https://chefaa.com:443/eg-ar/nowProduct/gestranil-contraceptive-pills",
+      "prompt": "Extract comprehensive pharmaceutical information from this Chefaa product page. Extract: 1) Active Ingredients with exact strengths, 2) Therapeutic Applications, 3) Detailed Dosage Information, 4) Safety Information (contraindications, warnings), 5) Adverse Effects, 6) Drug Interactions, 7) Pregnancy/Lactation guidance, 8) Storage Requirements, 9) Clinical Pharmacology, 10) Additional relevant pharmaceutical details. Return structured JSON with null for missing information. Never fabricate data.",
+      "task_name": "product_22_gestranil contraceptive pills"
+    },
+    {
+      "url": "https://chefaa.com:443/eg-ar/nowProduct/ginger-400mg",
+      "prompt": "Extract comprehensive pharmaceutical information from this Chefaa product page. Extract: 1) Active Ingredients with exact strengths, 2) Therapeutic Applications, 3) Detailed Dosage Information, 4) Safety Information (contraindications, warnings), 5) Adverse Effects, 6) Drug Interactions, 7) Pregnancy/Lactation guidance, 8) Storage Requirements, 9) Clinical Pharmacology, 10) Additional relevant pharmaceutical details. Return structured JSON with null for missing information. Never fabricate data.",
+      "task_name": "product_23_ginger 400mg"
+    },
+    {
+      "url": "https://chefaa.com:443/eg-ar/nowProduct/ginipin-super-collagen",
+      "prompt": "Extract comprehensive pharmaceutical information from this Chefaa product page. Extract: 1) Active Ingredients with exact strengths, 2) Therapeutic Applications, 3) Detailed Dosage Information, 4) Safety Information (contraindications, warnings), 5) Adverse Effects, 6) Drug Interactions, 7) Pregnancy/Lactation guidance, 8) Storage Requirements, 9) Clinical Pharmacology, 10) Additional relevant pharmaceutical details. Return structured JSON with null for missing information. Never fabricate data.",
+      "task_name": "product_24_ginipin super collagen"
+    },
+    {
+      "url": "https://chefaa.com:443/eg-ar/nowProduct/ginkgo-biloba-capsules",
+      "prompt": "Extract comprehensive pharmaceutical information from this Chefaa product page. Extract: 1) Active Ingredients with exact strengths, 2) Therapeutic Applications, 3) Detailed Dosage Information, 4) Safety Information (contraindications, warnings), 5) Adverse Effects, 6) Drug Interactions, 7) Pregnancy/Lactation guidance, 8) Storage Requirements, 9) Clinical Pharmacology, 10) Additional relevant pharmaceutical details. Return structured JSON with null for missing information. Never fabricate data.",
+      "task_name": "product_25_ginkgo biloba capsules"
+    },
+    {
+      "url": "https://chefaa.com:443/eg-ar/nowProduct/glaryl-3mg",
+      "prompt": "Extract comprehensive pharmaceutical information from this Chefaa product page. Extract: 1) Active Ingredients with exact strengths, 2) Therapeutic Applications, 3) Detailed Dosage Information, 4) Safety Information (contraindications, warnings), 5) Adverse Effects, 6) Drug Interactions, 7) Pregnancy/Lactation guidance, 8) Storage Requirements, 9) Clinical Pharmacology, 10) Additional relevant pharmaceutical details. Return structured JSON with null for missing information. Never fabricate data.",
+      "task_name": "product_26_glaryl 3mg"
+    },
+    {
+      "url": "https://chefaa.com:443/eg-ar/nowProduct/gleptomet-50/1000mg",
+      "prompt": "Extract comprehensive pharmaceutical information from this Chefaa product page. Extract: 1) Active Ingredients with exact strengths, 2) Therapeutic Applications, 3) Detailed Dosage Information, 4) Safety Information (contraindications, warnings), 5) Adverse Effects, 6) Drug Interactions, 7) Pregnancy/Lactation guidance, 8) Storage Requirements, 9) Clinical Pharmacology, 10) Additional relevant pharmaceutical details. Return structured JSON with null for missing information. Never fabricate data.",
+      "task_name": "product_27_gleptomet 50/1000mg"
+    },
+    {
+      "url": "https://chefaa.com:443/eg-ar/nowProduct/gliflozamet-xr-1000/25mg",
+      "prompt": "Extract comprehensive pharmaceutical information from this Chefaa product page. Extract: 1) Active Ingredients with exact strengths, 2) Therapeutic Applications, 3) Detailed Dosage Information, 4) Safety Information (contraindications, warnings), 5) Adverse Effects, 6) Drug Interactions, 7) Pregnancy/Lactation guidance, 8) Storage Requirements, 9) Clinical Pharmacology, 10) Additional relevant pharmaceutical details. Return structured JSON with null for missing information. Never fabricate data.",
+      "task_name": "product_28_gliflozamet xr 1000/25mg"
+    },
+    {
+      "url": "https://chefaa.com:443/eg-ar/nowProduct/gliptus-for-treating-diabetes-50mg",
+      "prompt": "Extract comprehensive pharmaceutical information from this Chefaa product page. Extract: 1) Active Ingredients with exact strengths, 2) Therapeutic Applications, 3) Detailed Dosage Information, 4) Safety Information (contraindications, warnings), 5) Adverse Effects, 6) Drug Interactions, 7) Pregnancy/Lactation guidance, 8) Storage Requirements, 9) Clinical Pharmacology, 10) Additional relevant pharmaceutical details. Return structured JSON with null for missing information. Never fabricate data.",
+      "task_name": "product_29_gliptus for treating diabetes 50mg"
+    },
+    {
+      "url": "https://chefaa.com:443/eg-ar/nowProduct/gliptus-plus",
+      "prompt": "Extract comprehensive pharmaceutical information from this Chefaa product page. Extract: 1) Active Ingredients with exact strengths, 2) Therapeutic Applications, 3) Detailed Dosage Information, 4) Safety Information (contraindications, warnings), 5) Adverse Effects, 6) Drug Interactions, 7) Pregnancy/Lactation guidance, 8) Storage Requirements, 9) Clinical Pharmacology, 10) Additional relevant pharmaceutical details. Return structured JSON with null for missing information. Never fabricate data.",
+      "task_name": "product_30_gliptus plus"
+    },
+    {
+      "url": "https://chefaa.com:443/eg-ar/nowProduct/glucophage-for-treating-excess-sugar-500mg",
+      "prompt": "Extract comprehensive pharmaceutical information from this Chefaa product page. Extract: 1) Active Ingredients with exact strengths, 2) Therapeutic Applications, 3) Detailed Dosage Information, 4) Safety Information (contraindications, warnings), 5) Adverse Effects, 6) Drug Interactions, 7) Pregnancy/Lactation guidance, 8) Storage Requirements, 9) Clinical Pharmacology, 10) Additional relevant pharmaceutical details. Return structured JSON with null for missing information. Never fabricate data.",
+      "task_name": "product_31_glucophage for treating excess sugar 500mg"
+    },
+    {
+      "url": "https://chefaa.com:443/eg-ar/nowProduct/glucose-5%",
+      "prompt": "Extract comprehensive pharmaceutical information from this Chefaa product page. Extract: 1) Active Ingredients with exact strengths, 2) Therapeutic Applications, 3) Detailed Dosage Information, 4) Safety Information (contraindications, warnings), 5) Adverse Effects, 6) Drug Interactions, 7) Pregnancy/Lactation guidance, 8) Storage Requirements, 9) Clinical Pharmacology, 10) Additional relevant pharmaceutical details. Return structured JSON with null for missing information. Never fabricate data.",
+      "task_name": "product_32_glucose 5%"
+    },
+    {
+      "url": "https://chefaa.com:443/eg-ar/nowProduct/glucovance-for-treating-diabetes",
+      "prompt": "Extract comprehensive pharmaceutical information from this Chefaa product page. Extract: 1) Active Ingredients with exact strengths, 2) Therapeutic Applications, 3) Detailed Dosage Information, 4) Safety Information (contraindications, warnings), 5) Adverse Effects, 6) Drug Interactions, 7) Pregnancy/Lactation guidance, 8) Storage Requirements, 9) Clinical Pharmacology, 10) Additional relevant pharmaceutical details. Return structured JSON with null for missing information. Never fabricate data.",
+      "task_name": "product_33_glucovance for treating diabetes"
+    },
+    {
+      "url": "https://chefaa.com:443/eg-ar/nowProduct/glycerin-suppositories-for-adult-constipation-pharco",
+      "prompt": "Extract comprehensive pharmaceutical information from this Chefaa product page. Extract: 1) Active Ingredients with exact strengths, 2) Therapeutic Applications, 3) Detailed Dosage Information, 4) Safety Information (contraindications, warnings), 5) Adverse Effects, 6) Drug Interactions, 7) Pregnancy/Lactation guidance, 8) Storage Requirements, 9) Clinical Pharmacology, 10) Additional relevant pharmaceutical details. Return structured JSON with null for missing information. Never fabricate data.",
+      "task_name": "product_34_glycerin suppositories for adult constipation pharco"
+    },
+    {
+      "url": "https://chefaa.com:443/eg-ar/nowProduct/glycodal-chewable-tablets-for-heartburn-and-bloating",
+      "prompt": "Extract comprehensive pharmaceutical information from this Chefaa product page. Extract: 1) Active Ingredients with exact strengths, 2) Therapeutic Applications, 3) Detailed Dosage Information, 4) Safety Information (contraindications, warnings), 5) Adverse Effects, 6) Drug Interactions, 7) Pregnancy/Lactation guidance, 8) Storage Requirements, 9) Clinical Pharmacology, 10) Additional relevant pharmaceutical details. Return structured JSON with null for missing information. Never fabricate data.",
+      "task_name": "product_35_glycodal chewable tablets for heartburn and bloating"
+    },
+    {
+      "url": "https://chefaa.com:443/eg-ar/nowProduct/gralipentin-xr-for-epilepsy-treatment-300mg",
+      "prompt": "Extract comprehensive pharmaceutical information from this Chefaa product page. Extract: 1) Active Ingredients with exact strengths, 2) Therapeutic Applications, 3) Detailed Dosage Information, 4) Safety Information (contraindications, warnings), 5) Adverse Effects, 6) Drug Interactions, 7) Pregnancy/Lactation guidance, 8) Storage Requirements, 9) Clinical Pharmacology, 10) Additional relevant pharmaceutical details. Return structured JSON with null for missing information. Never fabricate data.",
+      "task_name": "product_36_gralipentin xr for epilepsy treatment 300mg"
+    },
+    {
+      "url": "https://chefaa.com:443/eg-ar/nowProduct/gralipentin-xr-for-epilepsy-treatment-600mg",
+      "prompt": "Extract comprehensive pharmaceutical information from this Chefaa product page. Extract: 1) Active Ingredients with exact strengths, 2) Therapeutic Applications, 3) Detailed Dosage Information, 4) Safety Information (contraindications, warnings), 5) Adverse Effects, 6) Drug Interactions, 7) Pregnancy/Lactation guidance, 8) Storage Requirements, 9) Clinical Pharmacology, 10) Additional relevant pharmaceutical details. Return structured JSON with null for missing information. Never fabricate data.",
+      "task_name": "product_37_gralipentin xr for epilepsy treatment 600mg"
+    },
+    {
+      "url": "https://chefaa.com:443/eg-ar/nowProduct/guava-syrup-cough-suppressant",
+      "prompt": "Extract comprehensive pharmaceutical information from this Chefaa product page. Extract: 1) Active Ingredients with exact strengths, 2) Therapeutic Applications, 3) Detailed Dosage Information, 4) Safety Information (contraindications, warnings), 5) Adverse Effects, 6) Drug Interactions, 7) Pregnancy/Lactation guidance, 8) Storage Requirements, 9) Clinical Pharmacology, 10) Additional relevant pharmaceutical details. Return structured JSON with null for missing information. Never fabricate data.",
+      "task_name": "product_38_guava syrup cough suppressant"
+    },
+    {
+      "url": "https://chefaa.com:443/eg-ar/nowProduct/gybenash-600mg",
+      "prompt": "Extract comprehensive pharmaceutical information from this Chefaa product page. Extract: 1) Active Ingredients with exact strengths, 2) Therapeutic Applications, 3) Detailed Dosage Information, 4) Safety Information (contraindications, warnings), 5) Adverse Effects, 6) Drug Interactions, 7) Pregnancy/Lactation guidance, 8) Storage Requirements, 9) Clinical Pharmacology, 10) Additional relevant pharmaceutical details. Return structured JSON with null for missing information. Never fabricate data.",
+      "task_name": "product_39_gybenash 600mg"
+    },
+    {
+      "url": "https://chefaa.com:443/eg-ar/nowProduct/gynera-birth-control-pills",
+      "prompt": "Extract comprehensive pharmaceutical information from this Chefaa product page. Extract: 1) Active Ingredients with exact strengths, 2) Therapeutic Applications, 3) Detailed Dosage Information, 4) Safety Information (contraindications, warnings), 5) Adverse Effects, 6) Drug Interactions, 7) Pregnancy/Lactation guidance, 8) Storage Requirements, 9) Clinical Pharmacology, 10) Additional relevant pharmaceutical details. Return structured JSON with null for missing information. Never fabricate data.",
+      "task_name": "product_40_gynera birth control pills"
+    },
+    {
+      "url": "https://chefaa.com:443/eg-ar/nowProduct/gynoconazol-0.8%-vaginal-cream",
+      "prompt": "Extract comprehensive pharmaceutical information from this Chefaa product page. Extract: 1) Active Ingredients with exact strengths, 2) Therapeutic Applications, 3) Detailed Dosage Information, 4) Safety Information (contraindications, warnings), 5) Adverse Effects, 6) Drug Interactions, 7) Pregnancy/Lactation guidance, 8) Storage Requirements, 9) Clinical Pharmacology, 10) Additional relevant pharmaceutical details. Return structured JSON with null for missing information. Never fabricate data.",
+      "task_name": "product_41_gynoconazol 0.8% vaginal cream"
+    },
+    {
+      "url": "https://chefaa.com:443/eg-ar/nowProduct/gynoconazol-0.4%-vaginal-cream",
+      "prompt": "Extract comprehensive pharmaceutical information from this Chefaa product page. Extract: 1) Active Ingredients with exact strengths, 2) Therapeutic Applications, 3) Detailed Dosage Information, 4) Safety Information (contraindications, warnings), 5) Adverse Effects, 6) Drug Interactions, 7) Pregnancy/Lactation guidance, 8) Storage Requirements, 9) Clinical Pharmacology, 10) Additional relevant pharmaceutical details. Return structured JSON with null for missing information. Never fabricate data.",
+      "task_name": "product_42_gynoconazol 0.4% vaginal cream"
+    },
+    {
+      "url": "https://chefaa.com:443/eg-ar/nowProduct/gynoconazol-80mg-vaginal-suppositories",
+      "prompt": "Extract comprehensive pharmaceutical information from this Chefaa product page. Extract: 1) Active Ingredients with exact strengths, 2) Therapeutic Applications, 3) Detailed Dosage Information, 4) Safety Information (contraindications, warnings), 5) Adverse Effects, 6) Drug Interactions, 7) Pregnancy/Lactation guidance, 8) Storage Requirements, 9) Clinical Pharmacology, 10) Additional relevant pharmaceutical details. Return structured JSON with null for missing information. Never fabricate data.",
+      "task_name": "product_43_gynoconazol 80mg vaginal suppositories"
+    },
+    {
+      "url": "https://chefaa.com:443/eg-ar/nowProduct/gynodaktarin-2%-vaginal-cream",
+      "prompt": "Extract comprehensive pharmaceutical information from this Chefaa product page. Extract: 1) Active Ingredients with exact strengths, 2) Therapeutic Applications, 3) Detailed Dosage Information, 4) Safety Information (contraindications, warnings), 5) Adverse Effects, 6) Drug Interactions, 7) Pregnancy/Lactation guidance, 8) Storage Requirements, 9) Clinical Pharmacology, 10) Additional relevant pharmaceutical details. Return structured JSON with null for missing information. Never fabricate data.",
+      "task_name": "product_44_gynodaktarin 2% vaginal cream"
+    },
+    {
+      "url": "https://chefaa.com:443/eg-ar/nowProduct/genoprogest-2mg-tablets",
+      "prompt": "Extract comprehensive pharmaceutical information from this Chefaa product page. Extract: 1) Active Ingredients with exact strengths, 2) Therapeutic Applications, 3) Detailed Dosage Information, 4) Safety Information (contraindications, warnings), 5) Adverse Effects, 6) Drug Interactions, 7) Pregnancy/Lactation guidance, 8) Storage Requirements, 9) Clinical Pharmacology, 10) Additional relevant pharmaceutical details. Return structured JSON with null for missing information. Never fabricate data.",
+      "task_name": "product_45_genoprogest 2mg tablets"
+    },
+    {
+      "url": "https://chefaa.com:443/eg-ar/nowProduct/gynozol-400mg-vaginal-suppositories",
+      "prompt": "Extract comprehensive pharmaceutical information from this Chefaa product page. Extract: 1) Active Ingredients with exact strengths, 2) Therapeutic Applications, 3) Detailed Dosage Information, 4) Safety Information (contraindications, warnings), 5) Adverse Effects, 6) Drug Interactions, 7) Pregnancy/Lactation guidance, 8) Storage Requirements, 9) Clinical Pharmacology, 10) Additional relevant pharmaceutical details. Return structured JSON with null for missing information. Never fabricate data.",
+      "task_name": "product_46_gynozol 400mg vaginal suppositories"
+    },
+    {
+      "url": "https://chefaa.com:443/eg-ar/nowProduct/hair-plus-back-5%-foam",
+      "prompt": "Extract comprehensive pharmaceutical information from this Chefaa product page. Extract: 1) Active Ingredients with exact strengths, 2) Therapeutic Applications, 3) Detailed Dosage Information, 4) Safety Information (contraindications, warnings), 5) Adverse Effects, 6) Drug Interactions, 7) Pregnancy/Lactation guidance, 8) Storage Requirements, 9) Clinical Pharmacology, 10) Additional relevant pharmaceutical details. Return structured JSON with null for missing information. Never fabricate data.",
+      "task_name": "product_47_hair plus back 5% foam"
+    },
+    {
+      "url": "https://chefaa.com:443/eg-ar/nowProduct/hairback-plus-5%-scalp-lotion",
+      "prompt": "Extract comprehensive pharmaceutical information from this Chefaa product page. Extract: 1) Active Ingredients with exact strengths, 2) Therapeutic Applications, 3) Detailed Dosage Information, 4) Safety Information (contraindications, warnings), 5) Adverse Effects, 6) Drug Interactions, 7) Pregnancy/Lactation guidance, 8) Storage Requirements, 9) Clinical Pharmacology, 10) Additional relevant pharmaceutical details. Return structured JSON with null for missing information. Never fabricate data.",
+      "task_name": "product_48_hairback plus 5% scalp lotion"
+    },
+    {
+      "url": "https://chefaa.com:443/eg-ar/nowProduct/hairvogine-tablets",
+      "prompt": "Extract comprehensive pharmaceutical information from this Chefaa product page. Extract: 1) Active Ingredients with exact strengths, 2) Therapeutic Applications, 3) Detailed Dosage Information, 4) Safety Information (contraindications, warnings), 5) Adverse Effects, 6) Drug Interactions, 7) Pregnancy/Lactation guidance, 8) Storage Requirements, 9) Clinical Pharmacology, 10) Additional relevant pharmaceutical details. Return structured JSON with null for missing information. Never fabricate data.",
+      "task_name": "product_49_hairvogine tablets"
+    },
+    {
+      "url": "https://chefaa.com:443/eg-ar/nowProduct/haloperidol-for-schizophrenia",
+      "prompt": "Extract comprehensive pharmaceutical information from this Chefaa product page. Extract: 1) Active Ingredients with exact strengths, 2) Therapeutic Applications, 3) Detailed Dosage Information, 4) Safety Information (contraindications, warnings), 5) Adverse Effects, 6) Drug Interactions, 7) Pregnancy/Lactation guidance, 8) Storage Requirements, 9) Clinical Pharmacology, 10) Additional relevant pharmaceutical details. Return structured JSON with null for missing information. Never fabricate data.",
+      "task_name": "product_50_haloperidol for schizophrenia"
+    },
+    {
+      "url": "https://chefaa.com:443/eg-ar/nowProduct/healsec-40mg-capsules",
+      "prompt": "Extract comprehensive pharmaceutical information from this Chefaa product page. Extract: 1) Active Ingredients with exact strengths, 2) Therapeutic Applications, 3) Detailed Dosage Information, 4) Safety Information (contraindications, warnings), 5) Adverse Effects, 6) Drug Interactions, 7) Pregnancy/Lactation guidance, 8) Storage Requirements, 9) Clinical Pharmacology, 10) Additional relevant pharmaceutical details. Return structured JSON with null for missing information. Never fabricate data.",
+      "task_name": "product_51_healsec 40mg capsules"
+    },
+    {
+      "url": "https://chefaa.com:443/eg-ar/nowProduct/hermpro-10mg-tablets",
+      "prompt": "Extract comprehensive pharmaceutical information from this Chefaa product page. Extract: 1) Active Ingredients with exact strengths, 2) Therapeutic Applications, 3) Detailed Dosage Information, 4) Safety Information (contraindications, warnings), 5) Adverse Effects, 6) Drug Interactions, 7) Pregnancy/Lactation guidance, 8) Storage Requirements, 9) Clinical Pharmacology, 10) Additional relevant pharmaceutical details. Return structured JSON with null for missing information. Never fabricate data.",
+      "task_name": "product_52_hermpro 10mg tablets"
+    },
+    {
+      "url": "https://chefaa.com:443/eg-ar/nowProduct/hibiotic-1gm-tablets",
+      "prompt": "Extract comprehensive pharmaceutical information from this Chefaa product page. Extract: 1) Active Ingredients with exact strengths, 2) Therapeutic Applications, 3) Detailed Dosage Information, 4) Safety Information (contraindications, warnings), 5) Adverse Effects, 6) Drug Interactions, 7) Pregnancy/Lactation guidance, 8) Storage Requirements, 9) Clinical Pharmacology, 10) Additional relevant pharmaceutical details. Return structured JSON with null for missing information. Never fabricate data.",
+      "task_name": "product_53_hibiotic 1gm tablets"
+    },
+    {
+      "url": "https://chefaa.com:443/eg-ar/nowProduct/hibiotic-n-suspension",
+      "prompt": "Extract comprehensive pharmaceutical information from this Chefaa product page. Extract: 1) Active Ingredients with exact strengths, 2) Therapeutic Applications, 3) Detailed Dosage Information, 4) Safety Information (contraindications, warnings), 5) Adverse Effects, 6) Drug Interactions, 7) Pregnancy/Lactation guidance, 8) Storage Requirements, 9) Clinical Pharmacology, 10) Additional relevant pharmaceutical details. Return structured JSON with null for missing information. Never fabricate data.",
+      "task_name": "product_54_hibiotic n suspension"
+    },
+    {
+      "url": "https://chefaa.com:443/eg-ar/nowProduct/hiderm-topical-solution",
+      "prompt": "Extract comprehensive pharmaceutical information from this Chefaa product page. Extract: 1) Active Ingredients with exact strengths, 2) Therapeutic Applications, 3) Detailed Dosage Information, 4) Safety Information (contraindications, warnings), 5) Adverse Effects, 6) Drug Interactions, 7) Pregnancy/Lactation guidance, 8) Storage Requirements, 9) Clinical Pharmacology, 10) Additional relevant pharmaceutical details. Return structured JSON with null for missing information. Never fabricate data.",
+      "task_name": "product_55_hiderm topical solution"
+    },
+    {
+      "url": "https://chefaa.com:443/eg-ar/nowProduct/histazine-1-10mg-tablets",
+      "prompt": "Extract comprehensive pharmaceutical information from this Chefaa product page. Extract: 1) Active Ingredients with exact strengths, 2) Therapeutic Applications, 3) Detailed Dosage Information, 4) Safety Information (contraindications, warnings), 5) Adverse Effects, 6) Drug Interactions, 7) Pregnancy/Lactation guidance, 8) Storage Requirements, 9) Clinical Pharmacology, 10) Additional relevant pharmaceutical details. Return structured JSON with null for missing information. Never fabricate data.",
+      "task_name": "product_56_histazine-1 10mg tablets"
+    },
+    {
+      "url": "https://chefaa.com:443/eg-ar/nowProduct/hyacarenol-eye-drops",
+      "prompt": "Extract comprehensive pharmaceutical information from this Chefaa product page. Extract: 1) Active Ingredients with exact strengths, 2) Therapeutic Applications, 3) Detailed Dosage Information, 4) Safety Information (contraindications, warnings), 5) Adverse Effects, 6) Drug Interactions, 7) Pregnancy/Lactation guidance, 8) Storage Requirements, 9) Clinical Pharmacology, 10) Additional relevant pharmaceutical details. Return structured JSON with null for missing information. Never fabricate data.",
+      "task_name": "product_57_hyacarenol eye drops"
+    },
+    {
+      "url": "https://chefaa.com:443/eg-ar/nowProduct/hyalo-4-control-cream",
+      "prompt": "Extract comprehensive pharmaceutical information from this Chefaa product page. Extract: 1) Active Ingredients with exact strengths, 2) Therapeutic Applications, 3) Detailed Dosage Information, 4) Safety Information (contraindications, warnings), 5) Adverse Effects, 6) Drug Interactions, 7) Pregnancy/Lactation guidance, 8) Storage Requirements, 9) Clinical Pharmacology, 10) Additional relevant pharmaceutical details. Return structured JSON with null for missing information. Never fabricate data.",
+      "task_name": "product_58_hyalo 4 control cream"
+    },
+    {
+      "url": "https://chefaa.com:443/eg-ar/nowProduct/hyalo-4-control-cream",
+      "prompt": "Extract comprehensive pharmaceutical information from this Chefaa product page. Extract: 1) Active Ingredients with exact strengths, 2) Therapeutic Applications, 3) Detailed Dosage Information, 4) Safety Information (contraindications, warnings), 5) Adverse Effects, 6) Drug Interactions, 7) Pregnancy/Lactation guidance, 8) Storage Requirements, 9) Clinical Pharmacology, 10) Additional relevant pharmaceutical details. Return structured JSON with null for missing information. Never fabricate data.",
+      "task_name": "product_59_hyalo 4 control cream"
+    },
+    {
+      "url": "https://chefaa.com:443/eg-ar/nowProduct/hyalo-4-skin-gel",
+      "prompt": "Extract comprehensive pharmaceutical information from this Chefaa product page. Extract: 1) Active Ingredients with exact strengths, 2) Therapeutic Applications, 3) Detailed Dosage Information, 4) Safety Information (contraindications, warnings), 5) Adverse Effects, 6) Drug Interactions, 7) Pregnancy/Lactation guidance, 8) Storage Requirements, 9) Clinical Pharmacology, 10) Additional relevant pharmaceutical details. Return structured JSON with null for missing information. Never fabricate data.",
+      "task_name": "product_60_hyalo 4 skin gel"
+    },
+    {
+      "url": "https://chefaa.com:443/eg-ar/nowProduct/hyalo-4-start-ointment",
+      "prompt": "Extract comprehensive pharmaceutical information from this Chefaa product page. Extract: 1) Active Ingredients with exact strengths, 2) Therapeutic Applications, 3) Detailed Dosage Information, 4) Safety Information (contraindications, warnings), 5) Adverse Effects, 6) Drug Interactions, 7) Pregnancy/Lactation guidance, 8) Storage Requirements, 9) Clinical Pharmacology, 10) Additional relevant pharmaceutical details. Return structured JSON with null for missing information. Never fabricate data.",
+      "task_name": "product_61_hyalo 4 start ointment"
+    },
+    {
+      "url": "https://chefaa.com:443/eg-ar/nowProduct/hyfresh-eye-drops",
+      "prompt": "Extract comprehensive pharmaceutical information from this Chefaa product page. Extract: 1) Active Ingredients with exact strengths, 2) Therapeutic Applications, 3) Detailed Dosage Information, 4) Safety Information (contraindications, warnings), 5) Adverse Effects, 6) Drug Interactions, 7) Pregnancy/Lactation guidance, 8) Storage Requirements, 9) Clinical Pharmacology, 10) Additional relevant pharmaceutical details. Return structured JSON with null for missing information. Never fabricate data.",
+      "task_name": "product_62_hyfresh eye drops"
+    },
+    {
+      "url": "https://chefaa.com:443/eg-ar/nowProduct/hyperoil-dropping-bottle",
+      "prompt": "Extract comprehensive pharmaceutical information from this Chefaa product page. Extract: 1) Active Ingredients with exact strengths, 2) Therapeutic Applications, 3) Detailed Dosage Information, 4) Safety Information (contraindications, warnings), 5) Adverse Effects, 6) Drug Interactions, 7) Pregnancy/Lactation guidance, 8) Storage Requirements, 9) Clinical Pharmacology, 10) Additional relevant pharmaceutical details. Return structured JSON with null for missing information. Never fabricate data.",
+      "task_name": "product_63_hyperoil dropping bottle"
+    },
+    {
+      "url": "https://chefaa.com:443/eg-ar/nowProduct/hyperoil-gel",
+      "prompt": "Extract comprehensive pharmaceutical information from this Chefaa product page. Extract: 1) Active Ingredients with exact strengths, 2) Therapeutic Applications, 3) Detailed Dosage Information, 4) Safety Information (contraindications, warnings), 5) Adverse Effects, 6) Drug Interactions, 7) Pregnancy/Lactation guidance, 8) Storage Requirements, 9) Clinical Pharmacology, 10) Additional relevant pharmaceutical details. Return structured JSON with null for missing information. Never fabricate data.",
+      "task_name": "product_64_hyperoil gel"
+    },
+    {
+      "url": "https://chefaa.com:443/eg-ar/nowProduct/icosalip",
+      "prompt": "Extract comprehensive pharmaceutical information from this Chefaa product page. Extract: 1) Active Ingredients with exact strengths, 2) Therapeutic Applications, 3) Detailed Dosage Information, 4) Safety Information (contraindications, warnings), 5) Adverse Effects, 6) Drug Interactions, 7) Pregnancy/Lactation guidance, 8) Storage Requirements, 9) Clinical Pharmacology, 10) Additional relevant pharmaceutical details. Return structured JSON with null for missing information. Never fabricate data.",
+      "task_name": "product_65_icosalip"
+    },
+    {
+      "url": "https://chefaa.com:443/eg-ar/nowProduct/immuniphar",
+      "prompt": "Extract comprehensive pharmaceutical information from this Chefaa product page. Extract: 1) Active Ingredients with exact strengths, 2) Therapeutic Applications, 3) Detailed Dosage Information, 4) Safety Information (contraindications, warnings), 5) Adverse Effects, 6) Drug Interactions, 7) Pregnancy/Lactation guidance, 8) Storage Requirements, 9) Clinical Pharmacology, 10) Additional relevant pharmaceutical details. Return structured JSON with null for missing information. Never fabricate data.",
+      "task_name": "product_66_immuniphar"
+    },
+    {
+      "url": "https://chefaa.com:443/eg-ar/nowProduct/imutrexate",
+      "prompt": "Extract comprehensive pharmaceutical information from this Chefaa product page. Extract: 1) Active Ingredients with exact strengths, 2) Therapeutic Applications, 3) Detailed Dosage Information, 4) Safety Information (contraindications, warnings), 5) Adverse Effects, 6) Drug Interactions, 7) Pregnancy/Lactation guidance, 8) Storage Requirements, 9) Clinical Pharmacology, 10) Additional relevant pharmaceutical details. Return structured JSON with null for missing information. Never fabricate data.",
+      "task_name": "product_67_imutrexate"
+    },
+    {
+      "url": "https://chefaa.com:443/eg-ar/nowProduct/inderal",
+      "prompt": "Extract comprehensive pharmaceutical information from this Chefaa product page. Extract: 1) Active Ingredients with exact strengths, 2) Therapeutic Applications, 3) Detailed Dosage Information, 4) Safety Information (contraindications, warnings), 5) Adverse Effects, 6) Drug Interactions, 7) Pregnancy/Lactation guidance, 8) Storage Requirements, 9) Clinical Pharmacology, 10) Additional relevant pharmaceutical details. Return structured JSON with null for missing information. Never fabricate data.",
+      "task_name": "product_68_inderal"
+    },
+    {
+      "url": "https://chefaa.com:443/eg-ar/nowProduct/inderal",
+      "prompt": "Extract comprehensive pharmaceutical information from this Chefaa product page. Extract: 1) Active Ingredients with exact strengths, 2) Therapeutic Applications, 3) Detailed Dosage Information, 4) Safety Information (contraindications, warnings), 5) Adverse Effects, 6) Drug Interactions, 7) Pregnancy/Lactation guidance, 8) Storage Requirements, 9) Clinical Pharmacology, 10) Additional relevant pharmaceutical details. Return structured JSON with null for missing information. Never fabricate data.",
+      "task_name": "product_69_inderal"
+    },
+    {
+      "url": "https://chefaa.com:443/eg-ar/nowProduct/indomethacin",
+      "prompt": "Extract comprehensive pharmaceutical information from this Chefaa product page. Extract: 1) Active Ingredients with exact strengths, 2) Therapeutic Applications, 3) Detailed Dosage Information, 4) Safety Information (contraindications, warnings), 5) Adverse Effects, 6) Drug Interactions, 7) Pregnancy/Lactation guidance, 8) Storage Requirements, 9) Clinical Pharmacology, 10) Additional relevant pharmaceutical details. Return structured JSON with null for missing information. Never fabricate data.",
+      "task_name": "product_70_indomethacin"
+    },
+    {
+      "url": "https://chefaa.com:443/eg-ar/nowProduct/inhalex",
+      "prompt": "Extract comprehensive pharmaceutical information from this Chefaa product page. Extract: 1) Active Ingredients with exact strengths, 2) Therapeutic Applications, 3) Detailed Dosage Information, 4) Safety Information (contraindications, warnings), 5) Adverse Effects, 6) Drug Interactions, 7) Pregnancy/Lactation guidance, 8) Storage Requirements, 9) Clinical Pharmacology, 10) Additional relevant pharmaceutical details. Return structured JSON with null for missing information. Never fabricate data.",
+      "task_name": "product_71_inhalex"
+    },
+    {
+      "url": "https://chefaa.com:443/eg-ar/nowProduct/injectmol",
+      "prompt": "Extract comprehensive pharmaceutical information from this Chefaa product page. Extract: 1) Active Ingredients with exact strengths, 2) Therapeutic Applications, 3) Detailed Dosage Information, 4) Safety Information (contraindications, warnings), 5) Adverse Effects, 6) Drug Interactions, 7) Pregnancy/Lactation guidance, 8) Storage Requirements, 9) Clinical Pharmacology, 10) Additional relevant pharmaceutical details. Return structured JSON with null for missing information. Never fabricate data.",
+      "task_name": "product_72_injectmol"
+    },
+    {
+      "url": "https://chefaa.com:443/eg-ar/nowProduct/inofolic",
+      "prompt": "Extract comprehensive pharmaceutical information from this Chefaa product page. Extract: 1) Active Ingredients with exact strengths, 2) Therapeutic Applications, 3) Detailed Dosage Information, 4) Safety Information (contraindications, warnings), 5) Adverse Effects, 6) Drug Interactions, 7) Pregnancy/Lactation guidance, 8) Storage Requirements, 9) Clinical Pharmacology, 10) Additional relevant pharmaceutical details. Return structured JSON with null for missing information. Never fabricate data.",
+      "task_name": "product_73_inofolic"
+    },
+    {
+      "url": "https://chefaa.com:443/eg-ar/nowProduct/insulin-syringe",
+      "prompt": "Extract comprehensive pharmaceutical information from this Chefaa product page. Extract: 1) Active Ingredients with exact strengths, 2) Therapeutic Applications, 3) Detailed Dosage Information, 4) Safety Information (contraindications, warnings), 5) Adverse Effects, 6) Drug Interactions, 7) Pregnancy/Lactation guidance, 8) Storage Requirements, 9) Clinical Pharmacology, 10) Additional relevant pharmaceutical details. Return structured JSON with null for missing information. Never fabricate data.",
+      "task_name": "product_74_insulin syringe"
+    },
+    {
+      "url": "https://chefaa.com:443/eg-ar/nowProduct/insulinagypt-70/30",
+      "prompt": "Extract comprehensive pharmaceutical information from this Chefaa product page. Extract: 1) Active Ingredients with exact strengths, 2) Therapeutic Applications, 3) Detailed Dosage Information, 4) Safety Information (contraindications, warnings), 5) Adverse Effects, 6) Drug Interactions, 7) Pregnancy/Lactation guidance, 8) Storage Requirements, 9) Clinical Pharmacology, 10) Additional relevant pharmaceutical details. Return structured JSON with null for missing information. Never fabricate data.",
+      "task_name": "product_75_insulinagypt 70/30"
+    },
+    {
+      "url": "https://chefaa.com:443/eg-ar/nowProduct/ioprost-eye-drops",
+      "prompt": "Extract comprehensive pharmaceutical information from this Chefaa product page. Extract: 1) Active Ingredients with exact strengths, 2) Therapeutic Applications, 3) Detailed Dosage Information, 4) Safety Information (contraindications, warnings), 5) Adverse Effects, 6) Drug Interactions, 7) Pregnancy/Lactation guidance, 8) Storage Requirements, 9) Clinical Pharmacology, 10) Additional relevant pharmaceutical details. Return structured JSON with null for missing information. Never fabricate data.",
+      "task_name": "product_76_ioprost eye drops"
+    },
+    {
+      "url": "https://chefaa.com:443/eg-ar/nowProduct/irolamin",
+      "prompt": "Extract comprehensive pharmaceutical information from this Chefaa product page. Extract: 1) Active Ingredients with exact strengths, 2) Therapeutic Applications, 3) Detailed Dosage Information, 4) Safety Information (contraindications, warnings), 5) Adverse Effects, 6) Drug Interactions, 7) Pregnancy/Lactation guidance, 8) Storage Requirements, 9) Clinical Pharmacology, 10) Additional relevant pharmaceutical details. Return structured JSON with null for missing information. Never fabricate data.",
+      "task_name": "product_77_irolamin"
+    },
+    {
+      "url": "https://chefaa.com:443/eg-ar/nowProduct/iruxol-ointment",
+      "prompt": "Extract comprehensive pharmaceutical information from this Chefaa product page. Extract: 1) Active Ingredients with exact strengths, 2) Therapeutic Applications, 3) Detailed Dosage Information, 4) Safety Information (contraindications, warnings), 5) Adverse Effects, 6) Drug Interactions, 7) Pregnancy/Lactation guidance, 8) Storage Requirements, 9) Clinical Pharmacology, 10) Additional relevant pharmaceutical details. Return structured JSON with null for missing information. Never fabricate data.",
+      "task_name": "product_78_iruxol ointment"
+    },
+    {
+      "url": "https://chefaa.com:443/eg-ar/nowProduct/isis-anise",
+      "prompt": "Extract comprehensive pharmaceutical information from this Chefaa product page. Extract: 1) Active Ingredients with exact strengths, 2) Therapeutic Applications, 3) Detailed Dosage Information, 4) Safety Information (contraindications, warnings), 5) Adverse Effects, 6) Drug Interactions, 7) Pregnancy/Lactation guidance, 8) Storage Requirements, 9) Clinical Pharmacology, 10) Additional relevant pharmaceutical details. Return structured JSON with null for missing information. Never fabricate data.",
+      "task_name": "product_79_isis anise"
+    },
+    {
+      "url": "https://chefaa.com:443/eg-ar/nowProduct/isis-ginger-with-cinnamon",
+      "prompt": "Extract comprehensive pharmaceutical information from this Chefaa product page. Extract: 1) Active Ingredients with exact strengths, 2) Therapeutic Applications, 3) Detailed Dosage Information, 4) Safety Information (contraindications, warnings), 5) Adverse Effects, 6) Drug Interactions, 7) Pregnancy/Lactation guidance, 8) Storage Requirements, 9) Clinical Pharmacology, 10) Additional relevant pharmaceutical details. Return structured JSON with null for missing information. Never fabricate data.",
+      "task_name": "product_80_isis ginger with cinnamon"
+    },
+    {
+      "url": "https://chefaa.com:443/eg-ar/nowProduct/isis-tillyo-herbs",
+      "prompt": "Extract comprehensive pharmaceutical information from this Chefaa product page. Extract: 1) Active Ingredients with exact strengths, 2) Therapeutic Applications, 3) Detailed Dosage Information, 4) Safety Information (contraindications, warnings), 5) Adverse Effects, 6) Drug Interactions, 7) Pregnancy/Lactation guidance, 8) Storage Requirements, 9) Clinical Pharmacology, 10) Additional relevant pharmaceutical details. Return structured JSON with null for missing information. Never fabricate data.",
+      "task_name": "product_81_isis tillyo herbs"
+    },
+    {
+      "url": "https://chefaa.com:443/eg-ar/nowProduct/isoptin-80mg",
+      "prompt": "Extract comprehensive pharmaceutical information from this Chefaa product page. Extract: 1) Active Ingredients with exact strengths, 2) Therapeutic Applications, 3) Detailed Dosage Information, 4) Safety Information (contraindications, warnings), 5) Adverse Effects, 6) Drug Interactions, 7) Pregnancy/Lactation guidance, 8) Storage Requirements, 9) Clinical Pharmacology, 10) Additional relevant pharmaceutical details. Return structured JSON with null for missing information. Never fabricate data.",
+      "task_name": "product_82_isoptin 80mg"
+    },
+    {
+      "url": "https://chefaa.com:443/eg-ar/nowProduct/isoptin-sr-retard-240mg",
+      "prompt": "Extract comprehensive pharmaceutical information from this Chefaa product page. Extract: 1) Active Ingredients with exact strengths, 2) Therapeutic Applications, 3) Detailed Dosage Information, 4) Safety Information (contraindications, warnings), 5) Adverse Effects, 6) Drug Interactions, 7) Pregnancy/Lactation guidance, 8) Storage Requirements, 9) Clinical Pharmacology, 10) Additional relevant pharmaceutical details. Return structured JSON with null for missing information. Never fabricate data.",
+      "task_name": "product_83_isoptin sr retard 240mg"
+    },
+    {
+      "url": "https://chefaa.com:443/eg-ar/nowProduct/isoroderm-topical-gel",
+      "prompt": "Extract comprehensive pharmaceutical information from this Chefaa product page. Extract: 1) Active Ingredients with exact strengths, 2) Therapeutic Applications, 3) Detailed Dosage Information, 4) Safety Information (contraindications, warnings), 5) Adverse Effects, 6) Drug Interactions, 7) Pregnancy/Lactation guidance, 8) Storage Requirements, 9) Clinical Pharmacology, 10) Additional relevant pharmaceutical details. Return structured JSON with null for missing information. Never fabricate data.",
+      "task_name": "product_84_isoroderm topical gel"
+    },
+    {
+      "url": "https://chefaa.com:443/eg-ar/nowProduct/isotretinoin-20mg",
+      "prompt": "Extract comprehensive pharmaceutical information from this Chefaa product page. Extract: 1) Active Ingredients with exact strengths, 2) Therapeutic Applications, 3) Detailed Dosage Information, 4) Safety Information (contraindications, warnings), 5) Adverse Effects, 6) Drug Interactions, 7) Pregnancy/Lactation guidance, 8) Storage Requirements, 9) Clinical Pharmacology, 10) Additional relevant pharmaceutical details. Return structured JSON with null for missing information. Never fabricate data.",
+      "task_name": "product_85_isotretinoin 20mg"
+    },
+    {
+      "url": "https://chefaa.com:443/eg-ar/nowProduct/isotretinoin-10mg",
+      "prompt": "Extract comprehensive pharmaceutical information from this Chefaa product page. Extract: 1) Active Ingredients with exact strengths, 2) Therapeutic Applications, 3) Detailed Dosage Information, 4) Safety Information (contraindications, warnings), 5) Adverse Effects, 6) Drug Interactions, 7) Pregnancy/Lactation guidance, 8) Storage Requirements, 9) Clinical Pharmacology, 10) Additional relevant pharmaceutical details. Return structured JSON with null for missing information. Never fabricate data.",
+      "task_name": "product_86_isotretinoin 10mg"
+    },
+    {
+      "url": "https://chefaa.com:443/eg-ar/nowProduct/item-n-hair-shampoo",
+      "prompt": "Extract comprehensive pharmaceutical information from this Chefaa product page. Extract: 1) Active Ingredients with exact strengths, 2) Therapeutic Applications, 3) Detailed Dosage Information, 4) Safety Information (contraindications, warnings), 5) Adverse Effects, 6) Drug Interactions, 7) Pregnancy/Lactation guidance, 8) Storage Requirements, 9) Clinical Pharmacology, 10) Additional relevant pharmaceutical details. Return structured JSON with null for missing information. Never fabricate data.",
+      "task_name": "product_87_item-n hair shampoo"
+    },
+    {
+      "url": "https://chefaa.com:443/eg-ar/nowProduct/itopride-gi-motility-regulator",
+      "prompt": "Extract comprehensive pharmaceutical information from this Chefaa product page. Extract: 1) Active Ingredients with exact strengths, 2) Therapeutic Applications, 3) Detailed Dosage Information, 4) Safety Information (contraindications, warnings), 5) Adverse Effects, 6) Drug Interactions, 7) Pregnancy/Lactation guidance, 8) Storage Requirements, 9) Clinical Pharmacology, 10) Additional relevant pharmaceutical details. Return structured JSON with null for missing information. Never fabricate data.",
+      "task_name": "product_88_itopride gi motility regulator"
+    },
+    {
+      "url": "https://chefaa.com:443/eg-ar/nowProduct/itraconazole-antifungal",
+      "prompt": "Extract comprehensive pharmaceutical information from this Chefaa product page. Extract: 1) Active Ingredients with exact strengths, 2) Therapeutic Applications, 3) Detailed Dosage Information, 4) Safety Information (contraindications, warnings), 5) Adverse Effects, 6) Drug Interactions, 7) Pregnancy/Lactation guidance, 8) Storage Requirements, 9) Clinical Pharmacology, 10) Additional relevant pharmaceutical details. Return structured JSON with null for missing information. Never fabricate data.",
+      "task_name": "product_89_itraconazole antifungal"
+    },
+    {
+      "url": "https://chefaa.com:443/eg-ar/nowProduct/atrarex-antifungal",
+      "prompt": "Extract comprehensive pharmaceutical information from this Chefaa product page. Extract: 1) Active Ingredients with exact strengths, 2) Therapeutic Applications, 3) Detailed Dosage Information, 4) Safety Information (contraindications, warnings), 5) Adverse Effects, 6) Drug Interactions, 7) Pregnancy/Lactation guidance, 8) Storage Requirements, 9) Clinical Pharmacology, 10) Additional relevant pharmaceutical details. Return structured JSON with null for missing information. Never fabricate data.",
+      "task_name": "product_90_atrarex antifungal"
+    },
+    {
+      "url": "https://chefaa.com:443/eg-ar/nowProduct/iverzin-6mg",
+      "prompt": "Extract comprehensive pharmaceutical information from this Chefaa product page. Extract: 1) Active Ingredients with exact strengths, 2) Therapeutic Applications, 3) Detailed Dosage Information, 4) Safety Information (contraindications, warnings), 5) Adverse Effects, 6) Drug Interactions, 7) Pregnancy/Lactation guidance, 8) Storage Requirements, 9) Clinical Pharmacology, 10) Additional relevant pharmaceutical details. Return structured JSON with null for missing information. Never fabricate data.",
+      "task_name": "product_91_iverzin 6mg"
+    },
+    {
+      "url": "https://chefaa.com:443/eg-ar/nowProduct/ivyfront-35mg/5ml-syrup",
+      "prompt": "Extract comprehensive pharmaceutical information from this Chefaa product page. Extract: 1) Active Ingredients with exact strengths, 2) Therapeutic Applications, 3) Detailed Dosage Information, 4) Safety Information (contraindications, warnings), 5) Adverse Effects, 6) Drug Interactions, 7) Pregnancy/Lactation guidance, 8) Storage Requirements, 9) Clinical Pharmacology, 10) Additional relevant pharmaceutical details. Return structured JSON with null for missing information. Never fabricate data.",
+      "task_name": "product_92_ivyfront 35mg/5ml syrup"
+    },
+    {
+      "url": "https://chefaa.com:443/eg-ar/nowProduct/ivyrospan-children's-cough-syrup",
+      "prompt": "Extract comprehensive pharmaceutical information from this Chefaa product page. Extract: 1) Active Ingredients with exact strengths, 2) Therapeutic Applications, 3) Detailed Dosage Information, 4) Safety Information (contraindications, warnings), 5) Adverse Effects, 6) Drug Interactions, 7) Pregnancy/Lactation guidance, 8) Storage Requirements, 9) Clinical Pharmacology, 10) Additional relevant pharmaceutical details. Return structured JSON with null for missing information. Never fabricate data.",
+      "task_name": "product_93_ivyrospan children's cough syrup"
+    },
+    {
+      "url": "https://chefaa.com:443/eg-ar/nowProduct/gbc-skin-moisturizing-cream",
+      "prompt": "Extract comprehensive pharmaceutical information from this Chefaa product page. Extract: 1) Active Ingredients with exact strengths, 2) Therapeutic Applications, 3) Detailed Dosage Information, 4) Safety Information (contraindications, warnings), 5) Adverse Effects, 6) Drug Interactions, 7) Pregnancy/Lactation guidance, 8) Storage Requirements, 9) Clinical Pharmacology, 10) Additional relevant pharmaceutical details. Return structured JSON with null for missing information. Never fabricate data.",
+      "task_name": "product_94_gbc skin moisturizing cream"
+    },
+    {
+      "url": "https://chefaa.com:443/eg-ar/nowProduct/janumet-type-2-diabetes-treatment",
+      "prompt": "Extract comprehensive pharmaceutical information from this Chefaa product page. Extract: 1) Active Ingredients with exact strengths, 2) Therapeutic Applications, 3) Detailed Dosage Information, 4) Safety Information (contraindications, warnings), 5) Adverse Effects, 6) Drug Interactions, 7) Pregnancy/Lactation guidance, 8) Storage Requirements, 9) Clinical Pharmacology, 10) Additional relevant pharmaceutical details. Return structured JSON with null for missing information. Never fabricate data.",
+      "task_name": "product_95_janumet type 2 diabetes treatment"
+    },
+    {
+      "url": "https://chefaa.com:443/eg-ar/nowProduct/joint-plus",
+      "prompt": "Extract comprehensive pharmaceutical information from this Chefaa product page. Extract: 1) Active Ingredients with exact strengths, 2) Therapeutic Applications, 3) Detailed Dosage Information, 4) Safety Information (contraindications, warnings), 5) Adverse Effects, 6) Drug Interactions, 7) Pregnancy/Lactation guidance, 8) Storage Requirements, 9) Clinical Pharmacology, 10) Additional relevant pharmaceutical details. Return structured JSON with null for missing information. Never fabricate data.",
+      "task_name": "product_96_joint plus"
+    },
+    {
+      "url": "https://chefaa.com:443/eg-ar/nowProduct/jointonex-bone-&-joint-supplement",
+      "prompt": "Extract comprehensive pharmaceutical information from this Chefaa product page. Extract: 1) Active Ingredients with exact strengths, 2) Therapeutic Applications, 3) Detailed Dosage Information, 4) Safety Information (contraindications, warnings), 5) Adverse Effects, 6) Drug Interactions, 7) Pregnancy/Lactation guidance, 8) Storage Requirements, 9) Clinical Pharmacology, 10) Additional relevant pharmaceutical details. Return structured JSON with null for missing information. Never fabricate data.",
+      "task_name": "product_97_jointonex bone & joint supplement"
+    },
+    {
+      "url": "https://chefaa.com:443/eg-ar/nowProduct/gosperin-body-pain-relief",
+      "prompt": "Extract comprehensive pharmaceutical information from this Chefaa product page. Extract: 1) Active Ingredients with exact strengths, 2) Therapeutic Applications, 3) Detailed Dosage Information, 4) Safety Information (contraindications, warnings), 5) Adverse Effects, 6) Drug Interactions, 7) Pregnancy/Lactation guidance, 8) Storage Requirements, 9) Clinical Pharmacology, 10) Additional relevant pharmaceutical details. Return structured JSON with null for missing information. Never fabricate data.",
+      "task_name": "product_98_gosperin body pain relief"
+    },
+    {
+      "url": "https://chefaa.com:443/eg-ar/nowProduct/jestikol-bad-cholesterol-reducer",
+      "prompt": "Extract comprehensive pharmaceutical information from this Chefaa product page. Extract: 1) Active Ingredients with exact strengths, 2) Therapeutic Applications, 3) Detailed Dosage Information, 4) Safety Information (contraindications, warnings), 5) Adverse Effects, 6) Drug Interactions, 7) Pregnancy/Lactation guidance, 8) Storage Requirements, 9) Clinical Pharmacology, 10) Additional relevant pharmaceutical details. Return structured JSON with null for missing information. Never fabricate data.",
+      "task_name": "product_99_jestikol bad cholesterol reducer"
+    },
+    {
+      "url": "https://chefaa.com:443/eg-ar/nowProduct/kalimapex-1620mg",
+      "prompt": "Extract comprehensive pharmaceutical information from this Chefaa product page. Extract: 1) Active Ingredients with exact strengths, 2) Therapeutic Applications, 3) Detailed Dosage Information, 4) Safety Information (contraindications, warnings), 5) Adverse Effects, 6) Drug Interactions, 7) Pregnancy/Lactation guidance, 8) Storage Requirements, 9) Clinical Pharmacology, 10) Additional relevant pharmaceutical details. Return structured JSON with null for missing information. Never fabricate data.",
+      "task_name": "product_100_kalimapex 1620mg"
+    },
+    {
+      "url": "https://chefaa.com:443/eg-ar/nowProduct/kalobin-oral-drops",
+      "prompt": "Extract comprehensive pharmaceutical information from this Chefaa product page. Extract: 1) Active Ingredients with exact strengths, 2) Therapeutic Applications, 3) Detailed Dosage Information, 4) Safety Information (contraindications, warnings), 5) Adverse Effects, 6) Drug Interactions, 7) Pregnancy/Lactation guidance, 8) Storage Requirements, 9) Clinical Pharmacology, 10) Additional relevant pharmaceutical details. Return structured JSON with null for missing information. Never fabricate data.",
+      "task_name": "product_101_kalobin oral drops"
+    },
+    {
+      "url": "https://chefaa.com:443/eg-ar/nowProduct/kansartan-plus-high-blood-pressure",
+      "prompt": "Extract comprehensive pharmaceutical information from this Chefaa product page. Extract: 1) Active Ingredients with exact strengths, 2) Therapeutic Applications, 3) Detailed Dosage Information, 4) Safety Information (contraindications, warnings), 5) Adverse Effects, 6) Drug Interactions, 7) Pregnancy/Lactation guidance, 8) Storage Requirements, 9) Clinical Pharmacology, 10) Additional relevant pharmaceutical details. Return structured JSON with null for missing information. Never fabricate data.",
+      "task_name": "product_102_kansartan plus high blood pressure"
+    },
+    {
+      "url": "https://chefaa.com:443/eg-ar/nowProduct/kapron-(cyklokapron)",
+      "prompt": "Extract comprehensive pharmaceutical information from this Chefaa product page. Extract: 1) Active Ingredients with exact strengths, 2) Therapeutic Applications, 3) Detailed Dosage Information, 4) Safety Information (contraindications, warnings), 5) Adverse Effects, 6) Drug Interactions, 7) Pregnancy/Lactation guidance, 8) Storage Requirements, 9) Clinical Pharmacology, 10) Additional relevant pharmaceutical details. Return structured JSON with null for missing information. Never fabricate data.",
+      "task_name": "product_103_kapron (cyklokapron)"
+    },
+    {
+      "url": "https://chefaa.com:443/eg-ar/nowProduct/kapron-injection",
+      "prompt": "Extract comprehensive pharmaceutical information from this Chefaa product page. Extract: 1) Active Ingredients with exact strengths, 2) Therapeutic Applications, 3) Detailed Dosage Information, 4) Safety Information (contraindications, warnings), 5) Adverse Effects, 6) Drug Interactions, 7) Pregnancy/Lactation guidance, 8) Storage Requirements, 9) Clinical Pharmacology, 10) Additional relevant pharmaceutical details. Return structured JSON with null for missing information. Never fabricate data.",
+      "task_name": "product_104_kapron injection"
+    },
+    {
+      "url": "https://chefaa.com:443/eg-ar/nowProduct/kast-10mg",
+      "prompt": "Extract comprehensive pharmaceutical information from this Chefaa product page. Extract: 1) Active Ingredients with exact strengths, 2) Therapeutic Applications, 3) Detailed Dosage Information, 4) Safety Information (contraindications, warnings), 5) Adverse Effects, 6) Drug Interactions, 7) Pregnancy/Lactation guidance, 8) Storage Requirements, 9) Clinical Pharmacology, 10) Additional relevant pharmaceutical details. Return structured JSON with null for missing information. Never fabricate data.",
+      "task_name": "product_105_kast 10mg"
+    },
+    {
+      "url": "https://chefaa.com:443/eg-ar/nowProduct/kefentech-back-plaster",
+      "prompt": "Extract comprehensive pharmaceutical information from this Chefaa product page. Extract: 1) Active Ingredients with exact strengths, 2) Therapeutic Applications, 3) Detailed Dosage Information, 4) Safety Information (contraindications, warnings), 5) Adverse Effects, 6) Drug Interactions, 7) Pregnancy/Lactation guidance, 8) Storage Requirements, 9) Clinical Pharmacology, 10) Additional relevant pharmaceutical details. Return structured JSON with null for missing information. Never fabricate data.",
+      "task_name": "product_106_kefentech back plaster"
+    },
+    {
+      "url": "https://chefaa.com:443/eg-ar/nowProduct/kemagel-silicone-gel",
+      "prompt": "Extract comprehensive pharmaceutical information from this Chefaa product page. Extract: 1) Active Ingredients with exact strengths, 2) Therapeutic Applications, 3) Detailed Dosage Information, 4) Safety Information (contraindications, warnings), 5) Adverse Effects, 6) Drug Interactions, 7) Pregnancy/Lactation guidance, 8) Storage Requirements, 9) Clinical Pharmacology, 10) Additional relevant pharmaceutical details. Return structured JSON with null for missing information. Never fabricate data.",
+      "task_name": "product_107_kemagel silicone gel"
+    },
+    {
+      "url": "https://chefaa.com:443/eg-ar/nowProduct/kerella-ointment-for-hair-and-skin",
+      "prompt": "Extract comprehensive pharmaceutical information from this Chefaa product page. Extract: 1) Active Ingredients with exact strengths, 2) Therapeutic Applications, 3) Detailed Dosage Information, 4) Safety Information (contraindications, warnings), 5) Adverse Effects, 6) Drug Interactions, 7) Pregnancy/Lactation guidance, 8) Storage Requirements, 9) Clinical Pharmacology, 10) Additional relevant pharmaceutical details. Return structured JSON with null for missing information. Never fabricate data.",
+      "task_name": "product_108_kerella ointment for hair and skin"
+    },
+    {
+      "url": "https://chefaa.com:443/eg-ar/nowProduct/ketofan-50mg",
+      "prompt": "Extract comprehensive pharmaceutical information from this Chefaa product page. Extract: 1) Active Ingredients with exact strengths, 2) Therapeutic Applications, 3) Detailed Dosage Information, 4) Safety Information (contraindications, warnings), 5) Adverse Effects, 6) Drug Interactions, 7) Pregnancy/Lactation guidance, 8) Storage Requirements, 9) Clinical Pharmacology, 10) Additional relevant pharmaceutical details. Return structured JSON with null for missing information. Never fabricate data.",
+      "task_name": "product_109_ketofan 50mg"
+    },
+    {
+      "url": "https://chefaa.com:443/eg-ar/nowProduct/ketolac-10mg",
+      "prompt": "Extract comprehensive pharmaceutical information from this Chefaa product page. Extract: 1) Active Ingredients with exact strengths, 2) Therapeutic Applications, 3) Detailed Dosage Information, 4) Safety Information (contraindications, warnings), 5) Adverse Effects, 6) Drug Interactions, 7) Pregnancy/Lactation guidance, 8) Storage Requirements, 9) Clinical Pharmacology, 10) Additional relevant pharmaceutical details. Return structured JSON with null for missing information. Never fabricate data.",
+      "task_name": "product_110_ketolac 10mg"
+    },
+    {
+      "url": "https://chefaa.com:443/eg-ar/nowProduct/ketolac-30mg/2ml-injection",
+      "prompt": "Extract comprehensive pharmaceutical information from this Chefaa product page. Extract: 1) Active Ingredients with exact strengths, 2) Therapeutic Applications, 3) Detailed Dosage Information, 4) Safety Information (contraindications, warnings), 5) Adverse Effects, 6) Drug Interactions, 7) Pregnancy/Lactation guidance, 8) Storage Requirements, 9) Clinical Pharmacology, 10) Additional relevant pharmaceutical details. Return structured JSON with null for missing information. Never fabricate data.",
+      "task_name": "product_111_ketolac 30mg/2ml injection"
+    },
+    {
+      "url": "https://chefaa.com:443/eg-ar/nowProduct/ketoprek-75mg",
+      "prompt": "Extract comprehensive pharmaceutical information from this Chefaa product page. Extract: 1) Active Ingredients with exact strengths, 2) Therapeutic Applications, 3) Detailed Dosage Information, 4) Safety Information (contraindications, warnings), 5) Adverse Effects, 6) Drug Interactions, 7) Pregnancy/Lactation guidance, 8) Storage Requirements, 9) Clinical Pharmacology, 10) Additional relevant pharmaceutical details. Return structured JSON with null for missing information. Never fabricate data.",
+      "task_name": "product_112_ketoprek 75mg"
+    },
+    {
+      "url": "https://chefaa.com:443/eg-ar/nowProduct/klacid-antibiotic-250mg",
+      "prompt": "Extract comprehensive pharmaceutical information from this Chefaa product page. Extract: 1) Active Ingredients with exact strengths, 2) Therapeutic Applications, 3) Detailed Dosage Information, 4) Safety Information (contraindications, warnings), 5) Adverse Effects, 6) Drug Interactions, 7) Pregnancy/Lactation guidance, 8) Storage Requirements, 9) Clinical Pharmacology, 10) Additional relevant pharmaceutical details. Return structured JSON with null for missing information. Never fabricate data.",
+      "task_name": "product_113_klacid antibiotic 250mg"
+    },
+    {
+      "url": "https://chefaa.com:443/eg-ar/nowProduct/klacid-antibiotic-500mg",
+      "prompt": "Extract comprehensive pharmaceutical information from this Chefaa product page. Extract: 1) Active Ingredients with exact strengths, 2) Therapeutic Applications, 3) Detailed Dosage Information, 4) Safety Information (contraindications, warnings), 5) Adverse Effects, 6) Drug Interactions, 7) Pregnancy/Lactation guidance, 8) Storage Requirements, 9) Clinical Pharmacology, 10) Additional relevant pharmaceutical details. Return structured JSON with null for missing information. Never fabricate data.",
+      "task_name": "product_114_klacid antibiotic 500mg"
+    },
+    {
+      "url": "https://chefaa.com:443/eg-ar/nowProduct/klacid-xl-500mg",
+      "prompt": "Extract comprehensive pharmaceutical information from this Chefaa product page. Extract: 1) Active Ingredients with exact strengths, 2) Therapeutic Applications, 3) Detailed Dosage Information, 4) Safety Information (contraindications, warnings), 5) Adverse Effects, 6) Drug Interactions, 7) Pregnancy/Lactation guidance, 8) Storage Requirements, 9) Clinical Pharmacology, 10) Additional relevant pharmaceutical details. Return structured JSON with null for missing information. Never fabricate data.",
+      "task_name": "product_115_klacid xl 500mg"
+    },
+    {
+      "url": "https://chefaa.com:443/eg-ar/nowProduct/klimadynon-tablets",
+      "prompt": "Extract comprehensive pharmaceutical information from this Chefaa product page. Extract: 1) Active Ingredients with exact strengths, 2) Therapeutic Applications, 3) Detailed Dosage Information, 4) Safety Information (contraindications, warnings), 5) Adverse Effects, 6) Drug Interactions, 7) Pregnancy/Lactation guidance, 8) Storage Requirements, 9) Clinical Pharmacology, 10) Additional relevant pharmaceutical details. Return structured JSON with null for missing information. Never fabricate data.",
+      "task_name": "product_116_klimadynon tablets"
+    },
+    {
+      "url": "https://chefaa.com:443/eg-ar/nowProduct/kokast-10mg",
+      "prompt": "Extract comprehensive pharmaceutical information from this Chefaa product page. Extract: 1) Active Ingredients with exact strengths, 2) Therapeutic Applications, 3) Detailed Dosage Information, 4) Safety Information (contraindications, warnings), 5) Adverse Effects, 6) Drug Interactions, 7) Pregnancy/Lactation guidance, 8) Storage Requirements, 9) Clinical Pharmacology, 10) Additional relevant pharmaceutical details. Return structured JSON with null for missing information. Never fabricate data.",
+      "task_name": "product_117_kokast 10mg"
+    },
+    {
+      "url": "https://chefaa.com:443/eg-ar/nowProduct/l-arginine-1000mg-men's-supplement",
+      "prompt": "Extract comprehensive pharmaceutical information from this Chefaa product page. Extract: 1) Active Ingredients with exact strengths, 2) Therapeutic Applications, 3) Detailed Dosage Information, 4) Safety Information (contraindications, warnings), 5) Adverse Effects, 6) Drug Interactions, 7) Pregnancy/Lactation guidance, 8) Storage Requirements, 9) Clinical Pharmacology, 10) Additional relevant pharmaceutical details. Return structured JSON with null for missing information. Never fabricate data.",
+      "task_name": "product_118_l-arginine 1000mg men's supplement"
+    },
+    {
+      "url": "https://chefaa.com:443/eg-ar/nowProduct/l-carnitine-plus",
+      "prompt": "Extract comprehensive pharmaceutical information from this Chefaa product page. Extract: 1) Active Ingredients with exact strengths, 2) Therapeutic Applications, 3) Detailed Dosage Information, 4) Safety Information (contraindications, warnings), 5) Adverse Effects, 6) Drug Interactions, 7) Pregnancy/Lactation guidance, 8) Storage Requirements, 9) Clinical Pharmacology, 10) Additional relevant pharmaceutical details. Return structured JSON with null for missing information. Never fabricate data.",
+      "task_name": "product_119_l-carnitine plus"
+    },
+    {
+      "url": "https://chefaa.com:443/eg-ar/nowProduct/lacovimp-antiepileptic",
+      "prompt": "Extract comprehensive pharmaceutical information from this Chefaa product page. Extract: 1) Active Ingredients with exact strengths, 2) Therapeutic Applications, 3) Detailed Dosage Information, 4) Safety Information (contraindications, warnings), 5) Adverse Effects, 6) Drug Interactions, 7) Pregnancy/Lactation guidance, 8) Storage Requirements, 9) Clinical Pharmacology, 10) Additional relevant pharmaceutical details. Return structured JSON with null for missing information. Never fabricate data.",
+      "task_name": "product_120_lacovimp antiepileptic"
+    },
+    {
+      "url": "https://chefaa.com:443/eg-ar/nowProduct/lacteol-fort",
+      "prompt": "Extract comprehensive pharmaceutical information from this Chefaa product page. Extract: 1) Active Ingredients with exact strengths, 2) Therapeutic Applications, 3) Detailed Dosage Information, 4) Safety Information (contraindications, warnings), 5) Adverse Effects, 6) Drug Interactions, 7) Pregnancy/Lactation guidance, 8) Storage Requirements, 9) Clinical Pharmacology, 10) Additional relevant pharmaceutical details. Return structured JSON with null for missing information. Never fabricate data.",
+      "task_name": "product_121_lacteol fort"
+    },
+    {
+      "url": "https://chefaa.com:443/eg-ar/nowProduct/lacteol-fort",
+      "prompt": "Extract comprehensive pharmaceutical information from this Chefaa product page. Extract: 1) Active Ingredients with exact strengths, 2) Therapeutic Applications, 3) Detailed Dosage Information, 4) Safety Information (contraindications, warnings), 5) Adverse Effects, 6) Drug Interactions, 7) Pregnancy/Lactation guidance, 8) Storage Requirements, 9) Clinical Pharmacology, 10) Additional relevant pharmaceutical details. Return structured JSON with null for missing information. Never fabricate data.",
+      "task_name": "product_122_lacteol fort"
+    },
+    {
+      "url": "https://chefaa.com:443/eg-ar/nowProduct/lactevenor",
+      "prompt": "Extract comprehensive pharmaceutical information from this Chefaa product page. Extract: 1) Active Ingredients with exact strengths, 2) Therapeutic Applications, 3) Detailed Dosage Information, 4) Safety Information (contraindications, warnings), 5) Adverse Effects, 6) Drug Interactions, 7) Pregnancy/Lactation guidance, 8) Storage Requirements, 9) Clinical Pharmacology, 10) Additional relevant pharmaceutical details. Return structured JSON with null for missing information. Never fabricate data.",
+      "task_name": "product_123_lactevenor"
+    },
+    {
+      "url": "https://chefaa.com:443/eg-ar/nowProduct/lactodel",
+      "prompt": "Extract comprehensive pharmaceutical information from this Chefaa product page. Extract: 1) Active Ingredients with exact strengths, 2) Therapeutic Applications, 3) Detailed Dosage Information, 4) Safety Information (contraindications, warnings), 5) Adverse Effects, 6) Drug Interactions, 7) Pregnancy/Lactation guidance, 8) Storage Requirements, 9) Clinical Pharmacology, 10) Additional relevant pharmaceutical details. Return structured JSON with null for missing information. Never fabricate data.",
+      "task_name": "product_124_lactodel"
+    },
+    {
+      "url": "https://chefaa.com:443/eg-ar/nowProduct/lamifen",
+      "prompt": "Extract comprehensive pharmaceutical information from this Chefaa product page. Extract: 1) Active Ingredients with exact strengths, 2) Therapeutic Applications, 3) Detailed Dosage Information, 4) Safety Information (contraindications, warnings), 5) Adverse Effects, 6) Drug Interactions, 7) Pregnancy/Lactation guidance, 8) Storage Requirements, 9) Clinical Pharmacology, 10) Additional relevant pharmaceutical details. Return structured JSON with null for missing information. Never fabricate data.",
+      "task_name": "product_125_lamifen"
+    },
+    {
+      "url": "https://chefaa.com:443/eg-ar/nowProduct/lamifen",
+      "prompt": "Extract comprehensive pharmaceutical information from this Chefaa product page. Extract: 1) Active Ingredients with exact strengths, 2) Therapeutic Applications, 3) Detailed Dosage Information, 4) Safety Information (contraindications, warnings), 5) Adverse Effects, 6) Drug Interactions, 7) Pregnancy/Lactation guidance, 8) Storage Requirements, 9) Clinical Pharmacology, 10) Additional relevant pharmaceutical details. Return structured JSON with null for missing information. Never fabricate data.",
+      "task_name": "product_126_lamifen"
+    },
+    {
+      "url": "https://chefaa.com:443/eg-ar/nowProduct/lantus",
+      "prompt": "Extract comprehensive pharmaceutical information from this Chefaa product page. Extract: 1) Active Ingredients with exact strengths, 2) Therapeutic Applications, 3) Detailed Dosage Information, 4) Safety Information (contraindications, warnings), 5) Adverse Effects, 6) Drug Interactions, 7) Pregnancy/Lactation guidance, 8) Storage Requirements, 9) Clinical Pharmacology, 10) Additional relevant pharmaceutical details. Return structured JSON with null for missing information. Never fabricate data.",
+      "task_name": "product_127_lantus"
+    },
+    {
+      "url": "https://chefaa.com:443/eg-ar/nowProduct/lantus-solostar",
+      "prompt": "Extract comprehensive pharmaceutical information from this Chefaa product page. Extract: 1) Active Ingredients with exact strengths, 2) Therapeutic Applications, 3) Detailed Dosage Information, 4) Safety Information (contraindications, warnings), 5) Adverse Effects, 6) Drug Interactions, 7) Pregnancy/Lactation guidance, 8) Storage Requirements, 9) Clinical Pharmacology, 10) Additional relevant pharmaceutical details. Return structured JSON with null for missing information. Never fabricate data.",
+      "task_name": "product_128_lantus solostar"
+    },
+    {
+      "url": "https://chefaa.com:443/eg-ar/nowProduct/lasilactone",
+      "prompt": "Extract comprehensive pharmaceutical information from this Chefaa product page. Extract: 1) Active Ingredients with exact strengths, 2) Therapeutic Applications, 3) Detailed Dosage Information, 4) Safety Information (contraindications, warnings), 5) Adverse Effects, 6) Drug Interactions, 7) Pregnancy/Lactation guidance, 8) Storage Requirements, 9) Clinical Pharmacology, 10) Additional relevant pharmaceutical details. Return structured JSON with null for missing information. Never fabricate data.",
+      "task_name": "product_129_lasilactone"
+    },
+    {
+      "url": "https://chefaa.com:443/eg-ar/nowProduct/lasilactone",
+      "prompt": "Extract comprehensive pharmaceutical information from this Chefaa product page. Extract: 1) Active Ingredients with exact strengths, 2) Therapeutic Applications, 3) Detailed Dosage Information, 4) Safety Information (contraindications, warnings), 5) Adverse Effects, 6) Drug Interactions, 7) Pregnancy/Lactation guidance, 8) Storage Requirements, 9) Clinical Pharmacology, 10) Additional relevant pharmaceutical details. Return structured JSON with null for missing information. Never fabricate data.",
+      "task_name": "product_130_lasilactone"
+    },
+    {
+      "url": "https://chefaa.com:443/eg-ar/nowProduct/lasix",
+      "prompt": "Extract comprehensive pharmaceutical information from this Chefaa product page. Extract: 1) Active Ingredients with exact strengths, 2) Therapeutic Applications, 3) Detailed Dosage Information, 4) Safety Information (contraindications, warnings), 5) Adverse Effects, 6) Drug Interactions, 7) Pregnancy/Lactation guidance, 8) Storage Requirements, 9) Clinical Pharmacology, 10) Additional relevant pharmaceutical details. Return structured JSON with null for missing information. Never fabricate data.",
+      "task_name": "product_131_lasix"
+    },
+    {
+      "url": "https://chefaa.com:443/eg-ar/nowProduct/lasix",
+      "prompt": "Extract comprehensive pharmaceutical information from this Chefaa product page. Extract: 1) Active Ingredients with exact strengths, 2) Therapeutic Applications, 3) Detailed Dosage Information, 4) Safety Information (contraindications, warnings), 5) Adverse Effects, 6) Drug Interactions, 7) Pregnancy/Lactation guidance, 8) Storage Requirements, 9) Clinical Pharmacology, 10) Additional relevant pharmaceutical details. Return structured JSON with null for missing information. Never fabricate data.",
+      "task_name": "product_132_lasix"
+    },
+    {
+      "url": "https://chefaa.com:443/eg-ar/nowProduct/l-carnitine",
+      "prompt": "Extract comprehensive pharmaceutical information from this Chefaa product page. Extract: 1) Active Ingredients with exact strengths, 2) Therapeutic Applications, 3) Detailed Dosage Information, 4) Safety Information (contraindications, warnings), 5) Adverse Effects, 6) Drug Interactions, 7) Pregnancy/Lactation guidance, 8) Storage Requirements, 9) Clinical Pharmacology, 10) Additional relevant pharmaceutical details. Return structured JSON with null for missing information. Never fabricate data.",
+      "task_name": "product_133_l-carnitine"
+    },
+    {
+      "url": "https://chefaa.com:443/eg-ar/nowProduct/lelipel",
+      "prompt": "Extract comprehensive pharmaceutical information from this Chefaa product page. Extract: 1) Active Ingredients with exact strengths, 2) Therapeutic Applications, 3) Detailed Dosage Information, 4) Safety Information (contraindications, warnings), 5) Adverse Effects, 6) Drug Interactions, 7) Pregnancy/Lactation guidance, 8) Storage Requirements, 9) Clinical Pharmacology, 10) Additional relevant pharmaceutical details. Return structured JSON with null for missing information. Never fabricate data.",
+      "task_name": "product_134_lelipel"
+    },
+    {
+      "url": "https://chefaa.com:443/eg-ar/nowProduct/lentra",
+      "prompt": "Extract comprehensive pharmaceutical information from this Chefaa product page. Extract: 1) Active Ingredients with exact strengths, 2) Therapeutic Applications, 3) Detailed Dosage Information, 4) Safety Information (contraindications, warnings), 5) Adverse Effects, 6) Drug Interactions, 7) Pregnancy/Lactation guidance, 8) Storage Requirements, 9) Clinical Pharmacology, 10) Additional relevant pharmaceutical details. Return structured JSON with null for missing information. Never fabricate data.",
+      "task_name": "product_135_lentra"
+    },
+    {
+      "url": "https://chefaa.com:443/eg-ar/nowProduct/levanic",
+      "prompt": "Extract comprehensive pharmaceutical information from this Chefaa product page. Extract: 1) Active Ingredients with exact strengths, 2) Therapeutic Applications, 3) Detailed Dosage Information, 4) Safety Information (contraindications, warnings), 5) Adverse Effects, 6) Drug Interactions, 7) Pregnancy/Lactation guidance, 8) Storage Requirements, 9) Clinical Pharmacology, 10) Additional relevant pharmaceutical details. Return structured JSON with null for missing information. Never fabricate data.",
+      "task_name": "product_136_levanic"
+    },
+    {
+      "url": "https://chefaa.com:443/eg-ar/nowProduct/levanic",
+      "prompt": "Extract comprehensive pharmaceutical information from this Chefaa product page. Extract: 1) Active Ingredients with exact strengths, 2) Therapeutic Applications, 3) Detailed Dosage Information, 4) Safety Information (contraindications, warnings), 5) Adverse Effects, 6) Drug Interactions, 7) Pregnancy/Lactation guidance, 8) Storage Requirements, 9) Clinical Pharmacology, 10) Additional relevant pharmaceutical details. Return structured JSON with null for missing information. Never fabricate data.",
+      "task_name": "product_137_levanic"
+    },
+    {
+      "url": "https://chefaa.com:443/eg-ar/nowProduct/levanox-n",
+      "prompt": "Extract comprehensive pharmaceutical information from this Chefaa product page. Extract: 1) Active Ingredients with exact strengths, 2) Therapeutic Applications, 3) Detailed Dosage Information, 4) Safety Information (contraindications, warnings), 5) Adverse Effects, 6) Drug Interactions, 7) Pregnancy/Lactation guidance, 8) Storage Requirements, 9) Clinical Pharmacology, 10) Additional relevant pharmaceutical details. Return structured JSON with null for missing information. Never fabricate data.",
+      "task_name": "product_138_levanox n"
+    },
+    {
+      "url": "https://chefaa.com:443/eg-ar/nowProduct/levcet",
+      "prompt": "Extract comprehensive pharmaceutical information from this Chefaa product page. Extract: 1) Active Ingredients with exact strengths, 2) Therapeutic Applications, 3) Detailed Dosage Information, 4) Safety Information (contraindications, warnings), 5) Adverse Effects, 6) Drug Interactions, 7) Pregnancy/Lactation guidance, 8) Storage Requirements, 9) Clinical Pharmacology, 10) Additional relevant pharmaceutical details. Return structured JSON with null for missing information. Never fabricate data.",
+      "task_name": "product_139_levcet"
+    },
+    {
+      "url": "https://chefaa.com:443/eg-ar/nowProduct/levohistam",
+      "prompt": "Extract comprehensive pharmaceutical information from this Chefaa product page. Extract: 1) Active Ingredients with exact strengths, 2) Therapeutic Applications, 3) Detailed Dosage Information, 4) Safety Information (contraindications, warnings), 5) Adverse Effects, 6) Drug Interactions, 7) Pregnancy/Lactation guidance, 8) Storage Requirements, 9) Clinical Pharmacology, 10) Additional relevant pharmaceutical details. Return structured JSON with null for missing information. Never fabricate data.",
+      "task_name": "product_140_levohistam"
+    },
+    {
+      "url": "https://chefaa.com:443/eg-ar/nowProduct/levohistam",
+      "prompt": "Extract comprehensive pharmaceutical information from this Chefaa product page. Extract: 1) Active Ingredients with exact strengths, 2) Therapeutic Applications, 3) Detailed Dosage Information, 4) Safety Information (contraindications, warnings), 5) Adverse Effects, 6) Drug Interactions, 7) Pregnancy/Lactation guidance, 8) Storage Requirements, 9) Clinical Pharmacology, 10) Additional relevant pharmaceutical details. Return structured JSON with null for missing information. Never fabricate data.",
+      "task_name": "product_141_levohistam"
+    },
+    {
+      "url": "https://chefaa.com:443/eg-ar/nowProduct/levotavin",
+      "prompt": "Extract comprehensive pharmaceutical information from this Chefaa product page. Extract: 1) Active Ingredients with exact strengths, 2) Therapeutic Applications, 3) Detailed Dosage Information, 4) Safety Information (contraindications, warnings), 5) Adverse Effects, 6) Drug Interactions, 7) Pregnancy/Lactation guidance, 8) Storage Requirements, 9) Clinical Pharmacology, 10) Additional relevant pharmaceutical details. Return structured JSON with null for missing information. Never fabricate data.",
+      "task_name": "product_142_levotavin"
+    },
+    {
+      "url": "https://chefaa.com:443/eg-ar/nowProduct/librax",
+      "prompt": "Extract comprehensive pharmaceutical information from this Chefaa product page. Extract: 1) Active Ingredients with exact strengths, 2) Therapeutic Applications, 3) Detailed Dosage Information, 4) Safety Information (contraindications, warnings), 5) Adverse Effects, 6) Drug Interactions, 7) Pregnancy/Lactation guidance, 8) Storage Requirements, 9) Clinical Pharmacology, 10) Additional relevant pharmaceutical details. Return structured JSON with null for missing information. Never fabricate data.",
+      "task_name": "product_143_librax"
+    },
+    {
+      "url": "https://chefaa.com:443/eg-ar/nowProduct/lignocaine",
+      "prompt": "Extract comprehensive pharmaceutical information from this Chefaa product page. Extract: 1) Active Ingredients with exact strengths, 2) Therapeutic Applications, 3) Detailed Dosage Information, 4) Safety Information (contraindications, warnings), 5) Adverse Effects, 6) Drug Interactions, 7) Pregnancy/Lactation guidance, 8) Storage Requirements, 9) Clinical Pharmacology, 10) Additional relevant pharmaceutical details. Return structured JSON with null for missing information. Never fabricate data.",
+      "task_name": "product_144_lignocaine"
+    },
+    {
+      "url": "https://chefaa.com:443/eg-ar/nowProduct/limitless-sleep-aid-dual",
+      "prompt": "Extract comprehensive pharmaceutical information from this Chefaa product page. Extract: 1) Active Ingredients with exact strengths, 2) Therapeutic Applications, 3) Detailed Dosage Information, 4) Safety Information (contraindications, warnings), 5) Adverse Effects, 6) Drug Interactions, 7) Pregnancy/Lactation guidance, 8) Storage Requirements, 9) Clinical Pharmacology, 10) Additional relevant pharmaceutical details. Return structured JSON with null for missing information. Never fabricate data.",
+      "task_name": "product_145_limitless sleep aid dual"
+    },
+    {
+      "url": "https://chefaa.com:443/eg-ar/nowProduct/limitless-baby-vitamin-d-drops",
+      "prompt": "Extract comprehensive pharmaceutical information from this Chefaa product page. Extract: 1) Active Ingredients with exact strengths, 2) Therapeutic Applications, 3) Detailed Dosage Information, 4) Safety Information (contraindications, warnings), 5) Adverse Effects, 6) Drug Interactions, 7) Pregnancy/Lactation guidance, 8) Storage Requirements, 9) Clinical Pharmacology, 10) Additional relevant pharmaceutical details. Return structured JSON with null for missing information. Never fabricate data.",
+      "task_name": "product_146_limitless baby vitamin d drops"
+    },
+    {
+      "url": "https://chefaa.com:443/eg-ar/nowProduct/limitless-prostanorm-max",
+      "prompt": "Extract comprehensive pharmaceutical information from this Chefaa product page. Extract: 1) Active Ingredients with exact strengths, 2) Therapeutic Applications, 3) Detailed Dosage Information, 4) Safety Information (contraindications, warnings), 5) Adverse Effects, 6) Drug Interactions, 7) Pregnancy/Lactation guidance, 8) Storage Requirements, 9) Clinical Pharmacology, 10) Additional relevant pharmaceutical details. Return structured JSON with null for missing information. Never fabricate data.",
+      "task_name": "product_147_limitless prostanorm max"
+    },
+    {
+      "url": "https://chefaa.com:443/eg-ar/nowProduct/linex-adults-14-capsules-zkse",
+      "prompt": "Extract comprehensive pharmaceutical information from this Chefaa product page. Extract: 1) Active Ingredients with exact strengths, 2) Therapeutic Applications, 3) Detailed Dosage Information, 4) Safety Information (contraindications, warnings), 5) Adverse Effects, 6) Drug Interactions, 7) Pregnancy/Lactation guidance, 8) Storage Requirements, 9) Clinical Pharmacology, 10) Additional relevant pharmaceutical details. Return structured JSON with null for missing information. Never fabricate data.",
+      "task_name": "product_148_linex baby probiotic drops"
+    },
+    {
+      "url": "https://chefaa.com:443/eg-ar/nowProduct/linex-adults-14-capsules-zkse",
+      "prompt": "Extract comprehensive pharmaceutical information from this Chefaa product page. Extract: 1) Active Ingredients with exact strengths, 2) Therapeutic Applications, 3) Detailed Dosage Information, 4) Safety Information (contraindications, warnings), 5) Adverse Effects, 6) Drug Interactions, 7) Pregnancy/Lactation guidance, 8) Storage Requirements, 9) Clinical Pharmacology, 10) Additional relevant pharmaceutical details. Return structured JSON with null for missing information. Never fabricate data.",
+      "task_name": "product_149_linex dietary supplement"
+    },
+    {
+      "url": "https://chefaa.com:443/eg-ar/nowProduct/linezolid",
+      "prompt": "Extract comprehensive pharmaceutical information from this Chefaa product page. Extract: 1) Active Ingredients with exact strengths, 2) Therapeutic Applications, 3) Detailed Dosage Information, 4) Safety Information (contraindications, warnings), 5) Adverse Effects, 6) Drug Interactions, 7) Pregnancy/Lactation guidance, 8) Storage Requirements, 9) Clinical Pharmacology, 10) Additional relevant pharmaceutical details. Return structured JSON with null for missing information. Never fabricate data.",
+      "task_name": "product_150_linezolid"
+    },
+    {
+      "url": "https://chefaa.com:443/eg-ar/nowProduct/linorose",
+      "prompt": "Extract comprehensive pharmaceutical information from this Chefaa product page. Extract: 1) Active Ingredients with exact strengths, 2) Therapeutic Applications, 3) Detailed Dosage Information, 4) Safety Information (contraindications, warnings), 5) Adverse Effects, 6) Drug Interactions, 7) Pregnancy/Lactation guidance, 8) Storage Requirements, 9) Clinical Pharmacology, 10) Additional relevant pharmaceutical details. Return structured JSON with null for missing information. Never fabricate data.",
+      "task_name": "product_151_linorose"
+    },
+    {
+      "url": "https://chefaa.com:443/eg-ar/nowProduct/lipanthyl",
+      "prompt": "Extract comprehensive pharmaceutical information from this Chefaa product page. Extract: 1) Active Ingredients with exact strengths, 2) Therapeutic Applications, 3) Detailed Dosage Information, 4) Safety Information (contraindications, warnings), 5) Adverse Effects, 6) Drug Interactions, 7) Pregnancy/Lactation guidance, 8) Storage Requirements, 9) Clinical Pharmacology, 10) Additional relevant pharmaceutical details. Return structured JSON with null for missing information. Never fabricate data.",
+      "task_name": "product_152_lipanthyl"
+    },
+    {
+      "url": "https://chefaa.com:443/eg-ar/nowProduct/lipanthyl",
+      "prompt": "Extract comprehensive pharmaceutical information from this Chefaa product page. Extract: 1) Active Ingredients with exact strengths, 2) Therapeutic Applications, 3) Detailed Dosage Information, 4) Safety Information (contraindications, warnings), 5) Adverse Effects, 6) Drug Interactions, 7) Pregnancy/Lactation guidance, 8) Storage Requirements, 9) Clinical Pharmacology, 10) Additional relevant pharmaceutical details. Return structured JSON with null for missing information. Never fabricate data.",
+      "task_name": "product_153_lipanthyl"
+    },
+    {
+      "url": "https://chefaa.com:443/eg-ar/nowProduct/lipanthyl-supra",
+      "prompt": "Extract comprehensive pharmaceutical information from this Chefaa product page. Extract: 1) Active Ingredients with exact strengths, 2) Therapeutic Applications, 3) Detailed Dosage Information, 4) Safety Information (contraindications, warnings), 5) Adverse Effects, 6) Drug Interactions, 7) Pregnancy/Lactation guidance, 8) Storage Requirements, 9) Clinical Pharmacology, 10) Additional relevant pharmaceutical details. Return structured JSON with null for missing information. Never fabricate data.",
+      "task_name": "product_154_lipanthyl supra"
+    },
+    {
+      "url": "https://chefaa.com:443/eg-ar/nowProduct/lipitor",
+      "prompt": "Extract comprehensive pharmaceutical information from this Chefaa product page. Extract: 1) Active Ingredients with exact strengths, 2) Therapeutic Applications, 3) Detailed Dosage Information, 4) Safety Information (contraindications, warnings), 5) Adverse Effects, 6) Drug Interactions, 7) Pregnancy/Lactation guidance, 8) Storage Requirements, 9) Clinical Pharmacology, 10) Additional relevant pharmaceutical details. Return structured JSON with null for missing information. Never fabricate data.",
+      "task_name": "product_155_lipitor"
+    },
+    {
+      "url": "https://chefaa.com:443/eg-ar/nowProduct/lipitor",
+      "prompt": "Extract comprehensive pharmaceutical information from this Chefaa product page. Extract: 1) Active Ingredients with exact strengths, 2) Therapeutic Applications, 3) Detailed Dosage Information, 4) Safety Information (contraindications, warnings), 5) Adverse Effects, 6) Drug Interactions, 7) Pregnancy/Lactation guidance, 8) Storage Requirements, 9) Clinical Pharmacology, 10) Additional relevant pharmaceutical details. Return structured JSON with null for missing information. Never fabricate data.",
+      "task_name": "product_156_lipitor"
+    },
+    {
+      "url": "https://chefaa.com:443/eg-ar/nowProduct/lit-up-facial-foaming-cleanser",
+      "prompt": "Extract comprehensive pharmaceutical information from this Chefaa product page. Extract: 1) Active Ingredients with exact strengths, 2) Therapeutic Applications, 3) Detailed Dosage Information, 4) Safety Information (contraindications, warnings), 5) Adverse Effects, 6) Drug Interactions, 7) Pregnancy/Lactation guidance, 8) Storage Requirements, 9) Clinical Pharmacology, 10) Additional relevant pharmaceutical details. Return structured JSON with null for missing information. Never fabricate data.",
+      "task_name": "product_157_lit-up facial foaming cleanser"
+    },
+    {
+      "url": "https://chefaa.com:443/eg-ar/nowProduct/livagoal",
+      "prompt": "Extract comprehensive pharmaceutical information from this Chefaa product page. Extract: 1) Active Ingredients with exact strengths, 2) Therapeutic Applications, 3) Detailed Dosage Information, 4) Safety Information (contraindications, warnings), 5) Adverse Effects, 6) Drug Interactions, 7) Pregnancy/Lactation guidance, 8) Storage Requirements, 9) Clinical Pharmacology, 10) Additional relevant pharmaceutical details. Return structured JSON with null for missing information. Never fabricate data.",
+      "task_name": "product_158_livagoal"
+    },
+    {
+      "url": "https://chefaa.com:443/eg-ar/nowProduct/liviacool-massage-gel",
+      "prompt": "Extract comprehensive pharmaceutical information from this Chefaa product page. Extract: 1) Active Ingredients with exact strengths, 2) Therapeutic Applications, 3) Detailed Dosage Information, 4) Safety Information (contraindications, warnings), 5) Adverse Effects, 6) Drug Interactions, 7) Pregnancy/Lactation guidance, 8) Storage Requirements, 9) Clinical Pharmacology, 10) Additional relevant pharmaceutical details. Return structured JSON with null for missing information. Never fabricate data.",
+      "task_name": "product_159_liviacool massage gel"
+    },
+    {
+      "url": "https://chefaa.com:443/eg-ar/nowProduct/lolawest",
+      "prompt": "Extract comprehensive pharmaceutical information from this Chefaa product page. Extract: 1) Active Ingredients with exact strengths, 2) Therapeutic Applications, 3) Detailed Dosage Information, 4) Safety Information (contraindications, warnings), 5) Adverse Effects, 6) Drug Interactions, 7) Pregnancy/Lactation guidance, 8) Storage Requirements, 9) Clinical Pharmacology, 10) Additional relevant pharmaceutical details. Return structured JSON with null for missing information. Never fabricate data.",
+      "task_name": "product_160_lolawest"
+    },
+    {
+      "url": "https://chefaa.com:443/eg-ar/nowProduct/lobrikaf-cough-syrup",
+      "prompt": "Extract comprehensive pharmaceutical information from this Chefaa product page. Extract: 1) Active Ingredients with exact strengths, 2) Therapeutic Applications, 3) Detailed Dosage Information, 4) Safety Information (contraindications, warnings), 5) Adverse Effects, 6) Drug Interactions, 7) Pregnancy/Lactation guidance, 8) Storage Requirements, 9) Clinical Pharmacology, 10) Additional relevant pharmaceutical details. Return structured JSON with null for missing information. Never fabricate data.",
+      "task_name": "product_161_lobrikaf cough syrup"
+    },
+    {
+      "url": "https://chefaa.com:443/eg-ar/nowProduct/loravast-syrup",
+      "prompt": "Extract comprehensive pharmaceutical information from this Chefaa product page. Extract: 1) Active Ingredients with exact strengths, 2) Therapeutic Applications, 3) Detailed Dosage Information, 4) Safety Information (contraindications, warnings), 5) Adverse Effects, 6) Drug Interactions, 7) Pregnancy/Lactation guidance, 8) Storage Requirements, 9) Clinical Pharmacology, 10) Additional relevant pharmaceutical details. Return structured JSON with null for missing information. Never fabricate data.",
+      "task_name": "product_162_loravast syrup"
+    },
+    {
+      "url": "https://chefaa.com:443/eg-ar/nowProduct/loraz",
+      "prompt": "Extract comprehensive pharmaceutical information from this Chefaa product page. Extract: 1) Active Ingredients with exact strengths, 2) Therapeutic Applications, 3) Detailed Dosage Information, 4) Safety Information (contraindications, warnings), 5) Adverse Effects, 6) Drug Interactions, 7) Pregnancy/Lactation guidance, 8) Storage Requirements, 9) Clinical Pharmacology, 10) Additional relevant pharmaceutical details. Return structured JSON with null for missing information. Never fabricate data.",
+      "task_name": "product_163_loraz"
+    },
+    {
+      "url": "https://chefaa.com:443/eg-ar/nowProduct/lubristira-eye-drops",
+      "prompt": "Extract comprehensive pharmaceutical information from this Chefaa product page. Extract: 1) Active Ingredients with exact strengths, 2) Therapeutic Applications, 3) Detailed Dosage Information, 4) Safety Information (contraindications, warnings), 5) Adverse Effects, 6) Drug Interactions, 7) Pregnancy/Lactation guidance, 8) Storage Requirements, 9) Clinical Pharmacology, 10) Additional relevant pharmaceutical details. Return structured JSON with null for missing information. Never fabricate data.",
+      "task_name": "product_164_lubristira eye drops"
+    },
+    {
+      "url": "https://chefaa.com:443/eg-ar/nowProduct/lubrivisk-eye-drops",
+      "prompt": "Extract comprehensive pharmaceutical information from this Chefaa product page. Extract: 1) Active Ingredients with exact strengths, 2) Therapeutic Applications, 3) Detailed Dosage Information, 4) Safety Information (contraindications, warnings), 5) Adverse Effects, 6) Drug Interactions, 7) Pregnancy/Lactation guidance, 8) Storage Requirements, 9) Clinical Pharmacology, 10) Additional relevant pharmaceutical details. Return structured JSON with null for missing information. Never fabricate data.",
+      "task_name": "product_165_lubrivisk eye drops"
+    },
+    {
+      "url": "https://chefaa.com:443/eg-ar/nowProduct/lustral-50mg",
+      "prompt": "Extract comprehensive pharmaceutical information from this Chefaa product page. Extract: 1) Active Ingredients with exact strengths, 2) Therapeutic Applications, 3) Detailed Dosage Information, 4) Safety Information (contraindications, warnings), 5) Adverse Effects, 6) Drug Interactions, 7) Pregnancy/Lactation guidance, 8) Storage Requirements, 9) Clinical Pharmacology, 10) Additional relevant pharmaceutical details. Return structured JSON with null for missing information. Never fabricate data.",
+      "task_name": "product_166_lustral 50mg"
+    },
+    {
+      "url": "https://chefaa.com:443/eg-ar/nowProduct/lys-nasal-drops",
+      "prompt": "Extract comprehensive pharmaceutical information from this Chefaa product page. Extract: 1) Active Ingredients with exact strengths, 2) Therapeutic Applications, 3) Detailed Dosage Information, 4) Safety Information (contraindications, warnings), 5) Adverse Effects, 6) Drug Interactions, 7) Pregnancy/Lactation guidance, 8) Storage Requirements, 9) Clinical Pharmacology, 10) Additional relevant pharmaceutical details. Return structured JSON with null for missing information. Never fabricate data.",
+      "task_name": "product_167_lys nasal drops"
+    },
+    {
+      "url": "https://chefaa.com:443/eg-ar/nowProduct/maalox-antacid-oral-suspensions-in-sachets-lemon-flavoring-20-sachets-each-5ml-stomach-pain-heartburn-gastroesophageal-reflux",
+      "prompt": "Extract comprehensive pharmaceutical information from this Chefaa product page. Extract: 1) Active Ingredients with exact strengths, 2) Therapeutic Applications, 3) Detailed Dosage Information, 4) Safety Information (contraindications, warnings), 5) Adverse Effects, 6) Drug Interactions, 7) Pregnancy/Lactation guidance, 8) Storage Requirements, 9) Clinical Pharmacology, 10) Additional relevant pharmaceutical details. Return structured JSON with null for missing information. Never fabricate data.",
+      "task_name": "product_168_maalox plus lemon syrup"
+    },
+    {
+      "url": "https://chefaa.com:443/eg-ar/nowProduct/macrofiuran-100mg",
+      "prompt": "Extract comprehensive pharmaceutical information from this Chefaa product page. Extract: 1) Active Ingredients with exact strengths, 2) Therapeutic Applications, 3) Detailed Dosage Information, 4) Safety Information (contraindications, warnings), 5) Adverse Effects, 6) Drug Interactions, 7) Pregnancy/Lactation guidance, 8) Storage Requirements, 9) Clinical Pharmacology, 10) Additional relevant pharmaceutical details. Return structured JSON with null for missing information. Never fabricate data.",
+      "task_name": "product_169_macrofiuran 100mg"
+    },
+    {
+      "url": "https://chefaa.com:443/eg-ar/nowProduct/mark-fast",
+      "prompt": "Extract comprehensive pharmaceutical information from this Chefaa product page. Extract: 1) Active Ingredients with exact strengths, 2) Therapeutic Applications, 3) Detailed Dosage Information, 4) Safety Information (contraindications, warnings), 5) Adverse Effects, 6) Drug Interactions, 7) Pregnancy/Lactation guidance, 8) Storage Requirements, 9) Clinical Pharmacology, 10) Additional relevant pharmaceutical details. Return structured JSON with null for missing information. Never fabricate data.",
+      "task_name": "product_170_mark fast"
+    },
+    {
+      "url": "https://chefaa.com:443/eg-ar/nowProduct/marniz-neo-carbon",
+      "prompt": "Extract comprehensive pharmaceutical information from this Chefaa product page. Extract: 1) Active Ingredients with exact strengths, 2) Therapeutic Applications, 3) Detailed Dosage Information, 4) Safety Information (contraindications, warnings), 5) Adverse Effects, 6) Drug Interactions, 7) Pregnancy/Lactation guidance, 8) Storage Requirements, 9) Clinical Pharmacology, 10) Additional relevant pharmaceutical details. Return structured JSON with null for missing information. Never fabricate data.",
+      "task_name": "product_171_marniz neo carbon"
+    },
+    {
+      "url": "https://chefaa.com:443/eg-ar/nowProduct/marniz-protect-children-syrup",
+      "prompt": "Extract comprehensive pharmaceutical information from this Chefaa product page. Extract: 1) Active Ingredients with exact strengths, 2) Therapeutic Applications, 3) Detailed Dosage Information, 4) Safety Information (contraindications, warnings), 5) Adverse Effects, 6) Drug Interactions, 7) Pregnancy/Lactation guidance, 8) Storage Requirements, 9) Clinical Pharmacology, 10) Additional relevant pharmaceutical details. Return structured JSON with null for missing information. Never fabricate data.",
+      "task_name": "product_172_marniz protect children syrup"
+    },
+    {
+      "url": "https://chefaa.com:443/eg-ar/nowProduct/marbalein-0.1%-cream",
+      "prompt": "Extract comprehensive pharmaceutical information from this Chefaa product page. Extract: 1) Active Ingredients with exact strengths, 2) Therapeutic Applications, 3) Detailed Dosage Information, 4) Safety Information (contraindications, warnings), 5) Adverse Effects, 6) Drug Interactions, 7) Pregnancy/Lactation guidance, 8) Storage Requirements, 9) Clinical Pharmacology, 10) Additional relevant pharmaceutical details. Return structured JSON with null for missing information. Never fabricate data.",
+      "task_name": "product_173_marbalein 0.1% cream"
+    },
+    {
+      "url": "https://chefaa.com:443/eg-ar/nowProduct/ketoral-plus-anti-dandruff-shampoo",
+      "prompt": "Extract comprehensive pharmaceutical information from this Chefaa product page. Extract: 1) Active Ingredients with exact strengths, 2) Therapeutic Applications, 3) Detailed Dosage Information, 4) Safety Information (contraindications, warnings), 5) Adverse Effects, 6) Drug Interactions, 7) Pregnancy/Lactation guidance, 8) Storage Requirements, 9) Clinical Pharmacology, 10) Additional relevant pharmaceutical details. Return structured JSON with null for missing information. Never fabricate data.",
+      "task_name": "product_174_ketoral plus anti-dandruff shampoo"
+    },
+    {
+      "url": "https://chefaa.com:443/eg-ar/nowProduct/cifetriom-multivitamin",
+      "prompt": "Extract comprehensive pharmaceutical information from this Chefaa product page. Extract: 1) Active Ingredients with exact strengths, 2) Therapeutic Applications, 3) Detailed Dosage Information, 4) Safety Information (contraindications, warnings), 5) Adverse Effects, 6) Drug Interactions, 7) Pregnancy/Lactation guidance, 8) Storage Requirements, 9) Clinical Pharmacology, 10) Additional relevant pharmaceutical details. Return structured JSON with null for missing information. Never fabricate data.",
+      "task_name": "product_175_cifetriom multivitamin"
+    },
+    {
+      "url": "https://chefaa.com:443/eg-ar/nowProduct/maxdiner-125mg/5ml-antibiotic-syrup",
+      "prompt": "Extract comprehensive pharmaceutical information from this Chefaa product page. Extract: 1) Active Ingredients with exact strengths, 2) Therapeutic Applications, 3) Detailed Dosage Information, 4) Safety Information (contraindications, warnings), 5) Adverse Effects, 6) Drug Interactions, 7) Pregnancy/Lactation guidance, 8) Storage Requirements, 9) Clinical Pharmacology, 10) Additional relevant pharmaceutical details. Return structured JSON with null for missing information. Never fabricate data.",
+      "task_name": "product_176_maxdiner 125mg/5ml antibiotic syrup"
+    },
+    {
+      "url": "https://chefaa.com:443/eg-ar/nowProduct/maxi-care-massage-cream",
+      "prompt": "Extract comprehensive pharmaceutical information from this Chefaa product page. Extract: 1) Active Ingredients with exact strengths, 2) Therapeutic Applications, 3) Detailed Dosage Information, 4) Safety Information (contraindications, warnings), 5) Adverse Effects, 6) Drug Interactions, 7) Pregnancy/Lactation guidance, 8) Storage Requirements, 9) Clinical Pharmacology, 10) Additional relevant pharmaceutical details. Return structured JSON with null for missing information. Never fabricate data.",
+      "task_name": "product_177_maxi care massage cream"
+    },
+    {
+      "url": "https://chefaa.com:443/eg-ar/nowProduct/maxilase-children-sore-throat-syrup",
+      "prompt": "Extract comprehensive pharmaceutical information from this Chefaa product page. Extract: 1) Active Ingredients with exact strengths, 2) Therapeutic Applications, 3) Detailed Dosage Information, 4) Safety Information (contraindications, warnings), 5) Adverse Effects, 6) Drug Interactions, 7) Pregnancy/Lactation guidance, 8) Storage Requirements, 9) Clinical Pharmacology, 10) Additional relevant pharmaceutical details. Return structured JSON with null for missing information. Never fabricate data.",
+      "task_name": "product_178_maxilase children sore throat syrup"
+    },
+    {
+      "url": "https://chefaa.com:443/eg-ar/nowProduct/maxophage-xr-1000mg",
+      "prompt": "Extract comprehensive pharmaceutical information from this Chefaa product page. Extract: 1) Active Ingredients with exact strengths, 2) Therapeutic Applications, 3) Detailed Dosage Information, 4) Safety Information (contraindications, warnings), 5) Adverse Effects, 6) Drug Interactions, 7) Pregnancy/Lactation guidance, 8) Storage Requirements, 9) Clinical Pharmacology, 10) Additional relevant pharmaceutical details. Return structured JSON with null for missing information. Never fabricate data.",
+      "task_name": "product_179_maxophage xr 1000mg"
+    },
+    {
+      "url": "https://chefaa.com:443/eg-ar/nowProduct/mibo-ointment",
+      "prompt": "Extract comprehensive pharmaceutical information from this Chefaa product page. Extract: 1) Active Ingredients with exact strengths, 2) Therapeutic Applications, 3) Detailed Dosage Information, 4) Safety Information (contraindications, warnings), 5) Adverse Effects, 6) Drug Interactions, 7) Pregnancy/Lactation guidance, 8) Storage Requirements, 9) Clinical Pharmacology, 10) Additional relevant pharmaceutical details. Return structured JSON with null for missing information. Never fabricate data.",
+      "task_name": "product_180_mibo ointment"
+    },
+    {
+      "url": "https://chefaa.com:443/eg-ar/nowProduct/medicina-distilled-water",
+      "prompt": "Extract comprehensive pharmaceutical information from this Chefaa product page. Extract: 1) Active Ingredients with exact strengths, 2) Therapeutic Applications, 3) Detailed Dosage Information, 4) Safety Information (contraindications, warnings), 5) Adverse Effects, 6) Drug Interactions, 7) Pregnancy/Lactation guidance, 8) Storage Requirements, 9) Clinical Pharmacology, 10) Additional relevant pharmaceutical details. Return structured JSON with null for missing information. Never fabricate data.",
+      "task_name": "product_181_medicina distilled water"
+    },
+    {
+      "url": "https://chefaa.com:443/eg-ar/nowProduct/megalase-syrup",
+      "prompt": "Extract comprehensive pharmaceutical information from this Chefaa product page. Extract: 1) Active Ingredients with exact strengths, 2) Therapeutic Applications, 3) Detailed Dosage Information, 4) Safety Information (contraindications, warnings), 5) Adverse Effects, 6) Drug Interactions, 7) Pregnancy/Lactation guidance, 8) Storage Requirements, 9) Clinical Pharmacology, 10) Additional relevant pharmaceutical details. Return structured JSON with null for missing information. Never fabricate data.",
+      "task_name": "product_182_megalase syrup"
+    },
+    {
+      "url": "https://chefaa.com:443/eg-ar/nowProduct/megamox-1gm-antibiotic",
+      "prompt": "Extract comprehensive pharmaceutical information from this Chefaa product page. Extract: 1) Active Ingredients with exact strengths, 2) Therapeutic Applications, 3) Detailed Dosage Information, 4) Safety Information (contraindications, warnings), 5) Adverse Effects, 6) Drug Interactions, 7) Pregnancy/Lactation guidance, 8) Storage Requirements, 9) Clinical Pharmacology, 10) Additional relevant pharmaceutical details. Return structured JSON with null for missing information. Never fabricate data.",
+      "task_name": "product_183_megamox 1gm antibiotic"
+    },
+    {
+      "url": "https://chefaa.com:443/eg-ar/nowProduct/megamox-457mg-antibiotic-syrup",
+      "prompt": "Extract comprehensive pharmaceutical information from this Chefaa product page. Extract: 1) Active Ingredients with exact strengths, 2) Therapeutic Applications, 3) Detailed Dosage Information, 4) Safety Information (contraindications, warnings), 5) Adverse Effects, 6) Drug Interactions, 7) Pregnancy/Lactation guidance, 8) Storage Requirements, 9) Clinical Pharmacology, 10) Additional relevant pharmaceutical details. Return structured JSON with null for missing information. Never fabricate data.",
+      "task_name": "product_184_megamox 457mg antibiotic syrup"
+    },
+    {
+      "url": "https://chefaa.com:443/eg-ar/nowProduct/melacryst-3mg",
+      "prompt": "Extract comprehensive pharmaceutical information from this Chefaa product page. Extract: 1) Active Ingredients with exact strengths, 2) Therapeutic Applications, 3) Detailed Dosage Information, 4) Safety Information (contraindications, warnings), 5) Adverse Effects, 6) Drug Interactions, 7) Pregnancy/Lactation guidance, 8) Storage Requirements, 9) Clinical Pharmacology, 10) Additional relevant pharmaceutical details. Return structured JSON with null for missing information. Never fabricate data.",
+      "task_name": "product_185_melacryst 3mg"
+    },
+    {
+      "url": "https://chefaa.com:443/eg-ar/nowProduct/melatonin-copad-sleep-supplement",
+      "prompt": "Extract comprehensive pharmaceutical information from this Chefaa product page. Extract: 1) Active Ingredients with exact strengths, 2) Therapeutic Applications, 3) Detailed Dosage Information, 4) Safety Information (contraindications, warnings), 5) Adverse Effects, 6) Drug Interactions, 7) Pregnancy/Lactation guidance, 8) Storage Requirements, 9) Clinical Pharmacology, 10) Additional relevant pharmaceutical details. Return structured JSON with null for missing information. Never fabricate data.",
+      "task_name": "product_186_melatonin copad sleep supplement"
+    },
+    {
+      "url": "https://chefaa.com:443/eg-ar/nowProduct/mellitofix-met-5mg/1000mg",
+      "prompt": "Extract comprehensive pharmaceutical information from this Chefaa product page. Extract: 1) Active Ingredients with exact strengths, 2) Therapeutic Applications, 3) Detailed Dosage Information, 4) Safety Information (contraindications, warnings), 5) Adverse Effects, 6) Drug Interactions, 7) Pregnancy/Lactation guidance, 8) Storage Requirements, 9) Clinical Pharmacology, 10) Additional relevant pharmaceutical details. Return structured JSON with null for missing information. Never fabricate data.",
+      "task_name": "product_187_mellitofix met 5mg/1000mg"
+    },
+    {
+      "url": "https://chefaa.com:443/eg-ar/nowProduct/mellitofix-type-2-diabetes-12.5mg/1000mg",
+      "prompt": "Extract comprehensive pharmaceutical information from this Chefaa product page. Extract: 1) Active Ingredients with exact strengths, 2) Therapeutic Applications, 3) Detailed Dosage Information, 4) Safety Information (contraindications, warnings), 5) Adverse Effects, 6) Drug Interactions, 7) Pregnancy/Lactation guidance, 8) Storage Requirements, 9) Clinical Pharmacology, 10) Additional relevant pharmaceutical details. Return structured JSON with null for missing information. Never fabricate data.",
+      "task_name": "product_188_mellitofix type 2 diabetes 12.5mg/1000mg"
+    },
+    {
+      "url": "https://chefaa.com:443/eg-ar/nowProduct/mellitofix-trio-25/5/1000mg",
+      "prompt": "Extract comprehensive pharmaceutical information from this Chefaa product page. Extract: 1) Active Ingredients with exact strengths, 2) Therapeutic Applications, 3) Detailed Dosage Information, 4) Safety Information (contraindications, warnings), 5) Adverse Effects, 6) Drug Interactions, 7) Pregnancy/Lactation guidance, 8) Storage Requirements, 9) Clinical Pharmacology, 10) Additional relevant pharmaceutical details. Return structured JSON with null for missing information. Never fabricate data.",
+      "task_name": "product_189_mellitofix trio 25/5/1000mg"
+    },
+    {
+      "url": "https://chefaa.com:443/eg-ar/nowProduct/mellitofix-type-2-diabetes-10mg",
+      "prompt": "Extract comprehensive pharmaceutical information from this Chefaa product page. Extract: 1) Active Ingredients with exact strengths, 2) Therapeutic Applications, 3) Detailed Dosage Information, 4) Safety Information (contraindications, warnings), 5) Adverse Effects, 6) Drug Interactions, 7) Pregnancy/Lactation guidance, 8) Storage Requirements, 9) Clinical Pharmacology, 10) Additional relevant pharmaceutical details. Return structured JSON with null for missing information. Never fabricate data.",
+      "task_name": "product_190_mellitofix type 2 diabetes 10mg"
+    },
+    {
+      "url": "https://chefaa.com:443/eg-ar/nowProduct/milokin-4%-cream",
+      "prompt": "Extract comprehensive pharmaceutical information from this Chefaa product page. Extract: 1) Active Ingredients with exact strengths, 2) Therapeutic Applications, 3) Detailed Dosage Information, 4) Safety Information (contraindications, warnings), 5) Adverse Effects, 6) Drug Interactions, 7) Pregnancy/Lactation guidance, 8) Storage Requirements, 9) Clinical Pharmacology, 10) Additional relevant pharmaceutical details. Return structured JSON with null for missing information. Never fabricate data.",
+      "task_name": "product_191_milokin 4% cream"
+    },
+    {
+      "url": "https://chefaa.com:443/eg-ar/nowProduct/memika-10mg",
+      "prompt": "Extract comprehensive pharmaceutical information from this Chefaa product page. Extract: 1) Active Ingredients with exact strengths, 2) Therapeutic Applications, 3) Detailed Dosage Information, 4) Safety Information (contraindications, warnings), 5) Adverse Effects, 6) Drug Interactions, 7) Pregnancy/Lactation guidance, 8) Storage Requirements, 9) Clinical Pharmacology, 10) Additional relevant pharmaceutical details. Return structured JSON with null for missing information. Never fabricate data.",
+      "task_name": "product_192_memika 10mg"
+    },
+    {
+      "url": "https://chefaa.com:443/eg-ar/nowProduct/meba-furan-100mg",
+      "prompt": "Extract comprehensive pharmaceutical information from this Chefaa product page. Extract: 1) Active Ingredients with exact strengths, 2) Therapeutic Applications, 3) Detailed Dosage Information, 4) Safety Information (contraindications, warnings), 5) Adverse Effects, 6) Drug Interactions, 7) Pregnancy/Lactation guidance, 8) Storage Requirements, 9) Clinical Pharmacology, 10) Additional relevant pharmaceutical details. Return structured JSON with null for missing information. Never fabricate data.",
+      "task_name": "product_193_meba furan 100mg"
+    },
+    {
+      "url": "https://chefaa.com:443/eg-ar/nowProduct/mirajou",
+      "prompt": "Extract comprehensive pharmaceutical information from this Chefaa product page. Extract: 1) Active Ingredients with exact strengths, 2) Therapeutic Applications, 3) Detailed Dosage Information, 4) Safety Information (contraindications, warnings), 5) Adverse Effects, 6) Drug Interactions, 7) Pregnancy/Lactation guidance, 8) Storage Requirements, 9) Clinical Pharmacology, 10) Additional relevant pharmaceutical details. Return structured JSON with null for missing information. Never fabricate data.",
+      "task_name": "product_194_mirajou"
+    },
+    {
+      "url": "https://chefaa.com:443/eg-ar/nowProduct/metformin-xr-500mg-(eva-pharma)",
+      "prompt": "Extract comprehensive pharmaceutical information from this Chefaa product page. Extract: 1) Active Ingredients with exact strengths, 2) Therapeutic Applications, 3) Detailed Dosage Information, 4) Safety Information (contraindications, warnings), 5) Adverse Effects, 6) Drug Interactions, 7) Pregnancy/Lactation guidance, 8) Storage Requirements, 9) Clinical Pharmacology, 10) Additional relevant pharmaceutical details. Return structured JSON with null for missing information. Never fabricate data.",
+      "task_name": "product_195_metformin xr 500mg (eva pharma)"
+    },
+    {
+      "url": "https://chefaa.com:443/eg-ar/nowProduct/metformin-xr-1000mg",
+      "prompt": "Extract comprehensive pharmaceutical information from this Chefaa product page. Extract: 1) Active Ingredients with exact strengths, 2) Therapeutic Applications, 3) Detailed Dosage Information, 4) Safety Information (contraindications, warnings), 5) Adverse Effects, 6) Drug Interactions, 7) Pregnancy/Lactation guidance, 8) Storage Requirements, 9) Clinical Pharmacology, 10) Additional relevant pharmaceutical details. Return structured JSON with null for missing information. Never fabricate data.",
+      "task_name": "product_196_metformin xr 1000mg"
+    },
+    {
+      "url": "https://chefaa.com:443/eg-ar/nowProduct/methyl-folate-800mg-for-pregnancy",
+      "prompt": "Extract comprehensive pharmaceutical information from this Chefaa product page. Extract: 1) Active Ingredients with exact strengths, 2) Therapeutic Applications, 3) Detailed Dosage Information, 4) Safety Information (contraindications, warnings), 5) Adverse Effects, 6) Drug Interactions, 7) Pregnancy/Lactation guidance, 8) Storage Requirements, 9) Clinical Pharmacology, 10) Additional relevant pharmaceutical details. Return structured JSON with null for missing information. Never fabricate data.",
+      "task_name": "product_197_methyl folate 800mg for pregnancy"
+    },
+    {
+      "url": "https://chefaa.com:443/eg-ar/nowProduct/metrougher-12mcg",
+      "prompt": "Extract comprehensive pharmaceutical information from this Chefaa product page. Extract: 1) Active Ingredients with exact strengths, 2) Therapeutic Applications, 3) Detailed Dosage Information, 4) Safety Information (contraindications, warnings), 5) Adverse Effects, 6) Drug Interactions, 7) Pregnancy/Lactation guidance, 8) Storage Requirements, 9) Clinical Pharmacology, 10) Additional relevant pharmaceutical details. Return structured JSON with null for missing information. Never fabricate data.",
+      "task_name": "product_198_metrougher 12mcg"
+    },
+    {
+      "url": "https://chefaa.com:443/eg-ar/nowProduct/miconaz-oral-gel",
+      "prompt": "Extract comprehensive pharmaceutical information from this Chefaa product page. Extract: 1) Active Ingredients with exact strengths, 2) Therapeutic Applications, 3) Detailed Dosage Information, 4) Safety Information (contraindications, warnings), 5) Adverse Effects, 6) Drug Interactions, 7) Pregnancy/Lactation guidance, 8) Storage Requirements, 9) Clinical Pharmacology, 10) Additional relevant pharmaceutical details. Return structured JSON with null for missing information. Never fabricate data.",
+      "task_name": "product_199_miconaz oral gel"
+    },
+    {
+      "url": "https://chefaa.com:443/eg-ar/nowProduct/midodrin-for-low-blood-pressure",
+      "prompt": "Extract comprehensive pharmaceutical information from this Chefaa product page. Extract: 1) Active Ingredients with exact strengths, 2) Therapeutic Applications, 3) Detailed Dosage Information, 4) Safety Information (contraindications, warnings), 5) Adverse Effects, 6) Drug Interactions, 7) Pregnancy/Lactation guidance, 8) Storage Requirements, 9) Clinical Pharmacology, 10) Additional relevant pharmaceutical details. Return structured JSON with null for missing information. Never fabricate data.",
+      "task_name": "product_200_midodrin for low blood pressure"
+    }
+  ]
+}

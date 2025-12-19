@@ -1,0 +1,184 @@
+📄 Extracted from page: العناية بالشعر - شفاء
+URL: https://chefaa.com/eg-ar/now/category/hair-care?page=25
+
+Extracted content:
+```json
+{
+  "title": "العناية بالشعر - شفاء",
+  "url": "https://chefaa.com/eg-ar/now/category/hair-care?page=25",
+  "summary": "This page from Chefaa.com, an Egyptian online pharmacy, displays 20 hair care products despite an initial 'no results' message. It is the 25th page of the hair care category, offering a range of products including conditioners, serums, shampoos, hair food creams, and hair masks from various brands, each listed with its name, brand, price in EGP, volume/size, and a direct product URL.",
+  "key_points": [
+    "The page lists 20 distinct hair care products.",
+    "Each product entry includes the product name, brand name, price in Egyptian Pounds (EGP), volume/size information, and a direct URL.",
+    "Product types include shampoos, conditioners, hair serums, hair food creams, hair perfumes, and hair masks.",
+    "Featured brands are diverse, including Bio Soft, Bionnex, Bubblzz, Trio, Vichy, Viola, Mink, Babe, Hairburst, L'Oréal Professionnel, Garnier, Advence Proven, Bless, Raw African, and Truffles.",
+    "The page is identified as page 25 within the 'Hair Care' category.",
+    "An informational message 'لا توجد نتائج ل undefined' (No results for undefined) is present, which seems to be a display anomaly as products are clearly shown below it."
+  ],
+  "relevant_links": [
+    "https://chefaa.com:443/eg-ar/nowProduct/bio-soft-avocado-condcioner-490-mlxeMB",
+    "https://chefaa.com:443/eg-ar/nowProduct/bionnex--antihair-loss-serum-12-x-10-ml-ampoAZL",
+    "https://chefaa.com:443/eg-ar/nowProduct/bionnex-organica-anti-hair-loss-conditioner-300-mledXp",
+    "https://chefaa.com:443/eg-ar/nowProduct/bionnex-organica-antihair-loss-conditioner-for-all-hair-types--parabens-free-animal-testing-freeiflq",
+    "https://chefaa.com:443/eg-ar/nowProduct/bubblzz-beach-coconut-hair-perfume-120ml-9njl_duygIWXQ",
+    "https://chefaa.com:443/eg-ar/nowProduct/trio-shampoo-mixed-oil-500-mlC2Z9",
+    "https://chefaa.com:443/eg-ar/nowProduct/vichy-dercos-densi-kit-25-offerUqbv",
+    "https://chefaa.com:443/eg-ar/nowProduct/viola-hair-serum-120ml6apt",
+    "https://chefaa.com:443/eg-ar/nowProduct/mink-hair-food-cream-with-mink-oil-almond-250ml-ue3n_duVz3J1w",
+    "https://chefaa.com:443/eg-ar/nowProduct/babe-anti-hair-loss-lotion-125ml-hn3u_duv2UDaM",
+    "https://chefaa.com:443/eg-ar/nowProduct/hairburst-cherry-almond-shampoo-curly-hair-350ml-lsds",
+    "https://chefaa.com:443/eg-ar/nowProduct/loreal-professional-hair-serum-50ml-ewoq_duqS2hXq",
+    "https://chefaa.com:443/eg-ar/nowProduct/loreal-professional-tecni-art-liss-control-smooth-gel-cream-150ml-upcq_duw0rsPz",
+    "https://chefaa.com:443/eg-ar/nowProduct/garnier-ultra-doux-black-charcoal-nigella-seed-oil-purifying-shine-shampoo-400ml-ljpw_duPUMCin",
+    "https://chefaa.com:443/eg-ar/nowProduct/garnier-ultra-doux-nurturing-almond-milk-shampoo-400ml-yse1_dur5LnvO",
+    "https://chefaa.com:443/eg-ar/nowProduct/proven-anti-hair-loss-spray-impx",
+    "https://chefaa.com:443/eg-ar/nowProduct/mink-food-cream-with-mink-oil-olive-oil-250ml-bdk1",
+    "https://chefaa.com:443/eg-ar/nowProduct/bless-leave-in-cream-with-argan-oil-250ml-iyjq_duAVNhVb",
+    "https://chefaa.com:443/eg-ar/nowProduct/raw-african-follicle-bosster-shampoo-300ml-rucw",
+    "https://chefaa.com:443/eg-ar/nowProduct/truffles-go-curly-hair-mask-240ml-avcn_duRZW2h3"
+  ],
+  "file_name": "chefaa_hair_care_page25.json",
+  "hair_care_products": [
+    {
+      "product_name": "بلسم الأفوكادو",
+      "brand_name": "بيوسوفت",
+      "price_egp": 100,
+      "volume_size": "490مل",
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/bio-soft-avocado-condcioner-490-mlxeMB"
+    },
+    {
+      "product_name": "سيروم مضاد لتساقط الشعر",
+      "brand_name": "بيونيكس",
+      "price_egp": 999,
+      "volume_size": "12 × 10مل",
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/bionnex--antihair-loss-serum-12-x-10-ml-ampoAZL"
+    },
+    {
+      "product_name": "بلسم أورجانيكا لتساقط الشعر",
+      "brand_name": "بيونيكس",
+      "price_egp": 500,
+      "volume_size": "300مل",
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/bionnex-organica-anti-hair-loss-conditioner-300-mledXp"
+    },
+    {
+      "product_name": "بلسم أورجانيكا المضاد لتساقط الشعر لجميع أنواع الشعر",
+      "brand_name": "بيونيكس",
+      "price_egp": 459,
+      "volume_size": "Not specified",
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/bionnex-organica-antihair-loss-conditioner-for-all-hair-types--parabens-free-animal-testing-freeiflq"
+    },
+    {
+      "product_name": "معطر الشعر بالجوز هند",
+      "brand_name": "بابلز",
+      "price_egp": 190,
+      "volume_size": "120مل",
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/bubblzz-beach-coconut-hair-perfume-120ml-9njl_duygIWXQ"
+    },
+    {
+      "product_name": "شامبو خالي من الكبريتات مع زيوت طبيعية مختلطة",
+      "brand_name": "تريو",
+      "price_egp": 95,
+      "volume_size": "500مل",
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/trio-shampoo-mixed-oil-500-mlC2Z9"
+    },
+    {
+      "product_name": "ديركوس دينسي - سوليوشنز مجموعة تساقط الشعر",
+      "brand_name": "فيشي",
+      "price_egp": 2797.99,
+      "volume_size": "Not specified",
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/vichy-dercos-densi-kit-25-offerUqbv"
+    },
+    {
+      "product_name": "سيروم للشعر الجاف viola hair serum",
+      "brand_name": "فيولا",
+      "price_egp": 249,
+      "volume_size": "120 مل",
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/viola-hair-serum-120ml6apt"
+    },
+    {
+      "product_name": "كريم هيرفود مغذي للشعر بزيت المنك واللوز",
+      "brand_name": "المنك",
+      "price_egp": 60,
+      "volume_size": "250 مل",
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/mink-hair-food-cream-with-mink-oil-almond-250ml-ue3n_duVz3J1w"
+    },
+    {
+      "product_name": "لوشن مضاد لتساقط الشعر",
+      "brand_name": "بيبي",
+      "price_egp": 890,
+      "volume_size": "125مل",
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/babe-anti-hair-loss-lotion-125ml-hn3u_duv2UDaM"
+    },
+    {
+      "product_name": "شامبو الكرز واللوز للشعر الكيرلي",
+      "brand_name": "هيربرست",
+      "price_egp": 750,
+      "volume_size": "350مل",
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/hairburst-cherry-almond-shampoo-curly-hair-350ml-lsds"
+    },
+    {
+      "product_name": "سيروم للشعر",
+      "brand_name": "لوريال بروفيشنال",
+      "price_egp": 1200,
+      "volume_size": "50مل",
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/loreal-professional-hair-serum-50ml-ewoq_duqS2hXq"
+    },
+    {
+      "product_name": "تيكني آرت ليس كونترول سموث جل كريم",
+      "brand_name": "لوريال بروفيشنال",
+      "price_egp": 850,
+      "volume_size": "150مل",
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/loreal-professional-tecni-art-liss-control-smooth-gel-cream-150ml-upcq_duw0rsPz"
+    },
+    {
+      "product_name": "شامبو الترا دو بالفحم الأسود وزيت حبة البركة لتنظيف الشعر",
+      "brand_name": "غارنييه",
+      "price_egp": 350,
+      "volume_size": "400مل",
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/garnier-ultra-doux-black-charcoal-nigella-seed-oil-purifying-shine-shampoo-400ml-ljpw_duPUMCin"
+    },
+    {
+      "product_name": "شامبو الترا دو مرطب بحليب اللوز المغذي",
+      "brand_name": "غارنييه",
+      "price_egp": 350,
+      "volume_size": "400مل",
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/garnier-ultra-doux-nurturing-almond-milk-shampoo-400ml-yse1_dur5LnvO"
+    },
+    {
+      "product_name": "سبراي لتنشيط وضد تساقط الشعر",
+      "brand_name": "افدانس بروفن",
+      "price_egp": 450,
+      "volume_size": "100مل",
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/proven-anti-hair-loss-spray-impx"
+    },
+    {
+      "product_name": "فود كريم بزيت المنك وزيت الزيتون",
+      "brand_name": "مينك",
+      "price_egp": 55,
+      "volume_size": "250مل",
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/mink-food-cream-with-mink-oil-olive-oil-250ml-bdk1"
+    },
+    {
+      "product_name": "ليف ان ارجان",
+      "brand_name": "بليس",
+      "price_egp": 80,
+      "volume_size": "250مل",
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/bless-leave-in-cream-with-argan-oil-250ml-iyjq_duAVNhVb"
+    },
+    {
+      "product_name": "شامبو فوليكل بوستر",
+      "brand_name": "رو افريكان",
+      "price_egp": 290,
+      "volume_size": "300مل",
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/raw-african-follicle-bosster-shampoo-300ml-rucw"
+    },
+    {
+      "product_name": "جو كيرلي هير ماسك",
+      "brand_name": "ترافلز",
+      "price_egp": 285,
+      "volume_size": "240مل",
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/truffles-go-curly-hair-mask-240ml-avcn_duRZW2h3"
+    }
+  ]
+}
+```

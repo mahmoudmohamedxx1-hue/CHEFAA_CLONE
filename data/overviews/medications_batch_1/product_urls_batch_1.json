@@ -1,0 +1,182 @@
+{
+  "extraction_metadata": {
+    "source": "Chefaa.com medication files (regex extraction)",
+    "total_files_processed": 146,
+    "files_with_products": 2,
+    "total_products_found": 28,
+    "batch_size": 200,
+    "extraction_date": "2025-11-01",
+    "batch": "Batch 1 - First 200 medications",
+    "method": "Regex extraction from corrupted JSON files"
+  },
+  "products": [
+    {
+      "name": "بلاكوينيل 200مجم | 60 قرص",
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/plaquenil-200-mg-60-tab-vby2",
+      "price": "246 جنيه",
+      "source_file": "chefaa-medications-p47.json"
+    },
+    {
+      "name": "بلافيكس علاج الجلطات 75مج | 28 قرص",
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/plavix-thrombosis-treatment-75mg-28tab-jxen",
+      "price": "311 جنيه",
+      "source_file": "chefaa-medications-p47.json"
+    },
+    {
+      "name": "بلنديل لعلاج ارتفاع ضغط الدم 10ملجم | 30 قرص",
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/plendil-high-blood-pressure-10mg-30tab-ges1",
+      "price": "113 جنيه",
+      "source_file": "chefaa-medications-p47.json"
+    },
+    {
+      "name": "بولي فريش 0.2٪ قطرات | 20 × 4مل",
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/polyfresh-0-2-sdu-eye-drops-20-x-0-4-ml-gvav",
+      "price": "95 جنيه",
+      "source_file": "chefaa-medications-p47.json"
+    },
+    {
+      "name": "بولي فريش ادفانسد نقط للعين | 10مل",
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/polyfresh-advanced-eye-drops-10-ml-ikoe",
+      "price": "125 جنيه",
+      "source_file": "chefaa-medications-p47.json"
+    },
+    {
+      "name": "بولي فريش اكسترا قطرة عين | 30*0.4مل",
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/polyfresh-extra-sdu-eye-drops-30-x-0-4-ml-gnqw",
+      "price": "150 جنيه",
+      "source_file": "chefaa-medications-p47.json"
+    },
+    {
+      "name": "بوليمارت جل موضعي | 50جم",
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/polymart-topical-gel-50-gm-6vx7",
+      "price": "120 جنيه",
+      "source_file": "chefaa-medications-p47.json"
+    },
+    {
+      "name": "بوليمر بخاخ أنفي هايبرتونيك 3% للبالغين | 100 مل",
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/polymer-adult-hypertonic-3-nasal-spray",
+      "price": "310 جنيه",
+      "source_file": "chefaa-medications-p47.json"
+    },
+    {
+      "name": "بوليمر بيبي إيزوتونيك 0.9% | بخاخ أنفي",
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/polymer-baby-isotonic-09-nasal-spray",
+      "price": "300 جنيه",
+      "source_file": "chefaa-medications-p47.json"
+    },
+    {
+      "name": "بوليمير للأطفال 2.3% بخاخ للأنف | 100مل",
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/polymer-kids-hypertonic-23-nasal-spray",
+      "price": "305 جنيه",
+      "source_file": "chefaa-medications-p47.json"
+    },
+    {
+      "name": "دواء باور كولد اند فلو للبرد power cold and flu | ٢٠ قرص",
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/power-cold-and-flu-20-tab",
+      "price": "42 جنيه",
+      "source_file": "chefaa-medications-p47.json"
+    },
+    {
+      "name": "برافوتين مكمل غذائي لعلاج الانيميا 100مجم | 30 كيس",
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/pravotin-to-treat-anemia-100mg-30sach-8r57",
+      "price": "360 جنيه",
+      "source_file": "chefaa-medications-p47.json"
+    },
+    {
+      "name": "برافوتين لعلاج الانيميا 100مج | 14 كيس",
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/pravotin-to-treat-anemia-100mg-14sach-9iab",
+      "price": "180 جنيه",
+      "source_file": "chefaa-medications-p47.json"
+    },
+    {
+      "name": "بريدابوكس | 60مجم | 6أقراص",
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/predapox-60-mg-6-tabTTPR",
+      "price": "116 جنيه",
+      "source_file": "chefaa-medications-p47.json"
+    },
+    {
+      "name": "بريدسول فورت لعلاج الحساسية 15مج/5مل | 60 مل شراب",
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/predsol-forte-to-treat-allergies-15mg5ml-60ml-susp-uteb",
+      "price": "52 جنيه",
+      "source_file": "chefaa-medications-p47.json"
+    },
+    {
+      "name": "بريدوكايين | كريم | 15جم",
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/pridocaine-15mg",
+      "price": "32 جنيه",
+      "source_file": "chefaa-medications-p47.json"
+    },
+    {
+      "name": "بريم روز بلاس | 30 كبسوله",
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/primrose-plus-30-caps-byvi",
+      "price": "165 جنيه",
+      "source_file": "chefaa-medications-p47.json"
+    },
+    {
+      "name": "بريزولين قطرة للعين والانف | 15مل",
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/prisoline-eye-nose-drops-15-ml-efci",
+      "price": "23 جنيه",
+      "source_file": "chefaa-medications-p47.json"
+    },
+    {
+      "name": "بروكورالان 5ملغ | 28قرص",
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/procoralan-5mg-28tab-mjae",
+      "price": "352 جنيه",
+      "source_file": "chefaa-medications-p47.json"
+    },
+    {
+      "name": "لبوس برونتوجيست 400 مجم لتثبيت الحمل | 30 لبوسة",
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/prontogest-stabilize-pregnancy-400mg-30supp-lkmt",
+      "price": "372 جنيه",
+      "source_file": "chefaa-medications-p47.json"
+    },
+    {
+      "name": "بيبى ناديف سبراي الانف ماء البحر للجيوب الانفية للاطفال | 50مل",
+      "product_url": "https://chefaa.com/eg-ar/now/category/medications/kids-infant-medications?page=1",
+      "price": "390",
+      "source_file": "chefaa_kids_infant_medications_page1.json"
+    },
+    {
+      "name": "كالوبين | نقط بالفم | 20مل",
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/baby-nadif-nasal-spray-50-ml",
+      "price": "70",
+      "source_file": "chefaa_kids_infant_medications_page1.json"
+    },
+    {
+      "name": "ليمتلس بيبي نقط فيتامين د limitless baby d drops | ١٥ مل",
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/kalobin-20-ml-oral-dropmfN3",
+      "price": "53",
+      "source_file": "chefaa_kids_infant_medications_page1.json"
+    },
+    {
+      "name": "زيرتك نقط للرضع للبرد والحساسية zyrtec drops | ١٠ مل",
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/limitless-baby-d-drops-1600-iu-ml-15-ml-6ldy",
+      "price": "43",
+      "source_file": "chefaa_kids_infant_medications_page1.json"
+    },
+    {
+      "name": "ماء غريب | سمايل شراب | 120 مل",
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/zyrtec-10mg-ml-oral-drops-10-ml",
+      "price": "48",
+      "source_file": "chefaa_kids_infant_medications_page1.json"
+    },
+    {
+      "name": "كيدز ابيتايت فيتامين شراب | 125مل",
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/gripe-water-smile-syrup-120-ml-fhm6",
+      "price": "110",
+      "source_file": "chefaa_kids_infant_medications_page1.json"
+    },
+    {
+      "name": "سانسو | ماء للبيبي لعلاج المغص والانتفاخ | 100مل",
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/kids-appetite-daily-vitamin-syrup-125ml-3air",
+      "price": "60",
+      "source_file": "chefaa_kids_infant_medications_page1.json"
+    },
+    {
+      "name": "تيمبو جل | كول لتقليل درجة حرارة الجسم للاطفال | 4 كمادات",
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/sanso-baby-water-syrup-100ml-isby",
+      "price": "35",
+      "source_file": "chefaa_kids_infant_medications_page1.json"
+    }
+  ]
+}

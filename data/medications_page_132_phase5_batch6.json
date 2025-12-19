@@ -1,0 +1,151 @@
+{
+  "medications": [
+    {
+      "product_name": "Controloc Antacid 20mg 14tab",
+      "price_egp": null,
+      "brand_manufacturer": "Controloc",
+      "product_description_category": "Antacid",
+      "package_size_quantity": "14 tablets (inferred from URL)"
+    },
+    {
+      "product_name": "روتاهيلكس ثايم | أقراص استحلاب مُلطفة للحلق بنكهة الكولا",
+      "price_egp": "140",
+      "brand_manufacturer": "Rotahelex",
+      "product_description_category": "أقراص استحلاب مُلطفة للحلق بنكهة الكولا (Throat-soothing lozenges with cola flavor)",
+      "package_size_quantity": "24 lozenges (inferred from URL)"
+    },
+    {
+      "product_name": "روتاهيلكس ثايم | أقراص استحلاب مُلطفة للحلق بنكهة البرتقال",
+      "price_egp": "140",
+      "brand_manufacturer": "Rotahelex",
+      "product_description_category": "أقراص استحلاب مُلطفة للحلق بنكهة البرتقال (Throat-soothing lozenges with orange flavor)",
+      "package_size_quantity": "24 lozenges (inferred from URL)"
+    },
+    {
+      "product_name": "روتاهيلكس سبراى | 30مل",
+      "price_egp": "100",
+      "brand_manufacturer": "Rotahelex",
+      "product_description_category": "سبراى (Spray)",
+      "package_size_quantity": "30ml"
+    },
+    {
+      "product_name": "روتاهيلكس اكسترا اقراص استحلاب بنكهة القهوة | 24 قرص",
+      "price_egp": "150",
+      "brand_manufacturer": "Rotahelex",
+      "product_description_category": "اقراص استحلاب بنكهة القهوة (Lozenges with coffee flavor)",
+      "package_size_quantity": "24 قرص (24 tablets)"
+    },
+    {
+      "product_name": "روتاهيلكس اكسترا اقراص استحلاب بنكهة الكولا | 24 قرص",
+      "price_egp": "150",
+      "brand_manufacturer": "Rotahelex",
+      "product_description_category": "اقراص استحلاب بنكهة الكولا (Lozenges with cola flavor)",
+      "package_size_quantity": "24 قرص (24 tablets)"
+    },
+    {
+      "product_name": "روتاهيلكس اكسترا اقراص استحلاب بنكهة البرتقال | 24 قرص",
+      "price_egp": "150",
+      "brand_manufacturer": "Rotahelex",
+      "product_description_category": "اقراص استحلاب بنكهة البرتقال (Lozenges with orange flavor)",
+      "package_size_quantity": "24 قرص (24 tablets)"
+    },
+    {
+      "product_name": "نيوريد 30 | كبسولة",
+      "price_egp": "330",
+      "brand_manufacturer": "Neured",
+      "product_description_category": "كبسولة (Capsule)",
+      "package_size_quantity": "30 كبسولة (30 capsules)"
+    },
+    {
+      "product_name": "زيمالاكت 250مج | 30 كبسولة",
+      "price_egp": "750",
+      "brand_manufacturer": "Ximalact",
+      "product_description_category": "كبسولة (Capsule)",
+      "package_size_quantity": "30 كبسولة (30 capsules)"
+    },
+    {
+      "product_name": "ال اوميجا 3 1000مجم | 30 كبسولة",
+      "price_egp": "475",
+      "brand_manufacturer": "L-Omega 3",
+      "product_description_category": "كبسولة (Capsule)",
+      "package_size_quantity": "30 كبسولة (30 capsules)"
+    },
+    {
+      "product_name": "فاست فريز سبراي مساج | 200مل",
+      "price_egp": "295",
+      "brand_manufacturer": "Fast Freeze",
+      "product_description_category": "سبراي مساج (Massage Spray)",
+      "package_size_quantity": "200ml"
+    },
+    {
+      "product_name": "تريكزيمس مرهم 0.1٪ | 30جم",
+      "price_egp": "219",
+      "brand_manufacturer": "Treczimus",
+      "product_description_category": "مرهم (Ointment)",
+      "package_size_quantity": "30جم"
+    },
+    {
+      "product_name": "بيلاستيجيك 2.5مجم/مل شراب | 120مل",
+      "price_egp": "54",
+      "brand_manufacturer": "Bilastigec",
+      "product_description_category": "شراب (Syrup)",
+      "package_size_quantity": "120مل"
+    },
+    {
+      "product_name": "بوكسيبو كريم مرطب للبشرة | 15جم",
+      "price_egp": "65",
+      "brand_manufacturer": "Boxebo",
+      "product_description_category": "كريم مرطب للبشرة (Skin emollient cream)",
+      "package_size_quantity": "15جم"
+    },
+    {
+      "product_name": "شارتوريج بلس 80/25مجم | 28قرص",
+      "price_egp": "158",
+      "brand_manufacturer": "Chartoreg",
+      "product_description_category": "قرص (Tablet)",
+      "package_size_quantity": "28 قرص (28 tablets)"
+    },
+    {
+      "product_name": "نورس لوشن | 125جم",
+      "price_egp": "85",
+      "brand_manufacturer": "Nawras",
+      "product_description_category": "لوشن (Lotion)",
+      "package_size_quantity": "125جم"
+    },
+    {
+      "product_name": "كوكسوريزت 60مجم | 20 قرص مغلف",
+      "price_egp": "107",
+      "brand_manufacturer": "Coxorizet",
+      "product_description_category": "قرص مغلف (Film-coated tablet)",
+      "package_size_quantity": "20 قرص (20 tablets)"
+    },
+    {
+      "product_name": "ريسبي ديب | 20 قرص",
+      "price_egp": "150",
+      "brand_manufacturer": "Respidep",
+      "product_description_category": "قرص (Tablet)",
+      "package_size_quantity": "20 قرص (20 tablets)"
+    },
+    {
+      "product_name": "فلاجوشون 20مجم | 5 اقراص مغلفة",
+      "price_egp": "105",
+      "brand_manufacturer": "Flagoshown",
+      "product_description_category": "اقراص مغلفة (Film-coated tablets)",
+      "package_size_quantity": "5 اقراص (5 tablets)"
+    },
+    {
+      "product_name": "سوبر كيدز | فيتامين د3 400 وحدة دولية قطرات فموية | 15مل",
+      "price_egp": "45",
+      "brand_manufacturer": "Super Kids",
+      "product_description_category": "فيتامين د3 قطرات فموية (Vitamin D3 oral drops)",
+      "package_size_quantity": "15مل"
+    },
+    {
+      "product_name": "جليبتالينا 2.5 / 500مجم | 30 قرص",
+      "price_egp": "147",
+      "brand_manufacturer": "Gliptalina",
+      "product_description_category": "قرص (Tablet)",
+      "package_size_quantity": "30 قرص (30 tablets)"
+    }
+  ]
+}

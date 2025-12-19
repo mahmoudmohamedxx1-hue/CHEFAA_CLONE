@@ -1,0 +1,294 @@
+📄 Extracted from page: الوجه - شفاء
+URL: https://chefaa.com/eg-ar/now/category/makeup-accessories/makeup-face
+
+Extracted content:
+```json
+{
+  "title": "الوجه - شفاء",
+  "url": "https://chefaa.com/eg-ar/now/category/makeup-accessories/makeup-face",
+  "summary": "This page on Chefaa.com displays a selection of makeup face products within the 'Makeup & Accessories' category. The products listed include foundations, concealers, compact powders, and related items such as cotton pads and a face serum. Brands featured on this page include Eva, Nano Treat, Bambino, Maybelline, Velvet, BG, Cleo, Cybele, Pure White, Septona, Kokuryu, FE, and Drakon. Prices for these products range from 75 EGP to 600 EGP. All products shown appear to be in stock and available for purchase, indicated by the 'Add to Cart' option. Customer ratings are not provided for the individual products on this page.",
+  "key_points": [
+    "The page belongs to the 'Makeup Face' subcategory under 'Makeup & Accessories'.",
+    "Product types listed include foundations, concealers, compact powders, cotton pads, and a hyaluronic acid serum.",
+    "Available brands are Eva, Nano Treat, Bambino, Maybelline, Velvet, BG, Cleo, Cybele, Pure White, Septona, Kokuryu, FE, and Drakon.",
+    "Prices for the listed products range from 75 EGP to 600 EGP.",
+    "No specific customer ratings are displayed for any product.",
+    "All listed products are indicated as in stock and available for purchase.",
+    "Pagination indicates that more products are available on subsequent pages."
+  ],
+  "relevant_links": [
+    "https://chefaa.com:443/eg-ar/now/category/makeup-accessories/makeup-face?page=2",
+    "https://chefaa.com:443/eg-ar/now/category/makeup-accessories",
+    "https://chefaa.com:443/eg-ar"
+  ],
+  "products": [
+    {
+      "product_name": "ايڤا سكين كلينيك للبشرة المعرضة لحب الشباب مصحح لون البشرة",
+      "brand": "ايڤا (Eva)",
+      "description": "مصحح لون البشرة للبشرة المعرضة لحب الشباب",
+      "price": "200",
+      "currency": "جنيه",
+      "rating": null,
+      "stock_status": "In Stock",
+      "specifications": {
+        "volume": "2.6ml",
+        "for_skin_type": "Acne-prone skin"
+      }
+    },
+    {
+      "product_name": "نانو تريت كريم اساس بمعامل حماية SPF30 - لايت",
+      "brand": "نانو تريت (Nano Treat)",
+      "description": "كريم اساس للوجه",
+      "price": "499",
+      "currency": "جنيه",
+      "rating": null,
+      "stock_status": "In Stock",
+      "specifications": {
+        "volume": "30ml",
+        "shade": "Light",
+        "spf": "30"
+      }
+    },
+    {
+      "product_name": "بامبينو وسادات قطنية طبيعية مضادة للبكتيريا",
+      "brand": "بامبينو (Bambino)",
+      "description": "وسادات قطنية طبيعية مضادة للبكتيريا",
+      "price": "87",
+      "currency": "جنيه",
+      "rating": null,
+      "stock_status": "In Stock",
+      "specifications": {
+        "quantity": "50 قطعة",
+        "type": "قطنية طبيعية مضادة للبكتيريا"
+      }
+    },
+    {
+      "product_name": "إيفا كولاجين بي بي كريم غامق",
+      "brand": "إيفا كولاجين (Eva Collagen)",
+      "description": "بي بي كريم مضاد للشيخوخة",
+      "price": "270",
+      "currency": "جنيه",
+      "rating": null,
+      "stock_status": "In Stock",
+      "specifications": {
+        "volume": "50ml",
+        "shade": "Dark (Medium, based on URL context)"
+      }
+    },
+    {
+      "product_name": "ميبيلين نيويورك فيت مي غير لامع مع خافي مسام",
+      "brand": "ميبيلين (Maybelline)",
+      "description": "كريم اساس للوجه غير لامع مع خافي مسام",
+      "price": "440",
+      "currency": "جنيه",
+      "rating": null,
+      "stock_status": "In Stock",
+      "specifications": {
+        "volume": "30ml",
+        "shade": "220 Natural Beige",
+        "finish": "Matte + Poreless"
+      }
+    },
+    {
+      "product_name": "فيلفت قطع قطنية مستديرة متعددة الاغراض",
+      "brand": "فيلفت (Velvet)",
+      "description": "قطع قطنية مستديرة متعددة الاغراض",
+      "price": "125",
+      "currency": "جنيه",
+      "rating": null,
+      "stock_status": "In Stock",
+      "specifications": {
+        "quantity": "100 قطعة",
+        "shape": "مستديرة"
+      }
+    },
+    {
+      "product_name": "بي جي كونسيلر 104 حمض الهيالورونيك وفيتامين هـ",
+      "brand": "بي جي (BG)",
+      "description": "كونسيلر بحمض الهيالورونيك وفيتامين هـ",
+      "price": "449",
+      "currency": "جنيه",
+      "rating": null,
+      "stock_status": "In Stock",
+      "specifications": {
+        "volume": "10ml",
+        "shade": "104",
+        "ingredients": "Hyaluronic Acid, Vitamin E"
+      }
+    },
+    {
+      "product_name": "كليو سيروم حمض الهيالورونيك الفائق",
+      "brand": "كليو (Cleo)",
+      "description": "سيروم للوجه بحمض الهيالورونيك",
+      "price": "220",
+      "currency": "جنيه",
+      "rating": null,
+      "stock_status": "In Stock",
+      "specifications": {
+        "volume": "30ml",
+        "main_ingredient": "Hyaluronic Acid"
+      }
+    },
+    {
+      "product_name": "فيلفت قطع قطنية مربعة متعددة الاغراض",
+      "brand": "فيلفت (Velvet)",
+      "description": "قطع قطنية مربعة متعددة الاغراض",
+      "price": "75",
+      "currency": "جنيه",
+      "rating": null,
+      "stock_status": "In Stock",
+      "specifications": {
+        "quantity": "100 قطعة + 20 قطعة (عرض)",
+        "shape": "مربعة"
+      }
+    },
+    {
+      "product_name": "سيبال بودرة مضغوطة سموث اند وير نود 00",
+      "brand": "سيبال (Cybele)",
+      "description": "بودرة مضغوطة ناعمة",
+      "price": "380",
+      "currency": "جنيه",
+      "rating": null,
+      "stock_status": "In Stock",
+      "specifications": {
+        "weight": "12gm",
+        "shade": "Nude 00",
+        "finish": "Smooth N Wear"
+      }
+    },
+    {
+      "product_name": "سيبال بودرة مضغوطة سموذ ان وير بورسيلين 07",
+      "brand": "سيبال (Cybele)",
+      "description": "بودرة مضغوطة ناعمة",
+      "price": "380",
+      "currency": "جنيه",
+      "rating": null,
+      "stock_status": "In Stock",
+      "specifications": {
+        "weight": "12gm",
+        "shade": "Porcelain 07",
+        "finish": "Smooth N Wear"
+      }
+    },
+    {
+      "product_name": "سيبال بودرة مضغوطة سموذ ان وير شفافة 01",
+      "brand": "سيبال (Cybele)",
+      "description": "بودرة مضغوطة شفافة ناعمة",
+      "price": "380",
+      "currency": "جنيه",
+      "rating": null,
+      "stock_status": "In Stock",
+      "specifications": {
+        "weight": "12gm",
+        "shade": "Transparent 01",
+        "finish": "Smooth N Wear"
+      }
+    },
+    {
+      "product_name": "سيبال كريم اساس يدوم طويلا اوت وير بيج متوسط 05",
+      "brand": "سيبال (Cybele)",
+      "description": "كريم اساس يدوم طويلا",
+      "price": "350",
+      "currency": "جنيه",
+      "rating": null,
+      "stock_status": "In Stock",
+      "specifications": {
+        "volume": "30ml",
+        "shade": "Medium Beige 05",
+        "duration": "Long-lasting"
+      }
+    },
+    {
+      "product_name": "ميبلين فيت مي كونسيلار 15 فير",
+      "brand": "ميبلين (Maybelline)",
+      "description": "كونسيلر للوجه",
+      "price": "600",
+      "currency": "جنيه",
+      "rating": null,
+      "stock_status": "In Stock",
+      "specifications": {
+        "shade": "15 Fair"
+      }
+    },
+    {
+      "product_name": "مايبيلين نيويورك فيت مي مات + بورليس 115",
+      "brand": "مايبيلين (Maybelline)",
+      "description": "كريم اساس للوجه غير لامع مع خافي مسام",
+      "price": "450",
+      "currency": "جنيه",
+      "rating": null,
+      "stock_status": "In Stock",
+      "specifications": {
+        "shade": "115",
+        "finish": "Matte + Poreless"
+      }
+    },
+    {
+      "product_name": "بيوروايت كريم توهج الذهب الأبيض النقي مصحح للبقع الداكنة",
+      "brand": "بيوروايت (Pure White)",
+      "description": "كريم مصحح للبقع الداكنة لتوحيد لون البشرة وإعطائها إشراقة",
+      "price": "200",
+      "currency": "جنيه",
+      "rating": null,
+      "stock_status": "In Stock",
+      "specifications": {
+        "weight": "40g",
+        "effect": "Dark spot corrector, Gold Glow"
+      }
+    },
+    {
+      "product_name": "سيبتونا قطن مكياج مدور 80+40 عرض",
+      "brand": "سيبتونا (Septona)",
+      "description": "قطن مكياج مدور",
+      "price": "160",
+      "currency": "جنيه",
+      "rating": null,
+      "stock_status": "In Stock",
+      "specifications": {
+        "quantity": "80 + 40 قطعة (عرض)",
+        "shape": "مدور"
+      }
+    },
+    {
+      "product_name": "كوكوريو سوبر سامر كيك",
+      "brand": "كوكوريو (Kokuryu)",
+      "description": "كيك بودرة للوجه",
+      "price": "215",
+      "currency": "جنيه",
+      "rating": null,
+      "stock_status": "In Stock",
+      "specifications": {
+        "weight": "50gm",
+        "product_type": "Super Summer Cake"
+      }
+    },
+    {
+      "product_name": "اف اى قطن مكياج",
+      "brand": "اف اى (FE)",
+      "description": "قطن لإزالة المكياج",
+      "price": "96",
+      "currency": "جنيه",
+      "rating": null,
+      "stock_status": "In Stock",
+      "specifications": {
+        "quantity": "70 قطعة"
+      }
+    },
+    {
+      "product_name": "دراكون كونسيلر كونتور لتصحيح وتفتيح العين ميديم بيج",
+      "brand": "دراكون (Drakon)",
+      "description": "كونسيلر كونتور لتصحيح وتفتيح منطقة العين",
+      "price": "200",
+      "currency": "جنيه",
+      "rating": null,
+      "stock_status": "In Stock",
+      "specifications": {
+        "volume": "10ml",
+        "shade": "Medium Beige",
+        "function": "Whitening, Eye Contour"
+      }
+    }
+  ],
+  "file_name": "makeup_face_products.json"
+}
+```

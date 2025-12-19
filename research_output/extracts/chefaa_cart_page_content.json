@@ -1,0 +1,66 @@
+📄 Extracted from page: سلة التسوق - شفاء
+URL: https://chefaa.com/eg-ar/cart
+
+Extracted content:
+```json
+{
+  "title": "سلة التسوق - شفاء",
+  "url": "https://chefaa.com/eg-ar/cart",
+  "summary": "This page is the shopping cart for Chefaa, an online pharmacy. The primary status displayed is that the 'Shopping Cart is Empty'. The page includes various prompts and messages related to setting a delivery location, as the availability of products and services like 'Super Saving Service' (سوبر توفير) depends on the user's location. It also features 'Most Selling' products to encourage shopping and provides options for adding a new address. General navigation, category listings, and contact information are also present.",
+  "key_points": [
+    "Page title: سلة التسوق - شفاء (Shopping Cart - Chefaa)",
+    "Main cart status: سلة التسوق فارغة (Shopping Cart is Empty)",
+    "Call to action for empty cart: ابدأ التسوق الآن (Start Shopping Now)",
+    "Location prompt: توصيل إلى (Deliver to), اختر موقع التوصيل (Choose delivery location)",
+    "Location requirement: لأفضل تجربة، تحتاج لتحديد موقعك لنعرض لك المنتجات المتاحة بالقرب منك (For the best experience, you need to set your location to show you available products near you).",
+    "Location error/info: لا يوجد صيدليات قريبة، لكن يمكنك الطلب عن طريق خدمة سوبر توفير من سلة التسوق (There are no nearby pharmacies, but you can order via Super Saving Service from the shopping cart).",
+    "Super Saving Service (سوبر توفير) details: وفر حتى 15% على طلباتك (Save up to 15% on your orders), توصيل مجاني لأي مكان (Free delivery anywhere), التوصيل خلال 72 ساعة (Delivery within 72 hours), الحد الأدنى للطلب: 600 جنيه مصري (Minimum order: 600 EGP), اطلب أكتر من مرة بدون حدود (Order multiple times without limits).",
+    "Location status message: تحديد الموقع معطل. اضغط هنا لتفعيله قبل اختيار المنتجات (Location is disabled. Click here to enable it before choosing products).",
+    "Location status message: حاليًا لا يوجد في شبكتنا صيدليات قريبه منك (Currently there are no pharmacies near you in our network).",
+    "Pop-up: أنت بعيد عن أي عنوان لديك (You are far from any of your addresses).",
+    "Notification: تم الإضافة الى العربة (Added to cart) (likely from a previous action, but shown on this cart page context).",
+    "Navigation includes: الرئيسية (Home), الروشتة (Prescription), الأقسام (Categories), عن شفاء (About Chefaa), المدونة (Blog), تواصل معنا (Contact Us), هل تملك صيدلية؟ (Do you own a pharmacy?).",
+    "Product categories are extensively listed, even though the cart is empty.",
+    "Sections for cart details (currently empty): طريقة التوصيل (Delivery Method), الكوبون (Coupon), المحفظة (Wallet), ملخص الدفع (Payment Summary).",
+    "Featured section: الأكثر مبيعًا (Most Selling) with example products and prices.",
+    "Ability to add a new address with detailed fields: اسم الشارع (Street Name), رقم مبني/فيلا (Building/Villa Number), رقم الطابق (Floor Number), رقم الشقه (Apartment Number), علامة مميزة (Landmark).",
+    "Footer includes: Tax registration number, social media links, 'More About Us', 'We Made It Easy For You', 'Also in Chefaa', 'Download the App', and policy links.",
+    "Promotional banner: خصم حتي 15% + توصيل مجاني لما تطلب من سوبر توفير (Up to 15% discount + free delivery when you order from Super Saving Service)."
+  ],
+  "relevant_links": [
+    "https://chefaa.com/eg-ar/cart",
+    "https://chefaa.com:443/eg-ar",
+    "https://chefaa.com:443/eg-ar/now/category/medications",
+    "https://chefaa.com:443/eg-ar/login",
+    "https://chefaa.com:443/eg-ar/now",
+    "https://chefaa.com:443/eg-ar/now/order-medicine-online-prescription",
+    "https://chefaa.com:443/eg-ar/about-us",
+    "https://chefaa.com/blog",
+    "https://chefaa.com:443/eg-ar/contact-us",
+    "https://chefaa.com:443/eg-ar/become-partner-pharmacy",
+    "https://chefaa.com:443/eg-en/cart",
+    "https://chefaa.com:443/eg-ar/nowProduct/diamonrecta-20mg-5-oral-dispersible-films-r6dg",
+    "https://chefaa.com:443/eg-ar/nowProduct/tardanza-60-mg-3-film-coated-tablet-atmo",
+    "https://chefaa.com:443/eg-ar/nowProduct/limitless-omega-3-30-capsule-6uah",
+    "https://chefaa.com:443/eg-ar/nowProduct/oplex-n-syup",
+    "https://chefaa.com:443/eg-ar/nowProduct/miconaz-2-20gm-oral-gel",
+    "https://chefaa.com:443/eg-ar/nowProduct/comtrex-tabs",
+    "https://chefaa.com:443/eg-ar/nowProduct/pectol-fresh-lemonvitc-8tab-5njg",
+    "https://chefaa.com:443/eg-ar/nowProduct/all-vent-syrup-125-ml",
+    "https://chefaa.com:443/eg-ar/nowProduct/viagra-100-mg",
+    "https://www.facebook.com/chefaaegypt/",
+    "https://www.instagram.com/chefaa.egypt/",
+    "https://www.linkedin.com/company/getchefaa",
+    "https://www.tiktok.com/@chefaa.egypt/",
+    "https://chefaa.com:443/eg-ar/order_monthly_prescription",
+    "https://bulk.chefaa.com/eg-ar",
+    "https://chbih.com/",
+    "https://apps.apple.com/eg/app/chefaa-medicine-delivery/id1438961456",
+    "https://play.google.com/store/apps/details?id=app.com.chefaa&hl=ar",
+    "https://appgallery.huawei.com/app/C102545145",
+    "https://chefaa.com:443/eg-ar/page/terms-of-service",
+    "https://chefaa.com:443/eg-ar/page/privacy-policy"
+  ],
+  "file_name": "chefaa_cart_page_content.json"
+}
+```

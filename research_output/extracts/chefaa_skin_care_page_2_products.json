@@ -1,0 +1,245 @@
+📄 Extracted from page: العناية بالبشرة - شفاء
+URL: https://chefaa.com/eg-ar/now/category/skin-care?page=2
+
+Extracted content:
+```json
+{
+  "title": "العناية بالبشرة - شفاء",
+  "url": "https://chefaa.com/eg-ar/now/category/skin-care?page=2",
+  "summary": "This page displays the second page of skin care products available for purchase on Chefaa.com in Egypt. The listings feature a variety of products primarily from the 'Starville' and 'Shaan' brands, including serums, micellar waters, makeup removers, deodorants, cleansers, creams, masks, and soaps. Each product card provides essential details such as the product name, price in Egyptian Pounds, brand, availability status, and a direct link to its detailed product page. The page also confirms its position within the category's pagination.",
+  "key_points": [
+    "The page specifically lists skin care products from 'Chefaa.com/eg-ar' on page 2 of the category.",
+    "Products from brands 'Starville' and 'Shaan' are prominently featured.",
+    "Extracted details for each product include: complete name (Arabic with inferred English), price in EGP, brand, availability, product type, size/volume, and direct URL.",
+    "The pagination clearly identifies this as page 2 of the 'Skin Care' category.",
+    "Product types include serums, cleansers, moisturizers, deodorants, and masks."
+  ],
+  "relevant_links": [
+    "https://chefaa.com:443/eg-ar/now/category/skin-care?page=1",
+    "https://chefaa.com:443/eg-ar/now/category/skin-care?page=3",
+    "https://chefaa.com:443/eg-ar/nowProduct/starville-hyaluronic-acid-serum-30ml-xu90_dujsiMzp",
+    "https://chefaa.com:443/eg-ar/nowProduct/starville-micellar-water-200ml-u8ct",
+    "https://chefaa.com:443/eg-ar/nowProduct/starville-micellar-water-makeup-remover-wipes-50wipes-meh6_du64GSft",
+    "https://chefaa.com:443/eg-ar/nowProduct/starville-roll-on-whitening-light-pink-free-60ml-cxih",
+    "https://chefaa.com:443/eg-ar/nowProduct/starville-roll-on-whitening-red-berry-scent-60ml-zt5d",
+    "https://chefaa.com:443/eg-ar/nowProduct/starville-vitamin-c-skin-refining-serum-30ml-wx7u",
+    "https://chefaa.com:443/eg-ar/nowProduct/starville-whitening-cleanser-200ml-ufo5",
+    "https://chefaa.com:443/eg-ar/nowProduct/starville-whitening-cleanser-whitening-cream-11svN8",
+    "https://chefaa.com:443/eg-ar/nowProduct/star-ville-whitening-cream-with-arbutin",
+    "https://chefaa.com:443/eg-ar/nowProduct/starville-acne-prone-skin-face-mask-k4e3_duvTuVkN_duJrAx7T",
+    "https://chefaa.com:443/eg-ar/nowProduct/starville-whitening-night-care-gel-60gm-qcte",
+    "https://chefaa.com:443/eg-ar/nowProduct/starville-lightening-roll-on-60ml-vhcl",
+    "https://chefaa.com:443/eg-ar/nowProduct/starville-whitening-roll-on-hair-reducer-60ml-tzwy",
+    "https://chefaa.com:443/eg-ar/nowProduct/starville-whitening-roll-on-orient-pearl-scent-60ml-xvma",
+    "https://chefaa.com:443/eg-ar/nowProduct/star-ville-whitening-care-soap",
+    "https://chefaa.com:443/eg-ar/nowProduct/shaan-facial-cleanser-post-laser",
+    "https://chefaa.com:443/eg-ar/nowProduct/shaan-lip-balm-5gm-jcut",
+    "https://chefaa.com:443/eg-ar/nowProduct/shaan-skin-rejuvenation-cream",
+    "https://chefaa.com:443/eg-ar/nowProduct/shaan-soothing-gel-aloe-vera-extract-60gm-zb7f",
+    "https://chefaa.com:443/eg-ar/nowProduct/shaan-moisturizing-body-milk-for-dry-and-very-dry-skin-300ml-sicl"
+  ],
+  "products": [
+    {
+      "product_name_arabic": "سيروم ستارفيل هيالورونيك اسيد مرطب وموحد للون البشرة",
+      "product_name_english": "Starville Hyaluronic Acid Serum Moisturizer & Skin Tone Unifier",
+      "price_egp": 290,
+      "brand_name": "Starville",
+      "availability_status": "In Stock",
+      "product_type": "Serum",
+      "size_volume": "30 مل",
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/starville-hyaluronic-acid-serum-30ml-xu90_dujsiMzp"
+    },
+    {
+      "product_name_arabic": "ستارفيل | ماء ميسيلار تربيل اكشن لجميع انواع البشرة",
+      "product_name_english": "Starville | Triple Action Micellar Water for all skin types",
+      "price_egp": 125,
+      "brand_name": "Starville",
+      "availability_status": "In Stock",
+      "product_type": "Micellar Water",
+      "size_volume": "200مل",
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/starville-micellar-water-200ml-u8ct"
+    },
+    {
+      "product_name_arabic": "ستارفيل | مناديل ميسيلار المبللة لإزالة المكياج",
+      "product_name_english": "Starville | Micellar Wet Wipes for Makeup Removal",
+      "price_egp": 100,
+      "brand_name": "Starville",
+      "availability_status": "In Stock",
+      "product_type": "Makeup Remover Wipes",
+      "size_volume": "50 منديل",
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/starville-micellar-water-makeup-remover-wipes-50wipes-meh6_du64GSft"
+    },
+    {
+      "product_name_arabic": "ستارفيل | رول اون لايت بينك مزيل للعرق ومفتح للبشرة برائحة ...",
+      "product_name_english": "Starville | Roll-On Light Pink Deodorant and Skin Whitener with Scent...",
+      "price_egp": 130,
+      "brand_name": "Starville",
+      "availability_status": "In Stock",
+      "product_type": "Roll-on Deodorant/Whitener",
+      "size_volume": "60ml",
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/starville-roll-on-whitening-light-pink-free-60ml-cxih"
+    },
+    {
+      "product_name_arabic": "مزيل عرق ستارفيل بالتوت رول اون",
+      "product_name_english": "Starville Red Berry Scent Roll-On Deodorant",
+      "price_egp": 130,
+      "brand_name": "Starville",
+      "availability_status": "In Stock",
+      "product_type": "Roll-on Deodorant",
+      "size_volume": "60 مل",
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/starville-roll-on-whitening-red-berry-scent-60ml-zt5d"
+    },
+    {
+      "product_name_arabic": "ستارفيل | فيتامين سي سيروم لتقليل التجاعيد وتوحيد لون البشر...",
+      "product_name_english": "Starville | Vitamin C Serum for Wrinkle Reduction and Skin Tone Unification...",
+      "price_egp": 290,
+      "brand_name": "Starville",
+      "availability_status": "In Stock",
+      "product_type": "Serum",
+      "size_volume": "30ml",
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/starville-vitamin-c-skin-refining-serum-30ml-wx7u"
+    },
+    {
+      "product_name_arabic": "غسول ستارفيل للتفتيح الابيض starville whitening cleanser",
+      "product_name_english": "Starville Whitening Cleanser",
+      "price_egp": 160,
+      "brand_name": "Starville",
+      "availability_status": "Limited Quantity",
+      "product_type": "Cleanser",
+      "size_volume": "200ml",
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/starville-whitening-cleanser-200ml-ufo5"
+    },
+    {
+      "product_name_arabic": "ستارفيل | منظف ومبيض200مل + كريم تبييض 60جم عرض 1+1",
+      "product_name_english": "Starville | Cleanser and Whitener 200ml + Whitening Cream 60gm 1+1 Offer",
+      "price_egp": 142.5,
+      "brand_name": "Starville",
+      "availability_status": "In Stock",
+      "product_type": "Cleanser & Cream Combo",
+      "size_volume": "200مل (Cleanser) + 60جم (Cream)",
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/starville-whitening-cleanser-whitening-cream-11svN8"
+    },
+    {
+      "product_name_arabic": "كريم ستارفيل للتفتيح starville whitening cream",
+      "product_name_english": "Starville Whitening Cream",
+      "price_egp": 130,
+      "brand_name": "Starville",
+      "availability_status": "In Stock",
+      "product_type": "Cream",
+      "size_volume": "60 مل",
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/star-ville-whitening-cream-with-arbutin"
+    },
+    {
+      "product_name_arabic": "ستارفيل | ماسك ورقي للبشرة للتفتيح",
+      "product_name_english": "Starville | Whitening Sheet Mask",
+      "price_egp": 45,
+      "brand_name": "Starville",
+      "availability_status": "In Stock",
+      "product_type": "Sheet Mask",
+      "size_volume": null,
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/starville-acne-prone-skin-face-mask-k4e3_duvTuVkN_duJrAx7T"
+    },
+    {
+      "product_name_arabic": "ستارفيل وايتنج جل للتفتيح starville whitening gel",
+      "product_name_english": "Starville Whitening Gel",
+      "price_egp": 110,
+      "brand_name": "Starville",
+      "availability_status": "In Stock",
+      "product_type": "Gel",
+      "size_volume": "60 جم",
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/starville-whitening-night-care-gel-60gm-qcte"
+    },
+    {
+      "product_name_arabic": "ستارفيل رول اون مزيل عرق ومبيض بدون رائحة",
+      "product_name_english": "Starville Scent-Free Whitening Roll-On Deodorant",
+      "price_egp": 140,
+      "brand_name": "Starville",
+      "availability_status": "In Stock",
+      "product_type": "Roll-on Deodorant/Whitener",
+      "size_volume": "60 مل",
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/starville-lightening-roll-on-60ml-vhcl"
+    },
+    {
+      "product_name_arabic": "ستارفيل | رول اون للتفتيح و تقليل الشعر",
+      "product_name_english": "Starville | Whitening and Hair Reducer Roll-On",
+      "price_egp": 160,
+      "brand_name": "Starville",
+      "availability_status": "In Stock",
+      "product_type": "Roll-on (Whitening & Hair Reducer)",
+      "size_volume": "60مل",
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/starville-whitening-roll-on-hair-reducer-60ml-tzwy"
+    },
+    {
+      "product_name_arabic": "ستارفيل مزيل عرق رول اون للتفتيح بمزيج العطور العربية",
+      "product_name_english": "Starville Whitening Roll-On Deodorant with Oriental Pearl Scent",
+      "price_egp": 130,
+      "brand_name": "Starville",
+      "availability_status": "In Stock",
+      "product_type": "Roll-on Deodorant/Whitener",
+      "size_volume": "60 مل",
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/starville-whitening-roll-on-orient-pearl-scent-60ml-xvma"
+    },
+    {
+      "product_name_arabic": "ستارفيل | صابونة للتفتيح",
+      "product_name_english": "Starville | Whitening Soap",
+      "price_egp": 50,
+      "brand_name": "Starville",
+      "availability_status": "In Stock",
+      "product_type": "Soap",
+      "size_volume": "100جم",
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/star-ville-whitening-care-soap"
+    },
+    {
+      "product_name_arabic": "غسول شان للبشرة الجافة والمختلطة shaan cleanser",
+      "product_name_english": "Shaan Cleanser for Dry and Combination Skin",
+      "price_egp": 175,
+      "brand_name": "Shaan",
+      "availability_status": "In Stock",
+      "product_type": "Cleanser",
+      "size_volume": "250 مل",
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/shaan-facial-cleanser-post-laser"
+    },
+    {
+      "product_name_arabic": "ليب بالم شان مرطب شفايف shaan lip balm",
+      "product_name_english": "Shaan Lip Balm Moisturizer",
+      "price_egp": 90,
+      "brand_name": "Shaan",
+      "availability_status": "In Stock",
+      "product_type": "Lip Balm",
+      "size_volume": "5 جم",
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/shaan-lip-balm-5gm-jcut"
+    },
+    {
+      "product_name_arabic": "مرطب شان كريم للبشرة الجافة والحساسة shaan cream",
+      "product_name_english": "Shaan Cream Moisturizer for Dry and Sensitive Skin",
+      "price_egp": 150,
+      "brand_name": "Shaan",
+      "availability_status": "In Stock",
+      "product_type": "Cream (Moisturizer)",
+      "size_volume": "120 جم",
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/shaan-skin-rejuvenation-cream"
+    },
+    {
+      "product_name_arabic": "شان مرطب جل للبشره الدهنية والمختلطة",
+      "product_name_english": "Shaan Moisturizing Gel for Oily and Combination Skin",
+      "price_egp": 100,
+      "brand_name": "Shaan",
+      "availability_status": "In Stock",
+      "product_type": "Gel (Moisturizer)",
+      "size_volume": "60 جم",
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/shaan-soothing-gel-aloe-vera-extract-60gm-zb7f"
+    },
+    {
+      "product_name_arabic": "شان مرطب للجسم للبشرة الجافة وشديدة الجفاف",
+      "product_name_english": "Shaan Body Moisturizer for Dry and Very Dry Skin",
+      "price_egp": 200,
+      "brand_name": "Shaan",
+      "availability_status": "In Stock",
+      "product_type": "Body Milk/Moisturizer",
+      "size_volume": "300 مل",
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/shaan-moisturizing-body-milk-for-dry-and-very-dry-skin-300ml-sicl"
+    }
+  ],
+  "file_name": "chefaa_skin_care_page_2_products.json"
+}
+```

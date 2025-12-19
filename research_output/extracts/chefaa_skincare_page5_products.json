@@ -1,0 +1,211 @@
+📄 Extracted from page: العناية بالبشرة - شفاء
+URL: https://chefaa.com/eg-ar/now/category/skin-care?page=5
+
+Extracted content:
+```json
+{
+  "title": "العناية بالبشرة - شفاء",
+  "url": "https://chefaa.com/eg-ar/now/category/skin-care?page=5",
+  "summary": "This page lists various skin care products available on Chefaa.com, specifically page 5 of the 'Skin Care' category. It includes a range of items such as cleansers, creams, serums, and even a contact lens solution, with details on product names, brands, prices in EGP, sizes, and availability status.",
+  "key_points": [
+    "Page 5 of the Skin Care category on Chefaa.com.",
+    "Lists 19 distinct product offerings.",
+    "Products include facial cleansers, moisturizing creams, hair oil, intimate wash, serums, facial scrubs, aloe vera gel, and specific treatments.",
+    "Prices are provided in Egyptian Pounds (EGP).",
+    "Availability statuses include 'Available', 'Prescription required', and 'Limited quantity'."
+  ],
+  "products": [
+    {
+      "product_name_arabic": "دابر املا | زيت شعر الذهبي | 90مل",
+      "product_name_english": "Dabur Amla | Golden Hair Oil | 90ml",
+      "price_egp": 30.00,
+      "brand": "دابر املا (Dabur Amla)",
+      "product_type_category": "زيت شعر (Hair Oil)",
+      "size_volume": "90مل (90ml)",
+      "availability_status": "Available",
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/dabur-amla-gold-hair-oil-90ml-hkk5"
+    },
+    {
+      "product_name_arabic": "ستارفيل | غسول فوم مرطب بالافندر للمناطق الحساسة | 150مل",
+      "product_name_english": "Starville | Moisturizing Lavender Foam Wash for Sensitive Areas | 150ml",
+      "price_egp": 230.00,
+      "brand": "ستارفيل (Starville)",
+      "product_type_category": "غسول فوم للمناطق الحساسة (Intimate Foam Wash)",
+      "size_volume": "150مل (150ml)",
+      "availability_status": "Available",
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/starville-femme-intimate-cleansinghydrate-150-mldWvA"
+    },
+    {
+      "product_name_arabic": "غسول لاروش بوزيه للبشرة المختلطة والدهنية الاخضر | 200 مل",
+      "product_name_english": "La Roche-Posay Effaclar Micro-Peeling Purifying Gel Cleanser | 200 ml",
+      "price_egp": 791.00,
+      "brand": "لاروش بوزيه (La Roche-Posay)",
+      "product_type_category": "غسول للبشرة (Facial Cleanser)",
+      "size_volume": "200 مل (200ml)",
+      "availability_status": "Available",
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/la-roche-posay-effaclar-micro-peeling-purifying-gel-cleanser-200ml-ophm"
+    },
+    {
+      "product_name_arabic": "هيبتا كريم كارباميد للمنطقه الحساسة والوجه وجلد الوزة | 50جم",
+      "product_name_english": "Hepta Carbamide Cream for Sensitive Area, Face and Keratosis Pilaris | 50gm",
+      "price_egp": 69.50,
+      "brand": "هيبتا (Hepta)",
+      "product_type_category": "كريم (Cream)",
+      "size_volume": "50جم (50gm)",
+      "availability_status": "Available",
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/hepta-carbamide-cream-10-urea-cream-50gm-u8ss"
+    },
+    {
+      "product_name_arabic": "هيبتا | بلس بانثينول كارباميد كريم | 50جم",
+      "product_name_english": "Hepta | Plus Panthenol Carbamide Cream | 50gm",
+      "price_egp": 99.00,
+      "brand": "هيبتا (Hepta)",
+      "product_type_category": "كريم (Cream)",
+      "size_volume": "50جم (50gm)",
+      "availability_status": "Available",
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/hepta-panthenol-plus-carbamide-cream-50gm-jeng"
+    },
+    {
+      "product_name_arabic": "1+1 بيرفكت كير | محلول للعدسات اللاصقة | 120مل",
+      "product_name_english": "1+1 Perfect Care | Contact Lens Solution | 120ml",
+      "price_egp": 160.00,
+      "brand": "بيرفكت كير (Perfect Care)",
+      "product_type_category": "محلول للعدسات اللاصقة (Contact Lens Solution)",
+      "size_volume": "120مل (120ml)",
+      "availability_status": "Available",
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/perfect-care-120-ml-offer-11-6yR9"
+    },
+    {
+      "product_name_arabic": "ميلانوكول كريم مرطب للبشرة الدهنية | 200 جم",
+      "product_name_english": "Melanocool Moisturising Cream for Oily Skin | 200 gm",
+      "price_egp": 70.00,
+      "brand": "ميلانو فارما (Melano Pharma)",
+      "product_type_category": "كريم مرطب (Moisturising Cream)",
+      "size_volume": "200 جم (200gm)",
+      "availability_status": "Available",
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/melano-pharma-melanocool-moisturising-cream-jar-200gm-a63h_dufE3ARC"
+    },
+    {
+      "product_name_arabic": "سينوبار-اس صابونة للبشرة الدهنية للتفتيح والحبوب | 100 جم",
+      "product_name_english": "Synobar-S Soap for Oily Skin for Lightening and Acne | 100 gm",
+      "price_egp": 60.00,
+      "brand": "سينوبار-اس (Synobar-S)",
+      "product_type_category": "صابونة (Soap)",
+      "size_volume": "100 جم (100gm)",
+      "availability_status": "Available",
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/synobar-soap-to-treat-acne-and-get-rid-of-pimples-100gm-zjag"
+    },
+    {
+      "product_name_arabic": "ذا اورديناري سيروم نياسيناميد + زنك لتقليل التصبغات والمسام...",
+      "product_name_english": "The Ordinary Niacinamide 10% + Zinc 1% Serum for pigmentation and pore reduction | 30ml",
+      "price_egp": 650.00,
+      "brand": "ذا اورديناري (The Ordinary)",
+      "product_type_category": "سيروم (Serum)",
+      "size_volume": "30مل (30ml)",
+      "availability_status": "Available",
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/the-ordinary-niacinamide-10-zinc-1-30ml-xfhs_dutiVacX"
+    },
+    {
+      "product_name_arabic": "مود | كريم لليدين هاواي | 50جم",
+      "product_name_english": "Mood | Hawaii Hand Cream | 50gm",
+      "price_egp": 65.00,
+      "brand": "مود (Mood)",
+      "product_type_category": "كريم لليدين (Hand Cream)",
+      "size_volume": "50جم (50gm)",
+      "availability_status": "Available",
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/mood-hand-cream-50ml-hawaiiOkt4"
+    },
+    {
+      "product_name_arabic": "غسول جليم ميكس gleam mix للبشرة الدهنية والمختلطة | 200مل",
+      "product_name_english": "Gleam Mix Facial Wash for Oily and Combination Skin | 200ml",
+      "price_egp": 200.00,
+      "brand": "جليم ميكس (Gleam Mix)",
+      "product_type_category": "غسول للوجه (Facial Wash)",
+      "size_volume": "200مل (200ml)",
+      "availability_status": "Available",
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/gleam-mix-facial-wash-for-oily-combination-skin-200ml-awiy"
+    },
+    {
+      "product_name_arabic": "إيفا سكين كير | ﺇشراقة طبيعية مقشر الوجه | 100مل",
+      "product_name_english": "Eva Skin Care | Natural Glow Facial Scrub | 100ml",
+      "price_egp": 65.00,
+      "brand": "إيفا سكين كير (Eva Skin Care)",
+      "product_type_category": "مقشر للوجه (Facial Scrub)",
+      "size_volume": "100مل (100ml)",
+      "availability_status": "Available",
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/eva-skin-care-natural-glow-facial-scrub-100ml-eojw_du8PEBE0"
+    },
+    {
+      "product_name_arabic": "رو افريكان | جل الصبار | 150مل",
+      "product_name_english": "Raw African | Aloe Vera Gel | 150ml",
+      "price_egp": 155.00,
+      "brand": "رو افريكان (Raw African)",
+      "product_type_category": "جل (Gel)",
+      "size_volume": "150مل (150ml)",
+      "availability_status": "Available",
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/raw-african-aloe-vera-gel-125ml_duLPLJBD"
+    },
+    {
+      "product_name_arabic": "بيتاديرم مرهم مضاد للالتهابات | 15جم",
+      "product_name_english": "Betaderm Anti-inflammatory Ointment | 15gm",
+      "price_egp": 18.00,
+      "brand": "بيتاديرم (Betaderm)",
+      "product_type_category": "مرهم (Ointment)",
+      "size_volume": "15جم (15gm)",
+      "availability_status": "Prescription required",
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/betaderm-0-1-15-gm-qgjc"
+    },
+    {
+      "product_name_arabic": "ناترى | غسول | 250مل",
+      "product_name_english": "Natry | Cleanser | 250ml",
+      "price_egp": 165.00,
+      "brand": "ناترى (Natry)",
+      "product_type_category": "غسول (Cleanser)",
+      "size_volume": "250مل (250ml)",
+      "availability_status": "Available",
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/natry-macro-facial-cleanser-250ml-erfy"
+    },
+    {
+      "product_name_arabic": "غسول أليجون للتفتيح alejon بفيتامين سى | 200مل",
+      "product_name_english": "Alejon Whitening Cleanser with Vitamin C | 200ml",
+      "price_egp": 230.00,
+      "brand": "أليجون (Alejon)",
+      "product_type_category": "غسول للتفتيح (Whitening Cleanser)",
+      "size_volume": "200مل (200ml)",
+      "availability_status": "Available",
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/alejon-whitening-cleanser-200ml-w3rv"
+    },
+    {
+      "product_name_arabic": "غسول سيباكلار للبشره الدهنية والمختلطة sebaclar cleanser | ...",
+      "product_name_english": "Sebaclar Cleansing Gel for Oily and Combination Skin | 200ml",
+      "price_egp": 264.00,
+      "brand": "سيباكلار (Sebaclar)",
+      "product_type_category": "غسول (Cleansing Gel)",
+      "size_volume": "200مل (200ml)",
+      "availability_status": "Available",
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/sebaclar-cleansing-gel-200ml-rhkh"
+    },
+    {
+      "product_name_arabic": "فازلين | معالج الشفاه روزي ليبس | 20جم",
+      "product_name_english": "Vaseline | Lip Therapy Rosy Lips | 20gm",
+      "price_egp": 150.00,
+      "brand": "فازلين (Vaseline)",
+      "product_type_category": "معالج الشفاه (Lip Therapy)",
+      "size_volume": "20جم (20gm)",
+      "availability_status": "Available",
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/vaseline-lip-therapy-rosy-20g-rjju"
+    },
+    {
+      "product_name_arabic": "اكنى اكت | جل | 15 جم",
+      "product_name_english": "Acniact | Gel | 15 gm",
+      "price_egp": 39.00,
+      "brand": "اكنى اكت (Acniact)",
+      "product_type_category": "جل (Gel)",
+      "size_volume": "15 جم (15gm)",
+      "availability_status": "Limited quantity",
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/acniact-gel-15-gm-jtxr"
+    }
+  ],
+  "file_name": "chefaa_skincare_page5_products.json"
+}
+```

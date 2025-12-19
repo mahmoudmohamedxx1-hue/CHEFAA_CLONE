@@ -1,0 +1,144 @@
+{
+  "medications": [
+    {
+      "product_name": "سايكلوجيست",
+      "price_egp": 285.00,
+      "brand_manufacturer": "سايكلوجيست",
+      "product_description_or_category": "لبوس مهبلي",
+      "package_size_or_quantity": "15 لبوس مهبلي, 200مجم"
+    },
+    {
+      "product_name": "فروزيتور",
+      "price_egp": 75.00,
+      "brand_manufacturer": "فروزيتور",
+      "product_description_or_category": "قرص",
+      "package_size_or_quantity": "30 قرص, 5مجم"
+    },
+    {
+      "product_name": "جينومونيكس",
+      "price_egp": 41.00,
+      "brand_manufacturer": "جينومونيكس",
+      "product_description_or_category": "لبوسات مهبلية",
+      "package_size_or_quantity": "3 لبوسات مهبلية"
+    },
+    {
+      "product_name": "كيفورك",
+      "price_egp": 121.00,
+      "brand_manufacturer": "كيفورك",
+      "product_description_or_category": "أقراص",
+      "package_size_or_quantity": "5 أقراص, 750مجم"
+    },
+    {
+      "product_name": "ليفوكار",
+      "price_egp": 129.00,
+      "brand_manufacturer": "ليفوكار",
+      "product_description_or_category": "قرص",
+      "package_size_or_quantity": "30 قرص, 250/25مجم"
+    },
+    {
+      "product_name": "لوفير",
+      "price_egp": 300.00,
+      "brand_manufacturer": "لوفير",
+      "product_description_or_category": "أقراص قابلة للتشتت عن طريق الفم",
+      "package_size_or_quantity": "35 قرص, 800مجم"
+    },
+    {
+      "product_name": "ماندوغيست",
+      "price_egp": 85.00,
+      "brand_manufacturer": "ماندوغيست",
+      "product_description_or_category": "شراب",
+      "package_size_or_quantity": "120مل"
+    },
+    {
+      "product_name": "ميثابيوجين",
+      "price_egp": 93.00,
+      "brand_manufacturer": "ميثابيوجين",
+      "product_description_or_category": "قرص",
+      "package_size_or_quantity": "30 قرص, 8مجم"
+    },
+    {
+      "product_name": "ماياكيليك",
+      "price_egp": 245.00,
+      "brand_manufacturer": "ماياكيليك",
+      "product_description_or_category": "أمبولات",
+      "package_size_or_quantity": "5 أمبولات, 100 وحدة دولية, 1مل"
+    },
+    {
+      "product_name": "موكسيسيارو",
+      "price_egp": 57.00,
+      "brand_manufacturer": "موكسيسيارو",
+      "product_description_or_category": "قطرات العين",
+      "package_size_or_quantity": "10مل, 0.5مجم"
+    },
+    {
+      "product_name": "نيكسيمريكان",
+      "price_egp": 138.00,
+      "brand_manufacturer": "نيكسيمريكان",
+      "product_description_or_category": "كبسولة",
+      "package_size_or_quantity": "14 كبسولة, 40مجم"
+    },
+    {
+      "product_name": "نوفراكت",
+      "price_egp": 32.00,
+      "brand_manufacturer": "نوفراكت",
+      "product_description_or_category": "محلول فموي من حمض الأليندرونيك",
+      "package_size_or_quantity": "75مل, 70مج"
+    },
+    {
+      "product_name": "أوكوسييلريدج",
+      "price_egp": 30.00,
+      "brand_manufacturer": "أوكوسييلريدج",
+      "product_description_or_category": "قطرة للعين",
+      "package_size_or_quantity": "5مل"
+    },
+    {
+      "product_name": "أولوبات",
+      "price_egp": 18.60,
+      "brand_manufacturer": "أولوبات",
+      "product_description_or_category": "قطرة للعين",
+      "package_size_or_quantity": "5 مل"
+    },
+    {
+      "product_name": "بين ريليفر",
+      "price_egp": 72.00,
+      "brand_manufacturer": "بين ريليفر",
+      "product_description_or_category": "كبسولة",
+      "package_size_or_quantity": "30 كبسولة"
+    },
+    {
+      "product_name": "كويتازيك اكس ار",
+      "price_egp": 387.00,
+      "brand_manufacturer": "كويتازيك",
+      "product_description_or_category": "قرص",
+      "package_size_or_quantity": "30 قرص, 400مجم"
+    },
+    {
+      "product_name": "روزوفاستاتين",
+      "price_egp": 51.00,
+      "brand_manufacturer": "غير محدد",
+      "product_description_or_category": "قرص",
+      "package_size_or_quantity": "14 قرص, 10مجم"
+    },
+    {
+      "product_name": "تيابريد",
+      "price_egp": 107.00,
+      "brand_manufacturer": "كلافيتا فارما",
+      "product_description_or_category": "محلول فموي",
+      "package_size_or_quantity": "30مل"
+    },
+    {
+      "product_name": "تراى بيتابرونات",
+      "price_egp": 36.00,
+      "brand_manufacturer": "تراى بيتابرونات",
+      "product_description_or_category": "كريم",
+      "package_size_or_quantity": "30جم"
+    },
+    {
+      "product_name": "فيزيكير",
+      "price_egp": 487.00,
+      "brand_manufacturer": "فيزيكير",
+      "product_description_or_category": "قرص",
+      "package_size_or_quantity": "30 قرص, 10مجم"
+    }
+  ]
+}

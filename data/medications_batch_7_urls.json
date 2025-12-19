@@ -1,0 +1,1020 @@
+{
+  "extraction_metadata": {
+    "source": "Chefaa.com medications data",
+    "target_products": "1201-1400",
+    "pages_processed": [
+      67,
+      68,
+      69,
+      70,
+      71,
+      72
+    ],
+    "total_found": 100,
+    "with_urls": 0,
+    "extraction_date": "2025-11-01"
+  },
+  "medications": [
+    {
+      "page_number": 67,
+      "arabic_name": "كونترولوك",
+      "english_name": "Controloc",
+      "price_egp": "Not visible on page",
+      "prescription_required": true,
+      "dosage_information": "20mg | 14 tablets",
+      "description": "Antacid medication",
+      "product_url": ""
+    },
+    {
+      "page_number": 67,
+      "arabic_name": "كوبالامون",
+      "english_name": "Cobalamoun",
+      "price_egp": 75,
+      "prescription_required": false,
+      "dosage_information": "1000mcg | 30 sublingual tablets",
+      "description": "Vitamin B12 supplement",
+      "product_url": ""
+    },
+    {
+      "page_number": 67,
+      "arabic_name": "أسبوسيد",
+      "english_name": "Aspocid",
+      "price_egp": 33,
+      "prescription_required": false,
+      "dosage_information": "75mg | 20 tablets",
+      "description": "For prevention of blood clots",
+      "product_url": ""
+    },
+    {
+      "page_number": 67,
+      "arabic_name": "فلوتاك",
+      "english_name": "Flotac",
+      "price_egp": 90,
+      "prescription_required": false,
+      "dosage_information": "75mg | 20 capsules",
+      "description": "Pain relief medication",
+      "product_url": ""
+    },
+    {
+      "page_number": 67,
+      "arabic_name": "اوجمنتين",
+      "english_name": "Augmentin",
+      "price_egp": 117,
+      "prescription_required": true,
+      "dosage_information": "625mg | 10 tablets",
+      "description": "Antibiotic",
+      "product_url": ""
+    },
+    {
+      "page_number": 67,
+      "arabic_name": "ديلتاكلاف",
+      "english_name": "Deltaclav",
+      "price_egp": 89,
+      "prescription_required": true,
+      "dosage_information": "457mg | 80ml",
+      "description": "Antibiotic",
+      "product_url": ""
+    },
+    {
+      "page_number": 67,
+      "arabic_name": "لاموترين",
+      "english_name": "Lamotrine",
+      "price_egp": 120,
+      "prescription_required": true,
+      "dosage_information": "100mg | 30 tablets",
+      "description": "For treating epilepsy and convulsions",
+      "product_url": ""
+    },
+    {
+      "page_number": 67,
+      "arabic_name": "بلنديل",
+      "english_name": "Plendil",
+      "price_egp": 53,
+      "prescription_required": true,
+      "dosage_information": "2.5mg | 30 tablets",
+      "description": "For treating high blood pressure",
+      "product_url": ""
+    },
+    {
+      "page_number": 67,
+      "arabic_name": "انتريستو",
+      "english_name": "Entresto",
+      "price_egp": 1700,
+      "prescription_required": true,
+      "dosage_information": "50mg | 28 tablets",
+      "description": "Heart failure medication",
+      "product_url": ""
+    },
+    {
+      "page_number": 67,
+      "arabic_name": "كريستوليب",
+      "english_name": "Crestolip",
+      "price_egp": 108,
+      "prescription_required": true,
+      "dosage_information": "10mg | 30 tablets",
+      "description": "For high cholesterol",
+      "product_url": ""
+    },
+    {
+      "page_number": 67,
+      "arabic_name": "ديوسمين بلس",
+      "english_name": "Diosmin Plus",
+      "price_egp": 111,
+      "prescription_required": true,
+      "dosage_information": "500mg | 30 tablets",
+      "description": "Circulation support medication",
+      "product_url": ""
+    },
+    {
+      "page_number": 67,
+      "arabic_name": "روتاهيلكس",
+      "english_name": "Rotahelex",
+      "price_egp": 55,
+      "prescription_required": false,
+      "dosage_information": "30ml drops",
+      "description": "For respiratory airways",
+      "product_url": ""
+    },
+    {
+      "page_number": 67,
+      "arabic_name": "ادينوسين فورت",
+      "english_name": "Adenosin Forte",
+      "price_egp": 45,
+      "prescription_required": true,
+      "dosage_information": "3 ampoules",
+      "description": "Circulation medication",
+      "product_url": ""
+    },
+    {
+      "page_number": 67,
+      "arabic_name": "ريبلسس",
+      "english_name": "Rybelsus",
+      "price_egp": 1575,
+      "prescription_required": true,
+      "dosage_information": "14mg | 10 tablets",
+      "description": "For weight loss and diabetes treatment",
+      "product_url": ""
+    },
+    {
+      "page_number": 67,
+      "arabic_name": "ديجريزيان",
+      "english_name": "Degreasian",
+      "price_egp": 384,
+      "prescription_required": false,
+      "dosage_information": "1mg | 28 capsules",
+      "description": "For treating high triglycerides in blood",
+      "product_url": ""
+    },
+    {
+      "page_number": 67,
+      "arabic_name": "تينورمين",
+      "english_name": "Tenormin",
+      "price_egp": 60,
+      "prescription_required": false,
+      "dosage_information": "100mg | 28 tablets",
+      "description": "Blood pressure medication",
+      "product_url": ""
+    },
+    {
+      "page_number": 67,
+      "arabic_name": "فيروسارجين",
+      "english_name": "Visceralgine",
+      "price_egp": 35,
+      "prescription_required": false,
+      "dosage_information": "120ml syrup",
+      "description": "Digestive medication",
+      "product_url": ""
+    },
+    {
+      "page_number": 67,
+      "arabic_name": "ريسبيردال",
+      "english_name": "Risperdal",
+      "price_egp": 137,
+      "prescription_required": true,
+      "dosage_information": "1mg | 30ml drops",
+      "description": "For treating depression and anxiety",
+      "product_url": ""
+    },
+    {
+      "page_number": 67,
+      "arabic_name": "لاميكتال",
+      "english_name": "Lamictal",
+      "price_egp": 87,
+      "prescription_required": false,
+      "dosage_information": "25mg | 30 tablets",
+      "description": "For treating epilepsy",
+      "product_url": ""
+    },
+    {
+      "page_number": 67,
+      "arabic_name": "دونيفوكسات",
+      "english_name": "Donifoxate",
+      "price_egp": 102,
+      "prescription_required": true,
+      "dosage_information": "40mg | 30 tablets",
+      "description": "For treating gout",
+      "product_url": ""
+    },
+    {
+      "page_number": 69,
+      "arabic_name": "ليمتلس مان مالتي جاميز",
+      "english_name": "Limitless Man Multi Gummies",
+      "price_egp": 320,
+      "prescription_required": false,
+      "dosage_information": "90 gummies",
+      "description": "Multivitamin for men",
+      "product_url": ""
+    },
+    {
+      "page_number": 69,
+      "arabic_name": "سيمباتكس",
+      "english_name": "Cymbatex",
+      "price_egp": 228,
+      "prescription_required": true,
+      "dosage_information": "30mg | 30 capsules",
+      "description": "Antibiotic",
+      "product_url": ""
+    },
+    {
+      "page_number": 69,
+      "arabic_name": "تينورمين",
+      "english_name": "Tenormin",
+      "price_egp": 29,
+      "prescription_required": true,
+      "dosage_information": "50mg | 28 tablets",
+      "description": "Blood pressure medication",
+      "product_url": ""
+    },
+    {
+      "page_number": 69,
+      "arabic_name": "جي تي إن",
+      "english_name": "GTN",
+      "price_egp": 140,
+      "prescription_required": false,
+      "dosage_information": "Cream | 30g",
+      "description": "Topical cream",
+      "product_url": ""
+    },
+    {
+      "page_number": 69,
+      "arabic_name": "سيمبالتا",
+      "english_name": "Cymbalta",
+      "price_egp": 544,
+      "prescription_required": true,
+      "dosage_information": "60mg | 28 capsules",
+      "description": "Antidepressant",
+      "product_url": ""
+    },
+    {
+      "page_number": 69,
+      "arabic_name": "ديفلوستيرو",
+      "english_name": "Diflustero",
+      "price_egp": 45,
+      "prescription_required": true,
+      "dosage_information": "0.05% eye drops | 5ml",
+      "description": "Eye drops for inflammation",
+      "product_url": ""
+    },
+    {
+      "page_number": 69,
+      "arabic_name": "نيرفيزام",
+      "english_name": "Nervizam",
+      "price_egp": 450,
+      "prescription_required": false,
+      "dosage_information": "30 capsules",
+      "description": "Nervous system support",
+      "product_url": ""
+    },
+    {
+      "page_number": 69,
+      "arabic_name": "ميتاكارديا ام ار",
+      "english_name": "Metacardia MR",
+      "price_egp": 60,
+      "prescription_required": true,
+      "dosage_information": "35mg | 30 tablets",
+      "description": "Prevention of angina pectoris",
+      "product_url": ""
+    },
+    {
+      "page_number": 69,
+      "arabic_name": "ديباكين",
+      "english_name": "Depakine",
+      "price_egp": 60,
+      "prescription_required": true,
+      "dosage_information": "200mg | 40 tablets",
+      "description": "Epilepsy medication",
+      "product_url": ""
+    },
+    {
+      "page_number": 69,
+      "arabic_name": "فيوسي - زون",
+      "english_name": "Fusi-Zon",
+      "price_egp": 48,
+      "prescription_required": false,
+      "dosage_information": "Cream | 15g",
+      "description": "Antifungal cream",
+      "product_url": ""
+    },
+    {
+      "page_number": 69,
+      "arabic_name": "الأنسولين ميكستارد 30",
+      "english_name": "Insulin Mixtard 30",
+      "price_egp": 338,
+      "prescription_required": true,
+      "dosage_information": "100 IU | 3ml | 5 cartridges",
+      "description": "Diabetes treatment",
+      "product_url": ""
+    },
+    {
+      "page_number": 69,
+      "arabic_name": "أكترابيد الأنسولين بنفيل",
+      "english_name": "Actrapid Insulin Penfill",
+      "price_egp": 338,
+      "prescription_required": true,
+      "dosage_information": "100 IU/ml | 5 vials | 3ml",
+      "description": "Diabetes treatment",
+      "product_url": ""
+    },
+    {
+      "page_number": 69,
+      "arabic_name": "ويلوفنج",
+      "english_name": "Wellofung",
+      "price_egp": 48,
+      "prescription_required": false,
+      "dosage_information": "2% cream | 40g",
+      "description": "Antifungal cream",
+      "product_url": ""
+    },
+    {
+      "page_number": 69,
+      "arabic_name": "مورنيجاج",
+      "english_name": "Mornigag",
+      "price_egp": 66,
+      "prescription_required": true,
+      "dosage_information": "10/10mg | 30 tablets",
+      "description": "Blood pressure medication",
+      "product_url": ""
+    },
+    {
+      "page_number": 69,
+      "arabic_name": "ميوبيراكس مرهم موضعي",
+      "english_name": "Mupirax",
+      "price_egp": 118,
+      "prescription_required": false,
+      "dosage_information": "Topical ointment | 30g",
+      "description": "Topical antibiotic ointment",
+      "product_url": ""
+    },
+    {
+      "page_number": 69,
+      "arabic_name": "اميونوماش",
+      "english_name": "Immuno Mash",
+      "price_egp": 90,
+      "prescription_required": false,
+      "dosage_information": "30 tablets",
+      "description": "For improving and strengthening immunity",
+      "product_url": ""
+    },
+    {
+      "page_number": 69,
+      "arabic_name": "تريتاس كومب أل أس",
+      "english_name": "Tritace Comb LS",
+      "price_egp": 70,
+      "prescription_required": true,
+      "dosage_information": "2.5/12.5mg | 14 tablets",
+      "description": "For treating high blood pressure",
+      "product_url": ""
+    },
+    {
+      "page_number": 69,
+      "arabic_name": "موزابرايد",
+      "english_name": "Mosapride",
+      "price_egp": 33,
+      "prescription_required": false,
+      "dosage_information": "2.5mg | 10 tablets",
+      "description": "Digestive motility medication",
+      "product_url": ""
+    },
+    {
+      "page_number": 69,
+      "arabic_name": "فيروديونال",
+      "english_name": "Ferroduonal",
+      "price_egp": 135,
+      "prescription_required": true,
+      "dosage_information": "30 capsules",
+      "description": "Iron supplement",
+      "product_url": ""
+    },
+    {
+      "page_number": 69,
+      "arabic_name": "فافيرين",
+      "english_name": "Faverin",
+      "price_egp": 261,
+      "prescription_required": true,
+      "dosage_information": "100mg | 30 tablets",
+      "description": "Antibiotic",
+      "product_url": ""
+    },
+    {
+      "page_number": 70,
+      "arabic_name": "أورليستات",
+      "english_name": "Orlistat",
+      "price_egp": 207,
+      "prescription_required": true,
+      "dosage_information": "120mg | 30 capsules",
+      "description": "Weight loss medication",
+      "product_url": ""
+    },
+    {
+      "page_number": 70,
+      "arabic_name": "براديبيكت",
+      "english_name": "Bradipect 5",
+      "price_egp": 168,
+      "prescription_required": true,
+      "dosage_information": "5mg | 28 tablets",
+      "description": "For treatment of angina and heart diseases",
+      "product_url": ""
+    },
+    {
+      "page_number": 70,
+      "arabic_name": "بروستريد",
+      "english_name": "Prostride",
+      "price_egp": 183,
+      "prescription_required": true,
+      "dosage_information": "5mg | 30 capsules",
+      "description": "Blood pressure medication",
+      "product_url": ""
+    },
+    {
+      "page_number": 70,
+      "arabic_name": "سبازموبيرالجين-م",
+      "english_name": "Spasmopyralgin-M",
+      "price_egp": 21,
+      "prescription_required": false,
+      "dosage_information": "255/25mg | 10 tablets",
+      "description": "Pain relief medication",
+      "product_url": ""
+    },
+    {
+      "page_number": 70,
+      "arabic_name": "فليكسبرو اكسترا",
+      "english_name": "Flexpro Extra",
+      "price_egp": 46,
+      "prescription_required": false,
+      "dosage_information": "400mg/500mg | 20 tablets",
+      "description": "Muscle relaxant",
+      "product_url": ""
+    },
+    {
+      "page_number": 70,
+      "arabic_name": "ميبافاج اكس ار",
+      "english_name": "Mepaphage SR",
+      "price_egp": 66,
+      "prescription_required": false,
+      "dosage_information": "1000mg | 30 tablets",
+      "description": "Diabetes medication",
+      "product_url": ""
+    },
+    {
+      "page_number": 70,
+      "arabic_name": "تولانا كارنيتين",
+      "english_name": "Tolana Carnitine",
+      "price_egp": 240,
+      "prescription_required": false,
+      "dosage_information": "20 tablets",
+      "description": "Energy and metabolism supplement",
+      "product_url": ""
+    },
+    {
+      "page_number": 70,
+      "arabic_name": "زانبرازان",
+      "english_name": "Xanprazan",
+      "price_egp": 156,
+      "prescription_required": false,
+      "dosage_information": "20mg | 30 tablets",
+      "description": "GERD medication",
+      "product_url": ""
+    },
+    {
+      "page_number": 70,
+      "arabic_name": "سيكلو بروجينوفا",
+      "english_name": "Cyclo Progynova",
+      "price_egp": 76,
+      "prescription_required": true,
+      "dosage_information": "21 tablets",
+      "description": "For treatment of menopause",
+      "product_url": ""
+    },
+    {
+      "page_number": 70,
+      "arabic_name": "نو-يوريك",
+      "english_name": "No-Uric",
+      "price_egp": 65,
+      "prescription_required": true,
+      "dosage_information": "100mg | 50 tablets",
+      "description": "To lower uric acid (gout treatment)",
+      "product_url": ""
+    },
+    {
+      "page_number": 70,
+      "arabic_name": "بي فريش",
+      "english_name": "B-Fresh",
+      "price_egp": 27,
+      "prescription_required": false,
+      "dosage_information": "250ml",
+      "description": "Clove mouthwash",
+      "product_url": ""
+    },
+    {
+      "page_number": 70,
+      "arabic_name": "بى كوم",
+      "english_name": "B-Com",
+      "price_egp": 48,
+      "prescription_required": false,
+      "dosage_information": "6 ampoules 2ml",
+      "description": "Vitamin B complex injection",
+      "product_url": ""
+    },
+    {
+      "page_number": 70,
+      "arabic_name": "بريجناكير اقراص فيتامينات اثناء الرضاعة",
+      "english_name": "Pregnacare Breast-feeding",
+      "price_egp": 400,
+      "prescription_required": false,
+      "dosage_information": "84 tablets",
+      "description": "Vitamins during breastfeeding",
+      "product_url": ""
+    },
+    {
+      "page_number": 70,
+      "arabic_name": "اوزيمبك",
+      "english_name": "Ozempic",
+      "price_egp": 4000,
+      "prescription_required": true,
+      "dosage_information": "1mg | 1 prefilled pen",
+      "description": "Diabetes and weight loss medication",
+      "product_url": ""
+    },
+    {
+      "page_number": 70,
+      "arabic_name": "بلادوجرا",
+      "english_name": "Bladogra XR",
+      "price_egp": 357,
+      "prescription_required": true,
+      "dosage_information": "50mg extended-release | 30 tablets",
+      "description": "For treatment of involuntary urination",
+      "product_url": ""
+    },
+    {
+      "page_number": 70,
+      "arabic_name": "ايكاندرا بلس",
+      "english_name": "Icandra Plus",
+      "price_egp": 192,
+      "prescription_required": true,
+      "dosage_information": "50mg/1000mg | 30 tablets",
+      "description": "For treatment of Type 2 Diabetes",
+      "product_url": ""
+    },
+    {
+      "page_number": 70,
+      "arabic_name": "كليكسان",
+      "english_name": "Clexane",
+      "price_egp": 311,
+      "prescription_required": true,
+      "dosage_information": "40mg/0.4ml | 2 injections",
+      "description": "For treatment of blood clots",
+      "product_url": ""
+    },
+    {
+      "page_number": 70,
+      "arabic_name": "أريسبت",
+      "english_name": "Aricept",
+      "price_egp": 470,
+      "prescription_required": true,
+      "dosage_information": "10mg | 14 tablets",
+      "description": "Dementia/Alzheimer's treatment",
+      "product_url": ""
+    },
+    {
+      "page_number": 70,
+      "arabic_name": "إيفكسور إكس آر",
+      "english_name": "Efexor XR",
+      "price_egp": 158,
+      "prescription_required": true,
+      "dosage_information": "75mg | 14 capsules",
+      "description": "Antidepressant medication",
+      "product_url": ""
+    },
+    {
+      "page_number": 70,
+      "arabic_name": "سوابيفنت",
+      "english_name": "Swabivent",
+      "price_egp": 176,
+      "prescription_required": false,
+      "dosage_information": "2.5mg/2.5ml nebulizer solution | 20 ampoules 2.5ml",
+      "description": "Respiratory medication for nebulizer",
+      "product_url": ""
+    },
+    {
+      "page_number": 71,
+      "arabic_name": "فلويموسيل 600مجم | 10 قرص",
+      "english_name": "Fluimucil",
+      "price_egp": 135.0,
+      "prescription_required": false,
+      "dosage_information": "600mg | 10 tablets",
+      "description": "Mucolytic for respiratory conditions",
+      "product_url": ""
+    },
+    {
+      "page_number": 71,
+      "arabic_name": "كلاريتين اقراص للجيوب الأنفية والحساسية | 20 قرص",
+      "english_name": "Claritine",
+      "price_egp": 110.0,
+      "prescription_required": false,
+      "dosage_information": "10mg | 20 tablets",
+      "description": "For sinusitis and allergies",
+      "product_url": ""
+    },
+    {
+      "page_number": 71,
+      "arabic_name": "رينال إس | فوار مطهر للمسالك البولية | 12 كيس",
+      "english_name": "Renal S",
+      "price_egp": 30.0,
+      "prescription_required": true,
+      "dosage_information": "12 sachets | 5gm",
+      "description": "Urinary antiseptic",
+      "product_url": ""
+    },
+    {
+      "page_number": 71,
+      "arabic_name": "الزنتال | طارد للديدان | 20جم | 20 مل شراب",
+      "english_name": "Alzental",
+      "price_egp": 21.0,
+      "prescription_required": true,
+      "dosage_information": "20gm | 20ml syrup",
+      "description": "Dewormer",
+      "product_url": ""
+    },
+    {
+      "page_number": 71,
+      "arabic_name": "زيثروماكس | مضاد حيوى للأطفال | 900 مج | 22.5 مل شراب",
+      "english_name": "Zithromax",
+      "price_egp": 100.0,
+      "prescription_required": true,
+      "dosage_information": "900mg | 22.5ml syrup",
+      "description": "Antibiotic for children",
+      "product_url": ""
+    },
+    {
+      "page_number": 71,
+      "arabic_name": "ريسبيردال | لعلاج الاكتئاب والخوف | 2 مج | 20 قرص",
+      "english_name": "Risperdal",
+      "price_egp": 190.0,
+      "prescription_required": true,
+      "dosage_information": "2mg | 20 tablets",
+      "description": "For treating depression and fear",
+      "product_url": ""
+    },
+    {
+      "page_number": 71,
+      "arabic_name": "اريبيبرازول 10مجم | 20 قرص",
+      "english_name": "Aripiprazole",
+      "price_egp": 99.0,
+      "prescription_required": true,
+      "dosage_information": "10mg | 20 tablets",
+      "description": "Antipsychotic medication",
+      "product_url": ""
+    },
+    {
+      "page_number": 71,
+      "arabic_name": "بوريك أسيد | غسول 4% | 100مل",
+      "english_name": "Boric Acid",
+      "price_egp": 12.0,
+      "prescription_required": false,
+      "dosage_information": "4% lotion | 100ml",
+      "description": "Antiseptic solution",
+      "product_url": ""
+    },
+    {
+      "page_number": 71,
+      "arabic_name": "بنتاسا 500مجم | 100 قرص",
+      "english_name": "Pentasa",
+      "price_egp": 1100.0,
+      "prescription_required": true,
+      "dosage_information": "500mg | 100 tablets",
+      "description": "Inflammatory bowel disease",
+      "product_url": ""
+    },
+    {
+      "page_number": 71,
+      "arabic_name": "سيبرو نقط | 3مجم\\ 1 مل | 10مل",
+      "english_name": "Cipro drops",
+      "price_egp": 15.0,
+      "prescription_required": false,
+      "dosage_information": "3mg/1ml | 10ml",
+      "description": "Antibiotic eye drops",
+      "product_url": ""
+    },
+    {
+      "page_number": 71,
+      "arabic_name": "هيرو فيتامين د3+ك2 نقط بالفم | 10مل",
+      "english_name": "Hero Vitamin D3+K2 drops",
+      "price_egp": 95.0,
+      "prescription_required": false,
+      "dosage_information": "10ml | oral drops",
+      "description": "Vitamin D3 + K2 supplement",
+      "product_url": ""
+    },
+    {
+      "page_number": 71,
+      "arabic_name": "دواء ثيونيرف fpi thionerv 300 للاعصاب | 20 قرص",
+      "english_name": "Thionerv",
+      "price_egp": 58.0,
+      "prescription_required": false,
+      "dosage_information": "300mg | 20 tablets",
+      "description": "For nerves",
+      "product_url": ""
+    },
+    {
+      "page_number": 71,
+      "arabic_name": "بكتول | برتقال خالية من السكر مع فيتامين سي | 8 قطع",
+      "english_name": "Pectol",
+      "price_egp": 25.0,
+      "prescription_required": false,
+      "dosage_information": "8 pieces (drops) | sugar-free",
+      "description": "With Vitamin C for throat relief",
+      "product_url": ""
+    },
+    {
+      "page_number": 71,
+      "arabic_name": "تربين 1٪ | كريم | 15جم",
+      "english_name": "Terbin",
+      "price_egp": 16.5,
+      "prescription_required": false,
+      "dosage_information": "1% cream | 15g",
+      "description": "Antifungal cream",
+      "product_url": ""
+    },
+    {
+      "page_number": 71,
+      "arabic_name": "برينيل سي آر | 400 مجم | 30 قرص",
+      "english_name": "PrianiL C.R.",
+      "price_egp": 162.0,
+      "prescription_required": true,
+      "dosage_information": "400mg | 30 controlled-release tablets",
+      "description": "Controlled-release pain medication",
+      "product_url": ""
+    },
+    {
+      "page_number": 71,
+      "arabic_name": "نيفروميد ادفانس | بطعم التوتي فروتي | 14 كيس",
+      "english_name": "Nephromed Advance",
+      "price_egp": 375.0,
+      "prescription_required": false,
+      "dosage_information": "14 sachets | tutti frutti flavor",
+      "description": "Kidney support supplement",
+      "product_url": ""
+    },
+    {
+      "page_number": 71,
+      "arabic_name": "فيتامين هـ فورت 400 | 20 كبسولة",
+      "english_name": "Vitamin E Forte 400",
+      "price_egp": 34.0,
+      "prescription_required": false,
+      "dosage_information": "400 IU | 20 capsules",
+      "description": "Vitamin E supplement",
+      "product_url": ""
+    },
+    {
+      "page_number": 71,
+      "arabic_name": "كورتوبكت 300 ملجم (cortopect 300) | 30 كبسولة",
+      "english_name": "Cortopect",
+      "price_egp": 150.0,
+      "prescription_required": true,
+      "dosage_information": "300mg | 30 capsules",
+      "description": "Corticosteroid medication",
+      "product_url": ""
+    },
+    {
+      "page_number": 71,
+      "arabic_name": "بيسويفت 1000مكجم | 30 قرص",
+      "english_name": "Bswift",
+      "price_egp": 95.0,
+      "prescription_required": false,
+      "dosage_information": "1000mcg | 30 sublingual dispersible tablets",
+      "description": "Vitamin B12 sublingual supplement",
+      "product_url": ""
+    },
+    {
+      "page_number": 71,
+      "arabic_name": "مارفيل | اقراص خميرة لزيادة الوزن الطبيعي | 30قرص",
+      "english_name": "Marvell (Yeast tablets)",
+      "price_egp": 40.0,
+      "prescription_required": false,
+      "dosage_information": "30 tablets",
+      "description": "For natural weight gain",
+      "product_url": ""
+    },
+    {
+      "page_number": 72,
+      "arabic_name": "شارتوريج",
+      "english_name": "Chartoreg",
+      "price_egp": 134,
+      "prescription_required": false,
+      "dosage_information": "40mg | 28 tablets",
+      "description": "Blood pressure medication",
+      "product_url": ""
+    },
+    {
+      "page_number": 72,
+      "arabic_name": "يوريكول",
+      "english_name": "Uricol",
+      "price_egp": 21,
+      "prescription_required": true,
+      "dosage_information": "Urinary tract antiseptic | 6 effervescent sachets",
+      "description": "Urinary tract antiseptic",
+      "product_url": ""
+    },
+    {
+      "page_number": 72,
+      "arabic_name": "كليندام",
+      "english_name": "Clindam",
+      "price_egp": 75,
+      "prescription_required": false,
+      "dosage_information": "300mg | 16 capsules",
+      "description": "Antibiotic",
+      "product_url": ""
+    },
+    {
+      "page_number": 72,
+      "arabic_name": "ريفو",
+      "english_name": "Rivo",
+      "price_egp": 7.05,
+      "prescription_required": false,
+      "dosage_information": "200 tablets",
+      "description": "Basic supplement",
+      "product_url": ""
+    },
+    {
+      "page_number": 72,
+      "arabic_name": "ابيجونال",
+      "english_name": "Epigonal",
+      "price_egp": 286,
+      "prescription_required": true,
+      "dosage_information": "75mg | 1 ampoule + 1 ampoule solvent",
+      "description": "Hormonal medication",
+      "product_url": ""
+    },
+    {
+      "page_number": 72,
+      "arabic_name": "اوفيونهيبيتا",
+      "english_name": "Ovunhipita",
+      "price_egp": 61,
+      "prescription_required": true,
+      "dosage_information": "75mg | 28 tablets",
+      "description": "Contraceptive medication",
+      "product_url": ""
+    },
+    {
+      "page_number": 72,
+      "arabic_name": "أندوكاندوكسين",
+      "english_name": "Andocandoxin",
+      "price_egp": 61,
+      "prescription_required": false,
+      "dosage_information": "600mg | 1 vaginal capsule",
+      "description": "Vaginal medication",
+      "product_url": ""
+    },
+    {
+      "page_number": 72,
+      "arabic_name": "زيثروكان",
+      "english_name": "Zithrokan",
+      "price_egp": 77,
+      "prescription_required": true,
+      "dosage_information": "Antibiotic | 500mg | 3 capsules",
+      "description": "Antibiotic",
+      "product_url": ""
+    },
+    {
+      "page_number": 72,
+      "arabic_name": "إيستراسيبتف ميكروجم",
+      "english_name": "Estraceptive",
+      "price_egp": 41,
+      "prescription_required": false,
+      "dosage_information": "35/250 | 21 tablets",
+      "description": "Contraceptive",
+      "product_url": ""
+    },
+    {
+      "page_number": 72,
+      "arabic_name": "دي جي كير غسول الفم بالقرنفل",
+      "english_name": "DG Care",
+      "price_egp": 35,
+      "prescription_required": false,
+      "dosage_information": "125ml",
+      "description": "Clove mouthwash",
+      "product_url": ""
+    },
+    {
+      "page_number": 72,
+      "arabic_name": "ميلاتونين",
+      "english_name": "Melatonin",
+      "price_egp": 90,
+      "prescription_required": false,
+      "dosage_information": "3mg | 20 capsules",
+      "description": "Sleep aid",
+      "product_url": ""
+    },
+    {
+      "page_number": 72,
+      "arabic_name": "هيدراسيك",
+      "english_name": "Hidrasec",
+      "price_egp": 109,
+      "prescription_required": false,
+      "dosage_information": "100mg | 10 capsules",
+      "description": "Diarrhea medication",
+      "product_url": ""
+    },
+    {
+      "page_number": 72,
+      "arabic_name": "ليفرين",
+      "english_name": "Liverin",
+      "price_egp": 125,
+      "prescription_required": false,
+      "dosage_information": "20 capsules",
+      "description": "Liver support supplement",
+      "product_url": ""
+    },
+    {
+      "page_number": 72,
+      "arabic_name": "جاستروبيوتيك",
+      "english_name": "Gastrobiotic",
+      "price_egp": 344,
+      "prescription_required": true,
+      "dosage_information": "550mg | 20 tablets",
+      "description": "Gastrointestinal medication",
+      "product_url": ""
+    },
+    {
+      "page_number": 72,
+      "arabic_name": "كاردetulnyaى اس",
+      "english_name": "Cardilol CS",
+      "price_egp": 36,
+      "prescription_required": true,
+      "dosage_information": "25mg | 30 tablets",
+      "description": "Blood pressure medication",
+      "product_url": ""
+    },
+    {
+      "page_number": 72,
+      "arabic_name": "اينيرا كولاجين",
+      "english_name": "Enera Collagen",
+      "price_egp": 300,
+      "prescription_required": false,
+      "dosage_information": "For joint support | 10 sachets",
+      "description": "For joint support",
+      "product_url": ""
+    },
+    {
+      "page_number": 72,
+      "arabic_name": "فيوسي",
+      "english_name": "Fusi",
+      "price_egp": 79,
+      "prescription_required": false,
+      "dosage_information": "2% | cream | 30g",
+      "description": "Antifungal cream",
+      "product_url": ""
+    },
+    {
+      "page_number": 72,
+      "arabic_name": "ستوبادول",
+      "english_name": "Stopadol",
+      "price_egp": 50,
+      "prescription_required": false,
+      "dosage_information": "Cold and Flu | 20 tablets",
+      "description": "Cold and Flu",
+      "product_url": ""
+    },
+    {
+      "page_number": 72,
+      "arabic_name": "ستوبادول كولد ماكس",
+      "english_name": "Stopadol Cold Max",
+      "price_egp": 46,
+      "prescription_required": false,
+      "dosage_information": "20 tablets",
+      "description": "Cold and Flu medication",
+      "product_url": ""
+    },
+    {
+      "page_number": 72,
+      "arabic_name": "راميكسول",
+      "english_name": "Ramixole",
+      "price_egp": 118.5,
+      "prescription_required": true,
+      "dosage_information": "1mg | 30 tablets",
+      "description": "Blood pressure medication",
+      "product_url": ""
+    }
+  ],
+  "target_medications": []
+}

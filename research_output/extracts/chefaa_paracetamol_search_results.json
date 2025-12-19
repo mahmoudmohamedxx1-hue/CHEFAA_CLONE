@@ -1,0 +1,136 @@
+📄 Extracted from page: شفاء لطلب كل احتياجاتك من الصيدلية أونلاين
+URL: https://chefaa.com/eg-ar?products_eg%5Bquery%5D=paracetamol&products_eg%5Brange%5D%5Bfinal_price%5D=%3A8000
+
+Extracted content:
+```json
+{
+  "title": "شفاء لطلب كل احتياجاتك من الصيدلية أونلاين",
+  "url": "https://chefaa.com/eg-ar?products_eg%5Bquery%5D=paracetamol&products_eg%5Brange%5D%5Bfinal_price%5D=%3A8000",
+  "summary": "The page displays search results for 'paracetamol' on Chefaa, an online pharmacy platform in Egypt. It lists various paracetamol products with their names, prices, and specific details. The page also features extensive filtering and sorting options to refine search results, along with general information about Chefaa's services, customer testimonials, and links to different product categories and app downloads.",
+  "key_points": {
+    "paracetamol_search_results": [
+      {
+        "name": "اقراص اواديست باراسيتامول 1000 مجم awadist",
+        "details": "٢٠ قرص",
+        "price": "40.00 جنيه"
+      },
+      {
+        "name": "لبوس كافسيد باراسيتامول للرضع للبرد والكحة والبلغم",
+        "details": "12 قمع",
+        "price": "42.00 جنيه"
+      },
+      {
+        "name": "مسكن دوليبران للحامل 1000 مجم فوار للصداع والألم والحمى",
+        "details": "8 أكياس, كمية محدودة",
+        "price": "36.00 جنيه"
+      },
+      {
+        "name": "باراسيتامول",
+        "details": "500مجم | 20قرص",
+        "price": "14.00 جنيه"
+      },
+      {
+        "name": "باراسيتامول 500مجم",
+        "details": "20 قرص",
+        "price": "13.00 جنيه"
+      },
+      {
+        "name": "باراسيتامول مسكن و خافض حرارة 500مجم",
+        "details": "20 قرص",
+        "price": "34.00 جنيه"
+      },
+      {
+        "name": "باراسيتامول 500مجم",
+        "details": "20 قرص (المهن)",
+        "price": "13.00 جنيه"
+      },
+      {
+        "name": "لبوس كافسيد باراسيتامول للأطفال للبرد والكحة والبلغم",
+        "details": "12 قمع",
+        "price": "28.00 جنيه"
+      },
+      {
+        "name": "أكياس بانادول | كولد بلس فلو التي تعمل بالبخار 600 ملجم من الباراسيتامول بنكهة الليمون الساخن والعسل مع المنثول",
+        "details": "600 ملجم من الباراسيتامول بنكهة الليمون الساخن والعسل مع المنثول",
+        "price": "130.00 جنيه"
+      }
+    ],
+    "filter_options": {
+      "categories": {
+        "main_categories": [
+          {"name": "الأدوية", "count": 8},
+          {"name": "الفيتامينات والمكملات", "count": 1}
+        ],
+        "sub_categories": [
+          {"name": "مسكنات الألم", "count": 3},
+          {"name": "أدوية الكحة والزكام", "count": 1}
+        ],
+        "sub_sub_categories": []
+      },
+      "brands": [
+        {"name": "جلوبال نابي للأدوية", "count": 2},
+        {"name": "الشركة العربية للأدوية", "count": 1},
+        {"name": "المهن الطبية للأدوية", "count": 1},
+        {"name": "دوليبران", "count": 1}
+      ],
+      "price_range": "Up to 8000 جنيه (as indicated in URL parameter). A filter label 'السعر : 138000' is also visible.",
+      "other_filters_available_types": [
+        "النوع",
+        "نوع البشرة",
+        "التكوين",
+        "الحجم",
+        "التركيز",
+        "اللون",
+        "الفئة العمرية",
+        "العناية بالاسنان",
+        "نوع الشعر",
+        "لون الشعر",
+        "حجم العبوه",
+        "مناسب ل",
+        "خالي من",
+        "مميزات خاصة",
+        "الرائحة",
+        "المذاق"
+      ]
+    },
+    "sorting_mechanisms": [
+      "المتاح فقط (Available only)",
+      "السعر : من الأعلى إلى الأقل (Price: High to Low)",
+      "السعر : من الأقل إلى الأعلى (Price: Low to High)"
+    ],
+    "chefaa_services": [
+      "Online pharmacy platform for ordering medicines and personal care products.",
+      "Partners with +1000 pharmacies.",
+      "Offers +41K licensed products.",
+      "Operates in 25 cities.",
+      "Provides 24/7 online pharmacist consultation.",
+      "Delivery options including express delivery (30-60 minutes) and 'Super Saving' for up to 15% discount and free delivery within 72 hours.",
+      "Option to upload prescriptions."
+    ]
+  },
+  "relevant_links": [
+    "https://chefaa.com/eg-ar",
+    "https://chefaa.com:443/login",
+    "https://chefaa.com:443/eg-ar/cart",
+    "https://chefaa.com:443/eg-ar/about-us",
+    "https://chefaa.com/blog",
+    "https://chefaa.com:443/eg-ar/contact-us",
+    "https://chefaa.com:443/eg-ar/become-partner-pharmacy",
+    "https://chefaa.com:443/eg-en",
+    "https://chefaa.com:443/eg-ar/now/category/medications",
+    "https://chefaa.com:443/eg-ar/now/category/medications/pain-relief",
+    "https://chefaa.com:443/eg-ar/now/category/vitamins-supplements",
+    "https://chefaa.com:443/eg-ar/now/order-medicine-online-prescription",
+    "https://apps.apple.com/eg/app/chefaa-medicine-delivery/id1438961456",
+    "https://play.google.com/store/apps/details?id=app.com.chefaa&hl=ar",
+    "https://appgallery.huawei.com/#/app/C102545145",
+    "https://www.facebook.com/chefaaegypt/",
+    "https://www.instagram.com/chefaa.egypt/",
+    "https://www.linkedin.com/company/getchefaa",
+    "https://www.tiktok.com/@chefaa.egypt/",
+    "https://chefaa.com:443/eg-ar/page/terms-of-service",
+    "https://chefaa.com:443/eg-ar/page/privacy-policy"
+  ],
+  "file_name": "chefaa_paracetamol_search_results.json"
+}
+```

@@ -1,0 +1,120 @@
+📄 Extracted from page: واقي ذكري - شفاء
+URL: https://chefaa.com/eg-ar/now/category/sexual-welness/condom
+
+Extracted content:
+```json
+{
+  "title": "واقي ذكري - شفاء",
+  "url": "https://chefaa.com/eg-ar/now/category/sexual-welness/condom",
+  "summary": "This page lists various condom products available for purchase on Chefaa.com, categorized under 'Sexual Wellness'. Each product provides details such as its name, brand, price, and an option to add it to the cart. The offerings include different types and flavors from brands like Durex, Fiesta, One Touch, and Ultra Rapid. Pagination options are also visible.",
+  "key_points": [
+    "Displays a selection of condom products.",
+    "Products from brands such as Durex, Fiesta, One Touch, and Ultra Rapid are available.",
+    "Condoms come in various types and flavors, including ultra-thin chocolate, ribbed banana, dotted chocolate, maxx dot, caramel, and strawberry.",
+    "Prices range from 30 EGP to 170 EGP per pack.",
+    "All listed products appear to be in stock, indicated by an 'Add to Cart' button.",
+    "Pagination controls are present, allowing navigation through product listings."
+  ],
+  "condom_products": [
+    {
+      "product_name": "واقي ذكري فائق النحافة بنكهة الشوكولاتة المكثفة",
+      "brand": "دوريكس",
+      "description": "واقي ذكري فائق النحافة بنكهة الشوكولاتة المكثفة من دوريكس.",
+      "price": "170 جنيه",
+      "rating": "N/A",
+      "stock_status": "In Stock",
+      "specifications": {
+        "type": "فائق النحافة",
+        "flavor": "الشوكولاتة المكثفة",
+        "quantity": "3 قطع"
+      }
+    },
+    {
+      "product_name": "واقي ذكري مضلع الموز",
+      "brand": "فييستا",
+      "description": "واقي ذكري مضلع بنكهة الموز من فييستا.",
+      "price": "30 جنيه",
+      "rating": "N/A",
+      "stock_status": "In Stock",
+      "specifications": {
+        "type": "مضلع",
+        "flavor": "الموز",
+        "quantity": "3 قطع"
+      }
+    },
+    {
+      "product_name": "واقي ذكري بنكهة الشيكولاته",
+      "brand": "فييستا",
+      "description": "واقي ذكري منقط بنكهة الشوكولاتة من فييستا.",
+      "price": "30 جنيه",
+      "rating": "N/A",
+      "stock_status": "In Stock",
+      "specifications": {
+        "type": "منقط",
+        "flavor": "الشيكولاته",
+        "quantity": "3 قطع"
+      }
+    },
+    {
+      "product_name": "واقى ذكرى ماكس دوت",
+      "brand": "ون تاتش",
+      "description": "واقي ذكري ماكس دوت من ون تاتش.",
+      "price": "30 جنيه",
+      "rating": "N/A",
+      "stock_status": "In Stock",
+      "specifications": {
+        "type": "ماكس دوت",
+        "quantity": "3 قطع"
+      }
+    },
+    {
+      "product_name": "واقي ذكري بنكهة الكراميل",
+      "brand": "فييستا",
+      "description": "واقي ذكري منقط بنكهة الكراميل من فييستا.",
+      "price": "30 جنيه",
+      "rating": "N/A",
+      "stock_status": "In Stock",
+      "specifications": {
+        "type": "منقط",
+        "flavor": "الكراميل",
+        "quantity": "3 قطع"
+      }
+    },
+    {
+      "product_name": "واقى ذكرى بنكهة الفراولة",
+      "brand": "وان تاتش",
+      "description": "واقي ذكري بنكهة الفراولة من وان تاتش.",
+      "price": "30 جنيه",
+      "rating": "N/A",
+      "stock_status": "In Stock",
+      "specifications": {
+        "flavor": "الفراولة",
+        "quantity": "3 قطع"
+      }
+    },
+    {
+      "product_name": "3 واقي ذكري",
+      "brand": "الترا رابيد",
+      "description": "واقي ذكري مضلع من الترا رابيد.",
+      "price": "157 جنيه",
+      "rating": "N/A",
+      "stock_status": "In Stock",
+      "specifications": {
+        "type": "مضلع",
+        "quantity": "3 قطع"
+      }
+    }
+  ],
+  "pagination": {
+    "current_page": 1,
+    "has_previous": true,
+    "has_next": true,
+    "first_page_link": "https://chefaa.com/eg-ar/now/category/sexual-welness/condom?products_eg%5Bpage%5D=1",
+    "last_page_link": null,
+    "page_numbers": [
+      1
+    ]
+  },
+  "file_name": "chefaa_condom_products.json"
+}
+```

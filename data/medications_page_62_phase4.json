@@ -1,0 +1,150 @@
+{
+  "extraction_metadata": {
+    "page_number": 62,
+    "phase": "Phase 4",
+    "extraction_date": "2025-11-01",
+    "source_url": "https://chefaa.com/eg-ar/now/category/medications?page=62",
+    "total_medications_extracted": 20,
+    "cumulative_total": 1097
+  },
+  "medications": [
+    {
+      "arabic_name": "زيثروماكس 500مجم 3قرص",
+      "english_brand_name": "Zithromax",
+      "price_egp": 160,
+      "availability_status": "In Stock",
+      "prescription_required": true,
+      "dosage_information": "500mg | 3 tablets",
+      "therapeutic_uses": "Antibiotic treatment"
+    },
+    {
+      "arabic_name": "زولاديكس | 3.6 ملغ | 1 حقنة",
+      "english_brand_name": "Zoladex",
+      "price_egp": 2139,
+      "availability_status": "In Stock",
+      "prescription_required": true,
+      "dosage_information": "3.6 mg | 1 syringe",
+      "therapeutic_uses": "Hormonal treatment"
+    },
+    {
+      "arabic_name": "زولمسولان 5مجم | 6 قطع",
+      "english_brand_name": "Zolmsolan (Zolmitriptan)",
+      "price_egp": 96,
+      "availability_status": "In Stock",
+      "prescription_required": false,
+      "dosage_information": "5mg | 6 pieces",
+      "therapeutic_uses": "Antimigraine (Orodispersable Films)"
+    },
+    {
+      "arabic_name": "زوفيراكس 400مج/5مل معلق | 100مل",
+      "english_brand_name": "Zovirax",
+      "price_egp": 96,
+      "availability_status": "In Stock",
+      "prescription_required": false,
+      "dosage_information": "400mg/5ml suspension | 100ml",
+      "therapeutic_uses": "Antiviral treatment"
+    },
+    {
+      "arabic_name": "زوركال | لعلاج ارتجاع المرئ 40مجم | 14 قرص",
+      "english_brand_name": "Zurcal",
+      "price_egp": 96,
+      "availability_status": "In Stock",
+      "prescription_required": false,
+      "dosage_information": "40mg | 14 tablets",
+      "therapeutic_uses": "For the treatment of gastroesophageal reflux disease"
+    },
+    {
+      "arabic_name": "زوركال لعلاج ارتجاع المرئ 40مج | 28 قرص",
+      "english_brand_name": "Zurcal",
+      "price_egp": 192,
+      "availability_status": "In Stock",
+      "prescription_required": false,
+      "dosage_information": "40mg | 28 tablets",
+      "therapeutic_uses": "For the treatment of gastroesophageal reflux disease"
+    },
+    {
+      "arabic_name": "زيمالج جل للحروق والجروح zymalge gel | ٥٠ جم",
+      "english_brand_name": "Zymalge Gel",
+      "price_egp": 275,
+      "availability_status": "In Stock",
+      "prescription_required": false,
+      "dosage_information": "50 gm gel",
+      "therapeutic_uses": "For burns and wounds"
+    },
+    {
+      "arabic_name": "دواء زيروفازيت 10/10 zyrovazet لارتفاع الكولستيرول | 30 قرص",
+      "english_brand_name": "Zyrovazet",
+      "price_egp": 216,
+      "availability_status": "In Stock",
+      "prescription_required": true,
+      "dosage_information": "10mg/10mg | 30 tablets",
+      "therapeutic_uses": "For high cholesterol"
+    },
+    {
+      "arabic_name": "زيروفازيت 10/20مج | 30 قرص",
+      "english_brand_name": "Zyrovazet",
+      "price_egp": 294,
+      "availability_status": "In Stock",
+      "prescription_required": true,
+      "dosage_information": "10mg/20mg | 30 tablets",
+      "therapeutic_uses": "Cholesterol management"
+    },
+    {
+      "arabic_name": "زيروفازيت 10مج\\40مج | 30 قرص",
+      "english_brand_name": "Zyrovazet",
+      "price_egp": 456,
+      "availability_status": "In Stock",
+      "prescription_required": true,
+      "dosage_information": "10mg/40mg | 30 tablets",
+      "therapeutic_uses": "Cholesterol management"
+    },
+    {
+      "arabic_name": "للشراب زيرتك للاطفال بطعم الموز للحساسية zyrtec syrup | ١٠٠ مل",
+      "english_brand_name": "Zyrtec Syrup",
+      "price_egp": 51,
+      "availability_status": "In Stock",
+      "prescription_required": false,
+      "dosage_information": "100 ml syrup",
+      "therapeutic_uses": "For children, banana flavor, for allergy"
+    },
+    {
+      "arabic_name": "زيرتك نقط للرضع للبرد والحساسية zyrtec drops | ١٠ مل",
+      "english_brand_name": "Zyrtec Drops",
+      "price_egp": 43,
+      "availability_status": "In Stock",
+      "prescription_required": false,
+      "dosage_information": "10 ml drops",
+      "therapeutic_uses": "For infants, for cold and allergy"
+    },
+    {
+      "arabic_name": "زيرتك اقراص 10 مجم للحساسية والنوم والبرد zyrtec tab | ٢٠ قرص",
+      "english_brand_name": "Zyrtec Tablets",
+      "price_egp": 100,
+      "availability_status": "In Stock",
+      "prescription_required": false,
+      "dosage_information": "10mg | 20 tablets",
+      "therapeutic_uses": "For allergy, sleep, and cold"
+    }
+  ],
+  "therapeutic_categories": {
+    "antibiotics": ["Zithromax"],
+    "hormonal_treatments": ["Zoladex"],
+    "migraine": ["Zolmsolan"],
+    "antiviral": ["Zovirax"],
+    "acid_reflux": ["Zurcal 14 tablets", "Zurcal 28 tablets"],
+    "wound_care": ["Zymalge Gel"],
+    "cholesterol": ["Zyrovazet 10mg/10mg", "Zyrovazet 10mg/20mg", "Zyrovazet 10mg/40mg"],
+    "allergy_pediatric": ["Zyrtec Syrup", "Zyrtec Drops", "Zyrtec Tablets"]
+  },
+  "price_analysis": {
+    "minimum_price": 43,
+    "maximum_price": 2139,
+    "average_price": 197.4,
+    "total_page_value": 3954
+  },
+  "prescription_distribution": {
+    "prescription_required": 5,
+    "otc_available": 7,
+    "prescription_percentage": 41.7
+  }
+}

@@ -1,0 +1,107 @@
+📄 Extracted from page: شفاء لطلب كل احتياجاتك من الصيدلية أونلاين
+URL: https://chefaa.com/eg-ar
+
+Extracted content:
+```json
+{
+  "title": "شفاء لطلب كل احتياجاتك من الصيدلية أونلاين",
+  "url": "https://chefaa.com/eg-ar",
+  "summary": "The provided page is the homepage for Chefaa, an online pharmacy service in Egypt, not a dedicated Doliprane product page. While it lists various products across different categories, it does include two Doliprane product listings within the 'Pain Relievers' section. This summary extracts the available details for these Doliprane products, along with general information about Chefaa's services, delivery options, and other offerings visible on this homepage.",
+  "doliprane_products": [
+    {
+      "product_name": "دوليبران 1000 مجم باراسيتامول مسكن للصداع والآلام",
+      "english_name_translation": "Doliprane 1000 mg Paracetamol pain reliever for headache and pain",
+      "dosage": "1000 مجم (mg)",
+      "quantity": "20 قرص (tablets)",
+      "price": "60",
+      "currency": "جنيه (EGP)",
+      "purchase_option": "اضف الى العربة (Add to Cart)",
+      "product_link": "https://chefaa.com:443/eg-ar/nowProduct/novaldol-analgesic-and-pain-killer-1000-mg-15-tablets_duYpVP2r_duzDVQep",
+      "notes": "The product link URL mentions '15 tablets' while the displayed text states '20 tablets'."
+    },
+    {
+      "product_name": "اقراص دوليبران 1000 باراسيتامول doliprane",
+      "english_name_translation": "Doliprane 1000 paracetamol tablets",
+      "dosage": "1000 باراسيتامول (paracetamol)",
+      "quantity": "١٥ قرص (15 tablets)",
+      "price": "48",
+      "currency": "جنيه (EGP)",
+      "purchase_option": "اضف الى العربة (Add to Cart)",
+      "product_link": "https://chefaa.com:443/eg-ar/nowProduct/novaldol-analgesic-and-pain-killer-1000-mg-15-tablets",
+      "notes": null
+    }
+  ],
+  "general_page_information": {
+    "company_name": "شفاء (Chefaa)",
+    "tagline": "شفاء لطلب كل احتياجاتك من الصيدلية أونلاين (Chefaa for ordering all your pharmacy needs online)",
+    "services_offered": [
+      "Online pharmacy orders",
+      "Prescription orders (upload a prescription)",
+      "Immediate delivery (30-60 minutes)",
+      "Super Savings service (up to 15% discount, free delivery, 72-hour delivery, minimum order 600 EGP)"
+    ],
+    "key_metrics": {
+      "pharmacies_covered": "+1000",
+      "licensed_products": "+41K",
+      "cities_served": "25",
+      "pharmacist_support": "24/7"
+    },
+    "customer_reviews_summary": "Customers praise the excellent service, fast delivery, cooperative and respectful pharmacists, ability to customize orders, and money-saving benefits. Some mention receiving orders in less than an hour with low delivery fees. There's appreciation for pharmacists providing useful information and alternative drug options.",
+    "app_download_links": [
+      "https://apps.apple.com/eg/app/chefaa-medicine-delivery/id1438961456 (Apple App Store)",
+      "https://play.google.com/store/apps/details?id=app.com.chefaa&hl=ar (Google Play Store)",
+      "https://appgallery.huawei.com/#/app/C102545145 (Huawei AppGallery)"
+    ],
+    "social_media_links": [
+      "https://www.facebook.com/chefaaegypt/",
+      "https://www.instagram.com/chefaa.egypt/",
+      "https://www.linkedin.com/company/getchefaa",
+      "https://www.tiktok.com/@chefaa.egypt/"
+    ],
+    "legal_links": [
+      "https://chefaa.com:443/eg-ar/page/terms-of-service (Terms of Use)",
+      "https://chefaa.com:443/eg-ar/page/privacy-policy (Privacy Policy)"
+    ],
+    "main_categories_listed": [
+      "الأدوية (Medications)",
+      "العناية بالشعر (Hair Care)",
+      "العناية بالبشرة (Skin Care)",
+      "العناية اليومية (Daily Essentials)",
+      "الأم والطفل (Mom & Baby)",
+      "المكياج و الاكسسوارات (Makeup & Accessories)",
+      "المستلزمات الطبية (Medical Supplies)",
+      "الفيتامينات والمكملات (Vitamins & Supplements)",
+      "الصحة الجنسية (Sexual Wellness)",
+      "مستلزمات الحيوانات (Pet Supplies)"
+    ],
+    "featured_brands_examples": [
+      "بندولين (Penduline)",
+      "بيزلين (Beesline)",
+      "إيڤا لمستحضرات التجميل (Eva Cosmetics)",
+      "مولفيكس (Molfix)",
+      "ستارفيل (Starville)",
+      "لونا (Luna)",
+      "شان (Shaan)",
+      "ميلاتكس (Melatex)"
+    ]
+  },
+  "key_points": [
+    "Chefaa is an online pharmacy platform in Egypt offering a wide range of products.",
+    "The platform supports immediate delivery (30-60 minutes) and a 'Super Savings' service with discounts and free delivery for larger orders.",
+    "It covers over 1000 pharmacies and offers more than 41,000 licensed products.",
+    "Customers can upload prescriptions for easy ordering.",
+    "Customer reviews highlight satisfaction with service speed, pharmacist professionalism, and cost savings.",
+    "Mobile applications are available for iOS, Android, and Huawei devices."
+  ],
+  "relevant_links": [
+    "https://chefaa.com:443/eg-ar/now/order-medicine-online-prescription (Order by Prescription)",
+    "https://chefaa.com/blog (Blog)",
+    "https://chefaa.com:443/eg-ar/about-us (About Chefaa)",
+    "https://chefaa.com:443/eg-ar/contact-us (Contact Us)",
+    "https://chefaa.com:443/eg-ar/become-partner-pharmacy (Become a Partner Pharmacy)",
+    "https://chefaa.com:443/eg-ar/now/category/medications/pain-relief (Pain Relievers Category)",
+    "https://chefaa.com:443/eg-ar/now/deals/bigsave-offers-aMkn (Big Save Offers)"
+  ],
+  "file_name": "chefaa_doliprane_product_details.json"
+}
+```

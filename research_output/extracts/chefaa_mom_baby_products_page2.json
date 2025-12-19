@@ -1,0 +1,360 @@
+📄 Extracted from page: الأم والطفل - شفاء
+URL: https://chefaa.com/eg-ar/now/category/mom-baby?products_eg%5Bpage%5D=2
+
+Extracted content:
+```json
+{
+  "title": "الأم والطفل - شفاء",
+  "url": "https://chefaa.com/eg-ar/now/category/mom-baby?products_eg%5Bpage%5D=2",
+  "summary": "This page displays the second page of products within the 'Mom & Baby' category on Chefaa.com. It features a variety of items for infants and young children, predominantly baby food products from Hero Baby (including fruit jars, teething biscuits, and various milk formulas and cereals) and a comprehensive selection of Molfix diapers and diaper pants, available in different sizes, pack quantities, and types (e.g., jumbo, small, comfortfix, hypoallergenic). Prices are listed in Egyptian Pounds (جنيه). Detailed information such as customer ratings, full product descriptions, or explicit stock status is not directly provided on these product listings, though an 'Add to Cart' button implies availability. Note: The extraction goal specified 'Daily Essentials category', but the provided URL clearly points to 'Mom & Baby' products, and the extraction reflects the content of the 'Mom & Baby' category.",
+  "key_points": [
+    "Displays products from the 'Mom & Baby' category on Chefaa.com (page 2).",
+    "Product types include baby food (fruit jars, biscuits, milk formulas, cereals) and diapers/diaper pants.",
+    "Featured brands are Hero Baby and Molfix.",
+    "Prices are in Egyptian Pounds (EGP).",
+    "Product listings include Arabic names/descriptions, prices, and direct links to product pages.",
+    "No visible customer ratings or explicit stock status (beyond 'Add to Cart' button) on this listing page.",
+    "Variations in product size, quantity, and specific features (e.g., hypoallergenic, different milk stages) are listed."
+  ],
+  "relevant_links": [
+    "https://chefaa.com:443/eg-ar/now/category/medications",
+    "https://chefaa.com:443/eg-ar/now/category/hair-care",
+    "https://chefaa.com:443/eg-ar/now/category/skin-care",
+    "https://chefaa.com:443/eg-ar/now/category/daily-essentials",
+    "https://chefaa.com:443/eg-ar/now/category/mom-baby",
+    "https://chefaa.com:443/eg-ar/now/category/makeup-accessories",
+    "https://chefaa.com:443/eg-ar/now/category/health-care-devices",
+    "https://chefaa.com:443/eg-ar/now/category/vitamins-supplements",
+    "https://chefaa.com:443/eg-ar/now/category/sexual-welness",
+    "https://chefaa.com:443/eg-ar/now/category/pet-supplies"
+  ],
+  "products": [
+    {
+      "product_type": "Baby Food (Jar)",
+      "product_name_arabic": "هيرو بيبي | برطمان فواكه مشكله | 190جم",
+      "product_name_english": "Hero Baby | Mixed Fruits Jar | 190gm",
+      "description": "برطمان فواكه مشكله",
+      "price_egp": 75,
+      "brand": "Hero Baby",
+      "ratings": "Not available",
+      "stock_status": "Assumed in stock (Add to cart button visible)",
+      "specifications": {
+        "weight": "190جم",
+        "flavor": "Mixed Fruits"
+      },
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/hero-mixed-fruits-jar-190gm-fggp_duRVwQfq"
+    },
+    {
+      "product_type": "Baby Biscuits",
+      "product_name_arabic": "هيرو بيبي | بسكويت للتسنين لعمر 6 شهور | 180جم",
+      "product_name_english": "Hero Baby | Teething Biscuits for 6 Months | 180gm",
+      "description": "بسكويت للتسنين لعمر 6 شهور",
+      "price_egp": 135,
+      "brand": "Hero Baby",
+      "ratings": "Not available",
+      "stock_status": "Assumed in stock (Add to cart button visible)",
+      "specifications": {
+        "weight": "180جم",
+        "age_group": "6 شهور (6 months)",
+        "purpose": "Teething"
+      },
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/hero-baby-biscuits-6-months-xifr"
+    },
+    {
+      "product_type": "Baby Formula Milk",
+      "product_name_arabic": "هيرو بيبى | إف إي إتش حليب بروتين | 400جم",
+      "product_name_english": "Hero Baby | FEH Protein Milk | 400gm",
+      "description": "إف إي إتش حليب بروتين",
+      "price_egp": 659,
+      "brand": "Hero Baby",
+      "ratings": "Not available",
+      "stock_status": "Assumed in stock (Add to cart button visible)",
+      "specifications": {
+        "weight": "400جم",
+        "type": "FEH Protein Milk"
+      },
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/hero-feh-milk-400-grams-dki3"
+    },
+    {
+      "product_type": "Baby Food (Cereal/Porridge)",
+      "product_name_arabic": "هيرو بيبي | جود نايت ارز و ذرة | 150جم",
+      "product_name_english": "Hero Baby | Good Night Rice & Corn | 150gm",
+      "description": "جود نايت ارز و ذرة",
+      "price_egp": 75,
+      "brand": "Hero Baby",
+      "ratings": "Not available",
+      "stock_status": "Assumed in stock (Add to cart button visible)",
+      "specifications": {
+        "weight": "150جم",
+        "ingredients": "Rice & Corn",
+        "line": "Good Night"
+      },
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/hero-baby-good-night-rice-corn-150gm-l1b6"
+    },
+    {
+      "product_type": "Baby Food (Cereal/Porridge)",
+      "product_name_arabic": "هيرو بيبي | جود نايت حبوب قمح وشوفان مع الحليب | 150جم",
+      "product_name_english": "Hero Baby | Good Night Wheat & Oat with Milk Cereals | 150gm",
+      "description": "جود نايت حبوب قمح وشوفان مع الحليب",
+      "price_egp": 110,
+      "brand": "Hero Baby",
+      "ratings": "Not available",
+      "stock_status": "Assumed in stock (Add to cart button visible)",
+      "specifications": {
+        "weight": "150جم",
+        "ingredients": "Wheat & Oat with Milk",
+        "line": "Good Night"
+      },
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/hero-baby-good-night-wheat-oat-with-milk-150gm-ihru"
+    },
+    {
+      "product_type": "Baby Formula Milk",
+      "product_name_arabic": "هيرو بيبي | نيوترا سينس 1 لبن للمناعة والتطور الإدراكي 0-6 ...",
+      "product_name_english": "Hero Baby | Nutra Sense 1 Milk for Immunity and Cognitive Development 0-6 months | 400gm",
+      "description": "نيوترا سينس 1 لبن للمناعة والتطور الإدراكي 0-6 أشهر",
+      "price_egp": 381,
+      "brand": "Hero Baby",
+      "ratings": "Not available",
+      "stock_status": "Assumed in stock (Add to cart button visible)",
+      "specifications": {
+        "weight": "400gm",
+        "formula_stage": "1 (0-6 months)",
+        "benefits": "Immunity and Cognitive Development",
+        "line": "Nutra Sense"
+      },
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/hero-baby-nutrasense-1-400gm-5pnv"
+    },
+    {
+      "product_type": "Baby Formula Milk",
+      "product_name_arabic": "هيرو بيبي | نيوترا سينس 2 للمناعة والتطور الإدراكي 6-12 أشه...",
+      "product_name_english": "Hero Baby | Nutra Sense 2 for Immunity and Cognitive Development 6-12 months | 400gm",
+      "description": "نيوترا سينس 2 للمناعة والتطور الإدراكي 6-12 أشهر",
+      "price_egp": 381,
+      "brand": "Hero Baby",
+      "ratings": "Not available",
+      "stock_status": "Assumed in stock (Add to cart button visible)",
+      "specifications": {
+        "weight": "400gm",
+        "formula_stage": "2 (6-12 months)",
+        "benefits": "Immunity and Cognitive Development",
+        "line": "Nutra Sense"
+      },
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/hero-baby-nutrasense-2-400gm-x7p7"
+    },
+    {
+      "product_type": "Baby Food (Jar)",
+      "product_name_arabic": "هيرو بيبي | برطمان طعام مهروس للأطفال بالبرقوق | 125جم",
+      "product_name_english": "Hero Baby | Pureed Baby Food Jar with Prunes | 125gm",
+      "description": "برطمان طعام مهروس للأطفال بالبرقوق",
+      "price_egp": 40,
+      "brand": "Hero Baby",
+      "ratings": "Not available",
+      "stock_status": "Assumed in stock (Add to cart button visible)",
+      "specifications": {
+        "weight": "125جم",
+        "flavor": "Prunes"
+      },
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/hero-baby-prunes-jar-6months-125gm-dcd2_dudvZLAL"
+    },
+    {
+      "product_type": "Diapers",
+      "product_name_arabic": "مولفيكس | حفاضات ماكسي جامبو عبوة اقتصادية مقاس 4 | 58 قطعة",
+      "product_name_english": "Molfix | Maxi Jumbo Diapers Economy Pack Size 4 | 58 Pcs",
+      "description": "حفاضات ماكسي جامبو عبوة اقتصادية",
+      "price_egp": 440,
+      "brand": "Molfix",
+      "ratings": "Not available",
+      "stock_status": "Assumed in stock (Add to cart button visible)",
+      "specifications": {
+        "size": "4 (Maxi)",
+        "quantity": "58 قطعة (58 Pcs)",
+        "pack_type": "Jumbo Economy Pack"
+      },
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/molfix-diapers-jumbo-pack-maxi-with-unique-3d-technology-jumbo-economy-pack-58-pcs-size-4"
+    },
+    {
+      "product_type": "Diapers",
+      "product_name_arabic": "مولفيكس | حفاضات ميدي جامبو عبوة اقتصادية مقاس 3 | 58 قطعة",
+      "product_name_english": "Molfix | Midi Jumbo Diapers Economy Pack Size 3 | 58 Pcs",
+      "description": "حفاضات ميدي جامبو عبوة اقتصادية",
+      "price_egp": 400,
+      "brand": "Molfix",
+      "ratings": "Not available",
+      "stock_status": "Assumed in stock (Add to cart button visible)",
+      "specifications": {
+        "size": "3 (Midi)",
+        "quantity": "58 قطعة (58 Pcs)",
+        "pack_type": "Jumbo Economy Pack"
+      },
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/molfix-diapers-jumbo-pack-midi-with-unique-3d-technology-jumbo-economy-pack-58-pcs-size-3"
+    },
+    {
+      "product_type": "Diapers",
+      "product_name_arabic": "مولفيكس | حفاضات كومفورت فيكس عبوه جامبو لحديثي الولادة مقا...",
+      "product_name_english": "Molfix | Comfortfix Jumbo Diapers for Newborn Size 1 | 60 Pcs",
+      "description": "حفاضات كومفورت فيكس عبوه جامبو لحديثي الولادة",
+      "price_egp": 345,
+      "brand": "Molfix",
+      "ratings": "Not available",
+      "stock_status": "Assumed in stock (Add to cart button visible)",
+      "specifications": {
+        "size": "1 (Newborn)",
+        "quantity": "60 Pcs",
+        "pack_type": "Jumbo Pack",
+        "feature": "Comfortfix"
+      },
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/molfix-diapers-jumbo-pack-newborn-comfortfix-with-unique-3d-technology-60-pcs-size-1"
+    },
+    {
+      "product_type": "Diaper Pants",
+      "product_name_arabic": "مولفيكس | حفاضات بانتس للاطفال ميدي مقاس 3 | 58 قطعة",
+      "product_name_english": "Molfix | Baby Diaper Pants Midi Size 3 | 58 Pcs",
+      "description": "حفاضات بانتس للاطفال ميدي",
+      "price_egp": 396,
+      "brand": "Molfix",
+      "ratings": "Not available",
+      "stock_status": "Assumed in stock (Add to cart button visible)",
+      "specifications": {
+        "size": "3 (Midi)",
+        "quantity": "58 قطعة (58 Pcs)",
+        "type": "Pants"
+      },
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/molfix-midi-baby-diaper-pants-58-pieces-size-c2wx"
+    },
+    {
+      "product_type": "Diapers",
+      "product_name_arabic": "مولفيكس | حفاضات كومفورت فيكس عبوه صغيره جونيور مقاس 5 | 7 قطع",
+      "product_name_english": "Molfix | Comfortfix Small Pack Junior Diapers Size 5 | 7 Pcs",
+      "description": "حفاضات كومفورت فيكس عبوه صغيره جونيور",
+      "price_egp": 65,
+      "brand": "Molfix",
+      "ratings": "Not available",
+      "stock_status": "Assumed in stock (Add to cart button visible)",
+      "specifications": {
+        "size": "5 (Junior)",
+        "quantity": "7 قطع (7 Pcs)",
+        "pack_type": "Small Pack",
+        "feature": "Comfortfix"
+      },
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/molfix-diapers-small-pack-junior-comfortfix-7-pcs-size-5"
+    },
+    {
+      "product_type": "Diapers",
+      "product_name_arabic": "مولفيكس | حفاضات عبوه صغيره ميدي مقاس 3 | 9 قطع",
+      "product_name_english": "Molfix | Small Pack Midi Diapers Size 3 | 9 Pcs",
+      "description": "حفاضات عبوه صغيره ميدي",
+      "price_egp": 75,
+      "brand": "Molfix",
+      "ratings": "Not available",
+      "stock_status": "Assumed in stock (Add to cart button visible)",
+      "specifications": {
+        "size": "3 (Midi)",
+        "quantity": "9 قطع (9 Pcs)",
+        "pack_type": "Small Pack"
+      },
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/molfix-diapers-small-pack-midi-comfortfix-9-pcs-size-3"
+    },
+    {
+      "product_type": "Diapers",
+      "product_name_arabic": "مولفيكس | حفاضات كومفورت فيكس عبوه صغيره مقاس 2 | 10 قطع",
+      "product_name_english": "Molfix | Comfortfix Small Pack Diapers Size 2 | 10 Pcs",
+      "description": "حفاضات كومفورت فيكس عبوه صغيره",
+      "price_egp": 60,
+      "brand": "Molfix",
+      "ratings": "Not available",
+      "stock_status": "Assumed in stock (Add to cart button visible)",
+      "specifications": {
+        "size": "2",
+        "quantity": "10 قطع (10 Pcs)",
+        "pack_type": "Small Pack",
+        "feature": "Comfortfix"
+      },
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/molfix-diapers-small-pack-mini-comfortfix-10-pcs-size-2"
+    },
+    {
+      "product_type": "Diapers",
+      "product_name_arabic": "مولفيكس | حفاضات كومفورت فيكس عبوه صغيره لحديثي الولادة مقا...",
+      "product_name_english": "Molfix | Comfortfix Small Pack Newborn Diapers Size 1 | 11 Pcs",
+      "description": "حفاضات كومفورت فيكس عبوه صغيره لحديثي الولادة",
+      "price_egp": 76,
+      "brand": "Molfix",
+      "ratings": "Not available",
+      "stock_status": "Assumed in stock (Add to cart button visible)",
+      "specifications": {
+        "size": "1 (Newborn)",
+        "quantity": "11 Pcs",
+        "pack_type": "Small Pack",
+        "feature": "Comfortfix"
+      },
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/molfix-diapers-small-pack-newborn-comfortfix-size-1-11pcs-ir5e"
+    },
+    {
+      "product_type": "Diaper Pants",
+      "product_name_arabic": "مولفيكس | حفاضات بانتس أطفال كبيرة جدًا مقاس 6 | 48 قطعة",
+      "product_name_english": "Molfix | Extra Large Baby Diaper Pants Size 6 | 48 Pcs",
+      "description": "حفاضات بانتس أطفال كبيرة جدًا",
+      "price_egp": 440,
+      "brand": "Molfix",
+      "ratings": "Not available",
+      "stock_status": "Assumed in stock (Add to cart button visible)",
+      "specifications": {
+        "size": "6 (Extra Large)",
+        "quantity": "48 قطعة (48 Pcs)",
+        "type": "Pants"
+      },
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/molfix-extra-large-baby-diaper-pants-48-pieces-payq"
+    },
+    {
+      "product_type": "Diapers",
+      "product_name_arabic": "مولفيكس | حفاضات الأطفال حديثي الولادة مقاس 1 المضادة للحسا...",
+      "product_name_english": "Molfix | Hypoallergenic Newborn Baby Diapers Size 1 (2-5kg) - Parabens Free, BPA Free",
+      "description": "حفاضات الأطفال حديثي الولادة مقاس 1 المضادة للحساسية",
+      "price_egp": 280,
+      "brand": "Molfix",
+      "ratings": "Not available",
+      "stock_status": "Assumed in stock (Add to cart button visible)",
+      "specifications": {
+        "size": "1 (Newborn)",
+        "weight_range": "2-5kg",
+        "feature": "Hypoallergenic",
+        "free_from": ["Parabens", "BPA"]
+      },
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/molfix-hypoallergenic-newborn-baby-diapers-size-1-25kg--parabens-free-bpa-freeKiHi"
+    },
+    {
+      "product_type": "Diaper Pants",
+      "product_name_arabic": "مولفيكس | حفاضات بانتس للاطفال ماكسي مقاس 4 | 58 قطعة",
+      "product_name_english": "Molfix | Baby Diaper Pants Maxi Size 4 | 58 Pcs",
+      "description": "حفاضات بانتس للاطفال ماكسي",
+      "price_egp": 410,
+      "brand": "Molfix",
+      "ratings": "Not available",
+      "stock_status": "Assumed in stock (Add to cart button visible)",
+      "specifications": {
+        "size": "4 (Maxi)",
+        "quantity": "58 قطعة (58 Pcs)",
+        "type": "Pants"
+      },
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/molfix-maxi-baby-diaper-pants-size-4-58pcs-evxf"
+    },
+    {
+      "product_type": "Diaper Pants",
+      "product_name_arabic": "مولفيكس | حفاضات بانتس مقاس 4 كبير جامبو | 32 قطعة",
+      "product_name_english": "Molfix | Diaper Pants Size 4 Large Jumbo | 32 Pcs",
+      "description": "حفاضات بانتس مقاس 4 كبير جامبو",
+      "price_egp": 290,
+      "brand": "Molfix",
+      "ratings": "Not available",
+      "stock_status": "Assumed in stock (Add to cart button visible)",
+      "specifications": {
+        "size": "4",
+        "quantity": "32 قطعة (32 Pcs)",
+        "pack_type": "Large Jumbo",
+        "free_from": ["Latex", "Parabens", "BPA"]
+      },
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/molfix-maxi-baby-diaper-pants-size-4-914-kg--latex-free-parabens-free-bpa-freeBki9"
+    }
+  ],
+  "file_name": "chefaa_mom_baby_products_page2.json"
+}
+```

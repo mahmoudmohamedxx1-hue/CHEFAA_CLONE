@@ -1,0 +1,33 @@
+📄 Extracted from page: العناية بالبشرة - شفاء
+URL: https://chefaa.com/eg-ar/now/category/skin-care?products_eg%5Bquery%5D=%D9%81%D9%8A%D8%AA%D8%A7%D9%85%D9%8A%D9%86&products_eg%5Brange%5D%5Bfinal_price%5D=%3A8000
+
+Extracted content:
+```json
+{
+  "title": "العناية بالبشرة - شفاء",
+  "url": "https://chefaa.com/eg-ar/now/category/skin-care?products_eg%5Bquery%5D=%D9%81%D9%8A%D8%AA%D8%A7%D9%85%D9%8A%D9%86&products_eg%5Brange%5D%5Bfinal_price%5D=%3A8000",
+  "summary": "The page from Chefaa.com, titled \"العناية بالبشرة - شفاء\" (Skin Care - Chefaa), is a product listing page within the Skin Care category. It displays two main sets of products: one resulting from a search for \"فيتامين\" (vitamin) within a specific price range, and another showing general skin care products. Crucially, the page is *not* page 4 of the skin care category. The vitamin-related product list appears to be on its first page of results (implied by the URL not having a `page` parameter), and the general skin care product list explicitly shows \"1\" as the current page in its pagination.",
+  "key_points": [
+    "The page is *not* page 4 of the skin care category. The provided URL does not contain a `page=4` parameter, and the explicit pagination for general skin care products marks '1' as the current page.",
+    "The page displays two distinct product listings:",
+    "  1. A list of 20 products primarily related to 'فيتامين' (vitamin) and supplements (e.g., Limitless Man Max, Vitastress, Starville Vitamin C Serum). These products range from 26.00 EGP to 710.00 EGP.",
+    "  2. A list of 20 general skin care products (e.g., Nivea creams, Eva serums/masks, Starville cleansers). These products range from 25.00 EGP to 220.00 EGP.",
+    "Pagination Information:",
+    "  - For the vitamin-related product list, a pagination block shows links for pages 1 and 2. The current page is implicitly page 1, as no `page` parameter is in the URL and the 'previous' navigation links to page 2, which is an inconsistency.",
+    "  - For the general skin care product list, a separate pagination block explicitly marks '1' as the current page and provides clickable links for pages 2, 3, 4, 5, 6, 7, 8, 9, 10, up to 55 and 56.",
+    "The page features filtering options by Basic Categories, Subcategories (e.g., Cleansers, Moisturizers, Serums), Secondary Subcategories (e.g., Face Wash, Activating Serum), Brands (e.g., Centrum, Kolagra, Infinity), and other attributes like Type, Skin Type, Size, and Age Group.",
+    "A price range filter is present, currently set from minimum (not specified) to 8000 EGP.",
+    "Sorting options include 'Available only', 'Price: High to Low', and 'Price: Low to High'."
+  ],
+  "relevant_links": [
+    "https://chefaa.com:443/eg-ar/now/category/skin-care?products_eg%5Bquery%5D=%D9%81%D9%8A%D8%AA%D8%A7%D9%85%D9%8A%D9%86&products_eg%5Brange%5D%5Bfinal_price%5D=%3A8000&products_eg%5Bpage%5D=1",
+    "https://chefaa.com:443/eg-ar/now/category/skin-care?products_eg%5Bquery%5D=%D9%81%D9%8A%D8%AA%D9%8E%D8%A7%D9%85%D9%8A%D9%86&products_eg%5Brange%5D%5Bfinal_price%5D=%3A8000&products_eg%5Bpage%5D=2",
+    "https://chefaa.com:443/eg-ar/now/category/skin-care?page=2",
+    "https://chefaa.com:443/eg-ar/now/category/skin-care?page=3",
+    "https://chefaa.com:443/eg-ar/now/category/skin-care?page=4",
+    "https://chefaa.com:443/eg-ar/now/category/skin-care?page=5",
+    "https://chefaa.com:443/eg-ar/now/category/skin-care?page=56"
+  ],
+  "file_name": "chefaa_skin_care_category_analysis.json"
+}
+```

@@ -1,0 +1,397 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Offline - PharmaCare</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            min-height: 100vh;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            padding: 20px;
+        }
+
+        .container {
+            max-width: 500px;
+            text-align: center;
+            background: rgba(255, 255, 255, 0.1);
+            backdrop-filter: blur(10px);
+            border-radius: 20px;
+            padding: 40px;
+            border: 1px solid rgba(255, 255, 255, 0.2);
+            box-shadow: 0 25px 45px rgba(0, 0, 0, 0.1);
+        }
+
+        .icon {
+            width: 80px;
+            height: 80px;
+            margin: 0 auto 30px;
+            background: rgba(255, 255, 255, 0.2);
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 40px;
+            animation: pulse 2s infinite;
+        }
+
+        @keyframes pulse {
+            0% { transform: scale(1); }
+            50% { transform: scale(1.05); }
+            100% { transform: scale(1); }
+        }
+
+        h1 {
+            font-size: 28px;
+            font-weight: 600;
+            margin-bottom: 15px;
+        }
+
+        .description {
+            font-size: 16px;
+            opacity: 0.9;
+            line-height: 1.6;
+            margin-bottom: 30px;
+        }
+
+        .features {
+            background: rgba(255, 255, 255, 0.1);
+            border-radius: 15px;
+            padding: 25px;
+            margin-bottom: 30px;
+            text-align: left;
+        }
+
+        .features h3 {
+            font-size: 18px;
+            font-weight: 600;
+            margin-bottom: 15px;
+            text-align: center;
+        }
+
+        .feature {
+            display: flex;
+            align-items: center;
+            margin-bottom: 12px;
+            font-size: 14px;
+        }
+
+        .feature:last-child {
+            margin-bottom: 0;
+        }
+
+        .feature-icon {
+            width: 20px;
+            height: 20px;
+            margin-right: 12px;
+            background: rgba(255, 255, 255, 0.3);
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 10px;
+        }
+
+        .retry-button {
+            background: rgba(255, 255, 255, 0.2);
+            border: 1px solid rgba(255, 255, 255, 0.3);
+            color: white;
+            padding: 12px 30px;
+            border-radius: 25px;
+            font-size: 16px;
+            font-weight: 500;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            margin-right: 10px;
+        }
+
+        .retry-button:hover {
+            background: rgba(255, 255, 255, 0.3);
+            transform: translateY(-2px);
+        }
+
+        .retry-button:disabled {
+            opacity: 0.5;
+            cursor: not-allowed;
+            transform: none;
+        }
+
+        .status {
+            font-size: 12px;
+            opacity: 0.7;
+            margin-top: 15px;
+        }
+
+        .loading {
+            display: inline-block;
+            width: 12px;
+            height: 12px;
+            border: 2px solid rgba(255, 255, 255, 0.3);
+            border-top: 2px solid white;
+            border-radius: 50%;
+            animation: spin 1s linear infinite;
+            margin-right: 8px;
+        }
+
+        @keyframes spin {
+            0% { transform: rotate(0deg); }
+            100% { transform: rotate(360deg); }
+        }
+
+        .cached-content {
+            background: rgba(255, 255, 255, 0.05);
+            border-radius: 10px;
+            padding: 15px;
+            margin-top: 20px;
+            font-size: 14px;
+        }
+
+        @media (max-width: 600px) {
+            .container {
+                padding: 30px 20px;
+                margin: 10px;
+            }
+
+            h1 {
+                font-size: 24px;
+            }
+
+            .description {
+                font-size: 14px;
+            }
+
+            .features {
+                padding: 20px;
+            }
+
+            .retry-button {
+                width: 100%;
+                margin-right: 0;
+                margin-bottom: 10px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="icon" id="icon">
+            📱
+        </div>
+        
+        <h1>You're Offline</h1>
+        
+        <p class="description">
+            Don't worry! PharmaCare works offline too. You can still browse cached products and your cart is saved locally.
+        </p>
+
+        <div class="features">
+            <h3>Available Offline</h3>
+            <div class="feature">
+                <div class="feature-icon">🛒</div>
+                <span>Browse your cart and saved items</span>
+            </div>
+            <div class="feature">
+                <div class="feature-icon">💊</div>
+                <span>View cached medications and products</span>
+            </div>
+            <div class="feature">
+                <div class="feature-icon">📋</div>
+                <span>Access recent prescriptions</span>
+            </div>
+            <div class="feature">
+                <div class="feature-icon">🔄</div>
+                <span>Changes will sync when back online</span>
+            </div>
+        </div>
+
+        <div style="margin-bottom: 20px;">
+            <button class="retry-button" onclick="retryConnection()" id="retryBtn">
+                🔄 Try Again
+            </button>
+            <button class="retry-button" onclick="openCachedContent()" id="cachedBtn">
+                📱 Browse Offline
+            </button>
+        </div>
+
+        <div class="status" id="status">
+            Checking connection status...
+        </div>
+
+        <div class="cached-content" id="cachedContent" style="display: none;">
+            <strong>Offline Content Available:</strong><br>
+            <span id="cartInfo">Cart: 0 items</span><br>
+            <span id="productsInfo">Cached products: Loading...</span><br>
+            <span id="prescriptionsInfo">Prescriptions: 0 available</span>
+        </div>
+    </div>
+
+    <script>
+        let isOnline = navigator.onLine;
+        let retryCount = 0;
+        const maxRetries = 5;
+
+        function updateStatus(message, isLoading = false) {
+            const statusEl = document.getElementById('status');
+            statusEl.innerHTML = isLoading ? 
+                `<span class="loading"></span>${message}` : 
+                message;
+        }
+
+        function updateIcon(status) {
+            const iconEl = document.getElementById('icon');
+            const icons = {
+                online: '📱',
+                offline: '📴',
+                loading: '🔄',
+                error: '❌'
+            };
+            iconEl.textContent = icons[status] || icons.offline;
+        }
+
+        async function checkConnection() {
+            try {
+                updateStatus('Checking connection...', true);
+                updateIcon('loading');
+                
+                const response = await fetch('/', { 
+                    method: 'HEAD',
+                    cache: 'no-cache'
+                });
+                
+                if (response.ok) {
+                    return true;
+                }
+                throw new Error('Network response not ok');
+            } catch (error) {
+                return false;
+            }
+        }
+
+        async function retryConnection() {
+            const retryBtn = document.getElementById('retryBtn');
+            retryBtn.disabled = true;
+            retryBtn.textContent = 'Checking...';
+            
+            retryCount++;
+            
+            const connected = await checkConnection();
+            
+            if (connected) {
+                updateStatus('✅ Back online! Redirecting...', false);
+                updateIcon('online');
+                
+                setTimeout(() => {
+                    window.location.href = '/';
+                }, 1000);
+            } else {
+                updateStatus(`❌ Still offline. Attempt ${retryCount}/${maxRetries}`, false);
+                updateIcon('offline');
+                
+                if (retryCount < maxRetries) {
+                    setTimeout(() => {
+                        retryBtn.disabled = false;
+                        retryBtn.textContent = '🔄 Try Again';
+                    }, 2000);
+                } else {
+                    retryBtn.textContent = 'Max retries reached';
+                    retryBtn.disabled = true;
+                }
+            }
+        }
+
+        function openCachedContent() {
+            // Try to get cached data from localStorage
+            const cartData = localStorage.getItem('pwa-offline-data-cart');
+            const productsData = localStorage.getItem('pwa-offline-data-products');
+            
+            if (cartData || productsData) {
+                updateStatus('Opening offline content...', true);
+                
+                // Store the offline page info for when we come back online
+                sessionStorage.setItem('returnToOfflinePage', 'true');
+                
+                // Navigate to a cached content page or show modal
+                window.location.href = '/offline-content';
+            } else {
+                updateStatus('No cached content available', false);
+            }
+        }
+
+        function loadCachedData() {
+            try {
+                // Load cart data
+                const cartData = localStorage.getItem('pwa-offline-data-cart');
+                if (cartData) {
+                    const cart = JSON.parse(cartData);
+                    const itemCount = cart.items ? cart.items.length : 0;
+                    document.getElementById('cartInfo').textContent = `Cart: ${itemCount} items`;
+                }
+
+                // Load products data
+                const productsData = localStorage.getItem('pwa-offline-data-products');
+                if (productsData) {
+                    const products = JSON.parse(productsData);
+                    const productCount = products.products ? products.products.length : 0;
+                    document.getElementById('productsInfo').textContent = `Cached products: ${productCount}`;
+                }
+
+                // Show cached content section
+                document.getElementById('cachedContent').style.display = 'block';
+            } catch (error) {
+                console.error('Error loading cached data:', error);
+            }
+        }
+
+        function monitorConnection() {
+            window.addEventListener('online', () => {
+                isOnline = true;
+                updateStatus('✅ Back online! You can now use all features.', false);
+                updateIcon('online');
+                
+                // Redirect after a short delay
+                setTimeout(() => {
+                    window.location.href = '/';
+                }, 2000);
+            });
+
+            window.addEventListener('offline', () => {
+                isOnline = false;
+                updateStatus('📴 Connection lost. Using offline mode.', false);
+                updateIcon('offline');
+            });
+        }
+
+        // Initialize
+        document.addEventListener('DOMContentLoaded', () => {
+            if (isOnline) {
+                updateStatus('⚠️ Unexpected offline state', false);
+                updateIcon('offline');
+            } else {
+                updateStatus('📴 You are currently offline', false);
+                updateIcon('offline');
+            }
+            
+            loadCachedData();
+            monitorConnection();
+        });
+
+        // Auto-retry every 30 seconds
+        setInterval(() => {
+            if (!isOnline && retryCount < maxRetries) {
+                retryConnection();
+            }
+        }, 30000);
+    </script>
+</body>
+</html>

@@ -1,0 +1,263 @@
+📄 Extracted from page: شفاء لطلب كل احتياجاتك من الصيدلية أونلاين
+URL: https://chefaa.com/eg-ar/
+
+Extracted content:
+```json
+{
+  "title": "شفاء لطلب كل احتياجاتك من الصيدلية أونلاين",
+  "url": "https://chefaa.com/eg-ar/",
+  "summary": "The provided page is the homepage of Chefaa.com (Egypt) and not 'Hair Care page 4'. Therefore, comprehensive product information specific to hair care products on a dedicated page 4 of the hair care category cannot be extracted. However, the page does feature a section titled 'أفضل منتجات العناية بالشعر👌' (Best Hair Care Products) which contains a list of hair care items. This section offers product names, implied descriptions from titles, prices in EGP, brands, and product sizes. No explicit ratings, reviews, stock availability other than 'limited quantity' (which was not present for these hair care items), or usage instructions are provided within this listing.",
+  "confirmation_of_page_number": "The provided page is the Chefaa.com (Egypt) homepage, not 'Hair Care page 4'. There is no visible pagination indicating this is page 4 of any specific category. Product information related to hair care has been extracted from the 'أفضل منتجات العناية بالشعر👌' section on this homepage.",
+  "hair_care_products": [
+    {
+      "product_name_arabic": "كلاري | بوستر شوت | 30مل",
+      "product_name_english": "Clary | Booster Shot | 30ml",
+      "detailed_description": "بوستر شوت لتقليل تساقط الشعر (Booster shot for hair loss)",
+      "price_egp": 450,
+      "brand": "Clary",
+      "ratings_reviews": "Not visible",
+      "stock_availability": "In stock (not explicitly stated as limited)",
+      "specifications": {
+        "volume": "30ml"
+      },
+      "usage_instructions": "Not visible"
+    },
+    {
+      "product_name_arabic": "دابر فاتيكا | حمام كريم مرطب للشعر بزيت المنيك | 250جم",
+      "product_name_english": "Dabur Vatika | Conditioning Hammam Cream with Mink Oil | 250gm",
+      "detailed_description": "حمام كريم مرطب للشعر بزيت المنيك (Conditioning hammam cream for hair with mink oil)",
+      "price_egp": 45,
+      "brand": "Dabur Vatika",
+      "ratings_reviews": "Not visible",
+      "stock_availability": "In stock (not explicitly stated as limited)",
+      "specifications": {
+        "volume_weight": "250gm"
+      },
+      "usage_instructions": "Not visible"
+    },
+    {
+      "product_name_arabic": "كلاري | مقشر لتنظيف فروة الرآس وتقليل تساقط الشعر بالبروكابيل والماتشا | 300مل",
+      "product_name_english": "Clary | Scalp Exfoliator to Cleanse Scalp and Reduce Hair Loss with Procapil and Matcha | 300ml",
+      "detailed_description": "مقشر لتنظيف فروة الرآس وتقليل تساقط الشعر بالبروكابيل والماتشا (Scalp exfoliator for cleansing and reducing hair loss with Procapil and Matcha)",
+      "price_egp": 370,
+      "brand": "Clary",
+      "ratings_reviews": "Not visible",
+      "stock_availability": "In stock (not explicitly stated as limited)",
+      "specifications": {
+        "volume": "300ml"
+      },
+      "usage_instructions": "Not visible"
+    },
+    {
+      "product_name_arabic": "سيروبايب ليف ان للشعر المتساقط والجاف والكيرلى | 200 مل",
+      "product_name_english": "Seropipe Leave-In Conditioner for Falling, Dry, and Curly Hair | 200 ml",
+      "detailed_description": "ليف ان للشعر المتساقط والجاف والكيرلى (Leave-in for falling, dry, and curly hair)",
+      "price_egp": 250,
+      "brand": "Seropipe",
+      "ratings_reviews": "Not visible",
+      "stock_availability": "In stock (not explicitly stated as limited)",
+      "specifications": {
+        "volume": "200ml"
+      },
+      "usage_instructions": "Not visible"
+    },
+    {
+      "product_name_arabic": "إيفا | اوبتيموم كير ريسبي سترينث بوستر بلند شامبو برائحة الموكا | 350مل",
+      "product_name_english": "Eva | Optimum Care Recipe Strength Booster Blend Shampoo with Mocha Scent | 350ml",
+      "detailed_description": "شامبو برائحة الموكا (Shampoo with mocha scent)",
+      "price_egp": 125,
+      "brand": "Eva",
+      "ratings_reviews": "Not visible",
+      "stock_availability": "In stock (not explicitly stated as limited)",
+      "specifications": {
+        "volume": "350ml"
+      },
+      "usage_instructions": "Not visible"
+    },
+    {
+      "product_name_arabic": "جى.دو | شامبو للجنسين بزيت المكاديميا | 400مل",
+      "product_name_english": "G.Doux | Unisex Shampoo with Macadamia Oil | 400ml",
+      "detailed_description": "شامبو للجنسين بزيت المكاديميا (Unisex shampoo with macadamia oil)",
+      "price_egp": 245,
+      "brand": "G.Doux",
+      "ratings_reviews": "Not visible",
+      "stock_availability": "In stock (not explicitly stated as limited)",
+      "specifications": {
+        "volume": "400ml"
+      },
+      "usage_instructions": "Not visible"
+    },
+    {
+      "product_name_arabic": "تريسمي | شامبو بالكيراتين ناعم ومستقيم | 400مل + بلسم كيراتين متعدد الألوان | 400مل",
+      "product_name_english": "Tresemmé | Keratin Smooth Straight Shampoo | 400ml + Multi-Color Keratin Conditioner | 400ml",
+      "detailed_description": "شامبو بالكيراتين ناعم ومستقيم + بلسم كيراتين متعدد الألوان (Keratin smooth straight shampoo + multi-color keratin conditioner)",
+      "price_egp": 380,
+      "brand": "Tresemmé",
+      "ratings_reviews": "Not visible",
+      "stock_availability": "In stock (not explicitly stated as limited)",
+      "specifications": {
+        "shampoo_volume": "400ml",
+        "conditioner_volume": "400ml"
+      },
+      "usage_instructions": "Not visible"
+    },
+    {
+      "product_name_arabic": "جي دو | بلسم بزيت الأفوكادو للشعر المجعد و المتقصف | 400مل",
+      "product_name_english": "G.Doux | Avocado Oil Conditioner for Curly & Brittle Hair | 400ml",
+      "detailed_description": "بلسم بزيت الأفوكادو للشعر المجعد و المتقصف (Avocado oil conditioner for curly and brittle hair)",
+      "price_egp": 246,
+      "brand": "G.Doux",
+      "ratings_reviews": "Not visible",
+      "stock_availability": "In stock (not explicitly stated as limited)",
+      "specifications": {
+        "volume": "400ml"
+      },
+      "usage_instructions": "Not visible"
+    },
+    {
+      "product_name_arabic": "حمام كريم تريشوب ماسك لتطويل وتقوية الشعر | 450مل",
+      "product_name_english": "Trichup Hammam Cream Mask for Hair Growth and Strengthening | 450ml",
+      "detailed_description": "ماسك لتطويل وتقوية الشعر (Mask for hair growth and strengthening)",
+      "price_egp": 168,
+      "brand": "Trichup",
+      "ratings_reviews": "Not visible",
+      "stock_availability": "In stock (not explicitly stated as limited)",
+      "specifications": {
+        "volume": "450ml"
+      },
+      "usage_instructions": "Not visible"
+    },
+    {
+      "product_name_arabic": "رو افريكان | مايا ليف ان وكرلي انهانسر | 250جم",
+      "product_name_english": "Raw African | Maya Leave-In & Curl Enhancer | 250gm",
+      "detailed_description": "ليف ان وكرلي انهانسر (Leave-in and curl enhancer)",
+      "price_egp": 282,
+      "brand": "Raw African",
+      "ratings_reviews": "Not visible",
+      "stock_availability": "In stock (not explicitly stated as limited)",
+      "specifications": {
+        "volume_weight": "250gm"
+      },
+      "usage_instructions": "Not visible"
+    },
+    {
+      "product_name_arabic": "لوريال الفيف | سيرم لترطيب الشعر الجاف | 150مل",
+      "product_name_english": "L'Oreal Elvive | Serum for Dry Hair Hydration | 150ml",
+      "detailed_description": "سيرم لترطيب الشعر الجاف (Serum for dry hair hydration)",
+      "price_egp": 460,
+      "brand": "L'Oreal Elvive",
+      "ratings_reviews": "Not visible",
+      "stock_availability": "In stock (not explicitly stated as limited)",
+      "specifications": {
+        "volume": "150ml"
+      },
+      "usage_instructions": "Not visible"
+    },
+    {
+      "product_name_arabic": "كلاري | ماسك للشعر | 300مل",
+      "product_name_english": "Clary | Hair Mask | 300ml",
+      "detailed_description": "ماسك للشعر (Hair Mask)",
+      "price_egp": 360,
+      "brand": "Clary",
+      "ratings_reviews": "Not visible",
+      "stock_availability": "In stock (not explicitly stated as limited)",
+      "specifications": {
+        "volume": "300ml"
+      },
+      "usage_instructions": "Not visible"
+    },
+    {
+      "product_name_arabic": "بيوبوينت | علاج الشعر بالنخاع | 50 جرام",
+      "product_name_english": "Biopoint | Marrow Hair Treatment | 50 gram",
+      "detailed_description": "علاج الشعر بالنخاع (Marrow hair treatment)",
+      "price_egp": 20,
+      "brand": "Biopoint",
+      "ratings_reviews": "Not visible",
+      "stock_availability": "In stock (not explicitly stated as limited)",
+      "specifications": {
+        "volume_weight": "50 gram"
+      },
+      "usage_instructions": "Not visible"
+    },
+    {
+      "product_name_arabic": "ديرما اكتيف | تريكو اكت هير ماسك | 150مل",
+      "product_name_english": "Dermactive | Tricho Act Hair Mask | 150ml",
+      "detailed_description": "تريكو اكت هير ماسك (Tricho Act Hair Mask)",
+      "price_egp": 199,
+      "brand": "Dermactive",
+      "ratings_reviews": "Not visible",
+      "stock_availability": "In stock (not explicitly stated as limited)",
+      "specifications": {
+        "volume": "150ml"
+      },
+      "usage_instructions": "Not visible"
+    },
+    {
+      "product_name_arabic": "دابر املا | كيدز زيت مغذى للشعر لشعر اطول | 270مل",
+      "product_name_english": "Dabur Amla | Kids Nourishing Hair Oil for Longer Hair | 270ml",
+      "detailed_description": "زيت مغذى للشعر لشعر اطول (Nourishing hair oil for longer hair)",
+      "price_egp": 115,
+      "brand": "Dabur Amla",
+      "ratings_reviews": "Not visible",
+      "stock_availability": "In stock (not explicitly stated as limited)",
+      "specifications": {
+        "volume": "270ml"
+      },
+      "usage_instructions": "Not visible"
+    },
+    {
+      "product_name_arabic": "بندولين | شامبو ضد القشرة بزيت شجرة الشاي | 300مل",
+      "product_name_english": "Penduline | Anti-Dandruff Shampoo with Tea Tree Oil | 300ml",
+      "detailed_description": "شامبو ضد القشرة بزيت شجرة الشاي (Anti-dandruff shampoo with tea tree oil)",
+      "price_egp": 135,
+      "brand": "Penduline",
+      "ratings_reviews": "Not visible",
+      "stock_availability": "In stock (not explicitly stated as limited)",
+      "specifications": {
+        "volume": "300ml"
+      },
+      "usage_instructions": "Not visible"
+    },
+    {
+      "product_name_arabic": "مينوكسيلوك مينوكسيديل بخاخ منبت للشعر للرجال | 100 مل",
+      "product_name_english": "Minoxilook Minoxidil Hair Growth Spray for Men | 100 ml",
+      "detailed_description": "بخاخ منبت للشعر للرجال (Hair growth spray for men)",
+      "price_egp": 144,
+      "brand": "Minoxilook",
+      "ratings_reviews": "Not visible",
+      "stock_availability": "In stock (not explicitly stated as limited)",
+      "specifications": {
+        "volume": "100ml"
+      },
+      "usage_instructions": "Not visible"
+    }
+  ],
+  "key_points": [
+    "Online pharmacy delivery service in Egypt (Chefaa.com/eg-ar/).",
+    "Offers a wide array of products including Medications, Hair Care, Skin Care, Daily Essentials, Mom & Baby, Makeup & Accessories, Medical Supplies, Vitamins & Supplements, Sexual Wellness, and Pet Supplies.",
+    "Key services include 'Super Taaweer' (Super Savings) with up to 15% discount, free delivery within 72 hours for orders over 600 EGP.",
+    "Instant delivery service for medicines (30-60 minutes) and prescription uploads available.",
+    "Boasts over 1000 pharmacies, 41K licensed products, coverage in 25 cities, and 24/7 pharmacist support.",
+    "Features promotions, deals (e.g., Back to School, everyday relief), and popular brands.",
+    "Includes customer testimonials praising service, delivery speed, and helpful staff.",
+    "Mobile application available for download on Apple App Store, Google Play, and Huawei AppGallery.",
+    "The page contains general listings of products from various categories, but no specific hair care product details from a 'page 4' are present; instead, products from a 'Best Hair Care Products' section on the homepage are provided."
+  ],
+  "relevant_links": [
+    "https://chefaa.com:443/eg-ar/now/category/hair-care",
+    "https://chefaa.com:443/eg-ar/cart",
+    "https://chefaa.com:443/eg-ar/login",
+    "https://chefaa.com:443/eg-ar/now/order-medicine-online-prescription",
+    "https://chefaa.com:443/eg-ar/about-us",
+    "https://chefaa.com/blog",
+    "https://chefaa.com:443/eg-ar/contact-us",
+    "https://chefaa.com:443/eg-ar/become-partner-pharmacy",
+    "https://apps.apple.com/eg/app/chefaa-medicine-delivery/id1438961456",
+    "https://play.google.com/store/apps/details?id=app.com.chefaa&hl=ar",
+    "https://appgallery.huawei.com/#/app/C102545145",
+    "https://chefaa.com:443/eg-ar/page/terms-of-service",
+    "https://chefaa.com:443/eg-ar/page/privacy-policy"
+  ],
+  "file_name": "chefaa_homepage_hair_care_summary.json"
+}
+```

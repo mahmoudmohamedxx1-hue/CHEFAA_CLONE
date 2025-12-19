@@ -1,0 +1,202 @@
+📄 Extracted from page: ادوية المعدة والقولون - شفاء
+URL: https://chefaa.com/eg-ar/now/category/medications/stomach-bowel?page=3
+
+Extracted content:
+```json
+{
+  "title": "ادوية المعدة والقولون - شفاء",
+  "url": "https://chefaa.com/eg-ar/now/category/medications/stomach-bowel?page=3",
+  "summary": "This page displays a list of 18 stomach and bowel medications available on Chefaa.com, including their names, descriptions, prices in EGP, and specifications like dosage or quantity. Some products require a medical prescription. This appears to be the final page in the category, as there is no active link to a subsequent page.",
+  "key_points": [
+    "A total of 18 stomach and bowel medications are listed on this page.",
+    "Each product entry includes the product name, a brief description of its use, price in EGP, and specific details like quantity or dosage.",
+    "Some medications explicitly state that a medical prescription is required.",
+    "All listed products appear to be available for purchase, indicated by an 'Add to cart' option.",
+    "This is identified as the final page (page 3) in the category due to the absence of a clickable 'next page' navigation link."
+  ],
+  "products": [
+    {
+      "product_name": "سبازمو ديجستين اقراص للقولون للانتفاخ والهضم",
+      "description": "اقراص للقولون للانتفاخ والهضم",
+      "price_egp": 78,
+      "brand_name": "سبازمو ديجستين",
+      "availability_status": "In Stock",
+      "prescription_required": false,
+      "specifications": "30 قرص",
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/spasmodigestin-30-tab"
+    },
+    {
+      "product_name": "سبازموفين",
+      "description": "3 امبولات",
+      "price_egp": 39,
+      "brand_name": "سبازموفين",
+      "availability_status": "In Stock",
+      "prescription_required": false,
+      "specifications": "3 امبولات",
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/spasmofe-3amp-5gly"
+    },
+    {
+      "product_name": "سبازموفرى لعلاج المغص وتقلصات المعدة",
+      "description": "لعلاج المغص وتقلصات المعدة",
+      "price_egp": 42,
+      "brand_name": "سبازموفرى",
+      "availability_status": "In Stock",
+      "prescription_required": false,
+      "specifications": "50مج | 20 قرص",
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/spasmofree-50g-for-the-treatment-of-colic-and-stomach-cramps-lqhd"
+    },
+    {
+      "product_name": "ستربتوكين لعلاج الاسهال المزمن",
+      "description": "لعلاج الاسهال المزمن",
+      "price_egp": 46,
+      "brand_name": "ستربتوكين",
+      "availability_status": "In Stock",
+      "prescription_required": false,
+      "specifications": "20 قرص",
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/streptoquin-antidiarrheal-10tab-jsui"
+    },
+    {
+      "product_name": "دواء اورسو بلس لتليف الكبد وحصوات المرارة",
+      "description": "لتليف الكبد وحصوات المرارة",
+      "price_egp": 174,
+      "brand_name": "اورسو بلس",
+      "availability_status": "In Stock",
+      "prescription_required": true,
+      "specifications": "20 كبسولة",
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/urso-plus-gallstones-20caps-p5tz"
+    },
+    {
+      "product_name": "أورسوفالك لعلاج أمراض الكبد",
+      "description": "لعلاج أمراض الكبد",
+      "price_egp": 122,
+      "brand_name": "أورسوفالك",
+      "availability_status": "In Stock",
+      "prescription_required": false,
+      "specifications": "250مج | 20 كبسولة",
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/ursofalk-liver-disease-250mg-20caps-1prk"
+    },
+    {
+      "product_name": "فوميبريك لعلاج الغثيان والقىء أثناء الحمل",
+      "description": "لعلاج الغثيان والقىء أثناء الحمل",
+      "price_egp": 66,
+      "brand_name": "فوميبريك",
+      "availability_status": "In Stock",
+      "prescription_required": false,
+      "specifications": "10مج | 30 قرص",
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/vomibreak-to-treat-nausea-and-vomiting-30-tab-f4a4"
+    },
+    {
+      "product_name": "زيسروسين مضاد حيوي",
+      "description": "مضاد حيوي",
+      "price_egp": 71,
+      "brand_name": "زيسروسين",
+      "availability_status": "In Stock",
+      "prescription_required": true,
+      "specifications": "500مج | 3 كبسولات",
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/zisrocin-antibiotic-500mg-3caps-yaf8"
+    },
+    {
+      "product_name": "بريمبران مضاد للقىء والغثيان",
+      "description": "مضاد للقىء والغثيان",
+      "price_egp": 60,
+      "brand_name": "بريمبران",
+      "availability_status": "In Stock",
+      "prescription_required": false,
+      "specifications": "10مج/2مل | 12 حقنة",
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/primperan-antiemetic-10mg-12amp-z6cv"
+    },
+    {
+      "product_name": "ديجستين",
+      "description": "لعلاج سوء الهضم",
+      "price_egp": 42,
+      "brand_name": "ديجستين",
+      "availability_status": "In Stock",
+      "prescription_required": false,
+      "specifications": "20 قرص",
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/digestin-20-tab"
+    },
+    {
+      "product_name": "مالوكس بلس شراب للحموضة وارتجاع المرئ",
+      "description": "شراب للحموضة وارتجاع المرئ",
+      "price_egp": 76,
+      "brand_name": "مالوكس بلس",
+      "availability_status": "In Stock",
+      "prescription_required": false,
+      "specifications": "١٨٠ مل",
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/maalox-plus-antacid-oral-suspension-180-ml"
+    },
+    {
+      "product_name": "زوفران اقراص zofran",
+      "description": "برشام للترجيع للكبار",
+      "price_egp": 364,
+      "brand_name": "زوفران",
+      "availability_status": "In Stock",
+      "prescription_required": false,
+      "specifications": "8 mg | 10 اقراص",
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/zofran-8-mg-4ml-5amp"
+    },
+    {
+      "product_name": "اكسيدوجاست ايزوميبرازول",
+      "description": "ايزوميبرازول 40 مجم للمعدة",
+      "price_egp": 168,
+      "brand_name": "اكسيدوجاست",
+      "availability_status": "In Stock",
+      "prescription_required": false,
+      "specifications": "40 مجم | ٢٠ كبسولة",
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/exeedogast-40-mg-20-capsules-dcd4"
+    },
+    {
+      "product_name": "توبمود فورت",
+      "description": "لعلاج قرحة المعدة",
+      "price_egp": 10.5,
+      "brand_name": "توبمود فورت",
+      "availability_status": "In Stock",
+      "prescription_required": true,
+      "specifications": "200 مج | 10 اقراص",
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/topmode-forte-stomach-ulcers-200mg-10tab-y2sr"
+    },
+    {
+      "product_name": "ايزوجاست",
+      "description": "لعلاج قرحة المعدة والارتجاع",
+      "price_egp": 122,
+      "brand_name": "ايزوجاست",
+      "availability_status": "In Stock",
+      "prescription_required": true,
+      "specifications": "20مجم | 14 كبسولة",
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/ezogast-20-mg-14-cap-yunx"
+    },
+    {
+      "product_name": "إستوهالت",
+      "description": "كبسولات لعلاج الحموضة وحرقة المعدة",
+      "price_egp": 81,
+      "brand_name": "إستوهالت",
+      "availability_status": "In Stock",
+      "prescription_required": true,
+      "specifications": "40مج | 14 كبسولة",
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/estohalt-40mg-14caps-j7t1"
+    },
+    {
+      "product_name": "ايفاكيولاكس لعلاج الامساك",
+      "description": "لعلاج الامساك",
+      "price_egp": 61,
+      "brand_name": "ايفاكيولاكس",
+      "availability_status": "In Stock",
+      "prescription_required": true,
+      "specifications": "625مج | 20 قرص",
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/evaculax-laxatives-625mg-20tab-wuaw"
+    },
+    {
+      "product_name": "كورتيبليكس ب 6",
+      "description": "لعلاج حالات التسمم",
+      "price_egp": 42,
+      "brand_name": "كورتيبليكس ب 6",
+      "availability_status": "In Stock",
+      "prescription_required": false,
+      "specifications": "1مل للأطفال | 3 امبولات",
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/cortiplex-b6-antiseptic-1ml-for-children-3amp-ynlu"
+    }
+  ],
+  "is_final_page": true,
+  "file_name": "chefaa_stomach_bowel_medications_page3.json"
+}
+```

@@ -1,0 +1,184 @@
+📄 Extracted from page: أدوية الأطفال - شفاء
+URL: https://chefaa.com/eg-ar/now/category/medications/kids-infant-medications?page=1
+
+Extracted content:
+```json
+{
+  "title": "أدوية الأطفال - شفاء",
+  "url": "https://chefaa.com/eg-ar/now/category/medications/kids-infant-medications?page=1",
+  "summary": "This page on Chefaa.com lists products under the 'Kids & Infant Medications' category. It displays eight specific products, each with its name, price in EGP, and a direct link to its product page. The page includes comprehensive site navigation, a search bar, location selection options, and filter/sorting functionalities. Pagination controls are present, showing page '1' as active. Interestingly, a 'no results' message is displayed on the page despite the visible product listings.",
+  "key_points": {
+    "products": [
+      {
+        "name": "بيبى ناديف سبراي الانف ماء البحر للجيوب الانفية للاطفال | 50مل",
+        "price": "390",
+        "currency": "جنيه",
+        "url": "https://chefaa.com:443/eg-ar/nowProduct/baby-nadif-nasal-spray-50-ml"
+      },
+      {
+        "name": "كالوبين | نقط بالفم | 20مل",
+        "price": "70",
+        "currency": "جنيه",
+        "url": "https://chefaa.com:443/eg-ar/nowProduct/kalobin-20-ml-oral-dropmfN3"
+      },
+      {
+        "name": "ليمتلس بيبي نقط فيتامين د limitless baby d drops | ١٥ مل",
+        "price": "53",
+        "currency": "جنيه",
+        "url": "https://chefaa.com:443/eg-ar/nowProduct/limitless-baby-d-drops-1600-iu-ml-15-ml-6ldy"
+      },
+      {
+        "name": "زيرتك نقط للرضع للبرد والحساسية zyrtec drops | ١٠ مل",
+        "price": "43",
+        "currency": "جنيه",
+        "url": "https://chefaa.com:443/eg-ar/nowProduct/zyrtec-10mg-ml-oral-drops-10-ml"
+      },
+      {
+        "name": "ماء غريب | سمايل شراب | 120 مل",
+        "price": "48",
+        "currency": "جنيه",
+        "url": "https://chefaa.com:443/eg-ar/nowProduct/gripe-water-smile-syrup-120-ml-fhm6"
+      },
+      {
+        "name": "كيدز ابيتايت فيتامين شراب | 125مل",
+        "price": "110",
+        "currency": "جنيه",
+        "url": "https://chefaa.com:443/eg-ar/nowProduct/kids-appetite-daily-vitamin-syrup-125ml-3air"
+      },
+      {
+        "name": "سانسو | ماء للبيبي لعلاج المغص والانتفاخ | 100مل",
+        "price": "60",
+        "currency": "جنيه",
+        "url": "https://chefaa.com:443/eg-ar/nowProduct/sanso-baby-water-syrup-100ml-isby"
+      },
+      {
+        "name": "تيمبو جل | كول لتقليل درجة حرارة الجسم للاطفال | 4 كمادات",
+        "price": "35",
+        "currency": "جنيه",
+        "url": "https://chefaa.com:443/eg-ar/nowProduct/tempo-cool-gel-to-reduce-body-temperature-for-children-4-sheets-x36o"
+      }
+    ],
+    "pagination_elements": {
+      "current_page": 1,
+      "page_links": [
+        {"text": "«", "type": "first", "url": null},
+        {"text": "‹", "type": "previous", "url": null},
+        {"text": "1", "type": "page_number", "url": "https://chefaa.com/eg-ar/now/category/medications/kids-infant-medications?products_eg%5Bpage%5D=1", "is_active": true},
+        {"text": "›", "type": "next", "url": null},
+        {"text": "»", "type": "last", "url": null}
+      ]
+    },
+    "navigation_controls": {
+      "header_navigation": [
+        {"name": "الرئيسية", "url": "https://chefaa.com:443/eg-ar"},
+        {"name": "الروشتة", "url": "https://chefaa.com:443/eg-ar/now/order-medicine-online-prescription"},
+        {"name": "الأقسام", "url": "javascript:void(0)"},
+        {"name": "عن شفاء", "url": "https://chefaa.com:443/eg-ar/about-us"},
+        {"name": "المدونة", "url": "https://chefaa.com/blog"},
+        {"name": "تواصل معنا", "url": "https://chefaa.com:443/eg-ar/contact-us"},
+        {"name": "هل تملك صيدلية؟", "url": "https://chefaa.com:443/eg-ar/become-partner-pharmacy"}
+      ],
+      "main_categories_menu": [
+        {"name": "الأدوية", "url": "https://chefaa.com:443/eg-ar/now/category/medications", "subcategories": [
+          {"name": "كل الأدوية", "url": "https://chefaa.com:443/eg-ar/now/category/medications"},
+          {"name": "حسب الحالة الصحية", "url": "https://chefaa.com:443/eg-ar/now/category/medications/health-condition"},
+          {"name": "أدوية الكحة والزكام", "url": "https://chefaa.com:443/eg-ar/now/category/medications/cough-cold-allergy"},
+          {"name": "قطرات العين والأذن", "url": "https://chefaa.com:443/eg-ar/now/category/medications/eye-ear-medications"},
+          {"name": "أدوية الأطفال", "url": "https://chefaa.com:443/eg-ar/now/category/medications/kids-infant-medications"},
+          {"name": "ادوية المعدة والقولون", "url": "https://chefaa.com:443/eg-ar/now/category/medications/stomach-bowel"},
+          {"name": "مسكنات الألم", "url": "https://chefaa.com:443/eg-ar/now/category/medications/pain-relief"},
+          {"name": "أدوية الجلدية", "url": "https://chefaa.com:443/eg-ar/now/category/medications/skin-treatments"},
+          {"name": "الحساسية", "url": "https://chefaa.com:443/eg-ar/now/category/medications/allergy"}
+        ]},
+        {"name": "العناية بالشعر", "url": "https://chefaa.com:443/eg-ar/now/category/hair-care"},
+        {"name": "العناية بالبشرة", "url": "https://chefaa.com:443/eg-ar/now/category/skin-care"},
+        {"name": "العناية اليومية", "url": "https://chefaa.com:443/eg-ar/now/category/daily-essentials"},
+        {"name": "الأم والطفل", "url": "https://chefaa.com:443/eg-ar/now/category/mom-baby"},
+        {"name": "المكياج و الاكسسوارات", "url": "https://chefaa.com:443/eg-ar/now/category/makeup-accessories"},
+        {"name": "المستلزمات الطبية", "url": "https://chefaa.com:443/eg-ar/now/category/health-care-devices"},
+        {"name": "الفيتامينات والمكملات", "url": "https://chefaa.com:443/eg-ar/now/category/vitamins-supplements"},
+        {"name": "الصحة الجنسية", "url": "https://chefaa.com:443/eg-ar/now/category/sexual-welness"},
+        {"name": "مستلزمات الحيوانات", "url": "https://chefaa.com:443/eg-ar/now/category/pet-supplies"}
+      ],
+      "current_category_breadcrumb": ["الرئيسية", "الأدوية", "أدوية الأطفال"],
+      "search_and_account_controls": {
+        "search_bar_present": true,
+        "search_by_medicine_name_option": true,
+        "login_link": "https://chefaa.com:443/eg-ar/login",
+        "favorites_link": "https://chefaa.com:443/login",
+        "cart_link": "https://chefaa.com:443/eg-ar/cart",
+        "language_toggle": "https://chefaa.com:443/eg-en/now/category/medications/kids-infant-medications?page=1"
+      },
+      "location_selection": {
+        "present": true,
+        "description": "Popup for selecting delivery location to show available products."
+      },
+      "filter_and_sort_options": {
+        "filters_available": [
+          "التصنيفات (Categories)", "الأقسام الأساسية (Main Sections)", "الأقسام الفرعية (Sub Sections)",
+          "الأقسام الفرعية الثانوية (Secondary Sub Sections)", "الماركات (Brands)", "النوع (Type)",
+          "نوع البشرة (Skin Type)", "التكوين (Composition)", "الحجم (Size)", "التركيز (Concentration)",
+          "اللون (Color)", "الفئة العمرية (Age Group)", "العناية بالاسنان (Dental Care)",
+          "نوع الشعر (Hair Type)", "لون الشعر (Hair Color)", "حجم العبوه (Pack Size)",
+          "مناسب ل (Suitable For)", "خالي من (Free From)", "مميزات خاصة (Special Features)",
+          "الرائحة (Scent)", "المذاق (Taste)", "السعر (Price Range)"
+        ],
+        "sorting_options": [
+          "المتاح فقط (Available Only)",
+          "السعر : من الأعلى إلى الأقل (Price: High to Low)",
+          "السعر : من الأقل إلى الأعلى (Price: Low to High)"
+        ]
+      }
+    }
+  },
+  "relevant_links": [
+    "https://chefaa.com:443/eg-ar/nowProduct/baby-nadif-nasal-spray-50-ml",
+    "https://chefaa.com:443/eg-ar/nowProduct/kalobin-20-ml-oral-dropmfN3",
+    "https://chefaa.com:443/eg-ar/nowProduct/limitless-baby-d-drops-1600-iu-ml-15-ml-6ldy",
+    "https://chefaa.com:443/eg-ar/nowProduct/zyrtec-10mg-ml-oral-drops-10-ml",
+    "https://chefaa.com:443/eg-ar/nowProduct/gripe-water-smile-syrup-120-ml-fhm6",
+    "https://chefaa.com:443/eg-ar/nowProduct/kids-appetite-daily-vitamin-syrup-125ml-3air",
+    "https://chefaa.com:443/eg-ar/nowProduct/sanso-baby-water-syrup-100ml-isby",
+    "https://chefaa.com:443/eg-ar/nowProduct/tempo-cool-gel-to-reduce-body-temperature-for-children-4-sheets-x36o",
+    "https://chefaa.com/eg-ar/now/category/medications/kids-infant-medications?products_eg%5Bpage%5D=1",
+    "https://chefaa.com:443/eg-ar",
+    "https://chefaa.com:443/eg-ar/now/category/medications",
+    "https://chefaa.com:443/eg-ar/now/category/medications/health-condition",
+    "https://chefaa.com:443/eg-ar/now/category/medications/cough-cold-allergy",
+    "https://chefaa.com:443/eg-ar/now/category/medications/eye-ear-medications",
+    "https://chefaa.com:443/eg-ar/now/category/medications/stomach-bowel",
+    "https://chefaa.com:443/eg-ar/now/category/medications/pain-relief",
+    "https://chefaa.com:443/eg-ar/now/category/medications/skin-treatments",
+    "https://chefaa.com:443/eg-ar/now/category/medications/allergy",
+    "https://chefaa.com:443/eg-ar/now/category/hair-care",
+    "https://chefaa.com:443/eg-ar/now/category/skin-care",
+    "https://chefaa.com:443/eg-ar/now/category/daily-essentials",
+    "https://chefaa.com:443/eg-ar/now/category/mom-baby",
+    "https://chefaa.com:443/eg-ar/now/category/makeup-accessories",
+    "https://chefaa.com:443/eg-ar/now/category/health-care-devices",
+    "https://chefaa.com:443/eg-ar/now/category/vitamins-supplements",
+    "https://chefaa.com:443/eg-ar/now/category/sexual-welness",
+    "https://chefaa.com:443/eg-ar/now/category/pet-supplies",
+    "https://chefaa.com:443/eg-ar/login",
+    "https://chefaa.com:443/eg-en/now/category/medications/kids-infant-medications?page=1",
+    "https://chefaa.com:443/eg-ar/now/order-medicine-online-prescription",
+    "https://chefaa.com:443/eg-ar/about-us",
+    "https://chefaa.com/blog",
+    "https://chefaa.com:443/eg-ar/contact-us",
+    "https://chefaa.com:443/eg-ar/become-partner-pharmacy",
+    "https://chefaa.com:443/eg-ar/order_monthly_prescription",
+    "https://bulk.chefaa.com/eg-ar",
+    "https://chbih.com/",
+    "https://apps.apple.com/eg/app/chefaa-medicine-delivery/id1438961456",
+    "https://play.google.com/store/apps/details?id=app.com.chefaa&hl=ar",
+    "https://appgallery.huawei.com/app/C102545145",
+    "https://www.facebook.com/chefaaegypt/",
+    "https://www.instagram.com/chefaa.egypt/",
+    "https://www.linkedin.com/company/getchefaa",
+    "https://www.tiktok.com/@chefaa.egypt/",
+    "https://chefaa.com:443/eg-ar/page/terms-of-service",
+    "https://chefaa.com:443/eg-ar/page/privacy-policy"
+  ],
+  "file_name": "chefaa_kids_infant_medications_page1.json"
+}
+```

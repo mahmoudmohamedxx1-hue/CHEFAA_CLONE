@@ -1,0 +1,32 @@
+📄 Extracted from page: الأدوية - شفاء
+URL: https://chefaa.com/eg-ar/now/category/medications
+
+Extracted content:
+```json
+{
+  "title": "الأدوية - شفاء",
+  "url": "https://chefaa.com/eg-ar/now/category/medications",
+  "summary": "This page is the general 'Medications' category on Chefaa.com. The primary goal was to extract 'pain management medical supplies products'. However, no such 'medical supplies' were found on this specific page. Instead, the page lists various pharmaceutical medications, some of which are explicitly for pain relief. The website's navigation suggests a dedicated category for 'Pain Management' under 'Medical Supplies' which was not the current page. This summary details the pain relief *medications* found on this page, along with pagination information.",
+  "key_points": [
+    "The page is titled 'الأدوية' (Medications) and serves as a general category for various pharmaceutical products.",
+    "No 'pain management medical supplies products' were found on this page. All listed items are medications.",
+    "However, the following 'pain relief medications' were identified:",
+    "- Product Name (Arabic): بانادول اكسترا لتخفيف إضافي مسكن فعال للألم والحمي | 24 قرص\n  Product Name (English - inferred): Panadol Extra\n  Price: 54 EGP\n  Description: Extra strength pain and fever reliever.\n  Brand: Panadol\n  Ratings: Not available on this page.\n  Stock Status: In stock (اضف الى العربة - Add to cart).\n  Specifications: 24 tablets.",
+    "- Product Name (Arabic): دوليبران 1000 مجم باراسيتامول مسكن للصداع والآلام | 20 قرص\n  Product Name (English - inferred): Doliprane 1000mg Paracetamol\n  Price: 60 EGP\n  Description: 1000mg Paracetamol, pain reliever for headache and pains.\n  Brand: Doliprane\n  Ratings: Not available on this page.\n  Stock Status: In stock (اضف الى العربة - Add to cart).\n  Specifications: 1000mg, 20 tablets.",
+    "- Product Name (Arabic): اقراص دوليبران 1000 باراسيتامول doliprane | ١٥ قرص\n  Product Name (English - inferred): Doliprane 1000 Paracetamol\n  Price: 48 EGP\n  Description: Doliprane 1000 Paracetamol tablets.\n  Brand: Doliprane\n  Ratings: Not available on this page.\n  Stock Status: In stock (اضف الى العربة - Add to cart).\n  Specifications: 1000mg, 15 tablets.",
+    "Pagination controls indicate multiple pages of products. The current page is 1.",
+    "The pagination shows links to pages 1 through 10, and then ..., 133, 134. This suggests a total of 134 pages of products in this category.",
+    "The total number of products is not explicitly stated on the page, but can be estimated to be several hundreds (e.g., 134 pages * ~20 products/page).",
+    "Product ratings, detailed descriptions, and full specifications are not available on this listing page and would require navigating to individual product pages."
+  ],
+  "relevant_links": [
+    "https://chefaa.com:443/eg-ar/nowProduct/panadol-extra-tab",
+    "https://chefaa.com:443/eg-ar/nowProduct/novaldol-analgesic-and-pain-killer-1000-mg-15-tablets_duYpVP2r_duzDVQep",
+    "https://chefaa.com:443/eg-ar/nowProduct/novaldol-analgesic-and-pain-killer-1000-mg-15-tablets",
+    "https://chefaa.com:443/eg-ar/now/category/medications/pain-relief",
+    "https://chefaa.com:443/eg-ar/now/category/health-care-devices/pain-management",
+    "https://chefaa.com:443/eg-ar/now/category/medications?page=2"
+  ],
+  "file_name": "chefaa_medications_pain_management.json"
+}
+```

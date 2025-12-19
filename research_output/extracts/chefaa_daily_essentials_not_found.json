@@ -1,0 +1,21 @@
+📄 Extracted from page: العناية بالشعر - شفاء
+URL: https://chefaa.com/eg-ar/now/category/hair-care?page=2
+
+Extracted content:
+```json
+{
+  "title": "العناية بالشعر - شفاء",
+  "url": "https://chefaa.com/eg-ar/now/category/hair-care?page=2",
+  "summary": "This page is part of the 'Hair Care' category (صفحة العناية بالشعر) on the Chefaa website, displaying various hair care products such as shampoos, conditioners, hair oils, creams, and hair dyes, primarily from the L'Oréal Paris brand. Despite the extraction goal being to find 'Daily Essentials' products, this page does not contain any items categorized under 'Daily Essentials'. All products listed here belong to the 'Hair Care' category. Therefore, no 'Daily Essentials' products could be extracted.",
+  "key_points": [
+    "The page is titled 'Hair Care - Chefaa' and its URL confirms it is within the 'hair-care' category, specifically page 2.",
+    "All visible products on the page are related to 'Hair Care' (e.g., L'Oréal Paris hair dyes, oils, shampoos, conditioners).",
+    "No products matching the 'Daily Essentials' category were found on this specific page.",
+    "The navigation menu does list 'العناية اليومية' (Daily Essentials) as a main category, with several subcategories, but no products from this category are displayed."
+  ],
+  "relevant_links": [
+    "https://chefaa.com:443/eg-ar/now/category/daily-essentials"
+  ],
+  "file_name": "chefaa_daily_essentials_not_found.json"
+}
+```

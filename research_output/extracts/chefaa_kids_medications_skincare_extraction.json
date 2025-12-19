@@ -1,0 +1,29 @@
+📄 Extracted from page: أدوية الأطفال - شفاء
+URL: https://chefaa.com/eg-ar/now/category/medications/kids-infant-medications
+
+Extracted content:
+```json
+{
+  "title": "أدوية الأطفال - شفاء",
+  "url": "https://chefaa.com/eg-ar/now/category/medications/kids-infant-medications",
+  "summary": "This category page on Chefaa.com is dedicated to 'Kids Medications' (أدوية الأطفال). The goal was to extract skin care products visible on this page. However, no skin care products were found directly listed on this specific page. The visible products are primarily medications and health-related items for children, such as nasal sprays, oral drops, syrups, and cooling gels, which do not fall under the 'skin care' category.",
+  "key_points": [
+    "The page is a category for 'Kids Medications'.",
+    "No skin care products are displayed or listed directly on this page.",
+    "The products available on this page are medications and health supplements for children (e.g., nasal spray, oral drops, syrups, cooling gel).",
+    "The website's main navigation includes a separate section for 'العناية بالبشرة' (Skin Care) which would contain relevant products, but these are not visible on the current page."
+  ],
+  "products": [],
+  "relevant_links": [
+    "https://chefaa.com:443/eg-ar/now/category/skin-care",
+    "https://chefaa.com:443/eg-ar/now/category/skin-care/cleansers",
+    "https://chefaa.com:443/eg-ar/now/category/skin-care/moisturizers",
+    "https://chefaa.com:443/eg-ar/now/category/skin-care/serum",
+    "https://chefaa.com:443/eg-ar/now/category/skin-care/masks",
+    "https://chefaa.com:443/eg-ar/now/category/skin-care/sun-care",
+    "https://chefaa.com:443/eg-ar/now/category/skin-care/skin-tech-tools",
+    "https://chefaa.com:443/eg-ar/now/category/skin-care/eye-care"
+  ],
+  "file_name": "chefaa_kids_medications_skincare_extraction.json"
+}
+```

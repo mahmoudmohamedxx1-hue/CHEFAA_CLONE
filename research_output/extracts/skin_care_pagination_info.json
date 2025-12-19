@@ -1,0 +1,35 @@
+📄 Extracted from page: العناية بالبشرة - شفاء
+URL: https://chefaa.com/eg-ar/now/category/skin-care
+
+Extracted content:
+```json
+{
+  "title": "العناية بالبشرة - شفاء",
+  "url": "https://chefaa.com/eg-ar/now/category/skin-care",
+  "summary": "The page displays a pagination system at the bottom of the product listing for the 'Skin Care' category. It indicates that the user is currently on page 1 of 56 total pages, with links to navigate to other pages, including next and previous page options.",
+  "key_points": [
+    "Current page number: 1",
+    "Total pages: 56",
+    "Pagination links available for pages 1 through 10, then '...', and pages 55 and 56.",
+    "Navigation buttons for 'Previous' (‹) and 'Next' (›) are present.",
+    "The 'Previous' (‹) button is inactive on page 1, as expected.",
+    "The 'Next' (›) button links to page 2."
+  ],
+  "relevant_links": [
+    "https://chefaa.com/eg-ar/now/category/skin-care?products_eg%5Bpage%5D=1",
+    "https://chefaa.com:443/eg-ar/now/category/skin-care?page=2",
+    "https://chefaa.com:443/eg-ar/now/category/skin-care?page=3",
+    "https://chefaa.com:443/eg-ar/now/category/skin-care?page=4",
+    "https://chefaa.com:443/eg-ar/now/category/skin-care?page=5",
+    "https://chefaa.com:443/eg-ar/now/category/skin-care?page=6",
+    "https://chefaa.com:443/eg-ar/now/category/skin-care?page=7",
+    "https://chefaa.com:443/eg-ar/now/category/skin-care?page=8",
+    "https://chefaa.com:443/eg-ar/now/category/skin-care?page=9",
+    "https://chefaa.com:443/eg-ar/now/category/skin-care?page=10",
+    "https://chefaa.com:443/eg-ar/now/category/skin-care?page=55",
+    "https://chefaa.com:443/eg-ar/now/category/skin-care?page=56",
+    "https://chefaa.com:443/eg-ar/now/category/skin-care?page=2"
+  ],
+  "file_name": "skin_care_pagination_info.json"
+}
+```

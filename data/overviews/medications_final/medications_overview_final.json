@@ -1,0 +1,397 @@
+# Chefaa Final Medications Overview (Products 1401–Final) — Extraction Blueprint and Execution Plan
+
+## Executive Summary and Objectives
+
+This blueprint sets out a complete, end-to-end plan to assemble, enrich, and validate a final pharmaceutical dataset covering Chefaa’s medications catalog with a specific focus on products 1401 onward. The target output is a single, authoritative JSON dataset: data/overviews/medications_final/medications_overview_final.json. The dataset will integrate evidence from Chefaa’s medications category and product detail pages, corroborated with the closest available product pages to ensure field coverage, consistency, and clinical fidelity.
+
+Scope and inventory. The source corpus comprises 130 page files (pages 1–134), with well-documented gaps and zero-result ranges. Aggregated inventory indicates 2,280 discovered products. After deduplication and canonicalization, the tail slice (products ≥1401) is estimated at 880 records. Nine subcategory summaries (168 products) provide category hints and cross-checks, and several validated product detail exemplars anchor field mapping and pricing baselines.[^2]
+
+Narrative arc. We begin by documenting the dataset origin and inventory posture. We then define the target product sequence (≥1401), including enumeration rules and a canonical anchor (ديكونادال). Next, we formalize the data model and schema, then detail extraction methods, validation pipelines, and the production write plan. Finally, we codify quality assurance, risks and mitigations, and acceptance criteria, followed by a concrete milestone plan to deliver a robust, clinically credible dataset.
+
+Key deliverable. A single, versioned JSON dataset capturing identification, commercial, clinical, regulatory, and provenance fields for products ≥1401, with auditable source links, validated categories, and normalized brand and dosage attributes.
+
+To orient scope and readiness, the following snapshot summarizes the posture of this plan.
+
+Table 1. Scope Snapshot: Products 1401–Final
+| Metric | Value |
+|---|---|
+| Total products discovered (pages) | 2,280 |
+| Estimated products ≥ ID 1401 | 880 |
+| Subcategory summaries available | 9 categories; 168 products |
+| Source page range | 1–134 |
+| Pages with zero results | 55–61, 73–83 |
+| Missing page files | 5, 6, 7, 68 |
+| Final output file | data/overviews/medications_final/medications_overview_final.json |
+
+![Chefaa Medications Category Landing (evidence of source category)](/workspace/docs/chefaa_homepage/chefaa_medications_category.png)
+
+As evidenced by the category landing view, the site’s medications taxonomy is consistently navigable and provides stable pagination, enabling systematic traversal and link harvesting. This ensures a reliable backbone for assembling the final 1401+ sequence and mapping it to detail pages.[^2]
+
+## Source Data Landscape and Inventory
+
+The dataset is grounded in two complementary asset types: (1) 130 page-based JSON files that enumerate products per pagination index, and (2) nine subcategory summaries capturing curated product lists by therapeutic segment. Several mid-range pagination gaps and zero-result ranges are documented and factored into the plan.
+
+Table 2. File and Coverage Summary
+| Category of Evidence | File Naming Pattern | Approximate Count | Product Count | Notes |
+|---|---|---|---|---|
+| Page-based files | medications_page_X_*.json | 130 | 2,280 | Core inventory; pages 1–134; gaps include 5, 6, 7, 68; zero-result pages 55–61, 73–83 |
+| Subcategory summaries | subcategories within medications_products.json | 9 groups | 168 | Overlaps likely with page files; useful for taxonomy hints and cross-validation |
+| Category landing evidence | Screenshots | N/A | N/A | Visual corroboration of category and product pages used to design extraction[^2][^4][^6] |
+
+The most efficient path to the target sequence is to enumerate page-based files in ascending order, deduplicate and canonicalize, and then slice to products ≥1401. Subcategory summaries support controlled vocabulary mapping and provide fallback enrichment where product detail content is intermittently inaccessible.
+
+![Medications Listing Page (evidence of listing structure)](/workspace/docs/chefaa_homepage/chefaa_medications_listing.png)
+
+The listing architecture above informs link harvesting strategies (including slug extraction from product titles) and validates expectations for pagination and card layouts across category traversals.[^2][^6]
+
+### Page Files Inventory
+
+Products are distributed across 130 page files, typically at 20 products per page, with predictable deviations. Pages 55–61 and 73–83 consistently returned zero results. Certain pages are missing entirely (5, 6, 7, and 68). Page 134 carries a small tail (4 products).
+
+Table 3. Page Files Inventory (summary view)
+| Page Range | Approximate Products per Page | Key Anomalies |
+|---|---|---|
+| 1–4 | 20 each | None |
+| 5–7 | N/A | Missing pages |
+| 8–9 | 40, 44 | Above typical |
+| 10–54 | 20 each | None |
+| 55–61 | 0 | Zero-result pages |
+| 62 | 13 | Below typical |
+| 63–67 | 20 each | None |
+| 68 | N/A | Missing page |
+| 69–72 | 20 each | None |
+| 73–83 | 0 | Zero-result pages |
+| 84–134 | 20 each (with occasional 21) | Page 134 has 4 products |
+
+This inventory underpins sequence assembly and provides the anomaly map for QA checks.
+
+### Subcategory Summaries
+
+Subcategory summaries cover nine categories: Kids & Infant, Stomach & Bowel, Cough & Cold, Eye & Ear, Health Condition, Pain Relief, Skin Treatment, Allergy, and Main Medications. They contribute 168 products, with significant overlap to the main pages and provide a second vantage point for taxonomy normalization.
+
+Table 4. Subcategories Overview
+| Subcategory | Product Count | Example Entries | Completeness Notes |
+|---|---|---|---|
+| Kids & Infant Medications | 8 | Baby Nadif Nasal Spray, Zyrtec Infant Drops | Small, stable set |
+| Stomach & Bowel Medications | 20 | Controloc 20mg, Enterogermina, Maalox | Good coverage |
+| Cough & Cold Medications | 20 | Bronchicum Syrup, Oplex-N, Otrivin | Complete within pages |
+| Eye & Ear Medications | 20 | Alphanova 0.15%, Gatistar 0.5% | Complete within pages |
+| Health Condition Medications | 20 | Viagra 50/100mg, Abilify 5/15mg | Contains Rx-heavy items |
+| Pain Relief Medications | 20 | Panadol, Doliprane, Brufen | High overlap with main |
+| Skin Treatment Medications | 20 | Panthenol 2%, Betadine, Fucicort | Complete within pages |
+| Allergy Medications | 20 | Aerius, Telfast, Nasonex, Flixonase | Strong nasal steroid segment |
+| Main Medications Category | 20 | Controloc, Panadol Extra, Doliprane | Significant overlap with others |
+
+These summaries guide therapeutic class mapping and brand normalization, especially where listing pages provide sparse clinical detail.
+
+## Target Product Sequence (≥1401): Identification and Assembly
+
+Products 1401 onward are assembled by strict sequential enumeration of the page-based corpus after deduplication and canonicalization. The anchor product for ID 1401 is “ديكونادال” (Deconadal) 10 mg, 21 tablets, located on page 90. This ensures the 1401 index aligns with the intended completion segment.
+
+Table 5. Start-of-Sequence Snapshot (Product 1401)
+| Field | Value |
+|---|---|
+| Name (Arabic) | ديكونادال |
+| Name (English, if available) | Deconadal |
+| Strength | 10 mg |
+| Pack size | 21 tablets |
+| Therapeutic category (observed) | Cholesterol and Fats |
+| Source page | 90 |
+| Source file | medications_page_90_phase5_batch1.json |
+
+![Product Detail Page example used to validate detail fields and schema alignment](/workspace/research_output/screenshots/chefaa_doliprane_product_detail_page.png)
+
+The product detail page example above (Doliprane) is used to validate field presence and schema alignment and to standardize expectations for name, dosage, strength, and category extraction across the corpus.[^5]
+
+### Enumeration Rules
+
+To ensure reproducibility:
+
+1. Enumerate pages in ascending order (1 → 134), respecting gaps (no inserts for missing 5, 6, 7, 68).
+2. Within each page, enumerate products as they appear in the JSON file.
+3. Apply deduplication and canonicalization (see Data Model and Validation sections).
+4. Assign a stable, 1-based index to the deduplicated, canonical list; slice at [1400:] to obtain the 1401+ sequence.
+5. Tag each record with a product_id in the 1401+ range and preserve source_file and source_page for auditability.
+
+The outcome is a final list of approximately 880 products, anchored to “ديكونادال” as product 1401.
+
+## Data Model and Schema Definition
+
+The schema balances clinical relevance, operational completeness, and downstream usability. Fields are grouped into identification, commercial, clinical, regulatory, provenance, and multilingual support. The model is designed to normalize Arabic/English names, standardize dosages and categories, and retain auditability.
+
+Table 6. Data Field Catalog (overview)
+| Field name | Type | Example | Source priority |
+|---|---|---|---|
+| product_id | Integer | 1401 | Derived (sequence) |
+| product_name_ar | String | ديكونادال | Page files |
+| product_name_en | String | Deconadal | Detail page/transliteration |
+| brand_name | String | Generic | Detail page/page files |
+| therapeutic_class | String | Lipid-lowering agent | Detail page/subcategory |
+| indication | String | Hyperlipidemia | Detail page |
+| active_ingredient | String | Atorvastatin (example) | Detail page |
+| strength | String | 10 mg | Page files/detail page |
+| dosage_form | String | Tablet | Detail page |
+| pack_size | String | 21 tablets | Page files/detail page |
+| concentration | String | 0.15% (eye drops) | Detail page |
+| route | String | Oral | Detail page |
+| category | String | Cholesterol and Fats | Page files/subcategory |
+| subcategory | String | Health Condition Medications | Page files |
+| price_egp | Number | 82.5 | Page files |
+| availability_status | String | In stock | Page files |
+| prescription_required | Boolean | true | Detail page/subcategory (inferred) |
+| storage_conditions | String | Store below 25°C | Detail page |
+| contraindications | Array[String] | [“Severe hepatic impairment”] | Detail page |
+| warnings | Array[String] | [“Monitor liver enzymes”] | Detail page |
+| side_effects | Array[String] | [“Myopathy”] | Detail page |
+| interactions | Array[String] | [“CYP3A4 inhibitors”] | Detail page |
+| pregnancy_lactation | String | Use only if clearly needed | Detail page |
+| pediatric_use | String | Not recommended <10 years | Detail page |
+| geriatric_use | String | Dose adjustment may be required | Detail page |
+| pharmacokinetics | String | Tmax ~2–3 h; half-life ~14 h | Detail page |
+| clinical_data | String | Randomized trials summary | Detail page |
+| product_link | String | Constructed | Derived |
+| source_file | String | medications_page_90_phase5_batch1.json | Provenance |
+| source_page | Integer | 90 | Provenance |
+| extraction_timestamp | ISO-8601 | 2025-11-01T12:00:00Z | Workflow |
+| language | String | ar | Metadata |
+| notes | String | “Duplicate variant resolved” | Editorial |
+
+### Validation and Standardization Rules
+
+- Names. Normalize Arabic text by stripping diacritics and collapsing whitespace. Generate Latin transliterations for cross-language matching and establish a preferred English name via Title Case.
+- Dosage and packaging. Strength and concentration standardized to patterns such as “X mg,” “X mg/5 ml,” or “0.15%”; pack_size unified to “N units” (e.g., “21 tablets,” “20 vials”).
+- Categories. therapeutic_class and category mapping follow a controlled vocabulary harmonizing observed labels (“Antacid,” “Probiotic,” “Antihistamine,” “Nasal steroid,” “Lipid-lowering agent,” “Antipsychotic”). Subcategories are used to propagate defaults when missing.
+- Brand normalization. Group brand variants and typos (e.g., spacing, Latin/Arabic script) to a canonical brand.
+
+## Extraction Methods and Product Page Processing
+
+The primary extraction method is sequential crawling of Chefaa product pages guided by the catalog of page files. Where product_detail_link is missing from a listing record, we construct a candidate URL from the known product path and the product slug gleaned from the listing or inferred from the product name.
+
+![Evidence of category pagination used to navigate and collect product links](/workspace/docs/chefaa_homepage/chefaa_medications_listing.png)
+
+The category pagination view informs link harvesting, slugs, and verification of categories if a detail page is temporarily unavailable. The workflow includes retries with exponential backoff and concurrency caps to mitigate dynamic loading issues.[^2][^6]
+
+Table 7. URL Pattern Catalog (conceptual)
+| Pattern | Slug Example | Notes |
+|---|---|---|
+| https://chefaa.com/eg-ar/nowProduct/{slug} | panadol-extra-tab | Canonical product detail path; slug often aligns with English brand + dosage/form |
+| https://chefaa.com/eg-ar/now/category/medications/page/{N} | page/90 | Used for listing traversal and link harvesting |
+| https://chefaa.com/eg-ar/now/category/medications | N/A | Category landing for taxonomy hints and resets |
+
+### Content Model and Field Mapping
+
+Detail pages typically expose name fields (Arabic with English where available), brand/manufacturer, dosage strength, pack size, price, and sometimes indication or category. The mapping from page elements to database fields is summarized below.
+
+Table 8. Field Mapping Cheatsheet (detail page → schema)
+| Page element | Schema field | Notes |
+|---|---|---|
+| Product title (Arabic) | product_name_ar | Canonical Arabic name |
+| English name (if present) | product_name_en | Normalize capitalization |
+| Brand/manufacturer | brand_name | Normalize variants |
+| Strength/dosage | strength | Standardize mg, mcg, % |
+| Concentration per ml | concentration | For drops/sprays |
+| Dosage form | dosage_form | Tablet, syrup, drops, etc. |
+| Pack size | pack_size | “21 tablets,” “20 vials” |
+| Price (EGP) | price_egp | Numeric |
+| Availability | availability_status | “In stock,” “Limited Quantity” |
+| Indications | indication | Free text |
+| Therapeutic class | therapeutic_class | Controlled vocabulary |
+| Active ingredient | active_ingredient | Where visible |
+| Prescription | prescription_required | Boolean (derive if missing) |
+| Storage/contraindications | storage_conditions/contraindications | Where available |
+
+Evidence from existing detail pages (e.g., Doliprane, Panadol Extra, Controloc) confirms these fields are consistently present or inferable.[^4][^5][^10]
+
+## Extracted Evidence: Exemplar Products (for Schema Calibration)
+
+Calibration of the schema relies on concrete product pages. The following exemplars represent classes of drugs across major therapeutic categories and provide baselines for fields, dosing norms, and clinical attributes.
+
+Table 9. Extracted Products Summary (selected exemplars)
+| Product | Active Ingredient | Therapeutic Class | Key Fields Present |
+|---|---|---|---|
+| Deconadal 20 mg | Rosuvastatin | Statin (Lipid-lowering) | Comprehensive: therapeutic uses, dosing, contraindications, side effects, pricing |
+| Nepvol 5 mg | Nebivolol | Beta-blocker | Robust: mechanism, dosage by indication, pricing |
+| Controloc 20 mg | Pantoprazole | Proton pump inhibitor | Core: indications, dosage, price |
+| Aerius 5 mg | (Antihistamine) | Antihistamine | Core: indications, dosing, price; ingredient not explicitly named |
+| Telfast 180 mg | Fexofenadine | Antihistamine (non-drowsy) | Detailed: MoA, dosing, contraindications, side effects, storage |
+| Panadol Extra | Paracetamol + Caffeine | Analgesic/antipyretic | Core: indications, pricing; dosing specifics limited |
+| Enterogermina 4B/5 ml | Bacillus clausii | Probiotic | Robust: dosing, storage, price |
+| Maalox Sachets | Mg(OH)2 + Al(OH)2 | Antacid | Detailed: dosing, contraindications, side effects |
+| Bronchicum S Elixir | Thyme + Primrose extracts | Herbal cough remedy | Detailed: dosing, contraindications, side effects |
+| Flixonase Nasal Spray | Fluticasone | Nasal steroid | Robust: dosing, precautions, price |
+
+Brief product notes:
+
+- Statins (Deconadal, Crestor). Deconadal’s page includes detailed therapeutic uses, dosing, contraindications, and side effects, including boxed warnings for myopathy and clear instructions for nighttime dosing to inhibit nocturnal cholesterol synthesis. Crestor’s page provides dosage ranges, side-effect profiles, and comparative notes versus other lipid-lowering agents, including Ator and Rositor.[^9][^12]
+- Beta-blocker (Nepvol). Nepvol details vasodilatory beta-blockade, dosing for hypertension and heart failure, and price. Missing fields include contraindications and storage—flagged for re-crawl.[^7]
+- Proton pump inhibitor (Controloc). Controloc’s page provides basic indications and dosing for adults and adolescents (≥12 years), brand name, pack size, and price.[^10]
+- Antihistamines (Aerius, Telfast). Aerius lists indications and pricing, with dosing ranges but omits explicit active ingredient and several safety fields. Telfast provides fexofenadine-based content with detailed dosing, contraindications (e.g., with antacids), juice interactions, side effects, and storage.[^6][^11]
+- Analgesics (Panadol Extra, Doliprane 1000). Panadol Extra includes indications and price but limited dosing specifics on the referenced page. Doliprane 1000 provides detailed dosing intervals, contraindications (including specific drug interactions), special population guidance, and onset/duration.[^4][^5]
+- Probiotic (Enterogermina 4B). Strong presence of dosing, administration instructions, and storage (≤30°C).[^8]
+- Antacid (Maalox Sachets). Comprehensive dosing for adults, timing guidance, maximum daily doses, treatment duration limits, side effects, and storage (≤30°C).[^13]
+- Herbal cough remedy (Bronchicum S Elixir). Clear dosing for adults and children ≥5 years, contraindications and warnings (including diabetics and pregnancy), and side effect profiles.[^14]
+- Nasal steroid (Flixonase). Detailed dosing and precautions; includes comparative alternatives and notes that the product contains a cortisone derivative.[^15]
+
+These exemplars confirm the feasibility of rich field coverage for the 1401+ subset and inform the standardization and validation pipelines.
+
+## Data Quality, Validation, and Standardization
+
+A disciplined pipeline is essential for clinical and operational reliability.
+
+- Deduplication. Detect duplicates using composite keys: normalized product_name + strength + pack_size + brand_name. Merge variants differing only by diacritics or spacing; retain aliases.
+- Category normalization. Map diverse labels to a controlled therapeutic taxonomy (“Antacid,” “Probiotic,” “Antihistamine,” “Nasal steroid,” “Lipid-lowering agent,” “Antipsychotic”). Use subcategory mappings to resolve ambiguous cases.
+- Prescription flag. Default to true for classes with prescription norms (e.g., antipsychotics, anticoagulants, statins). For OTC-heavy classes (e.g., antacids, many antihistamines, simple analgesics), default to false and flag uncertain cases for clinical review.
+
+Table 10. Validation Rules Matrix
+| Rule | Type | Action | Example |
+|---|---|---|---|
+| Name canonicalization | Normalization | Strip diacritics, collapse whitespace | “بانادول اكسترا” → “بانادول اكسترا” (cleaned) |
+| Strength normalization | Normalization | Enforce “X mg,” “X mcg,” “X%” | “0.15٪” → “0.15%” |
+| Pack size parsing | Normalization | Convert to “N units” | “21 قرص” → “21 tablets” |
+| Duplicate detection | QC | Merge duplicates; retain aliases | Same brand + strength + pack size |
+| Category mapping | QC | Map to controlled vocabulary | “Cholesterol and Fats” → “Lipid-lowering agent” |
+| Prescription inference | QC | Set boolean; flag for review | Abilify (Antipsychotic) → true |
+| Price parsing | QC | Numeric; reject non-numeric | “144” EGP → 144 |
+
+## Consolidation, Deduplication, and Brand Normalization
+
+Brand normalization resolves script and spacing variants and aligns generics with branded equivalents. Given known fragmentary page files, provenance fields (source_file, source_page, extraction_timestamp) are essential for auditing merges and tracing discrepancies.
+
+Table 11. Brand Normalization Map (examples)
+| Observed variant | Canonical brand | Notes |
+|---|---|---|
+| بانادول, Panadol | Panadol | Latin/Arabic script variants |
+| دوليبران, Doliprane, Novaldol | Doliprane | Brand vs. generic labeling |
+| بروفسين, Brufen | Brufen | Spelling variants |
+| كونترولوك, Controloc | Controloc | Transliteration variants |
+
+Approach. Cluster by near-identical normalized names and overlapping dosage/pack attributes. Resolve brand conflicts by preferring the richer clinical record (fewer nulls). Preserve source_page and file mappings in an audit array for post-hoc verification.
+
+## Output Specification and File Generation
+
+The final consolidated dataset is delivered as a single JSON file: data/overviews/medications_final/medications_overview_final.json. The file uses a stable, versioned structure suitable for clinical and operational consumers.
+
+- Format. UTF-8 encoded JSON with a top-level object containing metadata and a products array.
+- Metadata. Include source scope, record counts, schema version, extraction timestamp, and provenance summary (pages processed, anomalies).
+- Products. A canonical, deduplicated array, sorted by product_id ascending, with no duplicate product_id values. All 1401+ records present and complete per the schema.
+
+Table 12. Output JSON Metadata Schema
+| Field | Type | Example | Required |
+|---|---|---|---|
+| schema_version | String | “1.0.0” | Yes |
+| source_catalog | String | “Chefaa Medications Category” | Yes |
+| extraction_date | ISO-8601 | “2025-11-01T12:00:00Z” | Yes |
+| total_products | Integer | 2280 | Yes |
+| products_1401_plus_count | Integer | 880 | Yes |
+| page_range_processed | String | “1–134” | Yes |
+| missing_pages | Array[Integer] | [5,6,7,68] | Yes |
+| zero_result_pages | Array[String] | [“55–61”, “73–83”] | Yes |
+| deduplication_policy | String | “Normalized name + strength + pack_size + brand” | Yes |
+| category_taxonomy_version | String | “v2025.11” | Yes |
+| notes | String | “Final run after QC pass” | No |
+
+### Production Write Plan
+
+- Construct the canonical product list from all page files; deduplicate and normalize per rules.
+- Slice to IDs ≥ 1401, sort by product_id, and serialize to the target file.
+- Compute and record integrity checksums (e.g., SHA-256) for the final file to detect downstream corruption or tampering.
+- Maintain a change log capturing counts, rule versions applied, and any exceptions.
+
+## Quality Assurance and Acceptance Criteria
+
+Quality assurance spans content completeness and clinical/operational integrity.
+
+- Completeness. All products from page files included; the 1401+ subset fully present.
+- Consistency. Names, strengths, categories internally consistent; brand variants resolved.
+- Traceability. Each product retains product_link (if available), source_file, and source_page; product 1401 matches the known anchor (ديكونادال).
+- Acceptance tests. Structured checks for duplicates, nulls in required fields, schema compliance, and price normalization.
+
+Table 13. Acceptance Test Checklist
+| Test | Description | Result |
+|---|---|---|
+| Record count | Total and 1401+ counts match expected | Pass/Fail |
+| Anchor verification | Product 1401 is “ديكونادال” | Pass/Fail |
+| Duplicate scan | Zero duplicates by composite key | Pass/Fail |
+| Required fields | No nulls in product_id, names, category | Pass/Fail |
+| URL validity | Constructed product_link resolves (sample) | Pass/Fail |
+| Price format | Numeric EGP, no stray text | Pass/Fail |
+| Category mapping | Controlled vocabulary applied | Pass/Fail |
+
+![QA Visual Check: Product page structure confirmation](/workspace/research_output/screenshots/chefaa_doliprane_product_page.png)
+
+The QA visual check confirms expected field presence and structure on detail pages, informing both validation rules and extraction heuristics.[^5]
+
+## Risks, Constraints, and Mitigations
+
+Dynamic loading and pagination. Chefaa’s dynamic content and category pagination can yield intermittent errors, zero-result pages, or missing files. Mitigate with explicit page file inventories, retries for detail fetches, and fallback enrichment from subcategory summaries.[^2][^6]
+
+Incomplete detail pages. Not all listings expose clinical data. Mitigate by retaining minimal viable records, marking fields as null, and prioritizing re-crawl windows for high-clinical-importance products (e.g., prescription-only agents).
+
+Language and transliteration. Arabic/English mismatches require robust normalization. Mitigate with diacritic stripping, spacing normalization, and alias lists to ensure cross-variant matching.
+
+Schema drift. Variance in listing structures can introduce field drift. Mitigate via schema versioning, tolerant parsing, and an updated field catalog.
+
+Table 14. Risk Register
+| Risk | Impact | Likelihood | Mitigation | Owner |
+|---|---|---|---|---|
+| Missing pages (5,6,7,68) | Coverage gaps | Medium | Flag gaps; attempt alternate link sources; annotate final metadata | Data engineering |
+| Zero-result pages | Incomplete sequences | Medium | Validate counts; re-run windows; accept if reproducible | Data engineering |
+| Dynamic loading errors | Retrieval failure | Medium | Retries/backoff; concurrency caps; staggered schedules | Data engineering |
+| Language/transliteration variants | Mismatched merges | High | Normalization pipeline; alias list; manual review of edge cases | Data curation |
+| Schema drift | Field mapping issues | Medium | Schema versioning; mapping cheatsheet updates | Data engineering |
+| Prescription inference ambiguity | Regulatory misclassification | Medium | Conservative defaults; flag for clinical review | Clinical editor |
+
+## Work Plan and Milestones
+
+The plan is organized into five milestones, each with explicit exit criteria to ensure progress and quality.
+
+Table 15. Milestone Timeline
+| Milestone | Tasks | Exit Criteria |
+|---|---|---|
+| Inventory | Compile page file list; index products; record gaps | Complete page index; per-page counts recorded |
+| Sequence assembly | Enumerate and canonicalize; deduplicate; slice 1401+ | Sequenced, deduplicated list; 1401 anchor verified |
+| Extraction | Harvest links; detail page crawl with retries | ≥90% completeness on target fields for 1401+ |
+| Validation & QA | Run normalization, category mapping, acceptance tests | All acceptance tests pass; residual risks documented |
+| Delivery | Serialize to final JSON; compute checksums; archive provenance | Output file created; metadata complete; checksum logged |
+
+Dependencies. The plan assumes stable access to Chefaa’s category listings and product pages and adequate compute for concurrent retrieval within polite rate limits.[^2][^6]
+
+## Appendix: Source Evidence and Examples
+
+The following references and visuals ground the design decisions and validation approach.
+
+![Category Landing Confirmation](/workspace/docs/chefaa_homepage/chefaa_medications_category.png)
+
+![Listing Pattern Reference](/workspace/docs/chefaa_homepage/chefaa_medications_listing.png)
+
+![Detail Page Field Pattern](/workspace/research_output/screenshots/chefaa_doliprane_product_page.png)
+
+As evidenced by the category and listing views, the site uses a consistent product card layout with pagination, and detail pages expose the fields required for the proposed schema.[^2][^4][^5][^6]
+
+## Information Gaps
+
+- Active ingredient name is not explicitly stated on the Aerius product page; only dosage strength and uses are visible.
+- Several products (e.g., Nepvol, Aerius) omit contraindications, side effects, and storage conditions.
+- Constructed product_detail_link values are not verified; they require validation against live listings or link harvesting.
+- Subcategory summaries may overlap with page-based products; deduplication policies need confirmation during production runs.
+- Final deduplication and brand normalization rules must be codified prior to serialization.
+- Mapping from the current inventory to the strict sequential product IDs (1…2280) relies on enumeration rules that require confirmation during the sequence assembly milestone.
+
+## References
+
+[^1]: Chefaa Homepage (EN). https://chefaa.com  
+[^2]: Chefaa Medications Category (AR). https://chefaa.com/eg-ar/now/category/medications  
+[^3]: Chefaa Homepage (AR). https://chefaa.com/eg-ar/  
+[^4]: Chefaa Product Page Example: Panadol Extra. https://chefaa.com/eg-ar/nowProduct/panadol-extra-tab  
+[^5]: Chefaa Product Page Example: Doliprane 1000 mg (Novaldol). https://chefaa.com/eg-ar/nowProduct/novaldol-analgesic-and-pain-killer-1000-mg-15-tablets_duYpVP2r_duzDVQep  
+[^6]: Chefaa Medications Category Pagination Example: Page 2. https://chefaa.com/eg-ar/now/category/medications/page/2  
+[^7]: Chefaa Product Page Example: Nepvol 5 mg. https://chefaa.com/eg-ar/nowProduct/nepvol-5-mg-30-tabs-jdsf  
+[^8]: Chefaa Product Page Example: Enterogermina 4 Billion/5 ml. https://chefaa.com/eg-ar/nowProduct/enterogermina-oral-suspension-4-billion-5-ml-oral-10-vials-f9yk  
+[^9]: Chefaa Product Page Example: Deconadal 20 mg. https://chefaa.com/nowProduct/deconadal-20-mg-21-tablets-zmlh  
+[^10]: Chefaa Product Page Example: Controloc 20 mg. https://chefaa.com/eg-ar/nowProduct/controloc-antacid-20mg-14tab  
+[^11]: Chefaa Product Page Example: Telfast 180 mg. https://chefaa.com/eg-ar/nowProduct/telfast-antihistamine-allergy-tablets-180-mg-20-tablets  
+[^12]: Chefaa Product Page Example: Crestor 10 mg. https://chefaa.com/eg-ar/nowProduct/crestor-10mg-28tab-cynn  
+[^13]: Chefaa Product Page Example: Maalox Sachets. https://chefaa.com/eg-ar/nowProduct/maalox-antacid-oral-suspensions-in-sachets-lemon-flavoring-20-sachets-each-5ml-stomach-pain-heartburn-gastroesophageal-reflux  
+[^14]: Chefaa Product Page Example: Bronchicum S Elixir. https://chefaa.com/eg-ar/nowProduct/bronchicum-s-elixir-anti-cough-elixir-100-ml  
+[^15]: Chefaa Product Page Example: Flixonase Nasal Spray. https://chefaa.com/eg-ar/nowProduct/flixonase-nasal-spray  
+[^16]: Chefaa Product Page Example: Aerius 5 mg. https://chefaa.com/eg-ar/nowProduct/aerius-5mg-30-tab

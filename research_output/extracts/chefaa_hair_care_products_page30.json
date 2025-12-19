@@ -1,0 +1,168 @@
+📄 Extracted from page: العناية بالشعر - شفاء
+URL: https://chefaa.com/eg-ar/now/category/hair-care?page=30
+
+Extracted content:
+```json
+{
+  "title": "العناية بالشعر - شفاء",
+  "url": "https://chefaa.com/eg-ar/now/category/hair-care?page=30",
+  "summary": "This page is part of Chefaa's online pharmacy in Egypt, showcasing a variety of hair care products. It lists products such as hair dyes, conditioners, hair oils, serums, and hair masks from different brands, along with their prices in Egyptian Pounds (EGP) and volume/size information. Users can browse these items and navigate to individual product pages.",
+  "key_points": [
+    "A listing of 20 different hair care products.",
+    "Products include hair dyes, conditioners, hair oils, serums, and hair masks.",
+    "Each product entry specifies the product name, brand, price in EGP, volume/size, and a direct URL.",
+    "The page is in Arabic and provides navigation for various sub-categories of hair care.",
+    "Prices range from 120 EGP to 400 EGP for the listed items."
+  ],
+  "relevant_links": [
+    "https://chefaa.com:443/eg-ar/now/category/hair-care",
+    "https://chefaa.com:443/eg-ar/now/category/hair-care/shampoo-conditioner",
+    "https://chefaa.com:443/eg-ar/now/category/hair-care/nourishment-treatment",
+    "https://chefaa.com:443/eg-ar/now/category/hair-care/hair-styling-devices",
+    "https://chefaa.com:443/eg-ar/now/category/hair-care/hair-coloring"
+  ],
+  "hair_care_products": [
+    {
+      "product_name": "باليت صبغة طبيعية دائمة بني فاتح (0-5)",
+      "brand_name": "Palette",
+      "price_egp": 124,
+      "volume_size": "50 مل",
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/palette-permanent-naturals-color-creme-5-0-light-brown-50ml-zgdw"
+    },
+    {
+      "product_name": "كريم صبغة الشعر انتنسيف كولور 5-68 كستنائي متوسط",
+      "brand_name": "Palette",
+      "price_egp": 120,
+      "volume_size": "50 مل",
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/palette-intensive-color-cream-5-68-medium-chestnut-50ml-et6e"
+    },
+    {
+      "product_name": "زيت للشعر",
+      "brand_name": "Energy",
+      "price_egp": 400,
+      "volume_size": "100مل",
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/energy-serum-snake-oil-100ml-hyj8"
+    },
+    {
+      "product_name": "بلسم الكيراتين الناعم بزيت الأرجان للشعر الجاف وال...",
+      "brand_name": "TRESemmé",
+      "price_egp": 240,
+      "volume_size": "600 مل",
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/tresemme-keratin-conditioner-600-ml-wxqa"
+    },
+    {
+      "product_name": "زيت فازلين تونك للشعر",
+      "brand_name": "Vaseline",
+      "price_egp": 150,
+      "volume_size": "200مل",
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/vaseline-hair-tonic-and-scalp-conditioner-200ml-i884"
+    },
+    {
+      "product_name": "شامبو مغذي للشعر بالزيت اكسترا اورديناري الف...",
+      "brand_name": "L'Oréal Paris",
+      "price_egp": 245,
+      "volume_size": "600مل",
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/loreal-paris-elvive-extraordinary-oil-nourishing-shampoo-600ml-yabn"
+    },
+    {
+      "product_name": "شامبو الفيف دريم طويل مستقيم",
+      "brand_name": "L'Oréal Paris",
+      "price_egp": 265,
+      "volume_size": "600مل",
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/lor%C3%A9al-paris-elvive-dream-long-straight-shampoo-600ml-5phb"
+    },
+    {
+      "product_name": "أوليف أويل سبراي لقوة ولمعان الشعر بزيت الارجان",
+      "brand_name": "ORS",
+      "price_egp": 120,
+      "volume_size": "275مل",
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/ors-olive-oil-fortifying-sheen-spray-with-argan-oil-275ml-igvx"
+    },
+    {
+      "product_name": "سيروم بالشاي وزيت النعناع",
+      "brand_name": "Ever Pure",
+      "price_egp": 300,
+      "volume_size": "150مل",
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/ever-pure-tea-tree-mint-serum-hydration-150ml-ionz"
+    },
+    {
+      "product_name": "حمام كريم ماسك للشعر بخلاصة الحبة السوداء",
+      "brand_name": "Trichup",
+      "price_egp": 165,
+      "volume_size": "500 مل",
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/trichup-black-seed-hot-oil-treatment-hair-mask-500ml-9eaj"
+    },
+    {
+      "product_name": "حمام كريم ماسك لتطويل وتقوية الشعر",
+      "brand_name": "Trichup",
+      "price_egp": 168,
+      "volume_size": "450مل",
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/trichup-healthy-long-and-strong-hot-oil-treatment-hair-mask-500ml-bg2s"
+    },
+    {
+      "product_name": "ماسك للشعر بالفواكه المختلطة",
+      "brand_name": "FashKool",
+      "price_egp": 200,
+      "volume_size": "500مل",
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/fash-kool-hair-mask-500ml-mixed-fruits-vgwp"
+    },
+    {
+      "product_name": "شامبو برو-في عناية ملكي لإصلاح التلف",
+      "brand_name": "Pantene",
+      "price_egp": 225,
+      "volume_size": "400مل",
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/pantene-pro-v-milky-damage-repair-shampoo-400ml-pgdp"
+    },
+    {
+      "product_name": "سيروم للتحكم في التجعد",
+      "brand_name": "Dabur Amla",
+      "price_egp": 175,
+      "volume_size": "50مل",
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/dabur-amla-serum-frizz-control-50ml-oo8l"
+    },
+    {
+      "product_name": "زيت الشعر لمنع تساقط الشعر",
+      "brand_name": "Trichup",
+      "price_egp": 160,
+      "volume_size": "200 مل",
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/trichup-hair-oil-hair-fall-control-qvpg"
+    },
+    {
+      "product_name": "زيت لشعر طويل وقوي",
+      "brand_name": "Trichup",
+      "price_egp": 150,
+      "volume_size": "200مل",
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/trichup-hair-oil-strong-200-ml-ahgp"
+    },
+    {
+      "product_name": "سيرم تقليل هيشان الشعر",
+      "brand_name": "Trichup",
+      "price_egp": 150,
+      "volume_size": "60 مل",
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/trichup-frizz-control-serum-60-ml-xefd"
+    },
+    {
+      "product_name": "شامبو كول سبورت بالمنثول للرجال",
+      "brand_name": "Clear",
+      "price_egp": 140,
+      "volume_size": "360مل",
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/clear-shampoo-cool-sport-menthol-360ml-tper"
+    },
+    {
+      "product_name": "سيروم اصلاح وترميم الشعر",
+      "brand_name": "Vatika Naturals",
+      "price_egp": 170,
+      "volume_size": "47مل",
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/vatika-naturals-hair-serum-repair-restore-47ml-i20v"
+    },
+    {
+      "product_name": "سيروم الشعر مقاوم التجعد بالزيتون واللوز والحناء",
+      "brand_name": "Vatika",
+      "price_egp": 170,
+      "volume_size": "47مل",
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/vatika-naturals-hair-serum-frizz-control-47ml-rtxo"
+    }
+  ],
+  "file_name": "chefaa_hair_care_products_page30.json"
+}
+```

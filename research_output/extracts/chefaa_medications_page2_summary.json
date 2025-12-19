@@ -1,0 +1,31 @@
+📄 Extracted from page: الأدوية - شفاء
+URL: https://chefaa.com/eg-ar/now/category/medications?brands=&offers=undefined&page=2
+
+Extracted content:
+```json
+{
+  "title": "الأدوية - شفاء",
+  "url": "https://chefaa.com/eg-ar/now/category/medications?brands=&offers=undefined&page=2",
+  "summary": "This page displays a list of 40 medication products. The current page is page 2 of a total of 178 pages. Pagination controls are present allowing navigation to previous, next, and specific page numbers.",
+  "key_points": [
+    "Number of products displayed: 40",
+    "Current page in pagination: 2",
+    "Total number of available pages for medications: 178",
+    "Pagination controls include links for: Previous page (page 1), specific page numbers (1, 3, 4, 5, 6, 7, 8, 9, 10, 177, 178), and Next page (page 3)."
+  ],
+  "relevant_links": [
+    "https://chefaa.com:443/eg-ar/now/category/medications?page=1",
+    "https://chefaa.com:443/eg-ar/now/category/medications?page=3",
+    "https://chefaa.com:443/eg-ar/now/category/medications?page=4",
+    "https://chefaa.com:443/eg-ar/now/category/medications?page=5",
+    "https://chefaa.com:443/eg-ar/now/category/medications?page=6",
+    "https://chefaa.com:443/eg-ar/now/category/medications?page=7",
+    "https://chefaa.com:443/eg-ar/now/category/medications?page=8",
+    "https://chefaa.com:443/eg-ar/now/category/medications?page=9",
+    "https://chefaa.com:443/eg-ar/now/category/medications?page=10",
+    "https://chefaa.com:443/eg-ar/now/category/medications?page=177",
+    "https://chefaa.com:443/eg-ar/now/category/medications?page=178"
+  ],
+  "file_name": "chefaa_medications_page2_summary.json"
+}
+```

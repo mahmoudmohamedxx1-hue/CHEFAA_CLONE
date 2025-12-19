@@ -1,0 +1,22 @@
+{
+  "extraction_summary": {
+    "status": "BATCHES_READY_FOR_EXTRACTION",
+    "total_products_to_process": 880,
+    "total_batches_created": 8,
+    "first_product_1401": {
+      "medication_name": "ديكونادال",
+      "price_egp": 82.5,
+      "brand_manufacturer": "Generic",
+      "dosage_information": "10 مجم | 21 قرص",
+      "prescription_requirements": "RX",
+      "therapeutic_category": "Cholesterol and Fats",
+      "special_notes": "None",
+      "sequential_id": 1401,
+      "source_page": 90,
+      "source_file": "medications_page_90_phase5_batch1.json"
+    },
+    "extraction_method": "batch_extraction_with_fallback_urls",
+    "estimated_extraction_time": "16 minutes (20 products per batch)"
+  },
+  "ready_for_extraction": true
+}

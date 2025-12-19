@@ -1,0 +1,75 @@
+📄 Extracted from page: العناية بالشعر - شفاء
+URL: https://chefaa.com/eg-ar/now/category/hair-care
+
+Extracted content:
+```json
+{
+  "title": "العناية بالشعر - شفاء",
+  "url": "https://chefaa.com/eg-ar/now/category/hair-care",
+  "summary": "This page is the main landing for the 'Hair Care' section on the Chefaa e-commerce platform. It provides a list of hair care products, categorized into various sub-sections. Users can browse products, apply filters based on several criteria (e.g., brand, hair type, price), and sort the results. The page also includes global navigation for other categories like medications, skin care, mother & baby, etc., and offers location-based delivery services.",
+  "key_points": [
+    {
+      "section_name": "Hair Care",
+      "subcategories": [
+        { "name": "كل العناية بالشعر", "url": "https://chefaa.com:443/eg-ar/now/category/hair-care" },
+        { "name": "شامبو وبلسم", "url": "https://chefaa.com:443/eg-ar/now/category/hair-care/shampoo-conditioner" },
+        { "name": "ترطيب وعلاج الشعر", "url": "https://chefaa.com:443/eg-ar/now/category/hair-care/nourishment-treatment" },
+        { "name": "اجهزة تصفيف الشعر", "url": "https://chefaa.com:443/eg-ar/now/category/hair-care/hair-styling-devices" },
+        { "name": "صبغات الشعر", "url": "https://chefaa.com:443/eg-ar/now/category/hair-care/hair-coloring" }
+      ]
+    },
+    {
+      "products_displayed_on_page": [
+        { "name": "ماسك الو ايفا بالصبار وبروتينات الزبادى للشعر | 250 جم", "price": "75 جنيه" },
+        { "name": "إيڤا هير كلينك | كيرلي ليف ان | 200 مل", "price": "160 جنيه" },
+        { "name": "إيفا | اوبتيموم كير ريسبي هايدريتنج بلند شامبو برائحة التوت...", "price": "125 جنيه" },
+        { "name": "إيفا | اوبتيموم كير ريسبي نوريشينج بلند بلسم برائحة جوز اله...", "price": "125 جنيه" },
+        { "name": "إيفا | اوبتيموم كير ريسيبي نوريشينج بلند شامبو برائحة جوز ا...", "price": "125 جنيه" },
+        { "name": "إيفا | اوبتيموم كير ريسبي سيلك أند شاين بلند بلسم برائحة ال...", "price": "130 جنيه" },
+        { "name": "شامبو ايفا بالمارشميلو اوبتيموم كير ريسيبي | 350 مل", "price": "125 جنيه" },
+        { "name": "إيفا | اوبتيموم كير ريسبي سترينث بوستر بلند بلسم برائحة الم...", "price": "125 جنيه" },
+        { "name": "إيفا | اوبتيموم كير ريسبي سترينث بوستر بلند شامبو برائحة ال...", "price": "125 جنيه" },
+        { "name": "ديرما اكتيف | تريكو اكت لوشن تساقط | 120مل", "price": "299 جنيه" },
+        { "name": "ديرما اكتيف | تريكو اكت هير ماسك | 150مل", "price": "199 جنيه" },
+        { "name": "لونا | كريم الأكسجين 6% حجم 20 متعدد الألوان | 100مل", "price": "20 جنيه" },
+        { "name": "سيلينجينا | شامبو ضد القشرة | 220مل", "price": "165 جنيه" },
+        { "name": "لوريال | بلسم إلفيف هيالورون مويستشر 72 ساعة | 360مل", "price": "195 جنيه" },
+        { "name": "لوريال | الفيف إكستروردنري اويل زيت المغذي | 300مل", "price": "410 جنيه" },
+        { "name": "لوريال | صبغة شعر اكسلنس مع شامبو بنفسجي وماسك للشعر - 7.12...", "price": "327 جنيه" },
+        { "name": "صبغة لوريال اكسلانس آش سوبريم | 8.12 أشقر لؤلؤي رمادى فاتح", "price": "296 جنيه" },
+        { "name": "لوريال | صبغة الشعر الدائمة بروديجي 2.1 أسود رمادي", "price": "356 جنيه" },
+        { "name": "لوريال الفيف | بيور هيالورون شامبو للشعر الدهني | 200مل", "price": "125 جنيه" },
+        { "name": "لوريال باريس | صبغة كريم لشعر لامع وبراق 513 بني فاتح رمادي", "price": "460 جنيه" }
+      ]
+    },
+    {
+      "navigation_and_filters": {
+        "breadcrumbs": "الرئيسية > العناية بالشعر",
+        "global_categories": [
+          "الأدوية", "العناية بالشعر", "العناية بالبشرة", "العناية اليومية", "الأم والطفل",
+          "المكياج و الاكسسوارات", "المستلزمات الطبية", "الفيتامينات والمكملات", "الصحة الجنسية", "مستلزمات الحيوانات"
+        ],
+        "filtering_options": [
+          "الأقسام الأساسية", "الأقسام الفرعية", "الأقسام الفرعية الثانوية", "الماركات", "النوع",
+          "نوع البشرة", "التكوين", "الحجم", "التركيز", "اللون", "الفئة العمرية", "العناية بالاسنان",
+          "نوع الشعر", "لون الشعر", "حجم العبوه", "مناسب ل", "خالي من", "مميزات خاصة", "الرائحة",
+          "المذاق", "السعر"
+        ],
+        "sorting_options": [
+          "المتاح فقط", "السعر : من الأعلى إلى الأقل", "السعر : من الأقل إلى الأعلى"
+        ],
+        "pagination": "Pages 1 to 51, with navigation for previous, next, and specific page numbers."
+      }
+    }
+  ],
+  "relevant_links": [
+    "https://chefaa.com:443/eg-ar/now/category/hair-care",
+    "https://chefaa.com:443/eg-ar/now/category/hair-care/shampoo-conditioner",
+    "https://chefaa.com:443/eg-ar/now/category/hair-care/nourishment-treatment",
+    "https://chefaa.com:443/eg-ar/now/category/hair-care/hair-styling-devices",
+    "https://chefaa.com:443/eg-ar/now/category/hair-care/hair-coloring",
+    "https://chefaa.com:443/eg-ar"
+  ],
+  "file_name": "chefaa_hair_care_details.json"
+}
+```

@@ -1,0 +1,30 @@
+{
+  "extraction_metadata": {
+    "source": "Chefaa.com Phase 5 medications data",
+    "target_products": "1201-1400",
+    "pages_processed": [
+      60,
+      61,
+      62,
+      63,
+      64,
+      65,
+      66,
+      67,
+      68,
+      69,
+      70,
+      71,
+      72,
+      73,
+      74,
+      75
+    ],
+    "total_found": 0,
+    "with_urls": 0,
+    "target_extraction_count": 0,
+    "extraction_date": "2025-11-01"
+  },
+  "all_medications": [],
+  "target_medications": []
+}

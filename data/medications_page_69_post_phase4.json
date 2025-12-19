@@ -1,0 +1,220 @@
+{
+  "extraction_metadata": {
+    "page_number": 69,
+    "phase": "Post-Phase 4",
+    "extraction_date": "2025-11-01",
+    "source_url": "https://chefaa.com/eg-ar/now/category/medications?page=69",
+    "total_medications_extracted": 20,
+    "cumulative_total": 1217,
+    "progress_to_50_percent": "90.8% (1,217/1,340)"
+  },
+  "medications": [
+    {
+      "arabic_name": "ليمتلس مان مالتي جاميز",
+      "english_brand_name": "Limitless Man Multi Gummies",
+      "price_egp": 320,
+      "availability_status": "Available",
+      "prescription_required": false,
+      "dosage_information": "90 gummies",
+      "therapeutic_uses": "Multivitamin for men"
+    },
+    {
+      "arabic_name": "سيمباتكس",
+      "english_brand_name": "Cymbatex",
+      "price_egp": 228,
+      "availability_status": "Available",
+      "prescription_required": true,
+      "dosage_information": "30mg | 30 capsules",
+      "therapeutic_uses": "Antibiotic"
+    },
+    {
+      "arabic_name": "تينورمين",
+      "english_brand_name": "Tenormin",
+      "price_egp": 29,
+      "availability_status": "Available",
+      "prescription_required": true,
+      "dosage_information": "50mg | 28 tablets",
+      "therapeutic_uses": "Blood pressure medication"
+    },
+    {
+      "arabic_name": "جي تي إن",
+      "english_brand_name": "GTN",
+      "price_egp": 140,
+      "availability_status": "Available",
+      "prescription_required": false,
+      "dosage_information": "Cream | 30g",
+      "therapeutic_uses": "Topical cream"
+    },
+    {
+      "arabic_name": "سيمبالتا",
+      "english_brand_name": "Cymbalta",
+      "price_egp": 544,
+      "availability_status": "Available",
+      "prescription_required": true,
+      "dosage_information": "60mg | 28 capsules",
+      "therapeutic_uses": "Antidepressant"
+    },
+    {
+      "arabic_name": "ديفلوستيرو",
+      "english_brand_name": "Diflustero",
+      "price_egp": 45,
+      "availability_status": "Available",
+      "prescription_required": true,
+      "dosage_information": "0.05% eye drops | 5ml",
+      "therapeutic_uses": "Eye drops for inflammation"
+    },
+    {
+      "arabic_name": "نيرفيزام",
+      "english_brand_name": "Nervizam",
+      "price_egp": 450,
+      "availability_status": "Available",
+      "prescription_required": false,
+      "dosage_information": "30 capsules",
+      "therapeutic_uses": "Nervous system support"
+    },
+    {
+      "arabic_name": "ميتاكارديا ام ار",
+      "english_brand_name": "Metacardia MR",
+      "price_egp": 60,
+      "availability_status": "Available",
+      "prescription_required": true,
+      "dosage_information": "35mg | 30 tablets",
+      "therapeutic_uses": "Prevention of angina pectoris"
+    },
+    {
+      "arabic_name": "ديباكين",
+      "english_brand_name": "Depakine",
+      "price_egp": 60,
+      "availability_status": "Available",
+      "prescription_required": true,
+      "dosage_information": "200mg | 40 tablets",
+      "therapeutic_uses": "Epilepsy medication"
+    },
+    {
+      "arabic_name": "فيوسي - زون",
+      "english_brand_name": "Fusi-Zon",
+      "price_egp": 48,
+      "availability_status": "Available",
+      "prescription_required": false,
+      "dosage_information": "Cream | 15g",
+      "therapeutic_uses": "Antifungal cream"
+    },
+    {
+      "arabic_name": "الأنسولين ميكستارد 30",
+      "english_brand_name": "Insulin Mixtard 30",
+      "price_egp": 338,
+      "availability_status": "Available",
+      "prescription_required": true,
+      "dosage_information": "100 IU | 3ml | 5 cartridges",
+      "therapeutic_uses": "Diabetes treatment"
+    },
+    {
+      "arabic_name": "أكترابيد الأنسولين بنفيل",
+      "english_brand_name": "Actrapid Insulin Penfill",
+      "price_egp": 338,
+      "availability_status": "Available",
+      "prescription_required": true,
+      "dosage_information": "100 IU/ml | 5 vials | 3ml",
+      "therapeutic_uses": "Diabetes treatment"
+    },
+    {
+      "arabic_name": "ويلوفنج",
+      "english_brand_name": "Wellofung",
+      "price_egp": 48,
+      "availability_status": "Available",
+      "prescription_required": false,
+      "dosage_information": "2% cream | 40g",
+      "therapeutic_uses": "Antifungal cream"
+    },
+    {
+      "arabic_name": "مورنيجاج",
+      "english_brand_name": "Mornigag",
+      "price_egp": 66,
+      "availability_status": "Available",
+      "prescription_required": true,
+      "dosage_information": "10/10mg | 30 tablets",
+      "therapeutic_uses": "Blood pressure medication"
+    },
+    {
+      "arabic_name": "ميوبيراكس مرهم موضعي",
+      "english_brand_name": "Mupirax",
+      "price_egp": 118,
+      "availability_status": "Available",
+      "prescription_required": false,
+      "dosage_information": "Topical ointment | 30g",
+      "therapeutic_uses": "Topical antibiotic ointment"
+    },
+    {
+      "arabic_name": "اميونوماش",
+      "english_brand_name": "Immuno Mash",
+      "price_egp": 90,
+      "availability_status": "Available",
+      "prescription_required": false,
+      "dosage_information": "30 tablets",
+      "therapeutic_uses": "For improving and strengthening immunity"
+    },
+    {
+      "arabic_name": "تريتاس كومب أل أس",
+      "english_brand_name": "Tritace Comb LS",
+      "price_egp": 70,
+      "availability_status": "Available",
+      "prescription_required": true,
+      "dosage_information": "2.5/12.5mg | 14 tablets",
+      "therapeutic_uses": "For treating high blood pressure"
+    },
+    {
+      "arabic_name": "موزابرايد",
+      "english_brand_name": "Mosapride",
+      "price_egp": 33,
+      "availability_status": "Available",
+      "prescription_required": false,
+      "dosage_information": "2.5mg | 10 tablets",
+      "therapeutic_uses": "Digestive motility medication"
+    },
+    {
+      "arabic_name": "فيروديونال",
+      "english_brand_name": "Ferroduonal",
+      "price_egp": 135,
+      "availability_status": "Available",
+      "prescription_required": true,
+      "dosage_information": "30 capsules",
+      "therapeutic_uses": "Iron supplement"
+    },
+    {
+      "arabic_name": "فافيرين",
+      "english_brand_name": "Faverin",
+      "price_egp": 261,
+      "availability_status": "Available",
+      "prescription_required": true,
+      "dosage_information": "100mg | 30 tablets",
+      "therapeutic_uses": "Antibiotic"
+    }
+  ],
+  "therapeutic_categories": {
+    "diabetes": ["Insulin Mixtard 30", "Actrapid Insulin Penfill"],
+    "blood_pressure": ["Tenormin", "Metacardia MR", "Tritace Comb LS", "Mornigag"],
+    "antibiotics": ["Cymbatex", "Faverin"],
+    "antidepressants": ["Cymbalta"],
+    "epilepsy": ["Depakine"],
+    "heart_conditions": ["Metacardia MR"],
+    "antifungal": ["Fusi-Zon", "Wellofung"],
+    "topical_antibiotic": ["Mupirax"],
+    "eye_medications": ["Diflustero"],
+    "vitamins_supplements": ["Limitless Man Multi Gummies", "Immuno Mash"],
+    "iron_supplements": ["Ferroduonal"],
+    "nervous_system": ["Nervizam"],
+    "digestive": ["Mosapride"],
+    "topical": ["GTN cream"]
+  },
+  "price_analysis": {
+    "minimum_price": 29,
+    "maximum_price": 544,
+    "average_price": 165.8,
+    "total_page_value": 3316
+  },
+  "prescription_distribution": {
+    "prescription_required": 11,
+    "otc_available": 9,
+    "prescription_percentage": 55.0
+  }
+}

@@ -1,0 +1,1455 @@
+{
+  "extraction_info": {
+    "extraction_date": "2025-11-01",
+    "source": "Chefaa.com Hair Care Category",
+    "total_pages_extracted": 5,
+    "estimated_total_pages": 51,
+    "estimated_total_products": 1020,
+    "products_per_page": 20,
+    "total_products_extracted": 101,
+    "extraction_coverage": "9.8%",
+    "technical_notes": [
+      "Extraction partially completed due to website navigation instability",
+      "Complete data extracted for Pages 1, 2, 3, 5, 6 (100/1020 total estimated products)",
+      "Website redirected to wrong categories for pages 9+",
+      "Session management issues prevented full pagination"
+    ]
+  },
+  "metadata": {
+    "total_products": 101,
+    "price_range_egp": {
+      "min": 15,
+      "max": 660
+    },
+    "brands_found": [
+      "كابكسي (Capixy)",
+      "ORS",
+      "Capixy",
+      "Dermactive",
+      "Macro",
+      "Anivagene",
+      "Strong Ville",
+      "Clary",
+      "Garnier",
+      "Le Karites",
+      "Hepta",
+      "دوف (Dove)",
+      "Aloe Eva",
+      "هيركود (Hair Code)",
+      "L'Oréal Elvive",
+      "Betadine",
+      "Nitolic",
+      "لوريال باريس (L'Oreal Paris)",
+      "Justin Blue",
+      "Palmer's",
+      "كاريتيه (Karite)",
+      "Fang Rare",
+      "بوبانا (Bobana)",
+      "لونا (Luna)",
+      "دابر أملا (Dabur Amla)",
+      "Strongville",
+      "ايفا (Eva)",
+      "تريسمى (Tresemme)",
+      "كلاري (Clary)",
+      "Selengena",
+      "Bluebell Elone",
+      "آلو إيڤا (Aloe Eva)",
+      "L'Oréal Paris Elvive",
+      "Atrakta",
+      "Bless",
+      "Bio Soft",
+      "Rivadon",
+      "Alpecin",
+      "بيتادين (Betadine)",
+      "ACM",
+      "تيتلو (Tettello)",
+      "الو إيڤا (Aloe Eva)",
+      "Eva",
+      "Biopoint",
+      "Clear",
+      "L'Oréal",
+      "Hairoots",
+      "L'Oréal Paris",
+      "Dabur Vatika",
+      "Luna"
+    ],
+    "brand_count": 50,
+    "categories": {
+      "shampoos": 28,
+      "conditioners": 14,
+      "hair_masks": 7,
+      "hair_oils": 23,
+      "leave_in_creams": 6,
+      "hair_colors": 15,
+      "serums": 2,
+      "sprays": 4,
+      "creams": 20
+    },
+    "pages_extracted": [
+      {
+        "page": 1,
+        "products": 20,
+        "file": "chefaa_hair_care_products.json"
+      },
+      {
+        "page": 2,
+        "products": 20,
+        "file": "chefaa_hair_care_page2_products.json"
+      },
+      {
+        "page": 3,
+        "products": 20,
+        "file": "chefaa_hair_care_page_3.json"
+      },
+      {
+        "page": 5,
+        "products": 20,
+        "file": "chefaa_hair_care_page_5.json"
+      },
+      {
+        "page": 6,
+        "products": 20,
+        "file": "chefaa_hair_care_page_6_products.json"
+      }
+    ]
+  },
+  "products": [
+    {
+      "name": "Eva Aloe Eva Hair Mask with Aloe Vera & Yoghurt Proteins 250gm",
+      "name_arabic": "ماسك الو ايفا بالصبار وبروتينات الزبادى للشعر | 250 جم",
+      "brand": "Eva",
+      "price_egp": 75,
+      "description": "No description available",
+      "stock_status": "In Stock",
+      "specifications": {},
+      "ratings": "N/A",
+      "usage_instructions": "Not available on listing page",
+      "source_page": "chefaa_hair_care_products"
+    },
+    {
+      "name": "Eva Hair Clinic Curls Leave-in Cream 200ml",
+      "name_arabic": "إيڤا هير كلينك | كيرلي ليف ان | 200 مل",
+      "brand": "Eva",
+      "price_egp": 160,
+      "description": "No description available",
+      "stock_status": "In Stock",
+      "specifications": {},
+      "ratings": "N/A",
+      "usage_instructions": "Not available on listing page",
+      "source_page": "chefaa_hair_care_products"
+    },
+    {
+      "name": "Eva Optimum Care Recipe Hydrating Blend Conditioner Berries Scent 350ml",
+      "name_arabic": "إيفا | اوبتيموم كير ريسبي هايدريتنج بلند شامبو برائحة التوت...",
+      "brand": "Eva",
+      "price_egp": 125,
+      "description": "No description available",
+      "stock_status": "In Stock",
+      "specifications": {},
+      "ratings": "N/A",
+      "usage_instructions": "Not available on listing page",
+      "source_page": "chefaa_hair_care_products"
+    },
+    {
+      "name": "Eva Optimum Care Recipe Nourishing Blend Conditioner Coconut Scent 350ml",
+      "name_arabic": "إيفا | اوبتيموم كير ريسبي نوريشينج بلند بلسم برائحة جوز اله...",
+      "brand": "Eva",
+      "price_egp": 125,
+      "description": "No description available",
+      "stock_status": "In Stock",
+      "specifications": {},
+      "ratings": "N/A",
+      "usage_instructions": "Not available on listing page",
+      "source_page": "chefaa_hair_care_products"
+    },
+    {
+      "name": "Eva Optimum Care Recipe Nourishing Blend Shampoo Coconut Scent 350ml",
+      "name_arabic": "إيفا | اوبتيموم كير ريسيبي نوريشينج بلند شامبو برائحة جوز ا...",
+      "brand": "Eva",
+      "price_egp": 125,
+      "description": "No description available",
+      "stock_status": "In Stock",
+      "specifications": {},
+      "ratings": "N/A",
+      "usage_instructions": "Not available on listing page",
+      "source_page": "chefaa_hair_care_products"
+    },
+    {
+      "name": "Eva Optimum Care Recipe Silk & Shine Blend Conditioner Marshmallow Scent 350ml",
+      "name_arabic": "إيفا | اوبتيموم كير ريسبي سيلك أند شاين بلند بلسم برائحة ال...",
+      "brand": "Eva",
+      "price_egp": 130,
+      "description": "No description available",
+      "stock_status": "In Stock",
+      "specifications": {},
+      "ratings": "N/A",
+      "usage_instructions": "Not available on listing page",
+      "source_page": "chefaa_hair_care_products"
+    },
+    {
+      "name": "Eva Optimum Care Recipe Silk Shine Blend Shampoo Marshmallow Scent 350ml",
+      "name_arabic": "شامبو ايفا بالمارشميلو اوبتيموم كير ريسيبي | 350 مل",
+      "brand": "Eva",
+      "price_egp": 125,
+      "description": "No description available",
+      "stock_status": "In Stock",
+      "specifications": {},
+      "ratings": "N/A",
+      "usage_instructions": "Not available on listing page",
+      "source_page": "chefaa_hair_care_products"
+    },
+    {
+      "name": "Eva Optimum Care Recipe Strength Booster Blend Conditioner Mocha Scent 350ml",
+      "name_arabic": "إيفا | اوبتيموم كير ريسبي سترينث بوستر بلند بلسم برائحة الم...",
+      "brand": "Eva",
+      "price_egp": 125,
+      "description": "No description available",
+      "stock_status": "In Stock",
+      "specifications": {},
+      "ratings": "N/A",
+      "usage_instructions": "Not available on listing page",
+      "source_page": "chefaa_hair_care_products"
+    },
+    {
+      "name": "Eva Optimum Care Recipe Strength Booster Blend Shampoo Mocha Scent 350ml",
+      "name_arabic": "إيفا | اوبتيموم كير ريسبي سترينث بوستر بلند شامبو برائحة ال...",
+      "brand": "Eva",
+      "price_egp": 125,
+      "description": "No description available",
+      "stock_status": "In Stock",
+      "specifications": {},
+      "ratings": "N/A",
+      "usage_instructions": "Not available on listing page",
+      "source_page": "chefaa_hair_care_products"
+    },
+    {
+      "name": "Dermactive Tricho-Act Anti-Hair Loss Lotion Concentrate 120ml",
+      "name_arabic": "ديرما اكتيف | تريكو اكت لوشن تساقط | 120مل",
+      "brand": "Dermactive",
+      "price_egp": 299,
+      "description": "No description available",
+      "stock_status": "In Stock",
+      "specifications": {},
+      "ratings": "N/A",
+      "usage_instructions": "Not available on listing page",
+      "source_page": "chefaa_hair_care_products"
+    },
+    {
+      "name": "Dermactive Tricho-Act Hair Repairing Mask 150ml",
+      "name_arabic": "ديرما اكتيف | تريكو اكت هير ماسك | 150مل",
+      "brand": "Dermactive",
+      "price_egp": 199,
+      "description": "No description available",
+      "stock_status": "In Stock",
+      "specifications": {},
+      "ratings": "N/A",
+      "usage_instructions": "Not available on listing page",
+      "source_page": "chefaa_hair_care_products"
+    },
+    {
+      "name": "Luna Oxygen Cream 6% Vol20 Multicolour 100ml",
+      "name_arabic": "لونا | كريم الأكسجين 6% حجم 20 متعدد الألوان | 100مل",
+      "brand": "Luna",
+      "price_egp": 20,
+      "description": "No description available",
+      "stock_status": "In Stock",
+      "specifications": {},
+      "ratings": "N/A",
+      "usage_instructions": "Not available on listing page",
+      "source_page": "chefaa_hair_care_products"
+    },
+    {
+      "name": "Selengena Shampoo Anti-Dandruff 220ml",
+      "name_arabic": "سيلينجينا | شامبو ضد القشرة | 220مل",
+      "brand": "Selengena",
+      "price_egp": 165,
+      "description": "No description available",
+      "stock_status": "In Stock",
+      "specifications": {},
+      "ratings": "N/A",
+      "usage_instructions": "Not available on listing page",
+      "source_page": "chefaa_hair_care_products"
+    },
+    {
+      "name": "L'Oréal Elvive Hyaluron Moisture 72h Moisture Sealing Conditioner with Hyaluronic Acid 360ml",
+      "name_arabic": "لوريال | بلسم إلفيف هيالورون مويستشر 72 ساعة | 360مل",
+      "brand": "L'Oréal",
+      "price_egp": 195,
+      "description": "No description available",
+      "stock_status": "In Stock",
+      "specifications": {},
+      "ratings": "N/A",
+      "usage_instructions": "Not available on listing page",
+      "source_page": "chefaa_hair_care_products"
+    },
+    {
+      "name": "L'Oréal Elvive Nourishing Extraordinary Oil Mask 300ml",
+      "name_arabic": "لوريال | الفيف إكستروردنري اويل زيت المغذي | 300مل",
+      "brand": "L'Oréal",
+      "price_egp": 410,
+      "description": "No description available",
+      "stock_status": "In Stock",
+      "specifications": {},
+      "ratings": "N/A",
+      "usage_instructions": "Not available on listing page",
+      "source_page": "chefaa_hair_care_products"
+    },
+    {
+      "name": "L'Oréal Excellence Hair Color Ash Supreme Pearl Blonde 7.12",
+      "name_arabic": "لوريال | صبغة شعر اكسلنس مع شامبو بنفسجي وماسك للشعر - 7.12...",
+      "brand": "L'Oréal",
+      "price_egp": 327,
+      "description": "No description available",
+      "stock_status": "In Stock",
+      "specifications": {},
+      "ratings": "N/A",
+      "usage_instructions": "Not available on listing page",
+      "source_page": "chefaa_hair_care_products"
+    },
+    {
+      "name": "L'Oréal Excellence CRM 8.12 Ash Supreme Light Blond",
+      "name_arabic": "صبغة لوريال اكسلانس آش سوبريم | 8.12 أشقر لؤلؤي رمادى فاتح",
+      "brand": "L'Oréal",
+      "price_egp": 296,
+      "description": "No description available",
+      "stock_status": "In Stock",
+      "specifications": {},
+      "ratings": "N/A",
+      "usage_instructions": "Not available on listing page",
+      "source_page": "chefaa_hair_care_products"
+    },
+    {
+      "name": "L'Oréal Prodigy Permanent Oil Hair Color 2.1 Ash Black",
+      "name_arabic": "لوريال | صبغة الشعر الدائمة بروديجي 2.1 أسود رمادي",
+      "brand": "L'Oréal",
+      "price_egp": 356,
+      "description": "No description available",
+      "stock_status": "In Stock",
+      "specifications": {},
+      "ratings": "N/A",
+      "usage_instructions": "Not available on listing page",
+      "source_page": "chefaa_hair_care_products"
+    },
+    {
+      "name": "L'Oréal Elvive Hyaluron Pure Purifying Shampoo for Oily Hair 200ml",
+      "name_arabic": "لوريال الفيف | بيور هيالورون شامبو للشعر الدهني | 200مل",
+      "brand": "L'Oréal",
+      "price_egp": 125,
+      "description": "No description available",
+      "stock_status": "In Stock",
+      "specifications": {},
+      "ratings": "N/A",
+      "usage_instructions": "Not available on listing page",
+      "source_page": "chefaa_hair_care_products"
+    },
+    {
+      "name": "L'Oréal Paris Casting Crème Gloss 513 Ashy Nude Brown",
+      "name_arabic": "لوريال باريس | صبغة كريم لشعر لامع وبراق 513 بني فاتح رمادي",
+      "brand": "L'Oréal Paris",
+      "price_egp": 460,
+      "description": "No description available",
+      "stock_status": "In Stock",
+      "specifications": {},
+      "ratings": "N/A",
+      "usage_instructions": "Not available on listing page",
+      "source_page": "chefaa_hair_care_products"
+    },
+    {
+      "name": "Unknown Product",
+      "name_arabic": "",
+      "brand": "Unknown",
+      "price_egp": "Price not available",
+      "description": "No description available",
+      "stock_status": "Unknown",
+      "specifications": {},
+      "ratings": "N/A",
+      "usage_instructions": "Not available on listing page",
+      "source_page": "chefaa_hair_care_products"
+    },
+    {
+      "name": "L'Oréal Paris | Casting Crème Gloss Hair Color | 300 Darkest Brown...",
+      "name_arabic": "لوريال باريس | صبغة لوريال باريس كاستينج كريم اللامعة | 300...",
+      "brand": "L'Oréal Paris",
+      "price_egp": 460,
+      "description": "No description available",
+      "stock_status": "In Stock",
+      "specifications": {},
+      "ratings": null,
+      "usage_instructions": "Not available on listing page",
+      "source_page": "chefaa_hair_care_page2_products"
+    },
+    {
+      "name": "L'Oréal Paris | Ammonia-Free Casting Crème Gloss Hair Color | 550 Mahogany...",
+      "name_arabic": "لوريال باريس | صبغة شعر بدون امونيا كاستينج كريم اللامعة | ...",
+      "brand": "L'Oréal Paris",
+      "price_egp": 460,
+      "description": "No description available",
+      "stock_status": "In Stock",
+      "specifications": {},
+      "ratings": null,
+      "usage_instructions": "Not available on listing page",
+      "source_page": "chefaa_hair_care_page2_products"
+    },
+    {
+      "name": "L'Oréal Paris | Elvive Extraordinary Oil for Dry Hair | 100ml",
+      "name_arabic": "لوريال باريس | زيت إلفيف إكسترا اورديناري للشعر الجاف | 100مل",
+      "brand": "L'Oréal Paris",
+      "price_egp": 495,
+      "description": "No description available",
+      "stock_status": "In Stock",
+      "specifications": {},
+      "ratings": null,
+      "usage_instructions": "Not available on listing page",
+      "source_page": "chefaa_hair_care_page2_products"
+    },
+    {
+      "name": "L'Oréal Paris | Elvive Nourishing Cream for Very Dry Hair with Amla Oil | 200ml",
+      "name_arabic": "لوريال باريس | كريم ايلفيف مغذي للشعر شديد الجفاف بزيت الام...",
+      "brand": "L'Oréal Paris",
+      "price_egp": 234,
+      "description": "No description available",
+      "stock_status": "In Stock",
+      "specifications": {},
+      "ratings": null,
+      "usage_instructions": "Not available on listing page",
+      "source_page": "chefaa_hair_care_page2_products"
+    },
+    {
+      "name": "L'Oréal Paris | Elvive Extraordinary Oil Replacement for Hair | 300ml",
+      "name_arabic": "لوريال باريس | بديل الزيت الفيف مغذي بالزيت الإستثنائي للشع...",
+      "brand": "L'Oréal Paris",
+      "price_egp": 180,
+      "description": "No description available",
+      "stock_status": "In Stock",
+      "specifications": {},
+      "ratings": null,
+      "usage_instructions": "Not available on listing page",
+      "source_page": "chefaa_hair_care_page2_products"
+    },
+    {
+      "name": "L'Oréal Paris | Elvive Shampoo for Normal and Dry Hair | 200ml",
+      "name_arabic": "لوريال باريس | شامبو الفيف للشعر العادي والجاف | 200مل",
+      "brand": "L'Oréal Paris",
+      "price_egp": 120,
+      "description": "No description available",
+      "stock_status": "In Stock",
+      "specifications": {},
+      "ratings": null,
+      "usage_instructions": "Not available on listing page",
+      "source_page": "chefaa_hair_care_page2_products"
+    },
+    {
+      "name": "L'Oréal Paris | Elvive Precious Oils Shampoo for Very Dry Hair | 200ml",
+      "name_arabic": "لوريال باريس | الفيف شامبو بالزيوت الثمينة للشعر شديد الجفا...",
+      "brand": "L'Oréal Paris",
+      "price_egp": 125,
+      "description": "No description available",
+      "stock_status": "In Stock",
+      "specifications": {},
+      "ratings": null,
+      "usage_instructions": "Not available on listing page",
+      "source_page": "chefaa_hair_care_page2_products"
+    },
+    {
+      "name": "L'Oréal Paris | Elvive Full Resist Breakage Fighter Conditioner | 200ml",
+      "name_arabic": "لوريال باريس | بلسم مقاوم للتكسر الفيف فل رزيست | 200مل",
+      "brand": "L'Oréal Paris",
+      "price_egp": 115,
+      "description": "No description available",
+      "stock_status": "In Stock",
+      "specifications": {},
+      "ratings": null,
+      "usage_instructions": "Not available on listing page",
+      "source_page": "chefaa_hair_care_page2_products"
+    },
+    {
+      "name": "L'Oréal Paris Elvive Hyaluron Moisturizing Shampoo for Dry and Damaged Hair | 600ml",
+      "name_arabic": "لوريال باريس الفيف هيالرون شامبو مرطب للشعر الجاف والتالف |...",
+      "brand": "L'Oréal Paris",
+      "price_egp": 214,
+      "description": "No description available",
+      "stock_status": "In Stock",
+      "specifications": {},
+      "ratings": null,
+      "usage_instructions": "Not available on listing page",
+      "source_page": "chefaa_hair_care_page2_products"
+    },
+    {
+      "name": "L'Oréal Paris Purple Hyaluronic Shampoo for Dry and Brittle Hair | 400ml",
+      "name_arabic": "شامبو لوريال البنفسجي بالهيالورونيك للشعر الجاف والمتقصف | ...",
+      "brand": "L'Oréal Paris",
+      "price_egp": 190,
+      "description": "No description available",
+      "stock_status": "In Stock",
+      "specifications": {},
+      "ratings": null,
+      "usage_instructions": "Not available on listing page",
+      "source_page": "chefaa_hair_care_page2_products"
+    },
+    {
+      "name": "L'Oréal Paris Elvive Dream Long Straight Oil Replacement for Long and Frizzy Hair | 300ml",
+      "name_arabic": "لوريال باريس الفيف دريم لونج ستريت بديل الزيت للشعر الطويل ...",
+      "brand": "L'Oréal Paris",
+      "price_egp": 180,
+      "description": "No description available",
+      "stock_status": "In Stock",
+      "specifications": {},
+      "ratings": null,
+      "usage_instructions": "Not available on listing page",
+      "source_page": "chefaa_hair_care_page2_products"
+    },
+    {
+      "name": "L'Oréal Paris | Elvive Total Repair 5 Oil Replacement for Hair | 300ml",
+      "name_arabic": "لوريال باريس | بديل الزيت الفيف العلاج الخماسي المتكامل للش...",
+      "brand": "L'Oréal Paris",
+      "price_egp": 180,
+      "description": "No description available",
+      "stock_status": "In Stock",
+      "specifications": {},
+      "ratings": null,
+      "usage_instructions": "Not available on listing page",
+      "source_page": "chefaa_hair_care_page2_products"
+    },
+    {
+      "name": "L'Oréal Paris | Elvive Total Repair 5 Shampoo | 600ml",
+      "name_arabic": "لوريال باريس | شامبو توتال ريبير 5 الفيف | 600مل",
+      "brand": "L'Oréal Paris",
+      "price_egp": 240,
+      "description": "No description available",
+      "stock_status": "In Stock",
+      "specifications": {},
+      "ratings": null,
+      "usage_instructions": "Not available on listing page",
+      "source_page": "chefaa_hair_care_page2_products"
+    },
+    {
+      "name": "L'Oréal Excellence Ash Blonde Hair Dye | No. 7.17",
+      "name_arabic": "صبغة لوريال اكسلانس اشقر رمادي | رقم 7.17",
+      "brand": "L'Oréal Paris",
+      "price_egp": 326.7,
+      "description": "No description available",
+      "stock_status": "In Stock",
+      "specifications": {},
+      "ratings": null,
+      "usage_instructions": "Not available on listing page",
+      "source_page": "chefaa_hair_care_page2_products"
+    },
+    {
+      "name": "L'Oréal Paris | Prodigy Ammonia-Free Hair Color | 3.0 Kohl Brown | Brown Black",
+      "name_arabic": "لوريال باريس | صبغة شعر برودجي بدون أمونيا | 3.0 كحل بنى | ...",
+      "brand": "L'Oréal Paris",
+      "price_egp": 392,
+      "description": "No description available",
+      "stock_status": "In Stock",
+      "specifications": {},
+      "ratings": null,
+      "usage_instructions": "Not available on listing page",
+      "source_page": "chefaa_hair_care_page2_products"
+    },
+    {
+      "name": "L'Oréal Paris | Prodigy Ammonia-Free Hair Color | 4.0 Brown",
+      "name_arabic": "لوريال باريس | صبغة شعر برودجي بدون أمونيا | 4.0 بني",
+      "brand": "L'Oréal Paris",
+      "price_egp": 392,
+      "description": "No description available",
+      "stock_status": "In Stock",
+      "specifications": {},
+      "ratings": null,
+      "usage_instructions": "Not available on listing page",
+      "source_page": "chefaa_hair_care_page2_products"
+    },
+    {
+      "name": "L'Oréal Paris | Prodigy Ammonia-Free Hair Color | 4.15 Sienna | Frosted Brown",
+      "name_arabic": "لوريال باريس | صبغة شعر برودجي بدون أمونيا | 4.15 سيينا | ب...",
+      "brand": "L'Oréal Paris",
+      "price_egp": 392,
+      "description": "No description available",
+      "stock_status": "In Stock",
+      "specifications": {},
+      "ratings": null,
+      "usage_instructions": "Not available on listing page",
+      "source_page": "chefaa_hair_care_page2_products"
+    },
+    {
+      "name": "L'Oréal Paris | Prodigy Ammonia-Free Hair Color | 5.30 Light Golden Brown",
+      "name_arabic": "لوريال باريس | صبغة شعر برودجي بدون أمونيا | 5.30 بني ذهبي",
+      "brand": "L'Oréal Paris",
+      "price_egp": 401,
+      "description": "No description available",
+      "stock_status": "In Stock",
+      "specifications": {},
+      "ratings": null,
+      "usage_instructions": "Not available on listing page",
+      "source_page": "chefaa_hair_care_page2_products"
+    },
+    {
+      "name": "L'Oréal Paris | Prodigy Ammonia-Free Hair Color | 6.32 Pearl Brown | Dark Golden Blonde",
+      "name_arabic": "لوريال باريس | صبغة شعر برودجي بدون أمونيا | 6.32 صدف بني |...",
+      "brand": "L'Oréal Paris",
+      "price_egp": 390,
+      "description": "No description available",
+      "stock_status": "In Stock",
+      "specifications": {},
+      "ratings": null,
+      "usage_instructions": "Not available on listing page",
+      "source_page": "chefaa_hair_care_page2_products"
+    },
+    {
+      "name": "L'Oréal Paris | Prodigy Excellence Cream Hair Color 10.1 Ash Blonde",
+      "name_arabic": "لوريال باريس | صبغة شعر كريم بروديجي إكسيلانس 10.1 أشقر رما...",
+      "brand": "L'Oréal Paris",
+      "price_egp": 390,
+      "description": "No description available",
+      "stock_status": "In Stock",
+      "specifications": {},
+      "ratings": null,
+      "usage_instructions": "Not available on listing page",
+      "source_page": "chefaa_hair_care_page2_products"
+    },
+    {
+      "name": "L'Oréal Paris Elvive Hyaluron Moisture Shampoo for Dry and Damaged Hair",
+      "name_arabic": "لوريال باريس الفيف هيالرون شامبو مرطب للشعر الجاف والتالف",
+      "brand": "L'Oréal Paris Elvive",
+      "price_egp": 125,
+      "description": "Moisturizing shampoo for dry and damaged hair, part of the Hyaluron Moisture line.",
+      "stock_status": "Available",
+      "specifications": {
+        "volume": "200ml"
+      },
+      "ratings": "Not visible",
+      "usage_instructions": "Not visible",
+      "source_page": "chefaa_hair_care_page_3"
+    },
+    {
+      "name": "L'Oréal Paris Elvive | Hyaluron Pure Rehydrating Conditioner for Oily Hair",
+      "name_arabic": "لوريال باريس إلفيف | هيالورون بيور بلسم لإعادة الترطيب للشعر الدهني",
+      "brand": "L'Oréal Paris Elvive",
+      "price_egp": 180,
+      "description": "Rehydrating conditioner specifically for oily hair, part of the Hyaluron Pure line.",
+      "stock_status": "Available",
+      "specifications": {
+        "volume": "360ml"
+      },
+      "ratings": "Not visible",
+      "usage_instructions": "Not visible",
+      "source_page": "chefaa_hair_care_page_3"
+    },
+    {
+      "name": "L'Oréal Elvive Hyaluron Purple Conditioner for Dry Hair with Hyaluronic Acid",
+      "name_arabic": "بلسم لوريال الفيف هيالرون البنفسجي للشعر الجاف بالهيالورونيك",
+      "brand": "L'Oréal Elvive",
+      "price_egp": 94,
+      "description": "72h moisture-sealing conditioner for dry hair with hyaluronic acid, purple variant.",
+      "stock_status": "Available",
+      "specifications": {
+        "volume": "200ml"
+      },
+      "ratings": "Not visible",
+      "usage_instructions": "Not visible",
+      "source_page": "chefaa_hair_care_page_3"
+    },
+    {
+      "name": "ACM | Shampoo for All Hair Types | 125ml",
+      "name_arabic": "ايه سي ام | شامبو لكل انواع الشعر | 125مل",
+      "brand": "ACM",
+      "price_egp": 549,
+      "description": "Shampoo suitable for all hair types.",
+      "stock_status": "Available",
+      "specifications": {
+        "volume": "125ml"
+      },
+      "ratings": "Not visible",
+      "usage_instructions": "Not visible",
+      "source_page": "chefaa_hair_care_page_3"
+    },
+    {
+      "name": "Anivagene | Hair Mask for Dry Hair | 125ml",
+      "name_arabic": "أنيفاجين | ماسك شعر للشعر الجاف | 125مل",
+      "brand": "Anivagene",
+      "price_egp": 599,
+      "description": "Hair mask specifically designed for dry hair.",
+      "stock_status": "Available",
+      "specifications": {
+        "volume": "125ml"
+      },
+      "ratings": "Not visible",
+      "usage_instructions": "Not visible",
+      "source_page": "chefaa_hair_care_page_3"
+    },
+    {
+      "name": "Bio Soft | Deep Conditioning Hair Conditioner with Avocado | 500gm",
+      "name_arabic": "بايو سوفت | بلسم لترطيب الشعر بعمق بالافوكادو | 500جم",
+      "brand": "Bio Soft",
+      "price_egp": 110,
+      "description": "Deep conditioner with avocado for intensive hair moisturizing.",
+      "stock_status": "Available",
+      "specifications": {
+        "volume": "500gm"
+      },
+      "ratings": "Not visible",
+      "usage_instructions": "Not visible",
+      "source_page": "chefaa_hair_care_page_3"
+    },
+    {
+      "name": "Bluebell Elone | Keratin Cream for Damaged Hair | 120gm",
+      "name_arabic": "بلوبيل ايلون | كريم الكيراتين للشعر التالف | 120جم",
+      "brand": "Bluebell Elone",
+      "price_egp": 275,
+      "description": "Keratin cream formulated for damaged hair.",
+      "stock_status": "Available",
+      "specifications": {
+        "volume": "120gm"
+      },
+      "ratings": "Not visible",
+      "usage_instructions": "Not visible",
+      "source_page": "chefaa_hair_care_page_3"
+    },
+    {
+      "name": "Bless | Leave-In Cream for Hair Enriched with Vitamin E | 200ml",
+      "name_arabic": "بليس | كريم ليف ان للشعر غني بفيتامين اي | 200مل",
+      "brand": "Bless",
+      "price_egp": 77,
+      "description": "Leave-in hair cream enriched with Vitamin E for hair nourishment.",
+      "stock_status": "Available",
+      "specifications": {
+        "volume": "200ml"
+      },
+      "ratings": "Not visible",
+      "usage_instructions": "Not visible",
+      "source_page": "chefaa_hair_care_page_3"
+    },
+    {
+      "name": "Hairoots | Anti-Frizz Hydrating Cream | 100ml",
+      "name_arabic": "هيروتس | كريم مرطب مضاد للتجعد | 100مل",
+      "brand": "Hairoots",
+      "price_egp": 299,
+      "description": "Hydrating cream with anti-frizz properties to smooth hair.",
+      "stock_status": "Available",
+      "specifications": {
+        "volume": "100ml"
+      },
+      "ratings": "Not visible",
+      "usage_instructions": "Not visible",
+      "source_page": "chefaa_hair_care_page_3"
+    },
+    {
+      "name": "Garnier | Color Naturals Creme Hair Color | 6.3 Mocca Brown",
+      "name_arabic": "غارنييه | صبغة شعر كولور ناتشرالز كريم | 6.3 بني قهوة",
+      "brand": "Garnier",
+      "price_egp": 161,
+      "description": "Creme hair color in Mocca Brown shade (color code 6.3).",
+      "stock_status": "Available",
+      "specifications": {
+        "color_code": "6.3",
+        "color_name": "Mocca Brown"
+      },
+      "ratings": "Not visible",
+      "usage_instructions": "Not visible",
+      "source_page": "chefaa_hair_care_page_3"
+    },
+    {
+      "name": "Atrakta | Re-Force Hair Ampoules 5ml | 12 Vials",
+      "name_arabic": "اتراكتا | امبولات ري-فورس 5مل | 12 أمبولة",
+      "brand": "Atrakta",
+      "price_egp": 660,
+      "description": "Re-Force hair treatment ampoules, each containing 5ml, sold in a pack of 12 vials.",
+      "stock_status": "Available",
+      "specifications": {
+        "volume_per_vial": "5ml",
+        "number_of_vials": 12
+      },
+      "ratings": "Not visible",
+      "usage_instructions": "Not visible",
+      "source_page": "chefaa_hair_care_page_3"
+    },
+    {
+      "name": "Clary | Anti-Dandruff Shampoo | 300ml",
+      "name_arabic": "كلاري | شامبو ضد القشرة | 300مل",
+      "brand": "Clary",
+      "price_egp": 320,
+      "description": "Shampoo specifically designed to combat dandruff.",
+      "stock_status": "Available",
+      "specifications": {
+        "volume": "300ml"
+      },
+      "ratings": "Not visible",
+      "usage_instructions": "Not visible",
+      "source_page": "chefaa_hair_care_page_3"
+    },
+    {
+      "name": "Justin Blue | Shampoo for Hair Health & Volume and Anti-Dandruff | 175ml",
+      "name_arabic": "جاستن بلو | شامبو لصحة وكثافة الشعر ومضاد للقشرة | 175مل",
+      "brand": "Justin Blue",
+      "price_egp": 360,
+      "description": "Shampoo that promotes hair health, adds volume, and provides anti-dandruff benefits.",
+      "stock_status": "Available",
+      "specifications": {
+        "volume": "175ml"
+      },
+      "ratings": "Not visible",
+      "usage_instructions": "Not visible",
+      "source_page": "chefaa_hair_care_page_3"
+    },
+    {
+      "name": "Aloe Eva Shampoo with Aloe Vera and Argan Oil for Dry Hair | 230ml",
+      "name_arabic": "شامبو الو ايفا بالصبار والأرجان للشعر الجاف | 230 مل",
+      "brand": "Aloe Eva",
+      "price_egp": 90,
+      "description": "Shampoo formulated with Aloe Vera and Moroccan Argan Oil, specifically for dry hair.",
+      "stock_status": "Limited Quantity",
+      "specifications": {
+        "volume": "230ml",
+        "key_ingredients": "Aloe Vera, Argan Oil"
+      },
+      "ratings": "Not visible",
+      "usage_instructions": "Not visible",
+      "source_page": "chefaa_hair_care_page_3"
+    },
+    {
+      "name": "Biopoint | Marrow Hair Treatment | 50 gram",
+      "name_arabic": "بيوبوينت | علاج الشعر بالنخاع | 50 جرام",
+      "brand": "Biopoint",
+      "price_egp": 20,
+      "description": "Hair treatment product utilizing marrow for hair care.",
+      "stock_status": "Available",
+      "specifications": {
+        "weight": "50 gram"
+      },
+      "ratings": "Not visible",
+      "usage_instructions": "Not visible",
+      "source_page": "chefaa_hair_care_page_3"
+    },
+    {
+      "name": "Clary | Leave-In Cream | 300gm",
+      "name_arabic": "كلاري | ليف ان كريم | 300جم",
+      "brand": "Clary",
+      "price_egp": 300,
+      "description": "Leave-in hair cream for conditioning.",
+      "stock_status": "Available",
+      "specifications": {
+        "weight": "300gm"
+      },
+      "ratings": "Not visible",
+      "usage_instructions": "Not visible",
+      "source_page": "chefaa_hair_care_page_3"
+    },
+    {
+      "name": "Strongville Spray for Men for Hair Loss | 100ml",
+      "name_arabic": "سترونج فيل سبراي للرجال لتساقط الشعر | 100 مل",
+      "brand": "Strongville",
+      "price_egp": 295,
+      "description": "Hair loss spray designed specifically for men.",
+      "stock_status": "Available",
+      "specifications": {
+        "volume": "100ml"
+      },
+      "ratings": "Not visible",
+      "usage_instructions": "Not visible",
+      "source_page": "chefaa_hair_care_page_3"
+    },
+    {
+      "name": "Alpecin | Liquid for Hair Loss Prevention | 200ml",
+      "name_arabic": "البيسين | ليكويد لمنع تساقط الشعر | 200مل",
+      "brand": "Alpecin",
+      "price_egp": 371,
+      "description": "Liquid treatment formulated to prevent hair loss.",
+      "stock_status": "Available",
+      "specifications": {
+        "volume": "200ml"
+      },
+      "ratings": "Not visible",
+      "usage_instructions": "Not visible",
+      "source_page": "chefaa_hair_care_page_3"
+    },
+    {
+      "name": "Alpecin | Double Effect Caffeine Shampoo for Men's Hair Loss | 200ml",
+      "name_arabic": "البيسين | شامبو مزدوج المفعول كافيين لتساقط الشعر للرجال | 200مل",
+      "brand": "Alpecin",
+      "price_egp": 380,
+      "description": "Double effect caffeine shampoo for men, targeting hair loss.",
+      "stock_status": "Available",
+      "specifications": {
+        "volume": "200ml",
+        "key_ingredients": "Caffeine",
+        "target_audience": "Men"
+      },
+      "ratings": "Not visible",
+      "usage_instructions": "Not visible",
+      "source_page": "chefaa_hair_care_page_3"
+    },
+    {
+      "name": "Capixy | Hair Cream | 120ml",
+      "name_arabic": "كابيكسي | كريم للشعر | 120مل",
+      "brand": "Capixy",
+      "price_egp": 275,
+      "description": "General purpose hair cream.",
+      "stock_status": "Available",
+      "specifications": {
+        "volume": "120ml"
+      },
+      "ratings": "Not visible",
+      "usage_instructions": "Not visible",
+      "source_page": "chefaa_hair_care_page_3"
+    },
+    {
+      "name": "Nitolic Therapeutic for Head Lice and Nits",
+      "name_arabic": "دواء نيتوليك للقمل وحشرات الرأس للاطفال",
+      "brand": "Nitolic",
+      "price_egp": 460,
+      "description": "Therapeutic solution for head lice and nits for children.",
+      "stock_status": "In Stock",
+      "specifications": {
+        "volume": "50ml"
+      },
+      "ratings": "Not visible",
+      "usage_instructions": "Not visible",
+      "source_page": "chefaa_hair_care_page_5"
+    },
+    {
+      "name": "Capixy Hair Fertilizer Tonic Spray",
+      "name_arabic": "بخاخ كابيكسي للشعر لعلاج التساقط",
+      "brand": "Capixy",
+      "price_egp": 375,
+      "description": "Hair tonic spray for treating hair loss.",
+      "stock_status": "In Stock",
+      "specifications": {
+        "volume": "250 مل"
+      },
+      "ratings": "Not visible",
+      "usage_instructions": "Not visible",
+      "source_page": "chefaa_hair_care_page_5"
+    },
+    {
+      "name": "Le Karites Shea Butter Hair Food Moisturizing Cream",
+      "name_arabic": "لى كاريتيه | كريم شعر بزبدة الشيا",
+      "brand": "Le Karites",
+      "price_egp": 100,
+      "description": "Moisturizing hair cream with shea butter.",
+      "stock_status": "In Stock",
+      "specifications": {
+        "volume": "150مل"
+      },
+      "ratings": "Not visible",
+      "usage_instructions": "Not visible",
+      "source_page": "chefaa_hair_care_page_5"
+    },
+    {
+      "name": "ORS Olive Oil Nourishing Sheen Hair Spray",
+      "name_arabic": "أو أر إس | سبراي لمعان الشعر بزيت الزيتون",
+      "brand": "ORS",
+      "price_egp": 65,
+      "description": "Hair shine spray with olive oil for nourishment.",
+      "stock_status": "كمية محدودة (Limited quantity)",
+      "specifications": {
+        "volume": "85مل"
+      },
+      "ratings": "Not visible",
+      "usage_instructions": "Not visible",
+      "source_page": "chefaa_hair_care_page_5"
+    },
+    {
+      "name": "Strong Ville Anti-Hair Fall and Strengthening Shampoo",
+      "name_arabic": "شامبو سترونج فيل للتساقط وتقوية الشعر",
+      "brand": "Strong Ville",
+      "price_egp": 185,
+      "description": "Shampoo for hair loss and hair strengthening.",
+      "stock_status": "In Stock",
+      "specifications": {
+        "volume": "220 مل"
+      },
+      "ratings": "Not visible",
+      "usage_instructions": "Not visible",
+      "source_page": "chefaa_hair_care_page_5"
+    },
+    {
+      "name": "Clear 3-in-1 Men's Activated Charcoal Shampoo",
+      "name_arabic": "كلير | شامبو3*1 للرجال بالفحم المنشط",
+      "brand": "Clear",
+      "price_egp": 195,
+      "description": "3-in-1 shampoo for men with activated charcoal.",
+      "stock_status": "In Stock",
+      "specifications": {
+        "volume": "550مل"
+      },
+      "ratings": "Not visible",
+      "usage_instructions": "Not visible",
+      "source_page": "chefaa_hair_care_page_5"
+    },
+    {
+      "name": "Bless Leave-in Cream with Vitamin E for Curly Hair",
+      "name_arabic": "كريم بليس ليف ان للشعر الكيرلي لتغذية وترطيب الشعر",
+      "brand": "Bless",
+      "price_egp": 95,
+      "description": "Leave-in cream for curly hair, formulated for nourishment and moisturizing, contains Vitamin E.",
+      "stock_status": "In Stock",
+      "specifications": {
+        "volume": "450مل"
+      },
+      "ratings": "Not visible",
+      "usage_instructions": "Not visible",
+      "source_page": "chefaa_hair_care_page_5"
+    },
+    {
+      "name": "Aloe Eva Strengthening Hair Oil Replacement with Aloe Vera and Argan Oil",
+      "name_arabic": "ألو إيفا | بديل الزيت المقوي للشعر بالصبار وزيت الأرجان",
+      "brand": "Aloe Eva",
+      "price_egp": 100,
+      "description": "Strengthening hair oil replacement with aloe vera and argan oil.",
+      "stock_status": "In Stock",
+      "specifications": {
+        "volume": "250مل"
+      },
+      "ratings": "Not visible",
+      "usage_instructions": "Not visible",
+      "source_page": "chefaa_hair_care_page_5"
+    },
+    {
+      "name": "Clear Cool Sport Styling Cream",
+      "name_arabic": "كلير | كريم تصفيف كول سبورت",
+      "brand": "Clear",
+      "price_egp": 85,
+      "description": "Cool Sport styling cream.",
+      "stock_status": "In Stock",
+      "specifications": {
+        "volume": "210مل"
+      },
+      "ratings": "Not visible",
+      "usage_instructions": "Not visible",
+      "source_page": "chefaa_hair_care_page_5"
+    },
+    {
+      "name": "Eva Ekeratin Leave-in Hair Styling Cream",
+      "name_arabic": "ايفا كريم اي كيراتين لتصفيف الشعر",
+      "brand": "Eva",
+      "price_egp": 115,
+      "description": "E-Keratin leave-in cream for hair styling.",
+      "stock_status": "In Stock",
+      "specifications": {
+        "volume": "200 مل"
+      },
+      "ratings": "Not visible",
+      "usage_instructions": "Not visible",
+      "source_page": "chefaa_hair_care_page_5"
+    },
+    {
+      "name": "Eva Ekeratin Conditioner for Post-Protein Hair",
+      "name_arabic": "بلسم ايفا كيراتين للشعر بعد البروتين",
+      "brand": "Eva",
+      "price_egp": 130,
+      "description": "E-Keratin conditioner for hair care after protein treatment.",
+      "stock_status": "In Stock",
+      "specifications": {
+        "volume": "230 مل"
+      },
+      "ratings": "Not visible",
+      "usage_instructions": "Not visible",
+      "source_page": "chefaa_hair_care_page_5"
+    },
+    {
+      "name": "Eva Ekeratin Shampoo",
+      "name_arabic": "شامبو ايفا كيراتين eva keratin shampoo",
+      "brand": "Eva",
+      "price_egp": 120,
+      "description": "E-Keratin shampoo.",
+      "stock_status": "In Stock",
+      "specifications": {
+        "volume": "230 مل"
+      },
+      "ratings": "Not visible",
+      "usage_instructions": "Not visible",
+      "source_page": "chefaa_hair_care_page_5"
+    },
+    {
+      "name": "Hepta Anti-Hair Loss Oil with Panthenol",
+      "name_arabic": "هيبتا | زيت الشعر بانثينول",
+      "brand": "Hepta",
+      "price_egp": 175,
+      "description": "Hair oil with Panthenol, targets anti-hair loss.",
+      "stock_status": "In Stock",
+      "specifications": {
+        "volume": "120مل"
+      },
+      "ratings": "Not visible",
+      "usage_instructions": "Not visible",
+      "source_page": "chefaa_hair_care_page_5"
+    },
+    {
+      "name": "Betadine 7.5% Shampoo",
+      "name_arabic": "بيتادين | شامبو 7.5٪",
+      "brand": "Betadine",
+      "price_egp": 55,
+      "description": "Shampoo with 7.5% concentration.",
+      "stock_status": "In Stock",
+      "specifications": {
+        "volume": "60مل"
+      },
+      "ratings": "Not visible",
+      "usage_instructions": "Not visible",
+      "source_page": "chefaa_hair_care_page_5"
+    },
+    {
+      "name": "Palmer's Bergamot Formula Conditioning Hair Dress",
+      "name_arabic": "بالمرز | تكييف الشعر البرغموت",
+      "brand": "Palmer's",
+      "price_egp": 155,
+      "description": "Bergamot formula conditioning hair dress.",
+      "stock_status": "In Stock",
+      "specifications": {
+        "volume": "150جم"
+      },
+      "ratings": "Not visible",
+      "usage_instructions": "Not visible",
+      "source_page": "chefaa_hair_care_page_5"
+    },
+    {
+      "name": "Fang Rare Shower Gel",
+      "name_arabic": "فانج رير | جل الاستحمام",
+      "brand": "Fang Rare",
+      "price_egp": 150,
+      "description": "Shower gel.",
+      "stock_status": "In Stock",
+      "specifications": {
+        "volume": "200 مل"
+      },
+      "ratings": "Not visible",
+      "usage_instructions": "Not visible",
+      "source_page": "chefaa_hair_care_page_5"
+    },
+    {
+      "name": "Rivadon Hair Serum",
+      "name_arabic": "ريفادون | سيروم الشعر",
+      "brand": "Rivadon",
+      "price_egp": 350,
+      "description": "Hair serum.",
+      "stock_status": "In Stock",
+      "specifications": {
+        "volume": "120 مل"
+      },
+      "ratings": "Not visible",
+      "usage_instructions": "Not visible",
+      "source_page": "chefaa_hair_care_page_5"
+    },
+    {
+      "name": "Macro Tress Hair Oil",
+      "name_arabic": "ماكرو | زيت شعر تريس",
+      "brand": "Macro",
+      "price_egp": 190,
+      "description": "Tress hair oil.",
+      "stock_status": "In Stock",
+      "specifications": {
+        "volume": "250مل"
+      },
+      "ratings": "Not visible",
+      "usage_instructions": "Not visible",
+      "source_page": "chefaa_hair_care_page_5"
+    },
+    {
+      "name": "Dabur Vatika Honey and Castor Hair Mask",
+      "name_arabic": "دابر فاتيكا | قناع شعر بالعسل والخروع",
+      "brand": "Dabur Vatika",
+      "price_egp": 45,
+      "description": "Hair mask with honey and castor oil.",
+      "stock_status": "In Stock",
+      "specifications": {
+        "volume": "250جم"
+      },
+      "ratings": "Not visible",
+      "usage_instructions": "Not visible",
+      "source_page": "chefaa_hair_care_page_5"
+    },
+    {
+      "name": "Dabur Vatika Coconut Hair Oil",
+      "name_arabic": "دابر فاتيكا | زيت جوز الهند للشعر",
+      "brand": "Dabur Vatika",
+      "price_egp": 25,
+      "description": "Coconut oil for hair.",
+      "stock_status": "In Stock",
+      "specifications": {
+        "volume": "90مل"
+      },
+      "ratings": "Not visible",
+      "usage_instructions": "Not visible",
+      "source_page": "chefaa_hair_care_page_5"
+    },
+    {
+      "name": "L'Oreal Paris Elvive Dream Long Super Conditioner",
+      "name_arabic": "لوريال باريس | بلسم إلفيف دريم طويل الأمد | 200مل",
+      "brand": "لوريال باريس (L'Oreal Paris)",
+      "price_egp": 110,
+      "description": "بلسم إلفيف دريم طويل الأمد",
+      "stock_status": "In Stock",
+      "specifications": {
+        "volume": "200مل"
+      },
+      "ratings": "N/A",
+      "usage_instructions": "Not available on listing page",
+      "source_page": "chefaa_hair_care_page_6_products"
+    },
+    {
+      "name": "Tresemme Keratin Shampoo",
+      "name_arabic": "تريسمى | شامبو الكيراتين | 400ملى",
+      "brand": "تريسمى (Tresemme)",
+      "price_egp": 240,
+      "description": "شامبو الكيراتين",
+      "stock_status": "In Stock",
+      "specifications": {
+        "volume": "400ملى"
+      },
+      "ratings": "N/A",
+      "usage_instructions": "Not available on listing page",
+      "source_page": "chefaa_hair_care_page_6_products"
+    },
+    {
+      "name": "Betadine 7.5% Povidone Iodine Shampoo",
+      "name_arabic": "بيتادين | شامبو 7.5% بوفيدون أيودين | 120مل",
+      "brand": "بيتادين (Betadine)",
+      "price_egp": 90,
+      "description": "شامبو 7.5% بوفيدون أيودين",
+      "stock_status": "In Stock",
+      "specifications": {
+        "volume": "120مل"
+      },
+      "ratings": "N/A",
+      "usage_instructions": "Not available on listing page",
+      "source_page": "chefaa_hair_care_page_6_products"
+    },
+    {
+      "name": "Bobana Leave-in Coconut Oil Cream for Curly and Dry Hair",
+      "name_arabic": "بوبانا | ليف ان بجوز الهند للشعر الكيرلى والجاف | 200مل",
+      "brand": "بوبانا (Bobana)",
+      "price_egp": 125,
+      "description": "ليف ان بجوز الهند للشعر الكيرلى والجاف",
+      "stock_status": "In Stock",
+      "specifications": {
+        "volume": "200مل"
+      },
+      "ratings": "N/A",
+      "usage_instructions": "Not available on listing page",
+      "source_page": "chefaa_hair_care_page_6_products"
+    },
+    {
+      "name": "Luna Panthenol Hair Shampoo with Neem Oil",
+      "name_arabic": "لونا | بانثينول شامبو للشعر بزيت النيم | 200مل",
+      "brand": "لونا (Luna)",
+      "price_egp": 60,
+      "description": "بانثينول شامبو للشعر بزيت النيم",
+      "stock_status": "In Stock",
+      "specifications": {
+        "volume": "200مل"
+      },
+      "ratings": "N/A",
+      "usage_instructions": "Not available on listing page",
+      "source_page": "chefaa_hair_care_page_6_products"
+    },
+    {
+      "name": "Bobana Black Garlic Oil Shampoo Against Hair Loss",
+      "name_arabic": "بوبانا | شامبو بزيت الثوم الاسود لتغذية الشعر وحمايته من ال...",
+      "brand": "بوبانا (Bobana)",
+      "price_egp": 155,
+      "description": "شامبو بزيت الثوم الاسود لتغذية الشعر وحمايته من التساقط",
+      "stock_status": "In Stock",
+      "specifications": {
+        "volume": "N/A"
+      },
+      "ratings": "N/A",
+      "usage_instructions": "Not available on listing page",
+      "source_page": "chefaa_hair_care_page_6_products"
+    },
+    {
+      "name": "Tettello Anti-Dandruff Shampoo for Men and Women",
+      "name_arabic": "شامبو تيتلو للقشرة والحكة للنساء والرجال | 150مل",
+      "brand": "تيتلو (Tettello)",
+      "price_egp": 215,
+      "description": "شامبو للقشرة والحكة للنساء والرجال",
+      "stock_status": "In Stock",
+      "specifications": {
+        "volume": "150مل"
+      },
+      "ratings": "N/A",
+      "usage_instructions": "Not available on listing page",
+      "source_page": "chefaa_hair_care_page_6_products"
+    },
+    {
+      "name": "Bobana Coconut Oil Shampoo for Dry and Brittle Hair",
+      "name_arabic": "شامبو بوبانا بجوز الهند للشعر الجاف والهايش | 400 مل",
+      "brand": "بوبانا (Bobana)",
+      "price_egp": 150,
+      "description": "شامبو بجوز الهند للشعر الجاف والهايش",
+      "stock_status": "In Stock",
+      "specifications": {
+        "volume": "400 مل"
+      },
+      "ratings": "N/A",
+      "usage_instructions": "Not available on listing page",
+      "source_page": "chefaa_hair_care_page_6_products"
+    },
+    {
+      "name": "Aloe Eva Conditioner with Argan and Aloe Vera",
+      "name_arabic": "آلو إيڤا | بلسم الشعر بالارجان و الصبار | 230مل",
+      "brand": "آلو إيڤا (Aloe Eva)",
+      "price_egp": 85,
+      "description": "بلسم الشعر بالارجان و الصبار",
+      "stock_status": "In Stock",
+      "specifications": {
+        "volume": "230مل"
+      },
+      "ratings": "N/A",
+      "usage_instructions": "Not available on listing page",
+      "source_page": "chefaa_hair_care_page_6_products"
+    },
+    {
+      "name": "Capixy Hair Fertilizer Intense Tonic Spray for Hair Growth",
+      "name_arabic": "كابكسي للشعر capixy intense spray سبراي لانبات الشعر | 125 مل",
+      "brand": "كابكسي (Capixy)",
+      "price_egp": 650,
+      "description": "سبراي لانبات الشعر",
+      "stock_status": "In Stock",
+      "specifications": {
+        "volume": "125 مل"
+      },
+      "ratings": "N/A",
+      "usage_instructions": "Not available on listing page",
+      "source_page": "chefaa_hair_care_page_6_products"
+    },
+    {
+      "name": "Hair Code Free Style Wet Look Hair Gel (Blue)",
+      "name_arabic": "هيركود | جل لتصفيف الشعر لمظهر مبلل الازرق | 160+25مل مجانًا",
+      "brand": "هيركود (Hair Code)",
+      "price_egp": 35,
+      "description": "جل لتصفيف الشعر لمظهر مبلل الازرق",
+      "stock_status": "In Stock",
+      "specifications": {
+        "volume": "160+25مل"
+      },
+      "ratings": "N/A",
+      "usage_instructions": "Not available on listing page",
+      "source_page": "chefaa_hair_care_page_6_products"
+    },
+    {
+      "name": "Eva Advance Care Clinic Shampoo Castor Oil for Damaged Hair Growth",
+      "name_arabic": "ايفا | شامبو ادفانس كير كلينك لتطويل الشعر التالف | 230مل",
+      "brand": "ايفا (Eva)",
+      "price_egp": 150,
+      "description": "شامبو ادفانس كير كلينك لتطويل الشعر التالف",
+      "stock_status": "In Stock",
+      "specifications": {
+        "volume": "230مل"
+      },
+      "ratings": "N/A",
+      "usage_instructions": "Not available on listing page",
+      "source_page": "chefaa_hair_care_page_6_products"
+    },
+    {
+      "name": "Dabur Amla Golden Serum to Treat and Repair Dry and Damaged Hair",
+      "name_arabic": "دابر أملا | سيرم ذهبى لمعالجة واصلاح الشعر الجاف والمتضرر",
+      "brand": "دابر أملا (Dabur Amla)",
+      "price_egp": 175,
+      "description": "سيرم ذهبى لمعالجة واصلاح الشعر الجاف والمتضرر",
+      "stock_status": "In Stock",
+      "specifications": {
+        "volume": "N/A"
+      },
+      "ratings": "N/A",
+      "usage_instructions": "Not available on listing page",
+      "source_page": "chefaa_hair_care_page_6_products"
+    },
+    {
+      "name": "L'Oreal Paris Prodigy Ammonia-Free Hair Color 1.0 Noir",
+      "name_arabic": "لوريال باريس | صبغة شعر برودجي بدون أمونيا | 1.0 أسود",
+      "brand": "لوريال باريس (L'Oreal Paris)",
+      "price_egp": 392,
+      "description": "صبغة شعر برودجي بدون أمونيا | 1.0 أسود",
+      "stock_status": "In Stock",
+      "specifications": {
+        "volume": "N/A (Hair Dye Kit)"
+      },
+      "ratings": "N/A",
+      "usage_instructions": "Not available on listing page",
+      "source_page": "chefaa_hair_care_page_6_products"
+    },
+    {
+      "name": "Bobana Hair Mask with Black Garlic Oil for Hair Loss",
+      "name_arabic": "بوبانا | حمام كريم بزيت الثوم الاسود للتساقط | 500مل",
+      "brand": "بوبانا (Bobana)",
+      "price_egp": 170,
+      "description": "حمام كريم بزيت الثوم الاسود للتساقط",
+      "stock_status": "In Stock",
+      "specifications": {
+        "volume": "500مل"
+      },
+      "ratings": "N/A",
+      "usage_instructions": "Not available on listing page",
+      "source_page": "chefaa_hair_care_page_6_products"
+    },
+    {
+      "name": "Dove Nourishing Oil Care Shampoo for Women",
+      "name_arabic": "دوف | شامبو المغذي للعناية بالزيت للنساء | 180مل",
+      "brand": "دوف (Dove)",
+      "price_egp": 89,
+      "description": "شامبو المغذي للعناية بالزيت للنساء",
+      "stock_status": "In Stock",
+      "specifications": {
+        "volume": "180مل"
+      },
+      "ratings": "N/A",
+      "usage_instructions": "Not available on listing page",
+      "source_page": "chefaa_hair_care_page_6_products"
+    },
+    {
+      "name": "Clary Booster Shot",
+      "name_arabic": "كلاري | بوستر شوت | 30مل",
+      "brand": "كلاري (Clary)",
+      "price_egp": 450,
+      "description": "بوستر شوت",
+      "stock_status": "In Stock",
+      "specifications": {
+        "volume": "30مل"
+      },
+      "ratings": "N/A",
+      "usage_instructions": "Not available on listing page",
+      "source_page": "chefaa_hair_care_page_6_products"
+    },
+    {
+      "name": "Clary Conditioner for Dry and Damaged Hair",
+      "name_arabic": "كلاري | بلسم للشعر الجاف والتالف | 300مل",
+      "brand": "كلاري (Clary)",
+      "price_egp": 320,
+      "description": "بلسم للشعر الجاف والتالف",
+      "stock_status": "In Stock",
+      "specifications": {
+        "volume": "300مل"
+      },
+      "ratings": "N/A",
+      "usage_instructions": "Not available on listing page",
+      "source_page": "chefaa_hair_care_page_6_products"
+    },
+    {
+      "name": "Aloe Eva Hair Cream with Aloe Vera",
+      "name_arabic": "الو إيڤا | كريم شعر صبار | 85جم",
+      "brand": "الو إيڤا (Aloe Eva)",
+      "price_egp": 50,
+      "description": "كريم شعر صبار",
+      "stock_status": "In Stock",
+      "specifications": {
+        "volume": "85جم"
+      },
+      "ratings": "N/A",
+      "usage_instructions": "Not available on listing page",
+      "source_page": "chefaa_hair_care_page_6_products"
+    },
+    {
+      "name": "Karite Hair Mask with Shea Butter",
+      "name_arabic": "كاريتيه | ماسك للشعر بزبدة الشيا | 35مل",
+      "brand": "كاريتيه (Karite)",
+      "price_egp": 15,
+      "description": "ماسك للشعر بزبدة الشيا",
+      "stock_status": "In Stock",
+      "specifications": {
+        "volume": "35مل"
+      },
+      "ratings": "N/A",
+      "usage_instructions": "Not available on listing page",
+      "source_page": "chefaa_hair_care_page_6_products"
+    }
+  ]
+}

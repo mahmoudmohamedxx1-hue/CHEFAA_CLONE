@@ -1,0 +1,108 @@
+📄 Extracted from page: العناية بالبشرة - شفاء
+URL: https://chefaa.com/eg-ar/now/category/skin-care
+
+Extracted content:
+```json
+{
+  "title": "العناية بالبشرة - شفاء",
+  "url": "https://chefaa.com/eg-ar/now/category/skin-care",
+  "summary": "This page from Chefaa.com displays a catalog of skin care products. It lists various items from popular brands like Nivea, Eva, and Starville, showcasing their names, prices in Egyptian Pounds (EGP), and availability status. The product range includes moisturizers, deodorants, facial serums, masks, scrubs, and specific treatments for acne or eye care. The page is structured with pagination, indicating it is the first of 56 available pages for skin care products.",
+  "key_points": [
+    "The page is dedicated to 'Skin Care' products on Chefaa.com.",
+    "It features 19 distinct products with visible details on this first page.",
+    "Brands include Nivea, Eva, and Starville.",
+    "Product types encompass a wide range of skin care items like moisturizers, cleansers, serums, masks, and specialized creams.",
+    "Each listed product includes its complete Arabic name, an inferred English name, price in EGP, brand name, availability, product type, size/volume (if visible), and a direct link to its detailed product page.",
+    "All visible products are indicated as 'Available' with an 'Add to Cart' option.",
+    "The page implements a pagination system, showing that there are 56 pages of skin care products in total, with the current view being page 1."
+  ],
+  "products": [
+    {
+      "product_name_arabic": "نيفيا | مزيل العرق بروتكت اند كير ستيك للنساء | 40مل",
+      "product_name_english": "Nivea | Anti-perspirant Protect and Care Deodorant Stick for Women | 40ml",
+      "price_egp": 150,
+      "brand_name": "نيفيا (Nivea)",
+      "availability_status": "Available (اضف الى العربة)",
+      "product_type": "Deodorant",
+      "size_volume": "40ml",
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/nivea-anti-perspirant-protect-and-care-deodorant-stick-40-ml"
+    },
+    {
+      "product_name_arabic": "نيفيا | سوفت كريم مرطب ومنعش للجسم | 50مل",
+      "product_name_english": "Nivea | Soft Refreshingly Soft Moisturizing Body Cream | 50ml",
+      "price_egp": 48,
+      "brand_name": "نيفيا (Nivea)",
+      "availability_status": "Available (اضف الى العربة)",
+      "product_type": "Moisturizing Cream",
+      "size_volume": "50ml",
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/nivea-soft-moisturizing-cream-refreshingly-soft-50ml"
+    },
+    {
+      "product_name_arabic": "نيفيا | سوفت كريم مرطب ومنعش للجسم | 100مل",
+      "product_name_english": "Nivea | Soft Refreshingly Soft Moisturizing Body Cream | 100ml",
+      "price_egp": 80,
+      "brand_name": "نيفيا (Nivea)",
+      "availability_status": "Available (اضف الى العربة)",
+      "product_type": "Moisturizing Cream",
+      "size_volume": "100ml",
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/nivea-soft-moisturizing-cream-refreshingly-soft-100ml"
+    },
+    {
+      "product_name_arabic": "نيفيا | سوفت كريم مرطب ومنعش للجسم | 200مل",
+      "product_name_english": "Nivea | Soft Refreshingly Soft Moisturizing Body Cream | 200ml",
+      "price_egp": 145,
+      "brand_name": "نيفيا (Nivea)",
+      "availability_status": "Available (اضف الى العربة)",
+      "product_type": "Moisturizing Cream",
+      "size_volume": "200ml",
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/nivea-soft-moisturizing-cream-refreshingly-soft-200ml"
+    },
+    {
+      "product_name_arabic": "إيفا | نياسيناميد مضاد للشيخوخة | 30 مل",
+      "product_name_english": "Eva | Niacinamide Anti-Aging Facial Serum | 30 ml",
+      "price_egp": 210,
+      "brand_name": "إيفا (Eva)",
+      "availability_status": "Available (اضف الى العربة)",
+      "product_type": "Facial Serum (Anti-Aging)",
+      "size_volume": "30ml",
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/eva-niacinamide-facial-serum-30-ml-glxu"
+    },
+    {
+      "product_name_arabic": "إيفا | قناع الفحم ينقي البشرة",
+      "product_name_english": "Eva | Charcoal Sheet Mask for Skin Purification",
+      "price_egp": 90,
+      "brand_name": "إيفا (Eva)",
+      "availability_status": "Available (اضف الى العربة)",
+      "product_type": "Face Mask (Sheet Mask)",
+      "size_volume": null,
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/charcoal-sheet-mask-3-sheets-eva-gkrm_dusnX9UR"
+    },
+    {
+      "product_name_arabic": "إيفا | مقشر لليد جولد سبيل | 50مل",
+      "product_name_english": "Eva | Gold Spell Hand Scrub | 50ml",
+      "price_egp": 70,
+      "brand_name": "إيفا (Eva)",
+      "availability_status": "Available (اضف الى العربة)",
+      "product_type": "Hand Scrub",
+      "size_volume": "50ml",
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/eva-hand-scrub-gold-spell-50-mlHmM7"
+    },
+    {
+      "product_name_arabic": "إيفا | ناتشورال جلو كريم لتفتيح وترطيب منطقة حول العين | 15جم",
+      "product_name_english": "Eva | Natural Glow Lightening and Moisturizing Eye Contour Cream | 15g",
+      "price_egp": 65,
+      "brand_name": "إيفا (Eva)",
+      "availability_status": "Available (اضف الى العربة)",
+      "product_type": "Eye Cream (Lightening, Moisturizing)",
+      "size_volume": "15g",
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/eva-natural-glow-eye-contor-lightening-cream-15mlQ8yh"
+    },
+    {
+      "product_name_arabic": "إيفا | كريم نهاري للعناية بالبشرة بعامل حماية من الشمس SPF 30 | 50جم",
+      "product_name_english": "Eva | Skin Care Natural Glow Day Cream SPF 30 | 50gm",
+      "price_egp": 100,
+      "brand_name": "إيفا (Eva)",
+      "availability_status": "Available (اضف الى العربة)",
+      "product_type": "Day Cream (with SPF)",
+      "size_volume": "50gm",
+      "product

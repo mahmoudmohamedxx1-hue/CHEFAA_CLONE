@@ -1,0 +1,143 @@
+📄 Extracted from page: ادارة الالم - شفاء
+URL: https://chefaa.com/eg-ar/now/category/health-care-devices/pain-management
+
+Extracted content:
+```json
+{
+  "title": "ادارة الالم - شفاء",
+  "url": "https://chefaa.com/eg-ar/now/category/health-care-devices/pain-management",
+  "summary": "This page from Chefaa.com lists various pain management medical supplies available for purchase in Egypt. The products primarily include orthopedic braces and supports for different body parts like wrists, ankles, elbows, knees, and ribs, as well as arm slings and pain relief plasters. Brands featured are Tiger Plaster, Miracle, and Flyon. Each product shows an Arabic name, an inferred English name, price in EGP, and an 'Add to Cart' option, implying availability. Detailed descriptions, customer ratings, and explicit stock statuses are not provided on this listing page.",
+  "key_points": [
+    "The page is dedicated to pain management medical supplies.",
+    "Products include various types of braces and supports for different body joints (ankle, wrist, elbow, knee, rib) and arm slings.",
+    "A pain relief plaster (Tiger Plaster) is also listed.",
+    "Featured brands are Tiger Plaster, Miracle, and Flyon.",
+    "Prices are listed in Egyptian Pounds (EGP).",
+    "No customer ratings or detailed product specifications beyond what is in the title are present on this page.",
+    "All listed products appear to be in stock as an 'Add to Cart' button is available for each.",
+    "Pagination controls are visible, explicitly showing 'Page 1' but no other page numbers, suggesting all currently available items are on this single page."
+  ],
+  "products": [
+    {
+      "product_name_arabic": "لزقة النمر | 1 قطعة",
+      "product_name_english": "Tiger Plaster | 1 piece",
+      "description": "Pain relief plaster for therapeutic use.",
+      "price_egp": 850,
+      "brand": "Tiger Plaster (النمر)",
+      "ratings_reviews": "Not available",
+      "stock_status": "In stock (implied by 'Add to cart')",
+      "specifications": "Quantity: 1 piece"
+    },
+    {
+      "product_name_arabic": "ميراكل | رباط للكاحل 0033 مقاس اكس لارج",
+      "product_name_english": "Miracle Ankle Brace 0033 X-Large",
+      "description": "Ankle brace for support and pain management.",
+      "price_egp": 70,
+      "brand": "Miracle (ميراكل)",
+      "ratings_reviews": "Not available",
+      "stock_status": "In stock (implied by 'Add to cart')",
+      "specifications": "Model: 0033, Size: X-Large"
+    },
+    {
+      "product_name_arabic": "فلايون | دعامات رياضية لدعم المعصم المرن 6103 مقاس واحد ينا...",
+      "product_name_english": "Flyon Sports Braces Elastic Wrist Support 6103 One Size Fits Most",
+      "description": "Elastic wrist support brace for sports or injury recovery.",
+      "price_egp": 165,
+      "brand": "Flyon (فلايون)",
+      "ratings_reviews": "Not available",
+      "stock_status": "In stock (implied by 'Add to cart')",
+      "specifications": "Model: 6103, Size: One size fits most"
+    },
+    {
+      "product_name_arabic": "فلايون | 7101 دعامة معصم مرنة بأربعة اتجاهات (لارج)",
+      "product_name_english": "Flyon 7101 4-Way Elastic Wrist Support (Large)",
+      "description": "4-way elastic wrist support brace.",
+      "price_egp": 235,
+      "brand": "Flyon (فلايون)",
+      "ratings_reviews": "Not available",
+      "stock_status": "In stock (implied by 'Add to cart')",
+      "specifications": "Model: 7101, Type: 4-way elastic, Size: Large"
+    },
+    {
+      "product_name_arabic": "فلايون | الدعامة الرياضية حزام الضلع المرن العالمي 3202 مقا...",
+      "product_name_english": "Flyon Sports Braces Universal Elastic Rib Belt 3202 One Size Fits Most",
+      "description": "Universal elastic rib belt for support and pain relief.",
+      "price_egp": 560,
+      "brand": "Flyon (فلايون)",
+      "ratings_reviews": "Not available",
+      "stock_status": "In stock (implied by 'Add to cart')",
+      "specifications": "Model: 3202, Type: Universal elastic, Size: One size fits most"
+    },
+    {
+      "product_name_arabic": "فلايون | 1302 دعامة الكوع المرنة بأربعة اتجاهات (اكس لارج)",
+      "product_name_english": "Flyon 1302 4-Way Elastic Elbow Support (X-Large)",
+      "description": "4-way elastic elbow support brace.",
+      "price_egp": 215,
+      "brand": "Flyon (فلايون)",
+      "ratings_reviews": "Not available",
+      "stock_status": "In stock (implied by 'Add to cart')",
+      "specifications": "Model: 1302, Type: 4-way elastic, Size: X-Large"
+    },
+    {
+      "product_name_arabic": "فلايون | حمالة الذراع مع حزام الخصر (سمول) 1423",
+      "product_name_english": "Flyon Arm Sling with Waist Belt (Small) 1423",
+      "description": "Arm sling with an integrated waist belt for added support.",
+      "price_egp": 460,
+      "brand": "Flyon (فلايون)",
+      "ratings_reviews": "Not available",
+      "stock_status": "In stock (implied by 'Add to cart')",
+      "specifications": "Model: 1423, Size: Small"
+    },
+    {
+      "product_name_arabic": "فلايون | حامل ذراع شبكي 7305",
+      "product_name_english": "Flyon Lightweight Mesh Arm Sling 7305",
+      "description": "Lightweight mesh arm sling for comfortable support.",
+      "price_egp": 350,
+      "brand": "Flyon (فلايون)",
+      "ratings_reviews": "Not available",
+      "stock_status": "In stock (implied by 'Add to cart')",
+      "specifications": "Model: 7305, Type: Lightweight mesh, Size: One size fits most (340-440cm, from URL slug)"
+    },
+    {
+      "product_name_arabic": "فلايون | 1702 دعامة الركبة المرنة بأربعة اتجاهات (ْْاكس اكس...",
+      "product_name_english": "Flyon 1702 4-Way Elastic Knee Support (XXXL)",
+      "description": "4-way elastic knee support brace.",
+      "price_egp": 265,
+      "brand": "Flyon (فلايون)",
+      "ratings_reviews": "Not available",
+      "stock_status": "In stock (implied by 'Add to cart')",
+      "specifications": "Model: 1702, Type: 4-way elastic, Size: XXXL"
+    },
+    {
+      "product_name_arabic": "فلايون | دعامات رياضية لدعم الركبة الضاغطة مع نوابض حلزونية...",
+      "product_name_english": "Flyon Sports Braces Compressive Knee Support with Spiral Springs (Medium)",
+      "description": "Compressive knee support with spiral springs for enhanced stability.",
+      "price_egp": 450,
+      "brand": "Flyon (فلايون)",
+      "ratings_reviews": "Not available",
+      "stock_status": "In stock (implied by 'Add to cart')",
+      "specifications": "Model: 6739, Type: Compressive with spiral springs, Size: Medium"
+    }
+  ],
+  "pagination_info": {
+    "current_page": 1,
+    "total_pages_indicator": "Only page 1 is explicitly linked; no total page count or other page links are shown.",
+    "next_page_link": null,
+    "previous_page_link": null
+  },
+  "relevant_links": [
+    "https://chefaa.com:443/eg-ar/nowProduct/tiger-plaster-50-pcs-rvrx",
+    "https://chefaa.com:443/eg-ar/nowProduct/miracle-ankle-brac-x-large-0033xlphoZ",
+    "https://chefaa.com:443/eg-ar/nowProduct/flyon-sports-braces-elastic-wrist-support-6103-one-size-fits-most-su9j",
+    "https://chefaa.com:443/eg-ar/nowProduct/flyon-7101-4-way-elastic-wrist-support-l-ccj5",
+    "https://chefaa.com:443/eg-ar/nowProduct/flyon-sports-braces-universal-elastic-rib-belt-3202-one-size-fits-most-qkwv",
+    "https://chefaa.com:443/eg-ar/nowProduct/flyon-1302-4-way-elastic-elbow-support-xl-9f9f",
+    "https://chefaa.com:443/eg-ar/nowProduct/flyon-arm-sling-with-waist-belt-s-1423b-2b6t",
+    "https://chefaa.com:443/eg-ar/nowProduct/flyon-lightweight-mesh-arm-sling-one-size-fits-7305-most-340-440cm-fnhv",
+    "https://chefaa.com:443/eg-ar/nowProduct/flyon-1702-4-way-elastic-knee-support-xxxl-aq7x",
+    "https://chefaa.com:443/eg-ar/nowProduct/flyon-sports-braces-compressive-knee-support-with-spiral-springs-6739-medium-h90d",
+    "https://chefaa.com/eg-ar/now/category/health-care-devices/pain-management?products_eg%5Bpage%5D=1"
+  ],
+  "file_name": "chefaa_pain_management_products.json"
+}
+```

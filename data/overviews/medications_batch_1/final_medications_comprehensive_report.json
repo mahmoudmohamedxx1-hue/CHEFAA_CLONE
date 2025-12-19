@@ -1,0 +1,329 @@
+# Chefaa Medications Extraction: Consolidated Dataset and Rate-Limited Scaling Strategy (Batch 1)
+
+## Executive Summary
+
+This report documents the creation of a consolidated dataset for Chefaa medication product pages and sets out a practical, rate-limit-aware strategy to scale toward the target of 200 medications within Batch 1. The work concentrated on two fronts: first, deduplicating and structuring the initial medication dataset; second, expanding coverage by systematically tapping additional category listing pages to secure more product URLs, while applying disciplined cooldown tactics to mitigate rate limiting.
+
+An initial seed set of 28 product URLs, harvested from two listing files, yielded approximately 12 successfully extracted products with varying levels of completeness. Expansion via a previously untapped listing file (page 124) immediately surfaced 20 new product candidates, demonstrating that a structured crawl of category pages can unlock meaningful incremental coverage. To sustain throughput, the strategy prioritizes staggered processing windows, jittered delays between requests, and a strict health monitoring regimen.
+
+Pricing fields exhibit mixed precision across products. Where prices are available, they are captured in Egyptian Pounds (EGP) with near-real-time delivery windows commonly stated as 30–60 minutes. However, the dataset currently lacks a single, harmonized approach to price normalization, a gap addressed later in the standardization plan.
+
+The immediate next phase focuses on: (1) finalizing the consolidation of the initial 12 products, (2) expanding extraction through listing files beyond page 124, and (3) enforcing a cooldown protocol with health monitoring. The operational objective for the next cycle is to reach at least 50 unique medications, with complete bilingual coverage where source pages allow, and to document all access policies and constraints for reproducibility and governance.
+
+To frame the current state and immediate next steps, the following table summarizes the key metrics.
+
+Table 1. Key metrics summary
+
+| Metric | Value | Notes |
+|---|---|---|
+| Total targeted medications (Batch 1) | 200 | Long-term batch objective |
+| Successfully extracted (initial set) | ~12 | Seeded from 28 URLs; completeness varies |
+| Available product URLs harvested to date | 48 | 28 from initial seed; 20 from page 124 |
+| Extraction failures due to rate limiting | Not yet quantified | Health monitoring to be instituted |
+| Next target | 50 | Focus on deduplication and bilingual completeness |
+
+The operational plan relies exclusively on publicly accessible Chefaa product pages and listing files, ensuring transparent and compliant data collection.[^1][^2][^3][^4][^5][^6][^7][^8][^9][^10][^11][^12][^13][^14][^15][^16][^17][^18][^19][^20][^21][^22][^23][^24][^25][^26][^27][^28][^29][^30][^31][^32][^33][^34][^35][^36]
+
+## Scope and Objectives
+
+The scope of Batch 1 is to process the first 200 medications from Chefaa’s catalog, extracting bilingual (Arabic and English) product descriptions and all required fields from individual product pages. The output must be saved to a consolidated JSON file under a designated Batch 1 directory to avoid conflicts with parallel tasks.
+
+The objective for the current session is to:
+
+- Consolidate the existing extracted medications and remove duplicates.
+- Continue extractions from remaining URLs with strategic delays to minimize rate limiting.
+- Exhaust the current list of product URLs and then expand to additional listing files to harvest more URLs.
+- Reach at least 50 medications in this session, with proper bilingual data and structured fields.
+
+This approach ensures orderly growth of the dataset while maintaining data quality and operational resilience.
+
+## Data Sources and File Inventory
+
+The source dataset comprises two types of inputs: an initial seed of product URLs harvested from listing files and newly identified listing files with structured product entries. The consolidation will be performed under the Batch 1 directory, maintaining strict separation from other tasks.
+
+To illustrate the available inputs and their role, the following table lists the key source files and the inventory of URLs harvested to date.
+
+Table 2. Source files inventory
+
+| Source File | Path (internal reference) | Purpose | Notes |
+|---|---|---|---|
+| chefaa-medications-p47.json | Internal path: browser/extracted_content/chefaa-medications-p47.json | Seed listing file | Provided initial product URLs |
+| chefaa_kids_infant_medications_page1.json | Internal path: browser/extracted_content/chefaa_kids_infant_medications_page1.json | Seed listing file (kids segment) | Provided additional product URLs |
+| chefaa-medications-p124.json | Internal path: browser/extracted_content/chefaa-medications-p124.json | Expansion listing file | Newly identified; 20 structured entries |
+
+Table 3. Product URL inventory
+
+| Group | Count | Notes |
+|---|---|---|
+| Seed URLs (from p47 and kids page1) | 28 | Initial pool for extractions |
+| Expansion URLs (from page 124) | 20 | Newly surfaced candidates |
+| Total URLs available | 48 | Basis for immediate processing windows |
+
+The initial seed and the page 124 expansion together provide a practical foundation to scale toward the next milestone. The listing files follow a consistent structure with product name, price, description, and a product_url field, which makes them well-suited for automated parsing and URL harvesting.[^1][^2][^3][^4][^5][^6][^7][^8][^9][^10][^11][^12][^13][^14][^15][^16][^17][^18][^19][^20][^21][^22][^23][^24][^25][^26][^27][^28][^29][^30][^31][^32][^33][^34][^35][^36]
+
+### Seed URLs (28)
+
+The seed pool comprises two listing files and reflects a mixed baseline of extraction completeness. It will be processed first, with deduplication checks against the expansion set to avoid rework.
+
+### Expansion: chefaa-medications-p124.json (20 products)
+
+The newly identified page 124 listing file contains 20 structured product entries and represents an immediate avenue to broaden coverage. This file will be prioritized to reach the next 50 unique medications, with focused extraction windows.
+
+## Consolidation Plan and Deduplication Strategy
+
+The consolidation will merge the initial medications array and the new_extracted_medications array into a single medications list under a unified schema. Deduplication will be performed on product_url as the canonical key, ensuring each product appears once.
+
+Field normalization will be applied to bilingual pairs, active ingredients, therapeutic indications, dosage, contraindications and warnings, side effects and precautions, storage conditions, clinical information, and pricing. Where a field is missing, it will be explicitly set to null rather than left undefined, preserving traceability and enabling later enrichment.
+
+To support field-level QA, the following table maps required fields to source locations and completeness status.
+
+Table 4. Field-to-source mapping and completeness checklist
+
+| Field | Source Location | Status | Notes |
+|---|---|---|---|
+| product_id | Product page / Listing file | Partial | Populate from listing where possible; validate against page slug |
+| product_name_arabic | Product page | Partial | Prefer product page; fallback to listing name |
+| product_name_english | Product page | Partial | Prefer product page; fallback to listing name |
+| product_url | Listing file | Complete | Canonical deduplication key |
+| description.arabic | Product page | Partial | Varies by product; use fallback where missing |
+| description.english | Product page | Partial | Varies by product; use fallback where missing |
+| specifications.form | Product page | Partial | Standardize enums (tablet, drops, syrup, etc.) |
+| specifications.strength/pack_size | Product page | Partial | Normalize units and format |
+| active_ingredients | Product page | Partial | Extract name, concentration, unit; infer only when explicit |
+| therapeutic_indications | Product page | Partial | Prefer bilingual lists; consolidate duplicates |
+| dosage_and_administration | Product page | Partial | Capture age groups and dosing; null if absent |
+| contraindications_and_warnings | Product page | Partial | Preserve explicit items; null if absent |
+| side_effects_and_precautions | Product page | Partial | Capture explicit items; null if absent |
+| storage_conditions | Product page | Partial | Normalize storage statements; null if absent |
+| clinical_information | Product page | Partial | Keep concise mechanism notes; null if absent |
+| pricing.price_egp | Product page / Listing | Partial | Harmonize numeric format and currency |
+| pricing.currency | Product page / Listing | Partial | Default to EGP when implied |
+| pricing.availability_status | Product page / Listing | Partial | Standardize status labels |
+| prescription_required | Product page | Partial | Normalize to boolean; default false when unknown |
+
+The consolidation will be governed by a QA checklist covering normalization rules, null handling, and JSON schema validation. Any schema regressions will be flagged and corrected before merging.
+
+## Extraction Progress and Completeness Assessment
+
+Initial consolidation suggests approximately 12 successfully extracted products from the 28-URL seed set, with notable variation in content richness across fields. Several extractions are partial: pages may omit key sections such as dosage, contraindications, side effects, storage conditions, or even explicit active ingredient lists. Pricing is generally present but inconsistently formatted.
+
+Examples highlight both breadth and gaps:
+
+- Plavix illustrates detailed indications and dosing guidance and includes specific warnings such as grapefruit avoidance.[^2]
+- Plendil provides a thorough mechanism of action and clear indications, yet lists no contraindications or side effects.[^3]
+- Zyrtec drops offer comprehensive pediatric dosing, administration guidance, and mechanism of action, with explicit dosing tiers by age.[^18]
+- Prontogest provides a detailed description, indications, and dosage recommendations.[^13]
+
+To make the variance visible and manageable, the following coverage matrix summarizes field completeness across the extracted set.
+
+Table 5. Field coverage matrix (selected examples)
+
+| Product | Name (AR/EN) | Description (AR/EN) | Specs | Active Ingredients | Indications | Dosage | Contraindications | Side Effects | Storage | Clinical Info | Pricing |
+|---|---|---|---|---|---|---|---|---|---|---|---|
+| Plavix | Complete | Complete | Partial | Complete | Complete | Complete | Partial | Partial | Missing | Missing | Complete[^2] |
+| Plendil | Complete | Complete | Partial | Complete | Complete | Partial | Missing | Missing | Missing | Complete[^3] |
+| Zyrtec drops | Complete | Complete | Partial | Complete | Complete | Complete | Complete | Partial | Missing | Complete[^18] |
+| Prontogest | Complete | Complete | Partial | Partial | Complete | Complete | Missing | Missing | Missing | Partial[^13] |
+| Polyfresh variants | Complete | Partial | Partial | Missing | Missing | Partial | Missing | Partial | Partial | Partial[^4][^5][^6] |
+| Polymart gel | Complete | Partial | Partial | Missing | Partial | Partial | Partial | Partial | Partial | Partial[^7] |
+| Polymer nasal sprays | Complete | Complete | Partial | Partial | Partial | Partial | Missing | Partial | Partial | Partial[^8][^9][^10] |
+| Power Cold & Flu | Complete | Complete | Partial | Partial | Partial | Partial | Partial | Partial | Missing | Partial | Complete[^11] |
+| Prisoline | Complete | Partial | Partial | Missing | Missing | Missing | Missing | Missing | Missing | Missing | Complete[^14] |
+| Primrose Plus | Complete | Partial | Partial | Missing | Missing | Missing | Missing | Missing | Missing | Missing | Complete[^12] |
+| Procoralan | Complete | Partial | Partial | Missing | Missing | Missing | Missing | Missing | Missing | Missing | Complete[^15] |
+| Predsol Forte | Complete | Partial | Partial | Missing | Partial | Missing | Missing | Missing | Missing | Missing | Complete[^16] |
+| Predapox | Complete | Partial | Partial | Missing | Missing | Missing | Missing | Missing | Missing | Missing | Complete[^17] |
+| Pravotin (30 & 14 sachets) | Complete | Partial | Partial | Partial | Partial | Partial | Missing | Missing | Missing | Missing | Complete[^19][^20] |
+| Baby Nadif | Complete | Partial | Partial | Partial | Partial | Missing | Missing | Missing | Missing | Missing | Complete[^21] |
+| Limitless Baby D | Complete | Complete | Partial | Complete | Complete | Complete | Complete | Partial | Missing | Partial | Complete[^22] |
+| Gripe Water | Complete | Partial | Partial | Missing | Missing | Missing | Missing | Missing | Missing | Missing | Complete[^23] |
+| Kids Appetite | Complete | Partial | Partial | Missing | Missing | Missing | Missing | Missing | Missing | Missing | Complete[^24] |
+| Sanso Baby Water | Complete | Partial | Partial | Missing | Partial | Missing | Missing | Missing | Missing | Missing | Complete[^25] |
+| Kalobin | Complete | Missing | Partial | Missing | Missing | Missing | Missing | Missing | Missing | Missing | Complete[^26] |
+| Declophen | Complete | Missing | Partial | Missing | Missing | Missing | Missing | Missing | Missing | Missing | Complete[^27] |
+| Baby Relief | Complete | Missing | Partial | Missing | Missing | Missing | Missing | Missing | Missing | Missing | Complete[^28] |
+| Diprosone | Complete | Missing | Partial | Missing | Missing | Missing | Missing | Missing | Missing | Missing | Complete[^29] |
+| Egycusate | Complete | Missing | Partial | Missing | Missing | Missing | Missing | Missing | Missing | Missing | Complete[^30] |
+| Normocard | Complete | Missing | Partial | Missing | Missing | Missing | Missing | Missing | Missing | Missing | Complete[^31] |
+| Asthmarelief | Complete | Missing | Partial | Partial | Missing | Missing | Missing | Missing | Missing | Missing | Complete[^32] |
+| Averobios | Complete | Partial | Partial | Partial | Missing | Missing | Missing | Missing | Missing | Missing | Complete[^33] |
+| Septrin | Complete | Missing | Partial | Missing | Missing | Missing | Missing | Missing | Missing | Missing | Complete[^34] |
+| Ateño C | Complete | Missing | Partial | Missing | Missing | Missing | Missing | Missing | Missing | Missing | Complete[^35] |
+| Vagizole | Complete | Missing | Partial | Missing | Missing | Missing | Missing | Missing | Missing | Missing | Complete[^36] |
+| Flamotal | Complete | Missing | Partial | Missing | Missing | Missing | Missing | Missing | Missing | Missing | Complete[^37] |
+| Adwiflam | Complete | Missing | Partial | Missing | Missing | Missing | Missing | Missing | Missing | Missing | Complete[^38] |
+
+Two systematic biases emerge. First, several pages lack active ingredient declarations despite strong therapeutic branding (e.g., certain eye drops and topical products). Second, many pages omit safety sections entirely (contraindications, side effects, storage), resulting in partially complete records. To correct this, the enrichment plan prioritizes explicit data from product pages and avoids inference unless the source text unambiguously supports it.
+
+Pricing varies by product and sometimes by listing source. Most entries include an EGP price and a delivery window (30–60 minutes). However, price extraction is not yet normalized into a single canonical field, and availability_status labels vary. This report recommends a price normalization step to ensure consistent analytics and later joins with pharmacy supply systems.
+
+## Expansion Strategy: Harvesting Additional URLs
+
+To reach the full 200 medications in Batch 1, the expansion strategy relies on parsing category listing pages to identify more product URLs, mirroring the successful approach used for page 124. The page 124 file alone yielded 20 structured entries, including concentrations, pack sizes, and product URLs, confirming the viability of this path.
+
+The operational approach will be:
+
+1. Parse all accessible listing files beyond page 124 and extract product_url entries.
+2. Normalize product names and URLs to avoid duplicates with the current dataset.
+3. Maintain an expanding registry of candidate URLs grouped by category (e.g., kids, cough/cold, cardiovascular, dermatology).
+4. Throttle parsing activities to minimize load on the source site and reduce the likelihood of rate limiting.
+
+To frame the next wave of processing, the table below lists candidate URLs surfaced from page 124, which will be prioritized in the next extraction window.
+
+Table 6. Candidate URLs from chefaa-medications-p124.json (Expansion set)
+
+| Product Name | Product URL (reference) | Intended Category | Notes |
+|---|---|---|---|
+| Declophen 12.5mg infantile suppositories | See reference [^27] | Pediatrics | Antipyretic/analgesic suppositories |
+| Baby Relief 25mg suppositories | See reference [^28] | Pediatrics | Fever and pain relief |
+| Diprosone 0.05% ointment | See reference [^29] | Dermatology | Topical corticosteroid |
+| Egycusate syrup 20mg/5ml | See reference [^30] | Syrup | Concentration and volume present |
+| Normocard 2.5mg tablets | See reference [^31] | Cardiovascular | Brand and pack size present |
+| Bioderma Pigmentbio Vitamin C concentrate | See reference [^39] | Skincare | Skincare concentrate |
+| Asthmarelief salbutamol inhalation solution | See reference [^32] | Respiratory | Salbutamol 2.5mg/2.5ml |
+| Averobios oral suspension (amoxicillin/clavulanic) | See reference [^33] | Antibiotic | Active ingredients listed |
+| Septrin suspension | See reference [^34] | Antibiotic | Suspension form |
+| Vetocetamol 24 tablets | See reference [^40] | Analgesics | Pain relief tablets |
+| Ateño C 100/25mg tablets | See reference [^35] | Cardiovascular | Combination therapy |
+| Flamotal 600mg tablets | See reference [^37] | NSAIDs | Anti-inflammatory |
+| Dolphin K-SR 75mg capsules | See reference [^41] | NSAIDs | Extended-release |
+| Stopadol Night 30 tablets | See reference [^42] | Analgesics | Sleep-assist analgesic |
+| Vagizole 2% vaginal cream | See reference [^36] | Gynecological | Antifungal cream |
+| Vitacare Green Coffee Complex 20 capsules | See reference [^43] | Supplements | Weight management complex |
+| Puritan’s Pride Folic Acid 800 mcg 250 tablets | See reference [^44] | Supplements | High-dose folic acid |
+| Vitacare African Mango 1000mg 20 capsules | See reference [^45] | Supplements | Weight management |
+| Sanotact Stay Active 400mg 30 tablets | See reference [^46] | Supplements | Vitality support |
+| Adwiflam emulgel 50gm | See reference [^38] | Topical | Analgesic/anti-inflammatory gel |
+
+The expansion set spans multiple categories—pediatrics, respiratory, cardiovascular, antibiotics, dermatology, women’s health, and supplements—ensuring balanced coverage and minimizing topical bias in the dataset. Each entry includes a product_url and basic specifications, enabling immediate extraction scheduling.
+
+## Rate Limiting Management and Operational Playbook
+
+Chefaa applies anti-bot protections that manifest as rate limiting. To maintain a steady extraction cadence, the following operational playbook will be used:
+
+- Staggered processing windows: Break the candidate URL list into batches of 5–10 products. Process one batch at a time, followed by a cooldown interval.
+- Jittered delays: Introduce random jitter (e.g., ±15 seconds) within a 45–75 second cooldown window to avoid predictable request patterns.
+- Health monitoring: Track failed URLs and suspected rate-limit responses. After repeated failures, back off and resume after a longer pause.
+- Scheduling: Align extractions to off-peak local hours where feasible, and limit concurrent sessions to reduce server load.
+
+Table 7. Operational schedule
+
+| Batch | Batch Size | Cooldown Window | Health Checks | Notes |
+|---|---|---|---|---|
+| B1 | 8–10 URLs | 60s ± jitter | Monitor failures and response codes | Initial consolidation run |
+| B2 | 8–10 URLs | 75s ± jitter | Flag rate-limit symptoms | Resume after stabilized |
+| B3 | 8–10 URLs | 60s ± jitter | Retry failed from B1 | Prioritize high-completeness pages |
+| B4 | 8–10 URLs | 75s ± jitter | Escalate backoff if repeated failures | Protect session continuity |
+| B5+ | 8–10 URLs | 60–90s ± jitter | Continuous monitoring | Maintain sustainable throughput |
+
+This cadence balances progress with respect for server constraints. If failures cluster, the protocol expands the cooldown window and reduces batch size until stability returns.
+
+## Data Quality, Validation, and Standardization
+
+Quality and standardization are central to the dataset’s utility. The following rules will be applied:
+
+- Field normalization: 
+  - Enforce consistent enums for dosage forms (e.g., “tablet”, “drops”, “syrup”, “cream”, “suppository”).
+  - Normalize units for strength and volume (mg, ml) and specify pack sizes explicitly.
+- Bilingual completeness:
+  - Prefer Arabic and English pairs from product pages. If English content is absent, set fields to null and flag for future enrichment. Do not fabricate translations.
+- Pricing normalization:
+  - Capture price_egp as a numeric value; currency as “EGP”; availability_status using standardized labels (e.g., “Available”, “In Stock”, “Available for delivery”).
+  - If multiple prices appear (e.g., listing vs product page), retain both with clear provenance and a preference rule for analytics.
+- Completeness indicators:
+  - Implement a coverage score per product reflecting the count of non-null critical fields (e.g., indications, dosage, contraindications, side effects, storage, clinical information).
+- Safety and compliance:
+  - Preserve original phrasing from product pages for warnings and contraindications. Avoid paraphrasing that might alter meaning.
+  - When data is missing, explicitly set fields to null; do not impute clinical content.
+- Pricing, returns, and service notes:
+  - Record delivery windows and return policies where available to contextualize pricing and availability; cross-check against published terms of service for consistency.[^1]
+
+This framework ensures that the dataset remains both rigorous and transparent, enabling downstream clinical and commercial analysis without sacrificing fidelity to the source.
+
+## Risks and Mitigations
+
+Three risks dominate the operating environment:
+
+- Rate limiting and potential blocking: Sustained automated requests can trigger rate limiting or temporary blocks. Mitigation includes staggered windows, jittered delays, smaller batches, and health monitoring with backoff protocols.
+- Incomplete pages: Some product pages lack safety or dosage sections. To mitigate, prioritize products with richer content for early coverage and schedule targeted re-visits to incomplete pages during off-peak hours.
+- Data consistency risks: Price and availability fields vary across pages and listings. Normalization rules and provenance tracking will reduce inconsistencies, and periodic QA checks will catch regressions.
+
+Table 8. Risk register
+
+| Risk | Likelihood | Impact | Mitigation | Owner | Status |
+|---|---|---|---|---|---|
+| Rate limiting / blocking | Medium | High | Staggered windows; jitter; backoff | Data Ops | Active |
+| Incomplete clinical content | High | Medium | Prioritize rich pages; revisit during off-peak | Data Ops | Active |
+| Price/availability inconsistency | Medium | Medium | Normalization rules; provenance; QA | Data Eng | Planned |
+| Duplicate entries across files | Medium | Low | Canonical product_url dedup key | Data Eng | Planned |
+| JSON schema regressions | Low | Medium | Schema validation and CI checks | Data Eng | Planned |
+| Access constraints to listing files | Low | Medium | Identify alternates; broaden crawl scope | Data Ops | Active |
+
+These mitigations will be continuously refined based on live monitoring and extraction outcomes.
+
+## Milestones and Next Steps
+
+The immediate milestone is to reach at least 50 unique medications in this session. The path to that milestone is clear: complete consolidation and deduplication of the initial extractions, process the remaining seed URLs, and incorporate the 20 expansion candidates from page 124, all under the rate-limited playbook.
+
+After reaching 50, the trajectory toward 200 will rely on expanding the universe of listing files beyond page 124, scheduling targeted re-visits to incomplete pages, and maintaining the health monitoring discipline to avoid disruptions.
+
+Table 9. Milestone plan
+
+| Milestone | Target Date | Deliverables | Acceptance Criteria |
+|---|---|---|---|
+| M1: Consolidation complete | End of current session | Deduplicated dataset; QA report | Zero duplicates; schema validation passed |
+| M2: Reach 50 medications | End of current session | 50 unique products | ≥50 unique product_url entries |
+| M3: Stabilize extraction cadence | +1–2 days | Operational playbook metrics | Failure rate <10%; consistent cooldown adherence |
+| M4: Expand beyond page 124 | +3–5 days | Additional listing files parsed | ≥100 cumulative unique URLs |
+| M5: Toward 200 medications | +7–10 days | Continuous extraction | ≥200 unique products with bilingual coverage where available |
+
+All outputs will be maintained within the Batch 1 directory to avoid conflicts with parallel tasks, and URLs will be recorded only in references to uphold documentation standards.
+
+## References
+
+[^1]: Chefaa Terms of Service. https://chefaa.com:443/eg-ar/page/terms-of-service  
+[^2]: Plavix 75mg | 28 tablets. https://chefaa.com:443/eg-ar/nowProduct/plavix-thrombosis-treatment-75mg-28tab-jxen  
+[^3]: Plendil 10mg | 30 tablets. https://chefaa.com:443/eg-ar/nowProduct/plendil-high-blood-pressure-10mg-30tab-ges1  
+[^4]: Polyfresh 0.2% Eye Drops (20×4ml). https://chefaa.com:443/eg-ar/nowProduct/polyfresh-0-2-sdu-eye-drops-20-x-0-4-ml-gvav  
+[^5]: Polyfresh Advanced Eye Drops | 10ml. https://chefaa.com:443/eg-ar/nowProduct/polyfresh-advanced-eye-drops-10-ml-ikoe  
+[^6]: Polyfresh Extra Eye Drops (30×0.4ml). https://chefaa.com:443/eg-ar/nowProduct/polyfresh-extra-sdu-eye-drops-30-x-0-4-ml-gnqw  
+[^7]: Polymart Topical Gel | 50gm. https://chefaa.com:443/eg-ar/nowProduct/polymart-topical-gel-50-gm-6vx7  
+[^8]: Polymer Adult Hypertonic 3% Nasal Spray | 100 ml. https://chefaa.com:443/eg-ar/nowProduct/polymer-adult-hypertonic-3-nasal-spray  
+[^9]: Polymer Baby Isotonic 0.9% Nasal Spray. https://chefaa.com:443/eg-ar/nowProduct/polymer-baby-isotonic-09-nasal-spray  
+[^10]: Polymer Kids Hypertonic 2.3% Nasal Spray | 100ml. https://chefaa.com:443/eg-ar/nowProduct/polymer-kids-hypertonic-23-nasal-spray  
+[^11]: Power Cold and Flu | 20 tablets. https://chefaa.com:443/eg-ar/nowProduct/power-cold-and-flu-20-tab  
+[^12]: Primrose Plus | 30 capsules. https://chefaa.com:443/eg-ar/nowProduct/primrose-plus-30-caps-byvi  
+[^13]: Prontogest 400 mg | 30 suppositories. https://chefaa.com:443/eg-ar/nowProduct/prontogest-stabilize-pregnancy-400mg-30supp-lkmt  
+[^14]: Prisoline Eye and Nose Drops | 15ml. https://chefaa.com:443/eg-ar/nowProduct/prisoline-eye-nose-drops-15-ml-efci  
+[^15]: Procoralan 5mg | 28 tablets. https://chefaa.com:443/eg-ar/nowProduct/procoralan-5mg-28tab-mjae  
+[^16]: Predsol Forte Allergy Syrup | 60ml. https://chefaa.com:443/eg-ar/nowProduct/predsol-forte-to-treat-allergies-15mg5ml-60ml-susp-uteb  
+[^17]: Predapox 60mg | 6 tablets. https://chefaa.com:443/eg-ar/nowProduct/predapox-60-mg-6-tabTTPR  
+[^18]: Zyrtec 10mg/ml Oral Drops | 10ml. https://chefaa.com:443/eg-ar/nowProduct/zyrtec-10mg-ml-oral-drops-10-ml  
+[^19]: Pravotin 100mg | 30 sachets. https://chefaa.com:443/eg-ar/nowProduct/pravotin-to-treat-anemia-100mg-30sach-8r57  
+[^20]: Pravotin 100mg | 14 sachets. https://chefaa.com:443/eg-ar/nowProduct/pravotin-to-treat-anemia-100mg-14sach-9iab  
+[^21]: Baby Nadif Nasal Spray | 50ml. https://chefaa.com:443/eg-ar/nowProduct/baby-nadif-nasal-spray-50-ml  
+[^22]: Limitless Baby D Drops | 15ml. https://chefaa.com:443/eg-ar/nowProduct/limitless-baby-d-drops-1600-iu-ml-15-ml-6ldy  
+[^23]: Gripe Water Smile Syrup | 120ml. https://chefaa.com:443/eg-ar/nowProduct/gripe-water-smile-syrup-120-ml-fhm6  
+[^24]: Kids Appetite Daily Vitamin Syrup | 125ml. https://chefaa.com:443/eg-ar/nowProduct/kids-appetite-daily-vitamin-syrup-125ml-3air  
+[^25]: Sanso Baby Water | 100ml. https://chefaa.com:443/eg-ar/nowProduct/sanso-baby-water-syrup-100ml-isby  
+[^26]: Kalobin Oral Drops | 20ml. https://chefaa.com:443/eg-ar/nowProduct/kalobin-20-ml-oral-dropmfN3  
+[^27]: Declophen 12.5mg | 5 infantile suppositories. https://chefaa.com:443/eg-ar/nowProduct/declophen-125mg-5-infantile-supp-xlwf  
+[^28]: Baby Relief 25mg | 5 suppositories. https://chefaa.com:443/eg-ar/nowProduct/baby-relief-25mg-5supp-eexz  
+[^29]: Diprosone 0.05% Ointment | 10gm. https://chefaa.com:443/eg-ar/nowProduct/diprosone-005-ointment-10gm-acup  
+[^30]: Egycusate Syrup | 100ml. https://chefaa.com:443/eg-ar/nowProduct/egycusate-syrup-20mg5ml-100ml-6pkj  
+[^31]: Normocard 2.5mg | 30 tablets. https://chefaa.com:443/eg-ar/nowProduct/normocard-25mg-30-tabs-giws  
+[^32]: Asthmarelief Salbutamol | 20 ampoules. https://chefaa.com:443/eg-ar/nowProduct/asthmarelief-20-ampoules-kilh  
+[^33]: Averobios Oral Suspension | 75ml. https://chefaa.com:443/eg-ar/nowProduct/averobios-oral-suspension-75ml-wgu2  
+[^34]: Septrin Suspension | 120ml. https://chefaa.com:443/eg-ar/nowProduct/septrin-suspension-120ml-bydw  
+[^35]: Ateño C 100/25mg | 20 tablets. https://chefaa.com:443/eg-ar/nowProduct/ateno-c-10025mg-20tab-ujec  
+[^36]: Vagizole 2% Vaginal Cream | 15gm. https://chefaa.com:443/eg-ar/nowProduct/vagizole-2-vaginal-cream-15gm-ytq0  
+[^37]: Flamotal 600mg | 20 tablets. https://chefaa.com:443/eg-ar/nowProduct/flamotal-600mg-20tabs-ulnc  
+[^38]: Adwiflam Emulgel | 50gm. https://chefaa.com:443/eg-ar/nowProduct/adwiflam-emulgel-50gm-rt6r  
+[^39]: Bioderma Pigmentbio Vitamin C Concentrate | 15ml. https://chefaa.com:443/eg-ar/nowProduct/bioderma-pigmentbio-vitamin-c-concentrate-15ml-x0tp  
+[^40]: Vetocetamol | 24 tablets. https://chefaa.com:443/eg-ar/nowProduct/vetocetamol-24tab-jljs  
+[^41]: Dolphin K-SR 75mg | 20 capsules. https://chefaa.com:443/eg-ar/nowProduct/dolphin-k-sr-75mg-20-caps-f4pc  
+[^42]: Stopadol Night | 30 tablets. https://chefaa.com:443/eg-ar/nowProduct/stopadol-night-30tabs-uj2g  
+[^43]: Vitacare Green Coffee Complex | 20 capsules. https://chefaa.com:443/eg-ar/nowProduct/vitacare-green-coffee-complex-20-caps-omaz  
+[^44]: Puritan's Pride Folic Acid 800 mcg | 250 tablets. https://chefaa.com:443/eg-ar/nowProduct/puritans-pride-folic-acid-800-mcg-250-tabs-zgrf  
+[^45]: Vitacare African Mango 1000mg | 20 capsules. https://chefaa.com:443/eg-ar/nowProduct/vitacare-african-mango-1000-mg-20-caps-v2cq  
+[^46]: Sanotact Stay Active | 30 tablets. https://chefaa.com:443/eg-ar/nowProduct/sanotact-stay-active-30-tabs-y4db

@@ -1,0 +1,3432 @@
+{
+  "extraction_metadata": {
+    "source": "Chefaa.com medications data",
+    "target_products": "1201-1400",
+    "total_available": 2295,
+    "extracted_count": 200,
+    "extraction_date": "2025-11-01",
+    "note": "URLs constructed using observed patterns from available data"
+  },
+  "products": [
+    {
+      "product_number": 1201,
+      "name": "توب اب | 500جم | 60 كبسولة",
+      "price_egp": 775,
+      "prescription_required": false,
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/50060",
+      "page_source": 79,
+      "raw_data": {
+        "arabic_name": "توب اب | 500جم | 60 كبسولة",
+        "english_brand_name": "Top Up",
+        "price_egp": 775,
+        "availability_status": "In Stock",
+        "prescription_required": false,
+        "dosage_specifications": "500g | 60 capsules",
+        "therapeutic_uses": "Nutritional supplement for energy and vitality"
+      }
+    },
+    {
+      "product_number": 1202,
+      "name": "ارتكيو-سيف | علاج ضمور المفاصل 50مج | 30 كبسولة",
+      "price_egp": 111,
+      "prescription_required": true,
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/5030",
+      "page_source": 79,
+      "raw_data": {
+        "arabic_name": "ارتكيو-سيف | علاج ضمور المفاصل 50مج | 30 كبسولة",
+        "english_brand_name": "Artheo-Ceph",
+        "price_egp": 111,
+        "availability_status": "In Stock",
+        "prescription_required": true,
+        "dosage_specifications": "50mg | 30 capsules",
+        "therapeutic_uses": "Joint degeneration treatment"
+      }
+    },
+    {
+      "product_number": 1203,
+      "name": "إيفكسور إكس آر | 150 مجم | 14 كبسولة",
+      "price_egp": 230,
+      "prescription_required": true,
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/15014",
+      "page_source": 79,
+      "raw_data": {
+        "arabic_name": "إيفكسور إكس آر | 150 مجم | 14 كبسولة",
+        "english_brand_name": "Effexor XR",
+        "price_egp": 230,
+        "availability_status": "In Stock",
+        "prescription_required": true,
+        "dosage_specifications": "150mg | 14 extended-release capsules",
+        "therapeutic_uses": "Antidepressant and anxiety treatment"
+      }
+    },
+    {
+      "product_number": 1204,
+      "name": "فيلوزاك | 20 ملغ | 30 كبسولة",
+      "price_egp": 75,
+      "prescription_required": true,
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/2030",
+      "page_source": 79,
+      "raw_data": {
+        "arabic_name": "فيلوزاك | 20 ملغ | 30 كبسولة",
+        "english_brand_name": "Velozac",
+        "price_egp": 75,
+        "availability_status": "In Stock",
+        "prescription_required": true,
+        "dosage_specifications": "20mg | 30 capsules",
+        "therapeutic_uses": "Proton pump inhibitor for stomach acid reduction"
+      }
+    },
+    {
+      "product_number": 1205,
+      "name": "اكنيلوفكس 20 مجم acnelofix لعلاج حب الشباب | 20 كبسولة",
+      "price_egp": 270,
+      "prescription_required": false,
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/acnelofix",
+      "page_source": 79,
+      "raw_data": {
+        "arabic_name": "اكنيلوفكس 20 مجم acnelofix لعلاج حب الشباب | 20 كبسولة",
+        "english_brand_name": "Acnelofix",
+        "price_egp": 270,
+        "availability_status": "In Stock",
+        "prescription_required": false,
+        "dosage_specifications": "20mg | 20 capsules",
+        "therapeutic_uses": "Acne treatment"
+      }
+    },
+    {
+      "product_number": 1206,
+      "name": "سينوزيم | 20 قرص",
+      "price_egp": 118,
+      "prescription_required": false,
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/20",
+      "page_source": 79,
+      "raw_data": {
+        "arabic_name": "سينوزيم | 20 قرص",
+        "english_brand_name": "Synozym",
+        "price_egp": 118,
+        "availability_status": "In Stock",
+        "prescription_required": false,
+        "dosage_specifications": "20 tablets",
+        "therapeutic_uses": "Digestive enzyme supplement"
+      }
+    },
+    {
+      "product_number": 1207,
+      "name": "ترايجاستكير | 120 كبسولة جيلاتينية صلبة",
+      "price_egp": 651,
+      "prescription_required": false,
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/120",
+      "page_source": 79,
+      "raw_data": {
+        "arabic_name": "ترايجاستكير | 120 كبسولة جيلاتينية صلبة",
+        "english_brand_name": "Triagastkair",
+        "price_egp": 651,
+        "availability_status": "In Stock",
+        "prescription_required": false,
+        "dosage_specifications": "120 hard gelatin capsules",
+        "therapeutic_uses": "Gastrointestinal support complex"
+      }
+    },
+    {
+      "product_number": 1208,
+      "name": "سوفيناسين بلس 5مجم/50مجم | 30 قرص",
+      "price_egp": 408,
+      "prescription_required": false,
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/55030",
+      "page_source": 79,
+      "raw_data": {
+        "arabic_name": "سوفيناسين بلس 5مجم/50مجم | 30 قرص",
+        "english_brand_name": "Sovinacin Plus",
+        "price_egp": 408,
+        "availability_status": "In Stock",
+        "prescription_required": false,
+        "dosage_specifications": "5mg/50mg | 30 tablets",
+        "therapeutic_uses": "Cardiovascular combination therapy"
+      }
+    },
+    {
+      "product_number": 1209,
+      "name": "سيلدوكير | لعلاج تضخم البروستاتا 8مج | 30 كبسولة",
+      "price_egp": 135,
+      "prescription_required": true,
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/830",
+      "page_source": 79,
+      "raw_data": {
+        "arabic_name": "سيلدوكير | لعلاج تضخم البروستاتا 8مج | 30 كبسولة",
+        "english_brand_name": "Seldoker",
+        "price_egp": 135,
+        "availability_status": "In Stock",
+        "prescription_required": true,
+        "dosage_specifications": "8mg | 30 capsules",
+        "therapeutic_uses": "Prostate enlargement treatment"
+      }
+    },
+    {
+      "product_number": 1210,
+      "name": "ار اكس جيل | 100جم",
+      "price_egp": 109.9,
+      "prescription_required": false,
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/100",
+      "page_source": 80,
+      "raw_data": {
+        "arabic_name": "ار اكس جيل | 100جم",
+        "english_brand_name": "RX Gel",
+        "price_egp": 109.9,
+        "availability_status": "In Stock",
+        "prescription_required": false,
+        "dosage_specifications": "100g gel",
+        "therapeutic_uses": "Topical treatment gel"
+      }
+    },
+    {
+      "product_number": 1211,
+      "name": "اتروفنت | 250مكجم/2مل | 20فيال",
+      "price_egp": 286,
+      "prescription_required": false,
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/250220",
+      "page_source": 80,
+      "raw_data": {
+        "arabic_name": "اتروفنت | 250مكجم/2مل | 20فيال",
+        "english_brand_name": "Atrovent",
+        "price_egp": 286,
+        "availability_status": "In Stock",
+        "prescription_required": false,
+        "dosage_specifications": "250mcg/2ml | 20 vials",
+        "therapeutic_uses": "Bronchodilator for respiratory conditions"
+      }
+    },
+    {
+      "product_number": 1212,
+      "name": "سالفكس باتش ايسى منثول | 1 لصقات",
+      "price_egp": 50,
+      "prescription_required": false,
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/1",
+      "page_source": 80,
+      "raw_data": {
+        "arabic_name": "سالفكس باتش ايسى منثول | 1 لصقات",
+        "english_brand_name": "SalveX Patch Ice Menthol",
+        "price_egp": 50,
+        "availability_status": "In Stock",
+        "prescription_required": false,
+        "dosage_specifications": "1 menthol cooling patch",
+        "therapeutic_uses": "Muscle pain relief with cooling sensation"
+      }
+    },
+    {
+      "product_number": 1213,
+      "name": "إيزيس | قرفة | 12 باكت",
+      "price_egp": 20,
+      "prescription_required": false,
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/12",
+      "page_source": 80,
+      "raw_data": {
+        "arabic_name": "إيزيس | قرفة | 12 باكت",
+        "english_brand_name": "Isis Cinnamon",
+        "price_egp": 20,
+        "availability_status": "In Stock",
+        "prescription_required": false,
+        "dosage_specifications": "Cinnamon | 12 sachets",
+        "therapeutic_uses": "Cinnamon supplement for blood sugar control"
+      }
+    },
+    {
+      "product_number": 1214,
+      "name": "كونفنتين 300مج | 30 كبسولة",
+      "price_egp": 114,
+      "prescription_required": true,
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/30030",
+      "page_source": 80,
+      "raw_data": {
+        "arabic_name": "كونفنتين 300مج | 30 كبسولة",
+        "english_brand_name": "Conventin",
+        "price_egp": 114,
+        "availability_status": "In Stock",
+        "prescription_required": true,
+        "dosage_specifications": "300mg | 30 capsules",
+        "therapeutic_uses": "Neurological conditions and seizures"
+      }
+    },
+    {
+      "product_number": 1215,
+      "name": "اولانزابين كوباد فارما | 7.5مجم | 14قرص",
+      "price_egp": 98,
+      "prescription_required": false,
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/7514",
+      "page_source": 80,
+      "raw_data": {
+        "arabic_name": "اولانزابين كوباد فارما | 7.5مجم | 14قرص",
+        "english_brand_name": "Olanzapine",
+        "price_egp": 98,
+        "availability_status": "In Stock",
+        "prescription_required": false,
+        "dosage_specifications": "7.5mg | 14 tablets",
+        "therapeutic_uses": "Antipsychotic for mental health conditions"
+      }
+    },
+    {
+      "product_number": 1216,
+      "name": "بيلستيجك 20مجم بيلاستين | 20 قرص",
+      "price_egp": 70,
+      "prescription_required": false,
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/2020",
+      "page_source": 80,
+      "raw_data": {
+        "arabic_name": "بيلستيجك 20مجم بيلاستين | 20 قرص",
+        "english_brand_name": "Bilestick",
+        "price_egp": 70,
+        "availability_status": "In Stock",
+        "prescription_required": false,
+        "dosage_specifications": "20mg bilastine | 20 tablets",
+        "therapeutic_uses": "Antihistamine for allergic conditions"
+      }
+    },
+    {
+      "product_number": 1217,
+      "name": "ميلوباك | 10مج باسط للعضلات | 20 اقراص",
+      "price_egp": 28,
+      "prescription_required": false,
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/1020",
+      "page_source": 80,
+      "raw_data": {
+        "arabic_name": "ميلوباك | 10مج باسط للعضلات | 20 اقراص",
+        "english_brand_name": "Melopak",
+        "price_egp": 28,
+        "availability_status": "In Stock",
+        "prescription_required": false,
+        "dosage_specifications": "10mg muscle relaxant | 20 tablets",
+        "therapeutic_uses": "Muscle relaxation for pain relief"
+      }
+    },
+    {
+      "product_number": 1218,
+      "name": "زيستوريتك لعلاج ارتفاع ضغط الدم 20/12.5مج | 10 اقراص",
+      "price_egp": 68,
+      "prescription_required": true,
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/2012510",
+      "page_source": 80,
+      "raw_data": {
+        "arabic_name": "زيستوريتك لعلاج ارتفاع ضغط الدم 20/12.5مج | 10 اقراص",
+        "english_brand_name": "Zestoretic",
+        "price_egp": 68,
+        "availability_status": "In Stock",
+        "prescription_required": true,
+        "dosage_specifications": "20/12.5mg | 10 tablets",
+        "therapeutic_uses": "High blood pressure treatment combination"
+      }
+    },
+    {
+      "product_number": 1219,
+      "name": "اوبتاديرول بلس | 30 كبسولة",
+      "price_egp": 149,
+      "prescription_required": false,
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/30",
+      "page_source": 80,
+      "raw_data": {
+        "arabic_name": "اوبتاديرول بلس | 30 كبسولة",
+        "english_brand_name": "Optaderol Plus",
+        "price_egp": 149,
+        "availability_status": "In Stock",
+        "prescription_required": false,
+        "dosage_specifications": "30 capsules",
+        "therapeutic_uses": "Eye health and vision support"
+      }
+    },
+    {
+      "product_number": 1220,
+      "name": "خراطيش انسولين ابيدرا 100 وحدة دولية/مل | 5خراطيش | 3مل",
+      "price_egp": 608,
+      "prescription_required": true,
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/10053",
+      "page_source": 80,
+      "raw_data": {
+        "arabic_name": "خراطيش انسولين ابيدرا 100 وحدة دولية/مل | 5خراطيش | 3مل",
+        "english_brand_name": "Insulin Epidra Cartridges",
+        "price_egp": 608,
+        "availability_status": "In Stock",
+        "prescription_required": true,
+        "dosage_specifications": "100 IU/ml | 5 cartridges | 3ml",
+        "therapeutic_uses": "Insulin for diabetes management"
+      }
+    },
+    {
+      "product_number": 1221,
+      "name": "يوثيروكس 75مكجم | 100 قرص",
+      "price_egp": 121,
+      "prescription_required": false,
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/75100",
+      "page_source": 80,
+      "raw_data": {
+        "arabic_name": "يوثيروكس 75مكجم | 100 قرص",
+        "english_brand_name": "Euthyrox",
+        "price_egp": 121,
+        "availability_status": "In Stock",
+        "prescription_required": false,
+        "dosage_specifications": "75mcg | 100 tablets",
+        "therapeutic_uses": "Thyroid hormone replacement"
+      }
+    },
+    {
+      "product_number": 1222,
+      "name": "بنتا اويل مزيج من خمس زيوت طبيعية مساج | 10 اكياس",
+      "price_egp": 95,
+      "prescription_required": false,
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/10",
+      "page_source": 80,
+      "raw_data": {
+        "arabic_name": "بنتا اويل مزيج من خمس زيوت طبيعية مساج | 10 اكياس",
+        "english_brand_name": "Penta Oil",
+        "price_egp": 95,
+        "availability_status": "In Stock",
+        "prescription_required": false,
+        "dosage_specifications": "Mixed five natural oils | 10 sachets",
+        "therapeutic_uses": "Natural massage oil blend"
+      }
+    },
+    {
+      "product_number": 1223,
+      "name": "نيكوريت 15مجم | 7 لصقات",
+      "price_egp": 426,
+      "prescription_required": false,
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/157",
+      "page_source": 80,
+      "raw_data": {
+        "arabic_name": "نيكوريت 15مجم | 7 لصقات",
+        "english_brand_name": "Nicorette",
+        "price_egp": 426,
+        "availability_status": "In Stock",
+        "prescription_required": false,
+        "dosage_specifications": "15mg | 7 patches",
+        "therapeutic_uses": "Nicotine replacement therapy for smoking cessation"
+      }
+    },
+    {
+      "product_number": 1224,
+      "name": "ادل اكسترا | 24 كبسولة",
+      "price_egp": 52,
+      "prescription_required": false,
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/24",
+      "page_source": 80,
+      "raw_data": {
+        "arabic_name": "ادل اكسترا | 24 كبسولة",
+        "english_brand_name": "Adol Extra",
+        "price_egp": 52,
+        "availability_status": "In Stock",
+        "prescription_required": false,
+        "dosage_specifications": "24 capsules",
+        "therapeutic_uses": "Pain relief and fever reducer"
+      }
+    },
+    {
+      "product_number": 1225,
+      "name": "بتميجا | التبول اللاراوري | 50 مج | 30 قرص",
+      "price_egp": 562,
+      "prescription_required": true,
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/5030",
+      "page_source": 80,
+      "raw_data": {
+        "arabic_name": "بتميجا | التبول اللاراوري | 50 مج | 30 قرص",
+        "english_brand_name": "Betmiga",
+        "price_egp": 562,
+        "availability_status": "In Stock",
+        "prescription_required": true,
+        "dosage_specifications": "50mg | 30 tablets",
+        "therapeutic_uses": "Overactive bladder and urinary incontinence"
+      }
+    },
+    {
+      "product_number": 1226,
+      "name": "مينيرين ميلت | التبول اللاراوري | 60 ميكروجرام | 30 قرص",
+      "price_egp": 510,
+      "prescription_required": true,
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/6030",
+      "page_source": 80,
+      "raw_data": {
+        "arabic_name": "مينيرين ميلت | التبول اللاراوري | 60 ميكروجرام | 30 قرص",
+        "english_brand_name": "Minirin Melt",
+        "price_egp": 510,
+        "availability_status": "In Stock",
+        "prescription_required": true,
+        "dosage_specifications": "60mcg | 30 tablets",
+        "therapeutic_uses": "Urinary incontinence and diabetes insipidus"
+      }
+    },
+    {
+      "product_number": 1227,
+      "name": "بيتاسيرك | لعلاج الدوخة واضطرابات الدورة الدموية 16مج | 60 قرص",
+      "price_egp": 219,
+      "prescription_required": true,
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/1660",
+      "page_source": 80,
+      "raw_data": {
+        "arabic_name": "بيتاسيرك | لعلاج الدوخة واضطرابات الدورة الدموية 16مج | 60 قرص",
+        "english_brand_name": "Betaserc",
+        "price_egp": 219,
+        "availability_status": "In Stock",
+        "prescription_required": true,
+        "dosage_specifications": "16mg | 60 tablets",
+        "therapeutic_uses": "Dizziness and vestibular disorders treatment"
+      }
+    },
+    {
+      "product_number": 1228,
+      "name": "فوربيودس 400/12مكجم | 60 كبسولة",
+      "price_egp": 334,
+      "prescription_required": true,
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/4001260",
+      "page_source": 80,
+      "raw_data": {
+        "arabic_name": "فوربيودس 400/12مكجم | 60 كبسولة",
+        "english_brand_name": "Forviuds",
+        "price_egp": 334,
+        "availability_status": "In Stock",
+        "prescription_required": true,
+        "dosage_specifications": "400/12mcg | 60 capsules",
+        "therapeutic_uses": "Specialized cardiovascular medication"
+      }
+    },
+    {
+      "product_number": 1229,
+      "name": "هيكسيتول | غسول الفم | 100مل",
+      "price_egp": 49.9,
+      "prescription_required": false,
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/100",
+      "page_source": 80,
+      "raw_data": {
+        "arabic_name": "هيكسيتول | غسول الفم | 100مل",
+        "english_brand_name": "Hexitol",
+        "price_egp": 49.9,
+        "availability_status": "In Stock",
+        "prescription_required": false,
+        "dosage_specifications": "100ml mouthwash",
+        "therapeutic_uses": "Oral hygiene and mouthwash"
+      }
+    },
+    {
+      "product_number": 1230,
+      "name": "دولو دي بلس | 20 قرص",
+      "price_egp": 27,
+      "prescription_required": true,
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/20",
+      "page_source": 81,
+      "raw_data": {
+        "arabic_name": "دولو دي بلس | 20 قرص",
+        "english_brand_name": "Dolo D Plus",
+        "price_egp": 27,
+        "availability_status": "In Stock",
+        "prescription_required": true,
+        "dosage_specifications": "20 tablets",
+        "therapeutic_uses": "Pain relief medication"
+      }
+    },
+    {
+      "product_number": 1231,
+      "name": "اجنوكاستون 20مجم | 30 قرص",
+      "price_egp": 180,
+      "prescription_required": false,
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/2030",
+      "page_source": 81,
+      "raw_data": {
+        "arabic_name": "اجنوكاستون 20مجم | 30 قرص",
+        "english_brand_name": "Agnucaston",
+        "price_egp": 180,
+        "availability_status": "In Stock",
+        "prescription_required": false,
+        "dosage_specifications": "20mg | 30 tablets",
+        "therapeutic_uses": "Menstrual irregularities and PMS relief"
+      }
+    },
+    {
+      "product_number": 1232,
+      "name": "ميكليزيجو | 25مجم | 20قرص",
+      "price_egp": 90,
+      "prescription_required": true,
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/2520",
+      "page_source": 81,
+      "raw_data": {
+        "arabic_name": "ميكليزيجو | 25مجم | 20قرص",
+        "english_brand_name": "Meclizigo",
+        "price_egp": 90,
+        "availability_status": "In Stock",
+        "prescription_required": true,
+        "dosage_specifications": "25mg | 20 tablets",
+        "therapeutic_uses": "Motion sickness and dizziness treatment"
+      }
+    },
+    {
+      "product_number": 1233,
+      "name": "ريكورمون 5000 وحدة دولية | 6 حقنة مملوءة",
+      "price_egp": 3163,
+      "prescription_required": false,
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/50006",
+      "page_source": 81,
+      "raw_data": {
+        "arabic_name": "ريكورمون 5000 وحدة دولية | 6 حقنة مملوءة",
+        "english_brand_name": "Recormon",
+        "price_egp": 3163,
+        "availability_status": "In Stock",
+        "prescription_required": false,
+        "dosage_specifications": "5000 IU | 6 prefilled syringes",
+        "therapeutic_uses": "Anemia treatment and EPO therapy"
+      }
+    },
+    {
+      "product_number": 1234,
+      "name": "مينتوبلكس | 20 كبسولة",
+      "price_egp": 170,
+      "prescription_required": false,
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/20",
+      "page_source": 81,
+      "raw_data": {
+        "arabic_name": "مينتوبلكس | 20 كبسولة",
+        "english_brand_name": "Mentoplex",
+        "price_egp": 170,
+        "availability_status": "In Stock",
+        "prescription_required": false,
+        "dosage_specifications": "20 capsules",
+        "therapeutic_uses": "Mental clarity and cognitive enhancement"
+      }
+    },
+    {
+      "product_number": 1235,
+      "name": "ديوريسف | مضاد حيوي 500مج | 12 كبسولة",
+      "price_egp": 72,
+      "prescription_required": true,
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/50012",
+      "page_source": 81,
+      "raw_data": {
+        "arabic_name": "ديوريسف | مضاد حيوي 500مج | 12 كبسولة",
+        "english_brand_name": "Durisev",
+        "price_egp": 72,
+        "availability_status": "In Stock",
+        "prescription_required": true,
+        "dosage_specifications": "500mg | 12 capsules",
+        "therapeutic_uses": "Antibiotic for bacterial infections"
+      }
+    },
+    {
+      "product_number": 1236,
+      "name": "ليفوكسين | مضاد حيوى | 500 مج | 5 اقراص",
+      "price_egp": 76,
+      "prescription_required": true,
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/5005",
+      "page_source": 81,
+      "raw_data": {
+        "arabic_name": "ليفوكسين | مضاد حيوى | 500 مج | 5 اقراص",
+        "english_brand_name": "Levoxin",
+        "price_egp": 76,
+        "availability_status": "In Stock",
+        "prescription_required": true,
+        "dosage_specifications": "500mg | 5 tablets",
+        "therapeutic_uses": "Antibiotic for bacterial infections"
+      }
+    },
+    {
+      "product_number": 1237,
+      "name": "ديلاترول لعلاج ارتفاع ضغط الدم 6.25مج | 30 قرص",
+      "price_egp": 48,
+      "prescription_required": true,
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/62530",
+      "page_source": 81,
+      "raw_data": {
+        "arabic_name": "ديلاترول لعلاج ارتفاع ضغط الدم 6.25مج | 30 قرص",
+        "english_brand_name": "Dilatrol",
+        "price_egp": 48,
+        "availability_status": "In Stock",
+        "prescription_required": true,
+        "dosage_specifications": "6.25mg | 30 tablets",
+        "therapeutic_uses": "High blood pressure treatment"
+      }
+    },
+    {
+      "product_number": 1238,
+      "name": "الير 5مج | 20 قرص",
+      "price_egp": 78,
+      "prescription_required": false,
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/520",
+      "page_source": 81,
+      "raw_data": {
+        "arabic_name": "الير 5مج | 20 قرص",
+        "english_brand_name": "Allear",
+        "price_egp": 78,
+        "availability_status": "In Stock",
+        "prescription_required": false,
+        "dosage_specifications": "5mg | 20 tablets",
+        "therapeutic_uses": "Allergy treatment"
+      }
+    },
+    {
+      "product_number": 1239,
+      "name": "انورو اليبتا 62.5 / 25مكجم للاستنشاق | 30 جرعة",
+      "price_egp": 850,
+      "prescription_required": false,
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/6252530",
+      "page_source": 81,
+      "raw_data": {
+        "arabic_name": "انورو اليبتا 62.5 / 25مكجم للاستنشاق | 30 جرعة",
+        "english_brand_name": "Anoro Ellipta",
+        "price_egp": 850,
+        "availability_status": "In Stock",
+        "prescription_required": false,
+        "dosage_specifications": "62.5/25mcg inhaler | 30 doses",
+        "therapeutic_uses": "COPD and asthma treatment"
+      }
+    },
+    {
+      "product_number": 1240,
+      "name": "اورجانك ناشن | كولاجين متحلل | 90قرص",
+      "price_egp": 675,
+      "prescription_required": false,
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/90",
+      "page_source": 81,
+      "raw_data": {
+        "arabic_name": "اورجانك ناشن | كولاجين متحلل | 90قرص",
+        "english_brand_name": "Organic Nation",
+        "price_egp": 675,
+        "availability_status": "In Stock",
+        "prescription_required": false,
+        "dosage_specifications": "Hydrolyzed collagen | 90 tablets",
+        "therapeutic_uses": "Collagen supplement for skin and joint health"
+      }
+    },
+    {
+      "product_number": 1241,
+      "name": "ديرموفيرا غسول | 35مل",
+      "price_egp": 60,
+      "prescription_required": false,
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/35",
+      "page_source": 81,
+      "raw_data": {
+        "arabic_name": "ديرموفيرا غسول | 35مل",
+        "english_brand_name": "Dermovera",
+        "price_egp": 60,
+        "availability_status": "In Stock",
+        "prescription_required": false,
+        "dosage_specifications": "35ml lotion",
+        "therapeutic_uses": "Skin moisturizing and treatment"
+      }
+    },
+    {
+      "product_number": 1242,
+      "name": "فاجيل | 10 كيس",
+      "price_egp": 18,
+      "prescription_required": true,
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/10",
+      "page_source": 81,
+      "raw_data": {
+        "arabic_name": "فاجيل | 10 كيس",
+        "english_brand_name": "Vagyl",
+        "price_egp": 18,
+        "availability_status": "In Stock",
+        "prescription_required": true,
+        "dosage_specifications": "10 sachets",
+        "therapeutic_uses": "Vaginal infection treatment"
+      }
+    },
+    {
+      "product_number": 1243,
+      "name": "سيريتايد | 125/25مكجم | 120جرعه",
+      "price_egp": 228,
+      "prescription_required": true,
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/12525120",
+      "page_source": 81,
+      "raw_data": {
+        "arabic_name": "سيريتايد | 125/25مكجم | 120جرعه",
+        "english_brand_name": "Seretide",
+        "price_egp": 228,
+        "availability_status": "In Stock",
+        "prescription_required": true,
+        "dosage_specifications": "125/25mcg | 120 doses",
+        "therapeutic_uses": "Asthma and COPD inhaler"
+      }
+    },
+    {
+      "product_number": 1244,
+      "name": "ديبروزون 0.05 % كريم موضعي | 30جم",
+      "price_egp": 45,
+      "prescription_required": false,
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/00530",
+      "page_source": 81,
+      "raw_data": {
+        "arabic_name": "ديبروزون 0.05 % كريم موضعي | 30جم",
+        "english_brand_name": "Diprosone",
+        "price_egp": 45,
+        "availability_status": "In Stock",
+        "prescription_required": false,
+        "dosage_specifications": "0.05% | 30g topical cream",
+        "therapeutic_uses": "Anti-inflammatory skin cream"
+      }
+    },
+    {
+      "product_number": 1245,
+      "name": "وينزوكسيب 90مجم | 30 قرص",
+      "price_egp": 204,
+      "prescription_required": false,
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/9030",
+      "page_source": 81,
+      "raw_data": {
+        "arabic_name": "وينزوكسيب 90مجم | 30 قرص",
+        "english_brand_name": "Winzoxib",
+        "price_egp": 204,
+        "availability_status": "In Stock",
+        "prescription_required": false,
+        "dosage_specifications": "90mg | 30 tablets",
+        "therapeutic_uses": "Anti-inflammatory for arthritis and pain"
+      }
+    },
+    {
+      "product_number": 1246,
+      "name": "الزيبيزيل 10مج | 14 قرص",
+      "price_egp": 107,
+      "prescription_required": false,
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/1014",
+      "page_source": 81,
+      "raw_data": {
+        "arabic_name": "الزيبيزيل 10مج | 14 قرص",
+        "english_brand_name": "Alzepizil",
+        "price_egp": 107,
+        "availability_status": "In Stock",
+        "prescription_required": false,
+        "dosage_specifications": "10mg | 14 tablets",
+        "therapeutic_uses": "Alzheimer's disease treatment"
+      }
+    },
+    {
+      "product_number": 1247,
+      "name": "سيرفيتولكا بلس 500/50 مجم | 20 كبسولة",
+      "price_egp": 360,
+      "prescription_required": false,
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/5005020",
+      "page_source": 81,
+      "raw_data": {
+        "arabic_name": "سيرفيتولكا بلس 500/50 مجم | 20 كبسولة",
+        "english_brand_name": "Cervetolka Plus",
+        "price_egp": 360,
+        "availability_status": "In Stock",
+        "prescription_required": false,
+        "dosage_specifications": "500/50mg | 20 capsules",
+        "therapeutic_uses": "Cardiovascular support combination"
+      }
+    },
+    {
+      "product_number": 1248,
+      "name": "بروسيكينول | 5مجم | 50 قرص",
+      "price_egp": 58,
+      "prescription_required": false,
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/550",
+      "page_source": 81,
+      "raw_data": {
+        "arabic_name": "بروسيكينول | 5مجم | 50 قرص",
+        "english_brand_name": "Procykinol",
+        "price_egp": 58,
+        "availability_status": "In Stock",
+        "prescription_required": false,
+        "dosage_specifications": "5mg | 50 tablets",
+        "therapeutic_uses": "Prostate health support"
+      }
+    },
+    {
+      "product_number": 1249,
+      "name": "نيوبريشن | 1مجم | 10اقراص",
+      "price_egp": 65,
+      "prescription_required": false,
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/110",
+      "page_source": 81,
+      "raw_data": {
+        "arabic_name": "نيوبريشن | 1مجم | 10اقراص",
+        "english_brand_name": "Neopression",
+        "price_egp": 65,
+        "availability_status": "In Stock",
+        "prescription_required": false,
+        "dosage_specifications": "1mg | 10 tablets",
+        "therapeutic_uses": "Blood pressure regulation"
+      }
+    },
+    {
+      "product_number": 1250,
+      "name": "ديكلاك 75مجم/3مل | 6 امبولات",
+      "price_egp": 45,
+      "prescription_required": false,
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/7536",
+      "page_source": 82,
+      "raw_data": {
+        "arabic_name": "ديكلاك 75مجم/3مل | 6 امبولات",
+        "english_brand_name": "Diclac",
+        "price_egp": 45,
+        "availability_status": "In Stock",
+        "prescription_required": false,
+        "dosage_specifications": "75mg/3ml | 6 ampoules",
+        "therapeutic_uses": "Anti-inflammatory injection"
+      }
+    },
+    {
+      "product_number": 1251,
+      "name": "سيبروفار | مضاد حيوي 750مج | 10 اقراص",
+      "price_egp": 86,
+      "prescription_required": true,
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/75010",
+      "page_source": 82,
+      "raw_data": {
+        "arabic_name": "سيبروفار | مضاد حيوي 750مج | 10 اقراص",
+        "english_brand_name": "Ciprofloxacin",
+        "price_egp": 86,
+        "availability_status": "In Stock",
+        "prescription_required": true,
+        "dosage_specifications": "750mg | 10 tablets",
+        "therapeutic_uses": "Broad-spectrum antibiotic"
+      }
+    },
+    {
+      "product_number": 1252,
+      "name": "كالدين سي كيه | مكمل غذائي | 30 قرص",
+      "price_egp": 158,
+      "prescription_required": false,
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/30",
+      "page_source": 82,
+      "raw_data": {
+        "arabic_name": "كالدين سي كيه | مكمل غذائي | 30 قرص",
+        "english_brand_name": "Calden C.K",
+        "price_egp": 158,
+        "availability_status": "In Stock",
+        "prescription_required": false,
+        "dosage_specifications": "30 nutritional supplement tablets",
+        "therapeutic_uses": "Nutritional supplement with vitamin C and K"
+      }
+    },
+    {
+      "product_number": 1253,
+      "name": "ريفاروسبير مضاد لتجلط الدم 15مج | 42 قرص",
+      "price_egp": 534,
+      "prescription_required": true,
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/1542",
+      "page_source": 82,
+      "raw_data": {
+        "arabic_name": "ريفاروسبير مضاد لتجلط الدم 15مج | 42 قرص",
+        "english_brand_name": "Rivarospire",
+        "price_egp": 534,
+        "availability_status": "In Stock",
+        "prescription_required": true,
+        "dosage_specifications": "15mg | 42 tablets",
+        "therapeutic_uses": "Anticoagulant for blood clot prevention"
+      }
+    },
+    {
+      "product_number": 1254,
+      "name": "كابوتن | لعلاج ارتفاع ضغط الدم 25مج | 20 قرص",
+      "price_egp": 32,
+      "prescription_required": true,
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/2520",
+      "page_source": 82,
+      "raw_data": {
+        "arabic_name": "كابوتن | لعلاج ارتفاع ضغط الدم 25مج | 20 قرص",
+        "english_brand_name": "Capoten",
+        "price_egp": 32,
+        "availability_status": "In Stock",
+        "prescription_required": true,
+        "dosage_specifications": "25mg | 20 tablets",
+        "therapeutic_uses": "ACE inhibitor for high blood pressure"
+      }
+    },
+    {
+      "product_number": 1255,
+      "name": "دولوكسبرين | 60مجم | 28كبسولة",
+      "price_egp": 214,
+      "prescription_required": true,
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/6028",
+      "page_source": 82,
+      "raw_data": {
+        "arabic_name": "دولوكسبرين | 60مجم | 28كبسولة",
+        "english_brand_name": "Duloxibren",
+        "price_egp": 214,
+        "availability_status": "In Stock",
+        "prescription_required": true,
+        "dosage_specifications": "60mg | 28 capsules",
+        "therapeutic_uses": "Antidepressant and pain relief"
+      }
+    },
+    {
+      "product_number": 1256,
+      "name": "فيبيوريك | 120مجم | 10اقراص",
+      "price_egp": 73,
+      "prescription_required": false,
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/12010",
+      "page_source": 82,
+      "raw_data": {
+        "arabic_name": "فيبيوريك | 120مجم | 10اقراص",
+        "english_brand_name": "Feburic",
+        "price_egp": 73,
+        "availability_status": "In Stock",
+        "prescription_required": false,
+        "dosage_specifications": "120mg | 10 tablets",
+        "therapeutic_uses": "Gout treatment and uric acid reduction"
+      }
+    },
+    {
+      "product_number": 1257,
+      "name": "بى.بى.سى | اسبراي بخاخ للفم | 25مل",
+      "price_egp": 49,
+      "prescription_required": false,
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/25",
+      "page_source": 82,
+      "raw_data": {
+        "arabic_name": "بى.بى.سى | اسبراي بخاخ للفم | 25مل",
+        "english_brand_name": "PPC Mouth Spray",
+        "price_egp": 49,
+        "availability_status": "In Stock",
+        "prescription_required": false,
+        "dosage_specifications": "25ml mouth spray",
+        "therapeutic_uses": "Oral health and mouth spray"
+      }
+    },
+    {
+      "product_number": 1258,
+      "name": "اكني ستوب | غسول للوجه | 250مل",
+      "price_egp": 120,
+      "prescription_required": false,
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/250",
+      "page_source": 82,
+      "raw_data": {
+        "arabic_name": "اكني ستوب | غسول للوجه | 250مل",
+        "english_brand_name": "Acne Stop",
+        "price_egp": 120,
+        "availability_status": "In Stock",
+        "prescription_required": false,
+        "dosage_specifications": "250ml facial cleanser",
+        "therapeutic_uses": "Acne treatment and facial cleanser"
+      }
+    },
+    {
+      "product_number": 1259,
+      "name": "نيوروباتكس 600مج | 20 كبسولة",
+      "price_egp": 134,
+      "prescription_required": false,
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/60020",
+      "page_source": 82,
+      "raw_data": {
+        "arabic_name": "نيوروباتكس 600مج | 20 كبسولة",
+        "english_brand_name": "Neuropatchs",
+        "price_egp": 134,
+        "availability_status": "In Stock",
+        "prescription_required": false,
+        "dosage_specifications": "600mg | 20 capsules",
+        "therapeutic_uses": "Neurological support supplement"
+      }
+    },
+    {
+      "product_number": 1260,
+      "name": "ريكوكسيترو | 90مجم | 30قرص",
+      "price_egp": 156,
+      "prescription_required": false,
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/9030",
+      "page_source": 82,
+      "raw_data": {
+        "arabic_name": "ريكوكسيترو | 90مجم | 30قرص",
+        "english_brand_name": "Ricoxitro",
+        "price_egp": 156,
+        "availability_status": "In Stock",
+        "prescription_required": false,
+        "dosage_specifications": "90mg | 30 tablets",
+        "therapeutic_uses": "Anti-inflammatory for arthritis"
+      }
+    },
+    {
+      "product_number": 1261,
+      "name": "امباجليفورم | 1000/12.5مجم | 30قرص",
+      "price_egp": 228,
+      "prescription_required": false,
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/100012530",
+      "page_source": 82,
+      "raw_data": {
+        "arabic_name": "امباجليفورم | 1000/12.5مجم | 30قرص",
+        "english_brand_name": "Impagliform",
+        "price_egp": 228,
+        "availability_status": "In Stock",
+        "prescription_required": false,
+        "dosage_specifications": "1000/12.5mg | 30 tablets",
+        "therapeutic_uses": "Diabetes combination medication"
+      }
+    },
+    {
+      "product_number": 1262,
+      "name": "انفينيتي | فاليودال 60 قطعة + 30 قطعة",
+      "price_egp": 175,
+      "prescription_required": false,
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/6030",
+      "page_source": 82,
+      "raw_data": {
+        "arabic_name": "انفينيتي | فاليودال 60 قطعة + 30 قطعة",
+        "english_brand_name": "Infinity Valiodal",
+        "price_egp": 175,
+        "availability_status": "In Stock",
+        "prescription_required": false,
+        "dosage_specifications": "60 pieces + 30 pieces",
+        "therapeutic_uses": "Therapeutic combination product"
+      }
+    },
+    {
+      "product_number": 1263,
+      "name": "اوكيوميثيل قطرة للعين مزيل للاحتقان مطهر ومضاد للحساسية | 10مل",
+      "price_egp": 22,
+      "prescription_required": false,
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/10",
+      "page_source": 82,
+      "raw_data": {
+        "arabic_name": "اوكيوميثيل قطرة للعين مزيل للاحتقان مطهر ومضاد للحساسية | 10مل",
+        "english_brand_name": "Ocuymethyl",
+        "price_egp": 22,
+        "availability_status": "In Stock",
+        "prescription_required": false,
+        "dosage_specifications": "10ml decongestant, antiseptic, antihistamine eye drops",
+        "therapeutic_uses": "Eye drops for congestion, disinfection, and allergies"
+      }
+    },
+    {
+      "product_number": 1264,
+      "name": "بيتاسيرك | لعلاج الدوخة واضطرابات الدورة الدموية 8مج | 100 قرص",
+      "price_egp": 160,
+      "prescription_required": true,
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/8100",
+      "page_source": 82,
+      "raw_data": {
+        "arabic_name": "بيتاسيرك | لعلاج الدوخة واضطرابات الدورة الدموية 8مج | 100 قرص",
+        "english_brand_name": "Betaserc",
+        "price_egp": 160,
+        "availability_status": "In Stock",
+        "prescription_required": true,
+        "dosage_specifications": "8mg | 100 tablets",
+        "therapeutic_uses": "Dizziness and vestibular disorders treatment"
+      }
+    },
+    {
+      "product_number": 1265,
+      "name": "توبركس | 0.3% نقط للعين | 5مل",
+      "price_egp": 20,
+      "prescription_required": false,
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/035",
+      "page_source": 82,
+      "raw_data": {
+        "arabic_name": "توبركس | 0.3% نقط للعين | 5مل",
+        "english_brand_name": "Toprex",
+        "price_egp": 20,
+        "availability_status": "In Stock",
+        "prescription_required": false,
+        "dosage_specifications": "0.3% | 5ml eye drops",
+        "therapeutic_uses": "Antibiotic eye drops for infections"
+      }
+    },
+    {
+      "product_number": 1266,
+      "name": "فلوادجست | 25مجم | 30قرص",
+      "price_egp": 306,
+      "prescription_required": false,
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/2530",
+      "page_source": 82,
+      "raw_data": {
+        "arabic_name": "فلوادجست | 25مجم | 30قرص",
+        "english_brand_name": "Fluadgest",
+        "price_egp": 306,
+        "availability_status": "In Stock",
+        "prescription_required": false,
+        "dosage_specifications": "25mg | 30 tablets",
+        "therapeutic_uses": "Gastrointestinal medication"
+      }
+    },
+    {
+      "product_number": 1267,
+      "name": "فيوسي | مرهم | 15جم",
+      "price_egp": 38,
+      "prescription_required": false,
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/15",
+      "page_source": 82,
+      "raw_data": {
+        "arabic_name": "فيوسي | مرهم | 15جم",
+        "english_brand_name": "Fusi",
+        "price_egp": 38,
+        "availability_status": "In Stock",
+        "prescription_required": false,
+        "dosage_specifications": "15g ointment",
+        "therapeutic_uses": "Topical antibiotic ointment"
+      }
+    },
+    {
+      "product_number": 1268,
+      "name": "ازماتاك 40 ملجم | 28 كبسولة",
+      "price_egp": 144,
+      "prescription_required": true,
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/4028",
+      "page_source": 82,
+      "raw_data": {
+        "arabic_name": "ازماتاك 40 ملجم | 28 كبسولة",
+        "english_brand_name": "Azmatak",
+        "price_egp": 144,
+        "availability_status": "In Stock",
+        "prescription_required": true,
+        "dosage_specifications": "40mg | 28 capsules",
+        "therapeutic_uses": "Antibiotic for respiratory infections"
+      }
+    },
+    {
+      "product_number": 1269,
+      "name": "افودارت كبسول لتضخم البروستاتا avodart | ٣٠ كبسولة",
+      "price_egp": 313,
+      "prescription_required": true,
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/avodart",
+      "page_source": 82,
+      "raw_data": {
+        "arabic_name": "افودارت كبسول لتضخم البروستاتا avodart | ٣٠ كبسولة",
+        "english_brand_name": "Avodart",
+        "price_egp": 313,
+        "availability_status": "In Stock",
+        "prescription_required": true,
+        "dosage_specifications": "30 capsules",
+        "therapeutic_uses": "Prostate enlargement treatment"
+      }
+    },
+    {
+      "product_number": 1270,
+      "name": "فوندالوس 20 مجم اقراص لالتهاب المريء vondalous | ٢٠ قرص",
+      "price_egp": 138,
+      "prescription_required": false,
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/vondalous",
+      "page_source": 83,
+      "raw_data": {
+        "arabic_name": "فوندالوس 20 مجم اقراص لالتهاب المريء vondalous | ٢٠ قرص",
+        "english_brand_name": "Vondalous",
+        "price_egp": 138,
+        "availability_status": "In Stock",
+        "prescription_required": false,
+        "dosage_specifications": "20mg | 20 tablets",
+        "therapeutic_uses": "Esophagitis treatment"
+      }
+    },
+    {
+      "product_number": 1271,
+      "name": "تيبوفورتين فورت لتحسين الدورة الدموية 80مج | 30 قرص",
+      "price_egp": 165,
+      "prescription_required": true,
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/8030",
+      "page_source": 83,
+      "raw_data": {
+        "arabic_name": "تيبوفورتين فورت لتحسين الدورة الدموية 80مج | 30 قرص",
+        "english_brand_name": "Tebofortin Forte",
+        "price_egp": 165,
+        "availability_status": "In Stock",
+        "prescription_required": true,
+        "dosage_specifications": "80mg | 30 tablets",
+        "therapeutic_uses": "Circulation improvement"
+      }
+    },
+    {
+      "product_number": 1272,
+      "name": "اكسومايلين اليرا | 30 قرص",
+      "price_egp": 460,
+      "prescription_required": false,
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/30",
+      "page_source": 83,
+      "raw_data": {
+        "arabic_name": "اكسومايلين اليرا | 30 قرص",
+        "english_brand_name": "Axomyline Ultra",
+        "price_egp": 460,
+        "availability_status": "In Stock",
+        "prescription_required": false,
+        "dosage_specifications": "30 tablets",
+        "therapeutic_uses": "Respiratory conditions"
+      }
+    },
+    {
+      "product_number": 1273,
+      "name": "ايمباكوزا | تريو 1000/5/10 مجم | 30 قرص",
+      "price_egp": 396,
+      "prescription_required": false,
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/100051030",
+      "page_source": 83,
+      "raw_data": {
+        "arabic_name": "ايمباكوزا | تريو 1000/5/10 مجم | 30 قرص",
+        "english_brand_name": "Impacosa Trio",
+        "price_egp": 396,
+        "availability_status": "In Stock",
+        "prescription_required": false,
+        "dosage_specifications": "1000/5/10mg | 30 tablets",
+        "therapeutic_uses": "Triple combination diabetes medication"
+      }
+    },
+    {
+      "product_number": 1274,
+      "name": "كارنيتول 500 مج | 30 كبسوله",
+      "price_egp": 105,
+      "prescription_required": true,
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/50030",
+      "page_source": 83,
+      "raw_data": {
+        "arabic_name": "كارنيتول 500 مج | 30 كبسوله",
+        "english_brand_name": "Carnitol",
+        "price_egp": 105,
+        "availability_status": "In Stock",
+        "prescription_required": true,
+        "dosage_specifications": "500mg | 30 capsules",
+        "therapeutic_uses": "Metabolic support and energy enhancement"
+      }
+    },
+    {
+      "product_number": 1275,
+      "name": "ريسباتيو进行治疗 ارتفاع ضغط الدم 20مج | 20 قرص",
+      "price_egp": 94,
+      "prescription_required": true,
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/2020",
+      "page_source": 83,
+      "raw_data": {
+        "arabic_name": "ريسباتيو进行治疗 ارتفاع ضغط الدم 20مج | 20 قرص",
+        "english_brand_name": "Respatio",
+        "price_egp": 94,
+        "availability_status": "In Stock",
+        "prescription_required": true,
+        "dosage_specifications": "20mg | 20 tablets",
+        "therapeutic_uses": "High blood pressure treatment"
+      }
+    },
+    {
+      "product_number": 1276,
+      "name": "هالونيز | 5مجم | 10اقراص",
+      "price_egp": 17,
+      "prescription_required": true,
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/510",
+      "page_source": 83,
+      "raw_data": {
+        "arabic_name": "هالونيز | 5مجم | 10اقراص",
+        "english_brand_name": "Haloniz",
+        "price_egp": 17,
+        "availability_status": "In Stock",
+        "prescription_required": true,
+        "dosage_specifications": "5mg | 10 tablets",
+        "therapeutic_uses": "Antipsychotic medication"
+      }
+    },
+    {
+      "product_number": 1277,
+      "name": "ليليبيل 5مجم | 20 قرص مضغ",
+      "price_egp": 92,
+      "prescription_required": true,
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/520",
+      "page_source": 83,
+      "raw_data": {
+        "arabic_name": "ليليبيل 5مجم | 20 قرص مضغ",
+        "english_brand_name": "Lelipel",
+        "price_egp": 92,
+        "availability_status": "In Stock",
+        "prescription_required": true,
+        "dosage_specifications": "5mg | 20 chewable tablets",
+        "therapeutic_uses": "ADHD and behavioral disorders"
+      }
+    },
+    {
+      "product_number": 1278,
+      "name": "جانوميت 50/850 مجم | 56قرص",
+      "price_egp": 674,
+      "prescription_required": false,
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/5085056",
+      "page_source": 83,
+      "raw_data": {
+        "arabic_name": "جانوميت 50/850 مجم | 56قرص",
+        "english_brand_name": "Janumet",
+        "price_egp": 674,
+        "availability_status": "In Stock",
+        "prescription_required": false,
+        "dosage_specifications": "50/850mg | 56 tablets",
+        "therapeutic_uses": "Diabetes combination medication"
+      }
+    },
+    {
+      "product_number": 1279,
+      "name": "توتال | شراب | 120 مل",
+      "price_egp": 120,
+      "prescription_required": false,
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/120",
+      "page_source": 83,
+      "raw_data": {
+        "arabic_name": "توتال | شراب | 120 مل",
+        "english_brand_name": "Total",
+        "price_egp": 120,
+        "availability_status": "In Stock",
+        "prescription_required": false,
+        "dosage_specifications": "120ml syrup",
+        "therapeutic_uses": "Cough and cold syrup"
+      }
+    },
+    {
+      "product_number": 1280,
+      "name": "سيكوبرام | 10مج | 30 قرص",
+      "price_egp": 138,
+      "prescription_required": true,
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/1030",
+      "page_source": 83,
+      "raw_data": {
+        "arabic_name": "سيكوبرام | 10مج | 30 قرص",
+        "english_brand_name": "Cipram",
+        "price_egp": 138,
+        "availability_status": "In Stock",
+        "prescription_required": true,
+        "dosage_specifications": "10mg | 30 tablets",
+        "therapeutic_uses": "Antidepressant and anxiety treatment"
+      }
+    },
+    {
+      "product_number": 1281,
+      "name": "فيلافوريا 20مجم | 30 قرص",
+      "price_egp": 294,
+      "prescription_required": false,
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/2030",
+      "page_source": 83,
+      "raw_data": {
+        "arabic_name": "فيلافوريا 20مجم | 30 قرص",
+        "english_brand_name": "Velaforya",
+        "price_egp": 294,
+        "availability_status": "In Stock",
+        "prescription_required": false,
+        "dosage_specifications": "20mg | 30 tablets",
+        "therapeutic_uses": "Cardiovascular medication"
+      }
+    },
+    {
+      "product_number": 1282,
+      "name": "سوماتروبين | 4 و.د | فيال | 1.6مل",
+      "price_egp": 321,
+      "prescription_required": false,
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/416",
+      "page_source": 83,
+      "raw_data": {
+        "arabic_name": "سوماتروبين | 4 و.د | فيال | 1.6مل",
+        "english_brand_name": "Somatropin",
+        "price_egp": 321,
+        "availability_status": "In Stock",
+        "prescription_required": false,
+        "dosage_specifications": "4 IU | vial | 1.6ml",
+        "therapeutic_uses": "Growth hormone therapy"
+      }
+    },
+    {
+      "product_number": 1283,
+      "name": "ريبيليوس 7مجم | 10 اقراص",
+      "price_egp": 1575,
+      "prescription_required": false,
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/710",
+      "page_source": 83,
+      "raw_data": {
+        "arabic_name": "ريبيليوس 7مجم | 10 اقراص",
+        "english_brand_name": "Rebilious",
+        "price_egp": 1575,
+        "availability_status": "In Stock",
+        "prescription_required": false,
+        "dosage_specifications": "7mg | 10 tablets",
+        "therapeutic_uses": "Specialized medication"
+      }
+    },
+    {
+      "product_number": 1284,
+      "name": "بريدسول شراب | 125مل",
+      "price_egp": 57,
+      "prescription_required": false,
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/125",
+      "page_source": 83,
+      "raw_data": {
+        "arabic_name": "بريدسول شراب | 125مل",
+        "english_brand_name": "Predsol",
+        "price_egp": 57,
+        "availability_status": "In Stock",
+        "prescription_required": false,
+        "dosage_specifications": "125ml syrup",
+        "therapeutic_uses": "Corticosteroid syrup for inflammation"
+      }
+    },
+    {
+      "product_number": 1285,
+      "name": "كيدز ابيتايت فيتامين شراب | 125مل",
+      "price_egp": 110,
+      "prescription_required": false,
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/125",
+      "page_source": 83,
+      "raw_data": {
+        "arabic_name": "كيدز ابيتايت فيتامين شراب | 125مل",
+        "english_brand_name": "Kids Appetite",
+        "price_egp": 110,
+        "availability_status": "In Stock",
+        "prescription_required": false,
+        "dosage_specifications": "125ml vitamin syrup",
+        "therapeutic_uses": "Children's appetite and vitamin supplement"
+      }
+    },
+    {
+      "product_number": 1286,
+      "name": "Napizole | 40 mg | 14 Caps",
+      "price_egp": 62,
+      "prescription_required": false,
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/napizole",
+      "page_source": 83,
+      "raw_data": {
+        "arabic_name": "Napizole | 40 mg | 14 Caps",
+        "english_brand_name": "Napizole",
+        "price_egp": 62,
+        "availability_status": "In Stock",
+        "prescription_required": false,
+        "dosage_specifications": "40mg | 14 capsules",
+        "therapeutic_uses": "Proton pump inhibitor for acid reflux"
+      }
+    },
+    {
+      "product_number": 1287,
+      "name": "بلنديل进行治疗 ارتفاع ضغط الدم 5مج | 30 قرص",
+      "price_egp": 81,
+      "prescription_required": true,
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/530",
+      "page_source": 83,
+      "raw_data": {
+        "arabic_name": "بلنديل进行治疗 ارتفاع ضغط الدم 5مج | 30 قرص",
+        "english_brand_name": "Blendil",
+        "price_egp": 81,
+        "availability_status": "In Stock",
+        "prescription_required": true,
+        "dosage_specifications": "5mg | 30 tablets",
+        "therapeutic_uses": "High blood pressure treatment"
+      }
+    },
+    {
+      "product_number": 1288,
+      "name": "سنجيولير |进行治疗 الربو 10مج | 14 قرص",
+      "price_egp": 192,
+      "prescription_required": true,
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/1014",
+      "page_source": 83,
+      "raw_data": {
+        "arabic_name": "سنجيولير |进行治疗 الربو 10مج | 14 قرص",
+        "english_brand_name": "Singulair",
+        "price_egp": 192,
+        "availability_status": "In Stock",
+        "prescription_required": true,
+        "dosage_specifications": "10mg | 14 tablets",
+        "therapeutic_uses": "Asthma treatment and allergy prevention"
+      }
+    },
+    {
+      "product_number": 1289,
+      "name": "نيتروماك ريتارد 5مجم | 30 كبسوله",
+      "price_egp": 72,
+      "prescription_required": true,
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/530",
+      "page_source": 83,
+      "raw_data": {
+        "arabic_name": "نيتروماك ريتارد 5مجم | 30 كبسوله",
+        "english_brand_name": "Nitromac Retard",
+        "price_egp": 72,
+        "availability_status": "In Stock",
+        "prescription_required": true,
+        "dosage_specifications": "5mg | 30 extended-release capsules",
+        "therapeutic_uses": "Nitrate for angina and heart conditions"
+      }
+    },
+    {
+      "product_number": 1290,
+      "name": "أزروليد",
+      "price_egp": 126.0,
+      "prescription_required": "RX",
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/500",
+      "page_source": 84,
+      "raw_data": {
+        "medication_name": "أزروليد",
+        "price_egp": 126.0,
+        "brand_manufacturer": "أزروليد",
+        "dosage_information": "500مجم | 6 قرص",
+        "prescription_requirements": "RX",
+        "therapeutic_category": "Antibiotic (Inferred: Azithromycin-like)",
+        "special_notes": "None"
+      }
+    },
+    {
+      "product_number": 1291,
+      "name": "نرفيكسال",
+      "price_egp": 90.0,
+      "prescription_required": "OTC",
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/12",
+      "page_source": 84,
+      "raw_data": {
+        "medication_name": "نرفيكسال",
+        "price_egp": 90.0,
+        "brand_manufacturer": "ماش بريمير",
+        "dosage_information": "يحتوي علي ميثيل كوبالامين ب12 500مج | 30 قرص",
+        "prescription_requirements": "OTC",
+        "therapeutic_category": "Vitamin Supplement (Methylcobalamin B12)",
+        "special_notes": "Contains Methylcobalamin B12"
+      }
+    },
+    {
+      "product_number": 1292,
+      "name": "رينومول اس",
+      "price_egp": 31.0,
+      "prescription_required": "OTC",
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/120",
+      "page_source": 84,
+      "raw_data": {
+        "medication_name": "رينومول اس",
+        "price_egp": 31.0,
+        "brand_manufacturer": "رينومول اس",
+        "dosage_information": "شراب | 120مل",
+        "prescription_requirements": "OTC",
+        "therapeutic_category": "Cold and Cough Medication (Inferred)",
+        "special_notes": "None"
+      }
+    },
+    {
+      "product_number": 1293,
+      "name": "الزميندا",
+      "price_egp": 75.0,
+      "prescription_required": "RX",
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/10",
+      "page_source": 84,
+      "raw_data": {
+        "medication_name": "الزميندا",
+        "price_egp": 75.0,
+        "brand_manufacturer": "الزميندا",
+        "dosage_information": "10مج | 21 قرص",
+        "prescription_requirements": "RX",
+        "therapeutic_category": "Alzheimer's Treatment",
+        "special_notes": "Used for Alzheimer's treatment"
+      }
+    },
+    {
+      "product_number": 1294,
+      "name": "جالفس ميت",
+      "price_egp": 258.0,
+      "prescription_required": "RX",
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/50",
+      "page_source": 84,
+      "raw_data": {
+        "medication_name": "جالفس ميت",
+        "price_egp": 258.0,
+        "brand_manufacturer": "جالفس ميت",
+        "dosage_information": "50/500مج | 30 قرص",
+        "prescription_requirements": "RX",
+        "therapeutic_category": "Diabetes Treatment",
+        "special_notes": "Used for diabetes treatment"
+      }
+    },
+    {
+      "product_number": 1295,
+      "name": "ميليتوفكس",
+      "price_egp": 303.0,
+      "prescription_required": "RX",
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/25",
+      "page_source": 84,
+      "raw_data": {
+        "medication_name": "ميليتوفكس",
+        "price_egp": 303.0,
+        "brand_manufacturer": "ميليتوفكس",
+        "dosage_information": "25مج | 30 قرص",
+        "prescription_requirements": "RX",
+        "therapeutic_category": "Type 2 Diabetes Treatment",
+        "special_notes": "Used for Type 2 Diabetes treatment"
+      }
+    },
+    {
+      "product_number": 1296,
+      "name": "كوزامين كريم",
+      "price_egp": 75.0,
+      "prescription_required": "OTC",
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/50",
+      "page_source": 84,
+      "raw_data": {
+        "medication_name": "كوزامين كريم",
+        "price_egp": 75.0,
+        "brand_manufacturer": "كوزامين",
+        "dosage_information": "كريم | 50جم",
+        "prescription_requirements": "OTC",
+        "therapeutic_category": "Topical Anti-inflammatory / Pain Relief",
+        "special_notes": "For relieving arthritis inflammation"
+      }
+    },
+    {
+      "product_number": 1297,
+      "name": "اريثريكس",
+      "price_egp": 94.0,
+      "prescription_required": "OTC",
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/200",
+      "page_source": 84,
+      "raw_data": {
+        "medication_name": "اريثريكس",
+        "price_egp": 94.0,
+        "brand_manufacturer": "اريثريكس",
+        "dosage_information": "200مج | 20 كبسولة",
+        "prescription_requirements": "OTC",
+        "therapeutic_category": "Anti-inflammatory / Bone Health (Inferred from URL description 'osteoporosis-relief')",
+        "special_notes": "For relieving bone inflammation"
+      }
+    },
+    {
+      "product_number": 1298,
+      "name": "بروتوفكس",
+      "price_egp": 116.0,
+      "prescription_required": "RX",
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/40",
+      "page_source": 84,
+      "raw_data": {
+        "medication_name": "بروتوفكس",
+        "price_egp": 116.0,
+        "brand_manufacturer": "بروتوفكس",
+        "dosage_information": "40مجم | 14 قرص",
+        "prescription_requirements": "RX",
+        "therapeutic_category": "Antacid / PPI (Proton Pump Inhibitor)",
+        "special_notes": "For treating diseases caused by increased acidity"
+      }
+    },
+    {
+      "product_number": 1299,
+      "name": "فيرسيرك",
+      "price_egp": 120.0,
+      "prescription_required": "RX",
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/24",
+      "page_source": 84,
+      "raw_data": {
+        "medication_name": "فيرسيرك",
+        "price_egp": 120.0,
+        "brand_manufacturer": "فيرسيرك",
+        "dosage_information": "24ملغ | 30 قرص",
+        "prescription_requirements": "RX",
+        "therapeutic_category": "Vertigo / Meniere's Treatment (Inferred)",
+        "special_notes": "None"
+      }
+    },
+    {
+      "product_number": 1300,
+      "name": "ساليكورتيدرم",
+      "price_egp": 25.5,
+      "prescription_required": "OTC",
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/30",
+      "page_source": 84,
+      "raw_data": {
+        "medication_name": "ساليكورتيدرم",
+        "price_egp": 25.5,
+        "brand_manufacturer": "ساليكورتيدرم",
+        "dosage_information": "مرهم | 30جم",
+        "prescription_requirements": "OTC",
+        "therapeutic_category": "Dermatological / Topical (Inferred)",
+        "special_notes": "None"
+      }
+    },
+    {
+      "product_number": 1301,
+      "name": "بيبزول",
+      "price_egp": 47.0,
+      "prescription_required": "RX",
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/20",
+      "page_source": 84,
+      "raw_data": {
+        "medication_name": "بيبزول",
+        "price_egp": 47.0,
+        "brand_manufacturer": "بيبزول",
+        "dosage_information": "20مج | 14 كبسولة",
+        "prescription_requirements": "RX",
+        "therapeutic_category": "Antacid / PPI (Proton Pump Inhibitor)",
+        "special_notes": "Contains Omeprazole (Inferred from URL)"
+      }
+    },
+    {
+      "product_number": 1302,
+      "name": "استيروماب",
+      "price_egp": 141.0,
+      "prescription_required": "OTC",
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/20",
+      "page_source": 84,
+      "raw_data": {
+        "medication_name": "استيروماب",
+        "price_egp": 141.0,
+        "brand_manufacturer": "استيروماب",
+        "dosage_information": "20مج | 30 قرص",
+        "prescription_requirements": "OTC",
+        "therapeutic_category": "General Medication (No specific therapeutic category provided)",
+        "special_notes": "None"
+      }
+    },
+    {
+      "product_number": 1303,
+      "name": "ويستابريث",
+      "price_egp": 160.0,
+      "prescription_required": "RX",
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/500",
+      "page_source": 84,
+      "raw_data": {
+        "medication_name": "ويستابريث",
+        "price_egp": 160.0,
+        "brand_manufacturer": "ويستابريث",
+        "dosage_information": "500 ميكروجرام | 20 قرص",
+        "prescription_requirements": "RX",
+        "therapeutic_category": "Respiratory / Anticoagulant (for pulmonary embolism)",
+        "special_notes": "For treating pulmonary embolism"
+      }
+    },
+    {
+      "product_number": 1304,
+      "name": "أستين",
+      "price_egp": 46.0,
+      "prescription_required": "RX",
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/20",
+      "page_source": 84,
+      "raw_data": {
+        "medication_name": "أستين",
+        "price_egp": 46.0,
+        "brand_manufacturer": "أستين",
+        "dosage_information": "20مجم | 20 قرص",
+        "prescription_requirements": "RX",
+        "therapeutic_category": "General Medication (No specific therapeutic category provided)",
+        "special_notes": "None"
+      }
+    },
+    {
+      "product_number": 1305,
+      "name": "فورسيجا",
+      "price_egp": 602.0,
+      "prescription_required": "RX",
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/5",
+      "page_source": 84,
+      "raw_data": {
+        "medication_name": "فورسيجا",
+        "price_egp": 602.0,
+        "brand_manufacturer": "فورسيجا",
+        "dosage_information": "5جم | 28 قرص",
+        "prescription_requirements": "RX",
+        "therapeutic_category": "Type 2 Diabetes Treatment",
+        "special_notes": "Used for Type 2 Diabetes treatment (Dosage listed as 5g, which is unusually high and likely a typo for 5mg)"
+      }
+    },
+    {
+      "product_number": 1306,
+      "name": "انسوليتارد",
+      "price_egp": 75.5,
+      "prescription_required": "RX",
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/100",
+      "page_source": 84,
+      "raw_data": {
+        "medication_name": "انسوليتارد",
+        "price_egp": 75.5,
+        "brand_manufacturer": "انسوليتارد",
+        "dosage_information": "100 وحدة دولية | 10مل",
+        "prescription_requirements": "RX",
+        "therapeutic_category": "Insulin / Diabetes Treatment",
+        "special_notes": "Requires refrigeration"
+      }
+    },
+    {
+      "product_number": 1307,
+      "name": "ايفي زاد شراب",
+      "price_egp": 65.0,
+      "prescription_required": "OTC",
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/120",
+      "page_source": 84,
+      "raw_data": {
+        "medication_name": "ايفي زاد شراب",
+        "price_egp": 65.0,
+        "brand_manufacturer": "ايفي زاد",
+        "dosage_information": "شراب | 120 مل",
+        "prescription_requirements": "OTC",
+        "therapeutic_category": "Pediatric Cough Medication",
+        "special_notes": "For children's cough"
+      }
+    },
+    {
+      "product_number": 1308,
+      "name": "أوجرام",
+      "price_egp": 87.0,
+      "prescription_required": "OTC",
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/642",
+      "page_source": 84,
+      "raw_data": {
+        "medication_name": "أوجرام",
+        "price_egp": 87.0,
+        "brand_manufacturer": "أوجرام",
+        "dosage_information": "642.9 ملجم/5 مل | 60 مل",
+        "prescription_requirements": "OTC",
+        "therapeutic_category": "Antibiotic (Suspension) (Inferred: Amoxicillin/Clavulanate-like)",
+        "special_notes": "Suspension"
+      }
+    },
+    {
+      "product_number": 1309,
+      "name": "كونفنتين",
+      "price_egp": 171.0,
+      "prescription_required": "OTC",
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/600",
+      "page_source": 84,
+      "raw_data": {
+        "medication_name": "كونفنتين",
+        "price_egp": 171.0,
+        "brand_manufacturer": "كونفنتين",
+        "dosage_information": "600مجم | 30 قرص",
+        "prescription_requirements": "OTC",
+        "therapeutic_category": "Neuropathic Pain / Seizure Treatment (Inferred: Gabapentin-like)",
+        "special_notes": "None"
+      }
+    },
+    {
+      "product_number": 1310,
+      "name": "نان لبن 2 اوبتي برو",
+      "price_egp": 350,
+      "prescription_required": "OTC",
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/2-400",
+      "page_source": 85,
+      "raw_data": {
+        "medication_name": "نان لبن 2 اوبتي برو",
+        "english_name": "Nan Milk 2 Optipro",
+        "price_egp": 350,
+        "brand_manufacturer": "Nan",
+        "dosage_information": "400 gm",
+        "prescription_requirements": "OTC",
+        "therapeutic_category": "Baby Formula",
+        "special_notes": "None"
+      }
+    },
+    {
+      "product_number": 1311,
+      "name": "بخاخ ازيلاست بلس لحساسية الانف azelast plus",
+      "price_egp": 102,
+      "prescription_required": "RX",
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/azelast-125",
+      "page_source": 85,
+      "raw_data": {
+        "medication_name": "بخاخ ازيلاست بلس لحساسية الانف azelast plus",
+        "english_name": "Azelast Plus Nasal Spray for Nasal Allergy",
+        "price_egp": 102,
+        "brand_manufacturer": "azelast plus",
+        "dosage_information": "125/50 mcg, 25 ml",
+        "prescription_requirements": "RX",
+        "therapeutic_category": "Allergy Medication, Nasal Spray",
+        "special_notes": "None"
+      }
+    },
+    {
+      "product_number": 1312,
+      "name": "بريفاكوند قطرة عين",
+      "price_egp": 42,
+      "prescription_required": "RX",
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/15",
+      "page_source": 85,
+      "raw_data": {
+        "medication_name": "بريفاكوند قطرة عين",
+        "english_name": "Privacond Eye Drop",
+        "price_egp": 42,
+        "brand_manufacturer": "بريفاكوند (Privacond)",
+        "dosage_information": "15 ml",
+        "prescription_requirements": "RX",
+        "therapeutic_category": "Ophthalmic Medication, Eye Drops",
+        "special_notes": "None"
+      }
+    },
+    {
+      "product_number": 1313,
+      "name": "سيبالافيل",
+      "price_egp": 180,
+      "prescription_required": "RX",
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/20",
+      "page_source": 85,
+      "raw_data": {
+        "medication_name": "سيبالافيل",
+        "english_name": "Cipalafil",
+        "price_egp": 180,
+        "brand_manufacturer": "سيبالافيل (Cipalafil)",
+        "dosage_information": "20 mg, 12 tablets",
+        "prescription_requirements": "RX",
+        "therapeutic_category": "General Medication (Specific use not stated)",
+        "special_notes": "None"
+      }
+    },
+    {
+      "product_number": 1314,
+      "name": "فيلداجلوس بلس",
+      "price_egp": 136.5,
+      "prescription_required": "OTC",
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/50",
+      "page_source": 85,
+      "raw_data": {
+        "medication_name": "فيلداجلوس بلس",
+        "english_name": "Vildagluse Plus",
+        "price_egp": 136.5,
+        "brand_manufacturer": "فيلداجلوس بلس (Vildagluse Plus)",
+        "dosage_information": "50/850 mg, 30 tablets",
+        "prescription_requirements": "OTC",
+        "therapeutic_category": "Antidiabetic (Inferred)",
+        "special_notes": "Limited Quantity"
+      }
+    },
+    {
+      "product_number": 1315,
+      "name": "اوبتامينس مكمل غذائي لمرض الكلي والغسيل الكلوي",
+      "price_egp": 660,
+      "prescription_required": "RX",
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/100",
+      "page_source": 85,
+      "raw_data": {
+        "medication_name": "اوبتامينس مكمل غذائي لمرض الكلي والغسيل الكلوي",
+        "english_name": "Optaminess Nutritional Supplement for Kidney Disease and Dialysis",
+        "price_egp": 660,
+        "brand_manufacturer": "اوبتامينس (Optaminess)",
+        "dosage_information": "100 tablets",
+        "prescription_requirements": "RX",
+        "therapeutic_category": "Nutritional Supplement, Renal Support",
+        "special_notes": "None"
+      }
+    },
+    {
+      "product_number": 1316,
+      "name": "كافا كريم للشعر المتساقط دي اس دي ايه",
+      "price_egp": 199,
+      "prescription_required": "OTC",
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/120",
+      "page_source": 85,
+      "raw_data": {
+        "medication_name": "كافا كريم للشعر المتساقط دي اس دي ايه",
+        "english_name": "Cafa DSDA Cream for Hair Loss",
+        "price_egp": 199,
+        "brand_manufacturer": "كافا (Cafa)",
+        "dosage_information": "120 gm",
+        "prescription_requirements": "OTC",
+        "therapeutic_category": "Hair Care, Hair Loss Treatment",
+        "special_notes": "None"
+      }
+    },
+    {
+      "product_number": 1317,
+      "name": "تارجوماش كومب",
+      "price_egp": 84,
+      "prescription_required": "OTC",
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/80",
+      "page_source": 85,
+      "raw_data": {
+        "medication_name": "تارجوماش كومب",
+        "english_name": "Targomash Comb",
+        "price_egp": 84,
+        "brand_manufacturer": "تارجوماش (Targomash)",
+        "dosage_information": "80mg/12.5mg, 30 tablets",
+        "prescription_requirements": "OTC",
+        "therapeutic_category": "General Medication (Specific use not stated)",
+        "special_notes": "None"
+      }
+    },
+    {
+      "product_number": 1318,
+      "name": "ابيكسا لعلاج الزهايمر",
+      "price_egp": 475,
+      "prescription_required": "RX",
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/10",
+      "page_source": 85,
+      "raw_data": {
+        "medication_name": "ابيكسا لعلاج الزهايمر",
+        "english_name": "Epixa for Alzheimer's Treatment",
+        "price_egp": 475,
+        "brand_manufacturer": "ابيكسا (Epixa)",
+        "dosage_information": "10 mg, 28 tablets",
+        "prescription_requirements": "RX",
+        "therapeutic_category": "Alzheimer's Treatment",
+        "special_notes": "None"
+      }
+    },
+    {
+      "product_number": 1319,
+      "name": "أميبريد",
+      "price_egp": 243,
+      "prescription_required": "RX",
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/200",
+      "page_source": 85,
+      "raw_data": {
+        "medication_name": "أميبريد",
+        "english_name": "Amipride",
+        "price_egp": 243,
+        "brand_manufacturer": "أميبريد (Amipride)",
+        "dosage_information": "200 mg, 20 tablets",
+        "prescription_requirements": "RX",
+        "therapeutic_category": "General Medication (Specific use not stated)",
+        "special_notes": "None"
+      }
+    },
+    {
+      "product_number": 1320,
+      "name": "سايكولانز",
+      "price_egp": 117,
+      "prescription_required": "OTC",
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/3",
+      "page_source": 85,
+      "raw_data": {
+        "medication_name": "سايكولانز",
+        "english_name": "Psycholanz",
+        "price_egp": 117,
+        "brand_manufacturer": "سايكولانز (Psycholanz)",
+        "dosage_information": "3/25 mg, 30 tablets",
+        "prescription_requirements": "OTC",
+        "therapeutic_category": "Psychiatric Medication (Inferred)",
+        "special_notes": "None"
+      }
+    },
+    {
+      "product_number": 1321,
+      "name": "اريسبت",
+      "price_egp": 150,
+      "prescription_required": "OTC",
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/5",
+      "page_source": 85,
+      "raw_data": {
+        "medication_name": "اريسبت",
+        "english_name": "Aricept",
+        "price_egp": 150,
+        "brand_manufacturer": "اريسبت (Aricept)",
+        "dosage_information": "5 mg, 7 tablets",
+        "prescription_requirements": "OTC",
+        "therapeutic_category": "Alzheimer's Treatment (Known medication)",
+        "special_notes": "None"
+      }
+    },
+    {
+      "product_number": 1322,
+      "name": "تيراميسين مرهم للعين",
+      "price_egp": 28,
+      "prescription_required": "RX",
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/5",
+      "page_source": 85,
+      "raw_data": {
+        "medication_name": "تيراميسين مرهم للعين",
+        "english_name": "Terramycin Eye Ointment",
+        "price_egp": 28,
+        "brand_manufacturer": "تيراميسين (Terramycin)",
+        "dosage_information": "5 gm",
+        "prescription_requirements": "RX",
+        "therapeutic_category": "Ophthalmic Antibiotic, Eye Ointment",
+        "special_notes": "None"
+      }
+    },
+    {
+      "product_number": 1323,
+      "name": "كونكر أملو",
+      "price_egp": 210,
+      "prescription_required": "RX",
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/5",
+      "page_source": 85,
+      "raw_data": {
+        "medication_name": "كونكر أملو",
+        "english_name": "Concor Amlo",
+        "price_egp": 210,
+        "brand_manufacturer": "كونكر أملو (Concor Amlo)",
+        "dosage_information": "5 mg / 5 mg, 30 tablets",
+        "prescription_requirements": "RX",
+        "therapeutic_category": "Antihypertensive (Known medication)",
+        "special_notes": "None"
+      }
+    },
+    {
+      "product_number": 1324,
+      "name": "فيلداجلوز بلس لعلاج السكر",
+      "price_egp": 132,
+      "prescription_required": "RX",
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/50",
+      "page_source": 85,
+      "raw_data": {
+        "medication_name": "فيلداجلوز بلس لعلاج السكر",
+        "english_name": "Vildagluse Plus for Diabetes Treatment",
+        "price_egp": 132,
+        "brand_manufacturer": "فيلداجلوز بلس (Vildagluse Plus)",
+        "dosage_information": "50/500 mg, 30 tablets",
+        "prescription_requirements": "RX",
+        "therapeutic_category": "Antidiabetic",
+        "special_notes": "None"
+      }
+    },
+    {
+      "product_number": 1325,
+      "name": "فاستاسيرو",
+      "price_egp": 77,
+      "prescription_required": "RX",
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/10",
+      "page_source": 85,
+      "raw_data": {
+        "medication_name": "فاستاسيرو",
+        "english_name": "Vastasiero",
+        "price_egp": 77,
+        "brand_manufacturer": "فاستاسيرو (Vastasiero)",
+        "dosage_information": "10 mg, 20 tablets",
+        "prescription_requirements": "RX",
+        "therapeutic_category": "General Medication (Specific use not stated)",
+        "special_notes": "None"
+      }
+    },
+    {
+      "product_number": 1326,
+      "name": "ميوتروكسين مكمل غذائي",
+      "price_egp": 240,
+      "prescription_required": "OTC",
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/30",
+      "page_source": 85,
+      "raw_data": {
+        "medication_name": "ميوتروكسين مكمل غذائي",
+        "english_name": "Myotroxin Nutritional Supplement",
+        "price_egp": 240,
+        "brand_manufacturer": "ميوتروكسين (Myotroxin)",
+        "dosage_information": "30 tablets",
+        "prescription_requirements": "OTC",
+        "therapeutic_category": "Nutritional Supplement",
+        "special_notes": "None"
+      }
+    },
+    {
+      "product_number": 1327,
+      "name": "ميوكول كريم مساج مسكن لآلام المفاصل والعضلات",
+      "price_egp": 85,
+      "prescription_required": "OTC",
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/50",
+      "page_source": 85,
+      "raw_data": {
+        "medication_name": "ميوكول كريم مساج مسكن لآلام المفاصل والعضلات",
+        "english_name": "Myocool Massage Cream for Joint and Muscle Pain Relief",
+        "price_egp": 85,
+        "brand_manufacturer": "ميوكول (Myocool)",
+        "dosage_information": "50 gm",
+        "prescription_requirements": "OTC",
+        "therapeutic_category": "Topical Analgesic, Muscle Pain Relief",
+        "special_notes": "None"
+      }
+    },
+    {
+      "product_number": 1328,
+      "name": "أتورستات",
+      "price_egp": 64,
+      "prescription_required": "RX",
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/80",
+      "page_source": 85,
+      "raw_data": {
+        "medication_name": "أتورستات",
+        "english_name": "Atorstat",
+        "price_egp": 64,
+        "brand_manufacturer": "أتورستات (Atorstat)",
+        "dosage_information": "80 mg, 10 tablets",
+        "prescription_requirements": "RX",
+        "therapeutic_category": "Lipid-Lowering Agent (Inferred)",
+        "special_notes": "None"
+      }
+    },
+    {
+      "product_number": 1329,
+      "name": "ميرتى",
+      "price_egp": 60,
+      "prescription_required": "OTC",
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/30",
+      "page_source": 85,
+      "raw_data": {
+        "medication_name": "ميرتى",
+        "english_name": "Merti",
+        "price_egp": 60,
+        "brand_manufacturer": "ميرتى (Merti)",
+        "dosage_information": "30 capsules",
+        "prescription_requirements": "OTC",
+        "therapeutic_category": "General Medication (Specific use not stated)",
+        "special_notes": "None"
+      }
+    },
+    {
+      "product_number": 1330,
+      "name": "ريناكشن",
+      "price_egp": 270,
+      "prescription_required": "OTC",
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/20",
+      "page_source": 86,
+      "raw_data": {
+        "medication_name": "ريناكشن",
+        "price_egp": 270,
+        "brand_manufacturer": "ريناكشن",
+        "dosage_information": "20مل, بخاخ الانف",
+        "prescription_requirements": "OTC",
+        "therapeutic_category": "Cough & Cold Medication, Nasal Decongestant",
+        "special_notes": "Nasal Spray"
+      }
+    },
+    {
+      "product_number": 1331,
+      "name": "كونستيبرايد",
+      "price_egp": 121.5,
+      "prescription_required": "RX",
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/1",
+      "page_source": 86,
+      "raw_data": {
+        "medication_name": "كونستيبرايد",
+        "price_egp": 121.5,
+        "brand_manufacturer": "كونستيبرايد",
+        "dosage_information": "1مجم, 28 قرص",
+        "prescription_requirements": "RX",
+        "therapeutic_category": "Stomach & Bowel Medication, Laxative",
+        "special_notes": "None"
+      }
+    },
+    {
+      "product_number": 1332,
+      "name": "فيوسي",
+      "price_egp": 38,
+      "prescription_required": "OTC",
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/2",
+      "page_source": 86,
+      "raw_data": {
+        "medication_name": "فيوسي",
+        "price_egp": 38,
+        "brand_manufacturer": "فيوسي",
+        "dosage_information": "2% مرهم موضعي, 30جم",
+        "prescription_requirements": "OTC",
+        "therapeutic_category": "Skin Treatments",
+        "special_notes": "Topical Ointment"
+      }
+    },
+    {
+      "product_number": 1333,
+      "name": "سلفاكس كولد سبراي",
+      "price_egp": 300,
+      "prescription_required": "OTC",
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/200",
+      "page_source": 86,
+      "raw_data": {
+        "medication_name": "سلفاكس كولد سبراي",
+        "price_egp": 300,
+        "brand_manufacturer": "سلفاكس",
+        "dosage_information": "200مل, سبراي",
+        "prescription_requirements": "OTC",
+        "therapeutic_category": "Pain Relief, Anti-rheumatic",
+        "special_notes": "None"
+      }
+    },
+    {
+      "product_number": 1334,
+      "name": "اولابكس",
+      "price_egp": 160,
+      "prescription_required": "RX",
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/5",
+      "page_source": 86,
+      "raw_data": {
+        "medication_name": "اولابكس",
+        "price_egp": 160,
+        "brand_manufacturer": "اولابكس",
+        "dosage_information": "5مجم, 30 قرص",
+        "prescription_requirements": "RX",
+        "therapeutic_category": "Antipsychotic (for schizophrenia treatment)",
+        "special_notes": "None"
+      }
+    },
+    {
+      "product_number": 1335,
+      "name": "ترايكوجين جيل",
+      "price_egp": 90,
+      "prescription_required": "OTC",
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/50",
+      "page_source": 86,
+      "raw_data": {
+        "medication_name": "ترايكوجين جيل",
+        "price_egp": 90,
+        "brand_manufacturer": "ترايكوجين",
+        "dosage_information": "50 جم, جيل",
+        "prescription_requirements": "OTC",
+        "therapeutic_category": "Skin Treatments / Hair Care",
+        "special_notes": "None"
+      }
+    },
+    {
+      "product_number": 1336,
+      "name": "فانكومايسين",
+      "price_egp": 204,
+      "prescription_required": "OTC",
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/1",
+      "page_source": 86,
+      "raw_data": {
+        "medication_name": "فانكومايسين",
+        "price_egp": 204,
+        "brand_manufacturer": "Generic",
+        "dosage_information": "1 جرام, 1 فيال",
+        "prescription_requirements": "OTC",
+        "therapeutic_category": "Antibiotic",
+        "special_notes": "Administered via vial (injection)"
+      }
+    },
+    {
+      "product_number": 1337,
+      "name": "دوري",
+      "price_egp": 105,
+      "prescription_required": "OTC",
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/10",
+      "page_source": 86,
+      "raw_data": {
+        "medication_name": "دوري",
+        "price_egp": 105,
+        "brand_manufacturer": "دوري",
+        "dosage_information": "10 أكياس",
+        "prescription_requirements": "OTC",
+        "therapeutic_category": "General Medication",
+        "special_notes": "None"
+      }
+    },
+    {
+      "product_number": 1338,
+      "name": "جانفير جل",
+      "price_egp": 55,
+      "prescription_required": "RX",
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/10",
+      "page_source": 86,
+      "raw_data": {
+        "medication_name": "جانفير جل",
+        "price_egp": 55,
+        "brand_manufacturer": "جانفير",
+        "dosage_information": "10جم, جيل",
+        "prescription_requirements": "RX",
+        "therapeutic_category": "Eye & Ear Medications, Ophthalmic Gel",
+        "special_notes": "Eye Gel"
+      }
+    },
+    {
+      "product_number": 1339,
+      "name": "اكسفورج اتش سي تي",
+      "price_egp": 270,
+      "prescription_required": "RX",
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/5",
+      "page_source": 86,
+      "raw_data": {
+        "medication_name": "اكسفورج اتش سي تي",
+        "price_egp": 270,
+        "brand_manufacturer": "اكسفورج اتش سي تي",
+        "dosage_information": "5/160/12.5مجم, 14 أقراص",
+        "prescription_requirements": "RX",
+        "therapeutic_category": "Antihypertensive (for high blood pressure treatment)",
+        "special_notes": "None"
+      }
+    },
+    {
+      "product_number": 1340,
+      "name": "اوبلكس ان بلس",
+      "price_egp": 32,
+      "prescription_required": "OTC",
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/10",
+      "page_source": 86,
+      "raw_data": {
+        "medication_name": "اوبلكس ان بلس",
+        "price_egp": 32,
+        "brand_manufacturer": "اوبلكس ان بلس / ريكتوبلكسيل",
+        "dosage_information": "10 اقماع",
+        "prescription_requirements": "OTC",
+        "therapeutic_category": "Cough & Cold Medication",
+        "special_notes": "For children's cough, suppositories"
+      }
+    },
+    {
+      "product_number": 1341,
+      "name": "بروسكار",
+      "price_egp": 234,
+      "prescription_required": "RX",
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/5",
+      "page_source": 86,
+      "raw_data": {
+        "medication_name": "بروسكار",
+        "price_egp": 234,
+        "brand_manufacturer": "بروسكار",
+        "dosage_information": "5مجم, 28 قرص",
+        "prescription_requirements": "RX",
+        "therapeutic_category": "Urological (for prostate enlargement)",
+        "special_notes": "None"
+      }
+    },
+    {
+      "product_number": 1342,
+      "name": "التيازيم 60",
+      "price_egp": 68,
+      "prescription_required": "RX",
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/60-60",
+      "page_source": 86,
+      "raw_data": {
+        "medication_name": "التيازيم 60",
+        "price_egp": 68,
+        "brand_manufacturer": "التيازيم",
+        "dosage_information": "60مجم, 40 قرص",
+        "prescription_requirements": "RX",
+        "therapeutic_category": "Antihypertensive (for high blood pressure treatment)",
+        "special_notes": "None"
+      }
+    },
+    {
+      "product_number": 1343,
+      "name": "بلوكاتنس",
+      "price_egp": 160,
+      "prescription_required": "RX",
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/10",
+      "page_source": 86,
+      "raw_data": {
+        "medication_name": "بلوكاتنس",
+        "price_egp": 160,
+        "brand_manufacturer": "بلوكاتنس",
+        "dosage_information": "10/160مجم, 28 قرص",
+        "prescription_requirements": "RX",
+        "therapeutic_category": "Antihypertensive (for high blood pressure treatment)",
+        "special_notes": "None"
+      }
+    },
+    {
+      "product_number": 1344,
+      "name": "هاي كال",
+      "price_egp": 115,
+      "prescription_required": "OTC",
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/1200",
+      "page_source": 86,
+      "raw_data": {
+        "medication_name": "هاي كال",
+        "price_egp": 115,
+        "brand_manufacturer": "هاي كال",
+        "dosage_information": "1200مجم / 5مل شراب, 100مل",
+        "prescription_requirements": "OTC",
+        "therapeutic_category": "Calcium Supplement",
+        "special_notes": "None"
+      }
+    },
+    {
+      "product_number": 1345,
+      "name": "ايجيبرو",
+      "price_egp": 63,
+      "prescription_required": "RX",
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/5",
+      "page_source": 86,
+      "raw_data": {
+        "medication_name": "ايجيبرو",
+        "price_egp": 63,
+        "brand_manufacturer": "ايجيبرو",
+        "dosage_information": "5 ملغ, 30 قرص",
+        "prescription_requirements": "RX",
+        "therapeutic_category": "General Medication",
+        "special_notes": "None"
+      }
+    },
+    {
+      "product_number": 1346,
+      "name": "ليبوصوم-دى ثرى",
+      "price_egp": 180,
+      "prescription_required": "RX",
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/10",
+      "page_source": 86,
+      "raw_data": {
+        "medication_name": "ليبوصوم-دى ثرى",
+        "price_egp": 180,
+        "brand_manufacturer": "ليبوصوم-دى ثرى",
+        "dosage_information": "10.000 وحدة دولية, 30 كبسولة",
+        "prescription_requirements": "RX",
+        "therapeutic_category": "Vitamin D3 Supplement",
+        "special_notes": "None"
+      }
+    },
+    {
+      "product_number": 1347,
+      "name": "روزيتور",
+      "price_egp": 58,
+      "prescription_required": "RX",
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/10",
+      "page_source": 86,
+      "raw_data": {
+        "medication_name": "روزيتور",
+        "price_egp": 58,
+        "brand_manufacturer": "روزيتور",
+        "dosage_information": "10مجم, 14قرص",
+        "prescription_requirements": "RX",
+        "therapeutic_category": "Lipid-Lowering Agent (Rosuvastatin)",
+        "special_notes": "None"
+      }
+    },
+    {
+      "product_number": 1348,
+      "name": "يوريبان",
+      "price_egp": 54,
+      "prescription_required": "RX",
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/5",
+      "page_source": 86,
+      "raw_data": {
+        "medication_name": "يوريبان",
+        "price_egp": 54,
+        "brand_manufacturer": "يوريبان",
+        "dosage_information": "5مجم, 30قرص",
+        "prescription_requirements": "RX",
+        "therapeutic_category": "General Medication",
+        "special_notes": "None"
+      }
+    },
+    {
+      "product_number": 1349,
+      "name": "اوزيمبيك",
+      "price_egp": 4000,
+      "prescription_required": "RX",
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/0",
+      "page_source": 86,
+      "raw_data": {
+        "medication_name": "اوزيمبيك",
+        "price_egp": 4000,
+        "brand_manufacturer": "اوزيمبيك",
+        "dosage_information": "0.5مجم, 1 قلم مملوء مسبقًا",
+        "prescription_requirements": "RX",
+        "therapeutic_category": "Diabetes Treatment (GLP-1 agonist)",
+        "special_notes": "MOST EXPENSIVE MEDICATION FOUND - Expensive diabetes injection"
+      }
+    },
+    {
+      "product_number": 1350,
+      "name": "Cetal",
+      "price_egp": 42,
+      "prescription_required": "OTC",
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/cetal-1000",
+      "page_source": 87,
+      "raw_data": {
+        "medication_name": "Cetal",
+        "price_egp": 42,
+        "brand_manufacturer": "Generic",
+        "dosage_information": "1000mg, 15 tablets",
+        "prescription_requirements": "OTC",
+        "therapeutic_category": "Pain Relief",
+        "special_notes": "None"
+      }
+    },
+    {
+      "product_number": 1351,
+      "name": "Cymbalta",
+      "price_egp": 399,
+      "prescription_required": "RX",
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/cymbalta-30",
+      "page_source": 87,
+      "raw_data": {
+        "medication_name": "Cymbalta",
+        "price_egp": 399,
+        "brand_manufacturer": "Generic",
+        "dosage_information": "30mg, 28 capsules",
+        "prescription_requirements": "RX",
+        "therapeutic_category": "Antidepressant",
+        "special_notes": "None"
+      }
+    },
+    {
+      "product_number": 1352,
+      "name": "Block Alpha",
+      "price_egp": 120,
+      "prescription_required": "RX",
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/block-0",
+      "page_source": 87,
+      "raw_data": {
+        "medication_name": "Block Alpha",
+        "price_egp": 120,
+        "brand_manufacturer": "Generic",
+        "dosage_information": "0.4mg, 30 capsules",
+        "prescription_requirements": "RX",
+        "therapeutic_category": "Benign Prostatic Hyperplasia (BPH) Treatment",
+        "special_notes": "For prostate enlargement treatment"
+      }
+    },
+    {
+      "product_number": 1353,
+      "name": "Coversyl Plus",
+      "price_egp": 118,
+      "prescription_required": "RX",
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/coversyl-10",
+      "page_source": 87,
+      "raw_data": {
+        "medication_name": "Coversyl Plus",
+        "price_egp": 118,
+        "brand_manufacturer": "Generic",
+        "dosage_information": "10mg/2.5mg, 15 tablets",
+        "prescription_requirements": "RX",
+        "therapeutic_category": "Hypertension Treatment",
+        "special_notes": "For high blood pressure treatment"
+      }
+    },
+    {
+      "product_number": 1354,
+      "name": "Torseretic",
+      "price_egp": 42,
+      "prescription_required": "RX",
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/torseretic-5",
+      "page_source": 87,
+      "raw_data": {
+        "medication_name": "Torseretic",
+        "price_egp": 42,
+        "brand_manufacturer": "Generic",
+        "dosage_information": "5mg, 30 tablets",
+        "prescription_requirements": "RX",
+        "therapeutic_category": "Hypertension Treatment",
+        "special_notes": "Reducing high blood pressure"
+      }
+    },
+    {
+      "product_number": 1355,
+      "name": "Hi-Glitazone",
+      "price_egp": 99,
+      "prescription_required": "RX",
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/hi-30",
+      "page_source": 87,
+      "raw_data": {
+        "medication_name": "Hi-Glitazone",
+        "price_egp": 99,
+        "brand_manufacturer": "Generic",
+        "dosage_information": "30mg, 30 tablets",
+        "prescription_requirements": "RX",
+        "therapeutic_category": "Diabetes Treatment (Thiazolidinedione)",
+        "special_notes": "None"
+      }
+    },
+    {
+      "product_number": 1356,
+      "name": "Tiratam",
+      "price_egp": 148,
+      "prescription_required": "OTC",
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/tiratam-750",
+      "page_source": 87,
+      "raw_data": {
+        "medication_name": "Tiratam",
+        "price_egp": 148,
+        "brand_manufacturer": "Generic",
+        "dosage_information": "750mg, 20 tablets",
+        "prescription_requirements": "OTC",
+        "therapeutic_category": "Cognitive Enhancement (Piracetam-like)",
+        "special_notes": "None"
+      }
+    },
+    {
+      "product_number": 1357,
+      "name": "Actos",
+      "price_egp": 372,
+      "prescription_required": "RX",
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/actos-30",
+      "page_source": 87,
+      "raw_data": {
+        "medication_name": "Actos",
+        "price_egp": 372,
+        "brand_manufacturer": "Generic",
+        "dosage_information": "30mg, 30 tablets",
+        "prescription_requirements": "RX",
+        "therapeutic_category": "Diabetes Treatment (Pioglitazone)",
+        "special_notes": "For diabetes treatment"
+      }
+    },
+    {
+      "product_number": 1358,
+      "name": "Ryzodeg FlexTouch",
+      "price_egp": 618,
+      "prescription_required": "RX",
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/ryzodeg-100",
+      "page_source": 87,
+      "raw_data": {
+        "medication_name": "Ryzodeg FlexTouch",
+        "price_egp": 618,
+        "brand_manufacturer": "Generic",
+        "dosage_information": "100 IU/ml, 1 prefilled pen, 3ml",
+        "prescription_requirements": "RX",
+        "therapeutic_category": "Diabetes Treatment (Insulin)",
+        "special_notes": "Prefilled pen"
+      }
+    },
+    {
+      "product_number": 1359,
+      "name": "Monomak",
+      "price_egp": 28,
+      "prescription_required": "OTC",
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/monomak-20",
+      "page_source": 87,
+      "raw_data": {
+        "medication_name": "Monomak",
+        "price_egp": 28,
+        "brand_manufacturer": "Generic",
+        "dosage_information": "20mg, 20 tablets",
+        "prescription_requirements": "OTC",
+        "therapeutic_category": "Anti-inflammatory",
+        "special_notes": "None"
+      }
+    },
+    {
+      "product_number": 1360,
+      "name": "Pronto Plus",
+      "price_egp": 40,
+      "prescription_required": "RX",
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/pronto-50",
+      "page_source": 87,
+      "raw_data": {
+        "medication_name": "Pronto Plus",
+        "price_egp": 40,
+        "brand_manufacturer": "Generic",
+        "dosage_information": "50mg, 20 tablets",
+        "prescription_requirements": "RX",
+        "therapeutic_category": "Pain Relief, Cold & Flu",
+        "special_notes": "Pain reliever for cold, headache, and menstrual pain"
+      }
+    },
+    {
+      "product_number": 1361,
+      "name": "Lipocomb",
+      "price_egp": 678,
+      "prescription_required": "OTC",
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/lipocomb-20",
+      "page_source": 87,
+      "raw_data": {
+        "medication_name": "Lipocomb",
+        "price_egp": 678,
+        "brand_manufacturer": "Generic",
+        "dosage_information": "20mg/10mg, 30 capsules",
+        "prescription_requirements": "OTC",
+        "therapeutic_category": "Lipid-Lowering Combination",
+        "special_notes": "None"
+      }
+    },
+    {
+      "product_number": 1362,
+      "name": "Chartoreg Plus",
+      "price_egp": 158,
+      "prescription_required": "OTC",
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/chartoreg-80",
+      "page_source": 87,
+      "raw_data": {
+        "medication_name": "Chartoreg Plus",
+        "price_egp": 158,
+        "brand_manufacturer": "Generic",
+        "dosage_information": "80mg/12.5mg, 28 tablets",
+        "prescription_requirements": "OTC",
+        "therapeutic_category": "Antihypertensive Combination",
+        "special_notes": "None"
+      }
+    },
+    {
+      "product_number": 1363,
+      "name": "Mavilor Plus",
+      "price_egp": 108,
+      "prescription_required": "OTC",
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/mavilor-5",
+      "page_source": 87,
+      "raw_data": {
+        "medication_name": "Mavilor Plus",
+        "price_egp": 108,
+        "brand_manufacturer": "Generic",
+        "dosage_information": "5mg/25mg, 30 tablets",
+        "prescription_requirements": "OTC",
+        "therapeutic_category": "Hypertension Treatment",
+        "special_notes": "None"
+      }
+    },
+    {
+      "product_number": 1364,
+      "name": "Baclofen",
+      "price_egp": 30,
+      "prescription_required": "RX",
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/baclofen-10",
+      "page_source": 87,
+      "raw_data": {
+        "medication_name": "Baclofen",
+        "price_egp": 30,
+        "brand_manufacturer": "Generic",
+        "dosage_information": "10mg, 20 tablets",
+        "prescription_requirements": "RX",
+        "therapeutic_category": "Muscle Relaxant",
+        "special_notes": "Muscle relaxant"
+      }
+    },
+    {
+      "product_number": 1365,
+      "name": "Rozalia Hair Lotion",
+      "price_egp": 300,
+      "prescription_required": "OTC",
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/rozalia-120",
+      "page_source": 87,
+      "raw_data": {
+        "medication_name": "Rozalia Hair Lotion",
+        "price_egp": 300,
+        "brand_manufacturer": "Blue Bell",
+        "dosage_information": "120ml",
+        "prescription_requirements": "OTC",
+        "therapeutic_category": "Hair Care",
+        "special_notes": "Hair lotion"
+      }
+    },
+    {
+      "product_number": 1366,
+      "name": "Heli-Cure",
+      "price_egp": 240,
+      "prescription_required": "OTC",
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/heli-500",
+      "page_source": 87,
+      "raw_data": {
+        "medication_name": "Heli-Cure",
+        "price_egp": 240,
+        "brand_manufacturer": "Generic",
+        "dosage_information": "500mg/20mg/500mg, 14 tablets",
+        "prescription_requirements": "OTC",
+        "therapeutic_category": "Gastric Ulcer/H. pylori treatment",
+        "special_notes": "For stomach bacteria treatment"
+      }
+    },
+    {
+      "product_number": 1367,
+      "name": "Gouryst",
+      "price_egp": 190,
+      "prescription_required": "OTC",
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/gouryst-0",
+      "page_source": 87,
+      "raw_data": {
+        "medication_name": "Gouryst",
+        "price_egp": 190,
+        "brand_manufacturer": "Generic",
+        "dosage_information": "0.5mg, 100 tablets",
+        "prescription_requirements": "OTC",
+        "therapeutic_category": "Anti-anxiety (Clonazepam-like)",
+        "special_notes": "None"
+      }
+    },
+    {
+      "product_number": 1368,
+      "name": "Iksaront",
+      "price_egp": 357,
+      "prescription_required": "RX",
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/iksaront-5",
+      "page_source": 87,
+      "raw_data": {
+        "medication_name": "Iksaront",
+        "price_egp": 357,
+        "brand_manufacturer": "Generic",
+        "dosage_information": "5mg, 30 tablets",
+        "prescription_requirements": "RX",
+        "therapeutic_category": "Anticoagulant",
+        "special_notes": "To reduce blood clotting"
+      }
+    },
+    {
+      "product_number": 1369,
+      "name": "Elicasal",
+      "price_egp": 50,
+      "prescription_required": "OTC",
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/elicasal-30",
+      "page_source": 87,
+      "raw_data": {
+        "medication_name": "Elicasal",
+        "price_egp": 50,
+        "brand_manufacturer": "Generic",
+        "dosage_information": "30 gram",
+        "prescription_requirements": "OTC",
+        "therapeutic_category": "Dermatological",
+        "special_notes": "Ointment"
+      }
+    },
+    {
+      "product_number": 1370,
+      "name": "Controloc Antacid",
+      "price_egp": 0,
+      "prescription_required": "OTC",
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/controloc-20",
+      "page_source": 88,
+      "raw_data": {
+        "medication_name": "Controloc Antacid",
+        "price_egp": 0,
+        "brand_manufacturer": "Controloc",
+        "dosage_information": "20mg, 14 tablets",
+        "prescription_requirements": "OTC",
+        "therapeutic_category": "Antacid",
+        "special_notes": "Price not displayed on page"
+      }
+    },
+    {
+      "product_number": 1371,
+      "name": "رونكين 1010مجم دواء عشبي",
+      "price_egp": 96,
+      "prescription_required": "OTC",
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/1010-1010",
+      "page_source": 88,
+      "raw_data": {
+        "medication_name": "رونكين 1010مجم دواء عشبي",
+        "price_egp": 96,
+        "brand_manufacturer": "Ronkin",
+        "dosage_information": "1010mg, 20 capsules",
+        "prescription_requirements": "OTC",
+        "therapeutic_category": "Herbal medicine",
+        "special_notes": "None"
+      }
+    },
+    {
+      "product_number": 1372,
+      "name": "سيكم | اعشاب للشتاء",
+      "price_egp": 28,
+      "prescription_required": "OTC",
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/15",
+      "page_source": 88,
+      "raw_data": {
+        "medication_name": "سيكم | اعشاب للشتاء",
+        "price_egp": 28,
+        "brand_manufacturer": "Sekem",
+        "dosage_information": "15 sachets",
+        "prescription_requirements": "OTC",
+        "therapeutic_category": "Herbal (Winter Herbs)",
+        "special_notes": "None"
+      }
+    },
+    {
+      "product_number": 1373,
+      "name": "نيركاردوا 2.5مجم",
+      "price_egp": 60,
+      "prescription_required": "OTC",
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/25-2",
+      "page_source": 88,
+      "raw_data": {
+        "medication_name": "نيركاردوا 2.5مجم",
+        "price_egp": 60,
+        "brand_manufacturer": "Nerkardou",
+        "dosage_information": "2.5mg, 30 tablets",
+        "prescription_requirements": "OTC",
+        "therapeutic_category": "General Medication",
+        "special_notes": "None"
+      }
+    },
+    {
+      "product_number": 1374,
+      "name": "اورا اوراتريبسن مكملات غذائية",
+      "price_egp": 120,
+      "prescription_required": "OTC",
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/30",
+      "page_source": 88,
+      "raw_data": {
+        "medication_name": "اورا اوراتريبسن مكملات غذائية",
+        "price_egp": 120,
+        "brand_manufacturer": "Ora",
+        "dosage_information": "30 capsules",
+        "prescription_requirements": "OTC",
+        "therapeutic_category": "Dietary supplement",
+        "special_notes": "None"
+      }
+    },
+    {
+      "product_number": 1375,
+      "name": "ليسيوتينز 20\\12.5مجم",
+      "price_egp": 79.5,
+      "prescription_required": "OTC",
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/20125-20",
+      "page_source": 88,
+      "raw_data": {
+        "medication_name": "ليسيوتينز 20\\12.5مجم",
+        "price_egp": 79.5,
+        "brand_manufacturer": "Lisitens",
+        "dosage_information": "20/12.5mg, 30 tablets",
+        "prescription_requirements": "OTC",
+        "therapeutic_category": "Hypertension Treatment",
+        "special_notes": "None"
+      }
+    },
+    {
+      "product_number": 1376,
+      "name": "سيرفيتولكا 500مجم",
+      "price_egp": 340,
+      "prescription_required": "OTC",
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/500-500",
+      "page_source": 88,
+      "raw_data": {
+        "medication_name": "سيرفيتولكا 500مجم",
+        "price_egp": 340,
+        "brand_manufacturer": "Cervetolka",
+        "dosage_information": "500mg, 20 capsules",
+        "prescription_requirements": "OTC",
+        "therapeutic_category": "General Medication",
+        "special_notes": "None"
+      }
+    },
+    {
+      "product_number": 1377,
+      "name": "ريسكيور لعلاج انفصام الشخصية",
+      "price_egp": 109.5,
+      "prescription_required": "RX",
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/2",
+      "page_source": 88,
+      "raw_data": {
+        "medication_name": "ريسكيور لعلاج انفصام الشخصية",
+        "price_egp": 109.5,
+        "brand_manufacturer": "Riscure",
+        "dosage_information": "2mg, 30 tablets",
+        "prescription_requirements": "RX",
+        "therapeutic_category": "Schizophrenia treatment",
+        "special_notes": "None"
+      }
+    },
+    {
+      "product_number": 1378,
+      "name": "جانوفيا | علاج السكري",
+      "price_egp": 510,
+      "prescription_required": "RX",
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/100",
+      "page_source": 88,
+      "raw_data": {
+        "medication_name": "جانوفيا | علاج السكري",
+        "price_egp": 510,
+        "brand_manufacturer": "Januvia",
+        "dosage_information": "100 mg, 28 tablets",
+        "prescription_requirements": "RX",
+        "therapeutic_category": "Diabetes treatment",
+        "special_notes": "None"
+      }
+    },
+    {
+      "product_number": 1379,
+      "name": "اباندروكير |进行治疗 هشاشة العظام",
+      "price_egp": 80,
+      "prescription_required": "RX",
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/150",
+      "page_source": 88,
+      "raw_data": {
+        "medication_name": "اباندروكير |进行治疗 هشاشة العظام",
+        "price_egp": 80,
+        "brand_manufacturer": "Ibandrocare",
+        "dosage_information": "150mg, 2 tablets",
+        "prescription_requirements": "RX",
+        "therapeutic_category": "Osteoporosis treatment",
+        "special_notes": "None"
+      }
+    },
+    {
+      "product_number": 1380,
+      "name": "ابروفيل |进行治疗 ارتفاع ضغط الدم",
+      "price_egp": 131,
+      "prescription_required": "RX",
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/300",
+      "page_source": 88,
+      "raw_data": {
+        "medication_name": "ابروفيل |进行治疗 ارتفاع ضغط الدم",
+        "price_egp": 131,
+        "brand_manufacturer": "Aprovel",
+        "dosage_information": "300mg, 14 tablets",
+        "prescription_requirements": "RX",
+        "therapeutic_category": "High blood pressure treatment",
+        "special_notes": "None"
+      }
+    },
+    {
+      "product_number": 1381,
+      "name": "دواء داونستيرولين 10/40进行治疗 الكوليسترول",
+      "price_egp": 160,
+      "prescription_required": "RX",
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/1040-10",
+      "page_source": 88,
+      "raw_data": {
+        "medication_name": "دواء داونستيرولين 10/40进行治疗 الكوليسترول",
+        "price_egp": 160,
+        "brand_manufacturer": "Downsterolin",
+        "dosage_information": "10/40mg, 28 tablets",
+        "prescription_requirements": "RX",
+        "therapeutic_category": "Cholesterol treatment",
+        "special_notes": "None"
+      }
+    },
+    {
+      "product_number": 1382,
+      "name": "ليبيتور 40ملجم",
+      "price_egp": 226,
+      "prescription_required": "RX",
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/40-40",
+      "page_source": 88,
+      "raw_data": {
+        "medication_name": "ليبيتور 40ملجم",
+        "price_egp": 226,
+        "brand_manufacturer": "Lipitor",
+        "dosage_information": "40mg, 14 tablets",
+        "prescription_requirements": "RX",
+        "therapeutic_category": "Cholesterol Treatment",
+        "special_notes": "None"
+      }
+    },
+    {
+      "product_number": 1383,
+      "name": "ديجليفلوز بلس 5/1000 مجم",
+      "price_egp": 183,
+      "prescription_required": "RX",
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/51000-5",
+      "page_source": 88,
+      "raw_data": {
+        "medication_name": "ديجليفلوز بلس 5/1000 مجم",
+        "price_egp": 183,
+        "brand_manufacturer": "Diglifloz Plus",
+        "dosage_information": "5/1000mg, 30 tablets",
+        "prescription_requirements": "RX",
+        "therapeutic_category": "Diabetes Treatment",
+        "special_notes": "None"
+      }
+    },
+    {
+      "product_number": 1384,
+      "name": "تمبيستاتين | 10/20ملجم",
+      "price_egp": 154,
+      "prescription_required": "RX",
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/1020-10",
+      "page_source": 88,
+      "raw_data": {
+        "medication_name": "تمبيستاتين | 10/20ملجم",
+        "price_egp": 154,
+        "brand_manufacturer": "Timbestatin",
+        "dosage_information": "10/20mg, 14 tablets",
+        "prescription_requirements": "RX",
+        "therapeutic_category": "Cholesterol Treatment",
+        "special_notes": "None"
+      }
+    },
+    {
+      "product_number": 1385,
+      "name": "ليبوكومب 10مجم/10مجم",
+      "price_egp": 499,
+      "prescription_required": "OTC",
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/1010-10",
+      "page_source": 88,
+      "raw_data": {
+        "medication_name": "ليبوكومب 10مجم/10مجم",
+        "price_egp": 499,
+        "brand_manufacturer": "Lipocomb",
+        "dosage_information": "10mg/10mg, 30 capsules",
+        "prescription_requirements": "OTC",
+        "therapeutic_category": "Cholesterol Treatment",
+        "special_notes": "None"
+      }
+    },
+    {
+      "product_number": 1386,
+      "name": "اتروزيمب اقراص 10/10 حبوب الكوليسترول والدهون",
+      "price_egp": 228,
+      "prescription_required": "RX",
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/1010-10",
+      "page_source": 88,
+      "raw_data": {
+        "medication_name": "اتروزيمب اقراص 10/10 حبوب الكوليسترول والدهون",
+        "price_egp": 228,
+        "brand_manufacturer": "Atrozemb",
+        "dosage_information": "10/10mg, 30 tablets",
+        "prescription_requirements": "RX",
+        "therapeutic_category": "Cholesterol and fat treatment",
+        "special_notes": "None"
+      }
+    },
+    {
+      "product_number": 1387,
+      "name": "اكستنشن |进行治疗 إرتفاع ضغط الدم",
+      "price_egp": 140,
+      "prescription_required": "RX",
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/300",
+      "page_source": 88,
+      "raw_data": {
+        "medication_name": "اكستنشن |进行治疗 إرتفاع ضغط الدم",
+        "price_egp": 140,
+        "brand_manufacturer": "X-Tension",
+        "dosage_information": "300mg, 28 tablets",
+        "prescription_requirements": "RX",
+        "therapeutic_category": "High blood pressure treatment",
+        "special_notes": "None"
+      }
+    },
+    {
+      "product_number": 1388,
+      "name": "زالاتان | 0.005٪ نقط للعيون",
+      "price_egp": 228,
+      "prescription_required": "RX",
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/0005-0",
+      "page_source": 88,
+      "raw_data": {
+        "medication_name": "زالاتان | 0.005٪ نقط للعيون",
+        "price_egp": 228,
+        "brand_manufacturer": "Xalatan",
+        "dosage_information": "0.005% eye drops, 2.5ml",
+        "prescription_requirements": "RX",
+        "therapeutic_category": "Eye drops (Glaucoma treatment)",
+        "special_notes": "None"
+      }
+    },
+    {
+      "product_number": 1389,
+      "name": "أنسولين نوفورابيد | بنفيل",
+      "price_egp": 1075,
+      "prescription_required": "RX",
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/100",
+      "page_source": 88,
+      "raw_data": {
+        "medication_name": "أنسولين نوفورابيد | بنفيل",
+        "price_egp": 1075,
+        "brand_manufacturer": "Novorapid",
+        "dosage_information": "100 unit/ml, 5 cartridges, 3ml",
+        "prescription_requirements": "RX",
+        "therapeutic_category": "Insulin, Diabetes treatment",
+        "special_notes": "High-cost insulin"
+      }
+    },
+    {
+      "product_number": 1390,
+      "name": "شارتوريج بلس | 12.5/40مجم",
+      "price_egp": 144,
+      "prescription_required": "OTC",
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/12540-12",
+      "page_source": 88,
+      "raw_data": {
+        "medication_name": "شارتوريج بلس | 12.5/40مجم",
+        "price_egp": 144,
+        "brand_manufacturer": "Chartoreg Plus",
+        "dosage_information": "12.5/40mg, 28 tablets",
+        "prescription_requirements": "OTC",
+        "therapeutic_category": "Hypertension Treatment",
+        "special_notes": "None"
+      }
+    },
+    {
+      "product_number": 1391,
+      "name": "Sideral Forte",
+      "price_egp": 400,
+      "prescription_required": "OTC",
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/sideral-30",
+      "page_source": 89,
+      "raw_data": {
+        "medication_name": "Sideral Forte",
+        "price_egp": 400,
+        "brand_manufacturer": "Generic",
+        "dosage_information": "30 capsules",
+        "prescription_requirements": "OTC",
+        "therapeutic_category": "Dietary Supplement",
+        "special_notes": "None"
+      }
+    },
+    {
+      "product_number": 1392,
+      "name": "Gliptus Plus",
+      "price_egp": 153,
+      "prescription_required": "OTC",
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/gliptus-50",
+      "page_source": 89,
+      "raw_data": {
+        "medication_name": "Gliptus Plus",
+        "price_egp": 153,
+        "brand_manufacturer": "Generic",
+        "dosage_information": "50/500mg | 30 tablets",
+        "prescription_requirements": "OTC",
+        "therapeutic_category": "Antidiabetic",
+        "special_notes": "None"
+      }
+    },
+    {
+      "product_number": 1393,
+      "name": "Lelipel",
+      "price_egp": 120,
+      "prescription_required": "OTC",
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/lelipel-10",
+      "page_source": 89,
+      "raw_data": {
+        "medication_name": "Lelipel",
+        "price_egp": 120,
+        "brand_manufacturer": "Generic",
+        "dosage_information": "10mg | 20 tablets",
+        "prescription_requirements": "OTC",
+        "therapeutic_category": "General Medication",
+        "special_notes": "None"
+      }
+    },
+    {
+      "product_number": 1394,
+      "name": "Serioprazole",
+      "price_egp": 154,
+      "prescription_required": "OTC",
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/serioprazole-40",
+      "page_source": 89,
+      "raw_data": {
+        "medication_name": "Serioprazole",
+        "price_egp": 154,
+        "brand_manufacturer": "Generic",
+        "dosage_information": "40mg | 20 capsules",
+        "prescription_requirements": "OTC",
+        "therapeutic_category": "Gastrointestinal / Proton Pump Inhibitor",
+        "special_notes": "None"
+      }
+    },
+    {
+      "product_number": 1395,
+      "name": "Xyrkux",
+      "price_egp": 297,
+      "prescription_required": "OTC",
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/xyrkux-90",
+      "page_source": 89,
+      "raw_data": {
+        "medication_name": "Xyrkux",
+        "price_egp": 297,
+        "brand_manufacturer": "Generic",
+        "dosage_information": "90mg | 30 tablets",
+        "prescription_requirements": "OTC",
+        "therapeutic_category": "General Medication",
+        "special_notes": "None"
+      }
+    },
+    {
+      "product_number": 1396,
+      "name": "Systane Hydration Eye Drops",
+      "price_egp": 580,
+      "prescription_required": "OTC",
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/systane-30",
+      "page_source": 89,
+      "raw_data": {
+        "medication_name": "Systane Hydration Eye Drops",
+        "price_egp": 580,
+        "brand_manufacturer": "Generic",
+        "dosage_information": "30 x 0.7ml single-dose units",
+        "prescription_requirements": "OTC",
+        "therapeutic_category": "Ophthalmic Care / Eye Lubricant",
+        "special_notes": "Preservative-free"
+      }
+    },
+    {
+      "product_number": 1397,
+      "name": "Andopentene",
+      "price_egp": 198,
+      "prescription_required": "RX",
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/andopentene-600",
+      "page_source": 89,
+      "raw_data": {
+        "medication_name": "Andopentene",
+        "price_egp": 198,
+        "brand_manufacturer": "Generic",
+        "dosage_information": "600mg | 30 tablets",
+        "prescription_requirements": "RX",
+        "therapeutic_category": "Anticonvulsant / Neuropathic Pain",
+        "special_notes": "None"
+      }
+    },
+    {
+      "product_number": 1398,
+      "name": "Renu Solution for Contact Lens",
+      "price_egp": 490,
+      "prescription_required": "OTC",
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/renu-240",
+      "page_source": 89,
+      "raw_data": {
+        "medication_name": "Renu Solution for Contact Lens",
+        "price_egp": 490,
+        "brand_manufacturer": "Generic",
+        "dosage_information": "240ml",
+        "prescription_requirements": "OTC",
+        "therapeutic_category": "Ophthalmic Care / Contact Lens Solution",
+        "special_notes": "For sensitive eyes"
+      }
+    },
+    {
+      "product_number": 1399,
+      "name": "Corvibeak Nerve Dietary Supplement",
+      "price_egp": 220,
+      "prescription_required": "RX",
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/corvibeak-20",
+      "page_source": 89,
+      "raw_data": {
+        "medication_name": "Corvibeak Nerve Dietary Supplement",
+        "price_egp": 220,
+        "brand_manufacturer": "Generic",
+        "dosage_information": "20 capsules",
+        "prescription_requirements": "RX",
+        "therapeutic_category": "Nerve Dietary Supplement",
+        "special_notes": "None"
+      }
+    },
+    {
+      "product_number": 1400,
+      "name": "Tomed",
+      "price_egp": 190,
+      "prescription_required": "OTC",
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/tomed-200",
+      "page_source": 89,
+      "raw_data": {
+        "medication_name": "Tomed",
+        "price_egp": 190,
+        "brand_manufacturer": "Generic",
+        "dosage_information": "200mg | 10 sachets",
+        "prescription_requirements": "OTC",
+        "therapeutic_category": "General Medication",
+        "special_notes": "Chocolate flavored"
+      }
+    }
+  ]
+}

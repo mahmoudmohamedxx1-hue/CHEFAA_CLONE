@@ -1,0 +1,187 @@
+📄 Extracted from page: العناية بالبشرة - شفاء
+URL: https://chefaa.com/eg-ar/now/category/skin-care
+
+Extracted content:
+```json
+{
+  "title": "العناية بالبشرة - شفاء",
+  "url": "https://chefaa.com/eg-ar/now/category/skin-care",
+  "summary": "The provided page is for the 'Skin Care' category on Chefaa, not 'Stomach & Bowel medications' as requested in the goal. This page (which appears to be page 1 of the Skin Care category) lists various skincare products including deodorants, moisturizing creams, facial serums, sheet masks, hand scrubs, eye creams, day creams, shower creams, acne creams, facial cleansers, and acne soaps from brands like Nivea, Eva, and Starville. Each product has a name, a brief description/specification, and a price in EGP. All listed products appear to be available for purchase. The page includes pagination controls indicating there are multiple pages of skin care products, extending up to page 56.",
+  "key_points": [
+    "The page content is for the 'Skin Care' category, not 'Stomach & Bowel medications' as specified in the goal.",
+    "A total of 20 distinct skin care products are listed on this page.",
+    "Product categories include deodorants, moisturizers, serums, masks, scrubs, eye creams, cleansers, and acne treatments.",
+    "Brands featured are Nivea, Eva, and Starville.",
+    "All listed products display a price in EGP and an 'Add to Cart' option, implying availability.",
+    "Pagination controls indicate there are 56 pages of 'Skin Care' products, with links to navigate to other pages, including page 2 (https://chefaa.com:443/eg-ar/now/category/skin-care?page=2)."
+  ],
+  "product_data": [
+    {
+      "product_name": "نيفيا | مزيل العرق بروتكت اند كير ستيك للنساء | 40مل",
+      "description": "مزيل العرق بروتكت اند كير ستيك للنساء",
+      "price_egp": 150,
+      "brand_name": "نيفيا (Nivea)",
+      "availability_status": "Available",
+      "specifications": "40مل"
+    },
+    {
+      "product_name": "نيفيا | سوفت كريم مرطب ومنعش للجسم | 50مل",
+      "description": "سوفت كريم مرطب ومنعش للجسم",
+      "price_egp": 48,
+      "brand_name": "نيفيا (Nivea)",
+      "availability_status": "Available",
+      "specifications": "50مل"
+    },
+    {
+      "product_name": "نيفيا | سوفت كريم مرطب ومنعش للجسم | 100مل",
+      "description": "سوفت كريم مرطب ومنعش للجسم",
+      "price_egp": 80,
+      "brand_name": "نيفيا (Nivea)",
+      "availability_status": "Available",
+      "specifications": "100مل"
+    },
+    {
+      "product_name": "نيفيا | سوفت كريم مرطب ومنعش للجسم | 200مل",
+      "description": "سوفت كريم مرطب ومنعش للجسم",
+      "price_egp": 145,
+      "brand_name": "نيفيا (Nivea)",
+      "availability_status": "Available",
+      "specifications": "200مل"
+    },
+    {
+      "product_name": "إيفا | نياسيناميد مضاد للشيخوخة | 30 مل",
+      "description": "نياسيناميد مضاد للشيخوخة",
+      "price_egp": 210,
+      "brand_name": "إيفا (Eva)",
+      "availability_status": "Available",
+      "specifications": "30 مل"
+    },
+    {
+      "product_name": "إيفا | قناع الفحم ينقي البشرة",
+      "description": "قناع الفحم ينقي البشرة",
+      "price_egp": 90,
+      "brand_name": "إيفا (Eva)",
+      "availability_status": "Available",
+      "specifications": "Sheet mask (implied 3 sheets from URL)"
+    },
+    {
+      "product_name": "إيفا | مقشر لليد جولد سبيل | 50مل",
+      "description": "مقشر لليد جولد سبيل",
+      "price_egp": 70,
+      "brand_name": "إيفا (Eva)",
+      "availability_status": "Available",
+      "specifications": "50مل"
+    },
+    {
+      "product_name": "إيفا | ناتشورال جلو كريم لتفتيح وترطيب منطقة حول العين | 15جم",
+      "description": "ناتشورال جلو كريم لتفتيح وترطيب منطقة حول العين",
+      "price_egp": 65,
+      "brand_name": "إيفا (Eva)",
+      "availability_status": "Available",
+      "specifications": "15جم"
+    },
+    {
+      "product_name": "إيفا | كريم نهاري للعناية بالبشرة بعامل حماية من الشمس SPF ...",
+      "description": "كريم نهاري للعناية بالبشرة بعامل حماية من الشمس SPF 30",
+      "price_egp": 100,
+      "brand_name": "إيفا (Eva)",
+      "availability_status": "Available",
+      "specifications": "50gm, SPF 30"
+    },
+    {
+      "product_name": "ايفا | كريم الاستحمام سكين كير باشون | 250مل",
+      "description": "كريم الاستحمام سكين كير باشون",
+      "price_egp": 100,
+      "brand_name": "ايفا (Eva)",
+      "availability_status": "Available",
+      "specifications": "250مل"
+    },
+    {
+      "product_name": "إيفا | ماسك الكولاجين من سكين كلينيك",
+      "description": "ماسك الكولاجين من سكين كلينيك",
+      "price_egp": 90,
+      "brand_name": "إيفا (Eva)",
+      "availability_status": "Available",
+      "specifications": "Collagen sheet mask (implied 3 from URL)"
+    },
+    {
+      "product_name": "إيفا | كريم الوجه الخالي من البقع | 18 جرام",
+      "description": "كريم الوجه الخالي من البقع",
+      "price_egp": 25,
+      "brand_name": "إيفا (Eva)",
+      "availability_status": "Available",
+      "specifications": "18 جرام"
+    },
+    {
+      "product_name": "كريم ستارفيل للحبوب وإزالة الرؤوس السوداء للبشرة الدهنية | ...",
+      "description": "كريم للحبوب وإزالة الرؤوس السوداء للبشرة الدهنية",
+      "price_egp": 85,
+      "brand_name": "ستارفيل (Starville)",
+      "availability_status": "Available",
+      "specifications": "For acne-prone and oily skin"
+    },
+    {
+      "product_name": "ستارفيل غسول جل للبشرة الدهنية والمعرضة للحبوب | 100 مل",
+      "description": "غسول جل للبشرة الدهنية والمعرضة للحبوب",
+      "price_egp": 80,
+      "brand_name": "ستارفيل (Starville)",
+      "availability_status": "Available",
+      "specifications": "100 مل, Gel cleanser for oily and acne-prone skin"
+    },
+    {
+      "product_name": "غسول ستارفيل للحبوب starville غسول للبشرة الدهنية والمختلطة...",
+      "description": "غسول للحبوب للبشرة الدهنية والمختلطة",
+      "price_egp": 125,
+      "brand_name": "ستارفيل (Starville)",
+      "availability_status": "Available",
+      "specifications": "Cleanser for oily and combination skin"
+    },
+    {
+      "product_name": "ستارفيل غسول جل للبشرة الدهنية والمعرضة للحبوب | 400 مل",
+      "description": "غسول جل للبشرة الدهنية والمعرضة للحبوب",
+      "price_egp": 210,
+      "brand_name": "ستارفيل (Starville)",
+      "availability_status": "Available",
+      "specifications": "400 مل, Gel cleanser for oily and acne-prone skin"
+    },
+    {
+      "product_name": "ستارفيل | جل مرطب للبشرة الدهنية | 100جم",
+      "description": "جل مرطب للبشرة الدهنية",
+      "price_egp": 175,
+      "brand_name": "ستارفيل (Starville)",
+      "availability_status": "Available",
+      "specifications": "100جم, Hydrating gel for oily skin"
+    },
+    {
+      "product_name": "صابونة ستارفيل للحبوب للبشره الدهنية | 100جم",
+      "description": "صابونة للحبوب للبشره الدهنية",
+      "price_egp": 50,
+      "brand_name": "ستارفيل (Starville)",
+      "availability_status": "Available",
+      "specifications": "100جم, Soap for acne and oily skin"
+    },
+    {
+      "product_name": "ستارفيل | ماسك ورقي للبشرة المعرضة للحبوب | 1 كيس",
+      "description": "ماسك ورقي للبشرة المعرضة للحبوب",
+      "price_egp": 45,
+      "brand_name": "ستارفيل (Starville)",
+      "availability_status": "Available",
+      "specifications": "1 كيس, Sheet mask for acne-prone skin"
+    },
+    {
+      "product_name": "ستارفيل | اي كونتور للعين للهالات السوداء | 30جم",
+      "description": "اي كونتور للعين للهالات السوداء",
+      "price_egp": 220,
+      "brand_name": "ستارفيل (Starville)",
+      "availability_status": "Available",
+      "specifications": "30جم, Eye contour for dark circles"
+    }
+  ],
+  "relevant_links": [
+    "https://chefaa.com:443/eg-ar/now/category/skin-care?page=2",
+    "https://chefaa.com:443/eg-ar/now/category/skin-care?page=3",
+    "https://chefaa.com:443/eg-ar/now/category/skin-care?page=56"
+  ],
+  "file_name": "skin_care_products_page1.json"
+}
+```

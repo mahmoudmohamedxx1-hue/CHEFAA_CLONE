@@ -1,0 +1,2571 @@
+{
+  "extraction_metadata": {
+    "batch_name": "medications_batch_3",
+    "method": "search_based_extraction",
+    "total_products": 197,
+    "extraction_date": "2025-11-01"
+  },
+  "products_for_search": [
+    {
+      "product_id": 401,
+      "page_number": 21,
+      "position": 1,
+      "search_query": "ديبرام (Depram) Depram 20 mg 20 tab",
+      "product_info": {
+        "arabic_name": "ديبرام 20 مجم | 20 قرص",
+        "english_name": "Depram 20 mg 20 tab",
+        "brand_name": "ديبرام (Depram)",
+        "price_egp": 104,
+        "prescription_required": true
+      }
+    },
+    {
+      "product_id": 402,
+      "page_number": 21,
+      "position": 2,
+      "search_query": "ديبريبان (Depreban) Depreban 20mg 10 cap",
+      "product_info": {
+        "arabic_name": "ديبريبان 20مج | 10 كبسولات",
+        "english_name": "Depreban 20mg 10 cap",
+        "brand_name": "ديبريبان (Depreban)",
+        "price_egp": 26,
+        "prescription_required": false
+      }
+    },
+    {
+      "product_id": 403,
+      "page_number": 21,
+      "position": 3,
+      "search_query": "ديرموفكس (Dermofix) Dermofix 2 cream 15gm",
+      "product_info": {
+        "arabic_name": "ديرموفكس 2٪ | كريم | 15جم",
+        "english_name": "Dermofix 2 cream 15gm",
+        "brand_name": "ديرموفكس (Dermofix)",
+        "price_egp": 51,
+        "prescription_required": false
+      }
+    },
+    {
+      "product_id": 404,
+      "page_number": 21,
+      "position": 4,
+      "search_query": "ديرموفيت (Dermovate) Dermovate cream 0.05 25gm",
+      "product_info": {
+        "arabic_name": "كريم ديرموفيت الاخضر进行治疗 والصدفية والاكزيما | 25جم",
+        "english_name": "Dermovate cream 0.05 25gm",
+        "brand_name": "ديرموفيت (Dermovate)",
+        "price_egp": 44,
+        "prescription_required": false
+      }
+    },
+    {
+      "product_id": 405,
+      "page_number": 21,
+      "position": 5,
+      "search_query": "درموفيت (Dermovate) Dermovate oint 0.05 25gm",
+      "product_info": {
+        "arabic_name": "درموفيت مرهم البني进行治疗ات والاكزيما dermovate ointment | 25جم",
+        "english_name": "Dermovate oint 0.05 25gm",
+        "brand_name": "درموفيت (Dermovate)",
+        "price_egp": 44,
+        "prescription_required": false
+      }
+    },
+    {
+      "product_id": 406,
+      "page_number": 21,
+      "position": 6,
+      "search_query": "ديسا (Desa) Desa 2.5 mg 5 ml syrup 100 ml",
+      "product_info": {
+        "arabic_name": "ديسا شراب مضاد للهيستامين 2.5مجم \\5مل | 100مل",
+        "english_name": "Desa 2.5 mg 5 ml syrup 100 ml",
+        "brand_name": "ديسا (Desa)",
+        "price_egp": 31,
+        "prescription_required": false
+      }
+    },
+    {
+      "product_id": 407,
+      "page_number": 21,
+      "position": 7,
+      "search_query": "ديكسافلوكس (Dexaflox) Dexaflox eye drops 5 ml",
+      "product_info": {
+        "arabic_name": "ديكسافلوكس نقط进行治疗 | 5مل",
+        "english_name": "Dexaflox eye drops 5 ml",
+        "brand_name": "ديكسافلوكس (Dexaflox)",
+        "price_egp": 53,
+        "prescription_required": true
+      }
+    },
+    {
+      "product_id": 408,
+      "page_number": 21,
+      "position": 8,
+      "search_query": "ديكساميثازون (Dexamethasone) Dexamethasone Anti-inflammatory 8mg 2ml 3amp",
+      "product_info": {
+        "arabic_name": "ديكساميثازون | مضاد للالتهابات | 8 مج/2 مل | 3 امبولات",
+        "english_name": "Dexamethasone Anti-inflammatory 8mg 2ml 3amp",
+        "brand_name": "ديكساميثازون (Dexamethasone)",
+        "price_egp": 36,
+        "prescription_required": true
+      }
+    },
+    {
+      "product_id": 409,
+      "page_number": 21,
+      "position": 9,
+      "search_query": "ديكسافين (Dexaphen) Dexaphen Allergies 120ml Susp",
+      "product_info": {
+        "arabic_name": "ديكسافين | شراب进行治疗 الحساسية | 120مل",
+        "english_name": "Dexaphen Allergies 120ml Susp",
+        "brand_name": "ديكسافين (Dexaphen)",
+        "price_egp": 24,
+        "prescription_required": false
+      }
+    },
+    {
+      "product_id": 410,
+      "page_number": 21,
+      "position": 10,
+      "search_query": "ديكساتوبرين (Dexatobrin) Dexatobrin Eye Drops 5 ml",
+      "product_info": {
+        "arabic_name": "ديكساتوبرين قطرة عين | 5مل",
+        "english_name": "Dexatobrin Eye Drops 5 ml",
+        "brand_name": "ديكساتوبرين (Dexatobrin)",
+        "price_egp": 37,
+        "prescription_required": true
+      }
+    },
+    {
+      "product_id": 411,
+      "page_number": 21,
+      "position": 11,
+      "search_query": "ديكساتوبرين (Dexatobrin) Dexatobrin Eye Oint 5 gm",
+      "product_info": {
+        "arabic_name": "ديكساتوبرين مرهم العين | 5جم",
+        "english_name": "Dexatobrin Eye Oint 5 gm",
+        "brand_name": "ديكساتوبرين (Dexatobrin)",
+        "price_egp": 37,
+        "prescription_required": true
+      }
+    },
+    {
+      "product_id": 412,
+      "page_number": 21,
+      "position": 12,
+      "search_query": "ديكساترول (Dexatrol) Dexatrol Eye Ear Drops 5 ml",
+      "product_info": {
+        "arabic_name": "ديكساترول قطرة عين/أذن | 5مل",
+        "english_name": "Dexatrol Eye Ear Drops 5 ml",
+        "brand_name": "ديكساترول (Dexatrol)",
+        "price_egp": 27,
+        "prescription_required": true
+      }
+    },
+    {
+      "product_id": 413,
+      "page_number": 21,
+      "position": 13,
+      "search_query": "دكساويست (Dexawest) Dexawest 60 mg 14 caps",
+      "product_info": {
+        "arabic_name": "دكساويست | 60 مجم | 14 كبسولة",
+        "english_name": "Dexawest 60 mg 14 caps",
+        "brand_name": "دكساويست (Dexawest)",
+        "price_egp": 136,
+        "prescription_required": false
+      }
+    },
+    {
+      "product_id": 414,
+      "page_number": 21,
+      "position": 14,
+      "search_query": "ديكسازون (Dexazone) Dexazone 0.5mg 60 tablets",
+      "product_info": {
+        "arabic_name": "ديكسازون 0.5مج | 60 قرص",
+        "english_name": "Dexazone 0.5mg 60 tablets",
+        "brand_name": "ديكسازون (Dexazone)",
+        "price_egp": 51,
+        "prescription_required": false
+      }
+    },
+    {
+      "product_id": 415,
+      "page_number": 21,
+      "position": 15,
+      "search_query": "دي جي ووش (DG Wash) Dg Wash Mouth Wash Fluoride 125ml",
+      "product_info": {
+        "arabic_name": "دي جي ووش غسول进行治疗 (فلورايد) | 125مل",
+        "english_name": "Dg Wash Mouth Wash Fluoride 125ml",
+        "brand_name": "دي جي ووش (DG Wash)",
+        "price_egp": 35,
+        "prescription_required": false
+      }
+    },
+    {
+      "product_id": 416,
+      "page_number": 21,
+      "position": 16,
+      "search_query": "دي جي ووش (DG Wash) Dg Wash Mouth Wash Menthol 125ml",
+      "product_info": {
+        "arabic_name": "دي جي ووش غسول进行治疗 (نعناع) | 125مل",
+        "english_name": "Dg Wash Mouth Wash Menthol 125ml",
+        "brand_name": "دي جي ووش (DG Wash)",
+        "price_egp": 35,
+        "prescription_required": false
+      }
+    },
+    {
+      "product_id": 417,
+      "page_number": 21,
+      "position": 17,
+      "search_query": "دياسيرين (Diacerein) Diacerein Joint Stiffness 50mg 30cap",
+      "product_info": {
+        "arabic_name": "دياسيرين进行治疗 خشونة المفاصل 50مج | 30 كبسولة",
+        "english_name": "Diacerein Joint Stiffness 50mg 30cap",
+        "brand_name": "دياسيرين (Diacerein)",
+        "price_egp": 156,
+        "prescription_required": true
+      }
+    },
+    {
+      "product_id": 421,
+      "page_number": 22,
+      "position": 1,
+      "search_query": "دياميكرون ام ار (Diamicron MR) Diamicron MR Type2 Diabetes",
+      "product_info": {
+        "arabic_name": "دياميكرون ام ار进行治疗 السكر من النوع الثاني | 60 مجم | 30 قرص",
+        "english_name": "Diamicron MR Type2 Diabetes",
+        "brand_name": "دياميكرون ام ار (Diamicron MR)",
+        "price_egp": 156,
+        "prescription_required": true
+      }
+    },
+    {
+      "product_id": 422,
+      "page_number": 22,
+      "position": 2,
+      "search_query": "دياميكرون ام ار (Diamicron MR) Diamicron MR Type2 Diabetes",
+      "product_info": {
+        "arabic_name": "دياميكرون ام ار进行治疗 السكر من النوع الثاني 30مج | 30 قرص",
+        "english_name": "Diamicron MR Type2 Diabetes",
+        "brand_name": "دياميكرون ام ار (Diamicron MR)",
+        "price_egp": 60,
+        "prescription_required": true
+      }
+    },
+    {
+      "product_id": 423,
+      "page_number": 22,
+      "position": 3,
+      "search_query": "ديامونريكتا (Diamonrecta) Diamonrecta",
+      "product_info": {
+        "arabic_name": "ديامونريكتا | 5مجم | 30قرص",
+        "english_name": "Diamonrecta",
+        "brand_name": "ديامونريكتا (Diamonrecta)",
+        "price_egp": 187.5,
+        "prescription_required": false
+      }
+    },
+    {
+      "product_id": 424,
+      "page_number": 22,
+      "position": 4,
+      "search_query": "ديافانس (Diavance) Diavance Type2 Diabetes",
+      "product_info": {
+        "arabic_name": "ديافانس进行治疗 السكر النوع الخامس 5 \\500مجم | 30 قرص",
+        "english_name": "Diavance Type2 Diabetes",
+        "brand_name": "ديافانس (Diavance)",
+        "price_egp": 51,
+        "prescription_required": true
+      }
+    },
+    {
+      "product_id": 425,
+      "page_number": 22,
+      "position": 5,
+      "search_query": "ديبافالي (Dibavally) Dibavally",
+      "product_info": {
+        "arabic_name": "ديبافالي 50مج | 28 قرص",
+        "english_name": "Dibavally",
+        "brand_name": "ديبافالي (Dibavally)",
+        "price_egp": 152,
+        "prescription_required": true
+      }
+    },
+    {
+      "product_id": 426,
+      "page_number": 22,
+      "position": 6,
+      "search_query": "ديكلاك (Diclac) Diclac General Pain Reliever",
+      "product_info": {
+        "arabic_name": "ديكلاك مسكن عام进行治疗 الآلام 150مج | 20 قرص",
+        "english_name": "Diclac General Pain Reliever",
+        "brand_name": "ديكلاك (Diclac)",
+        "price_egp": 132,
+        "prescription_required": false
+      }
+    },
+    {
+      "product_id": 427,
+      "page_number": 22,
+      "position": 7,
+      "search_query": "ديكلوبرو (Diclopro) Diclopro 150",
+      "product_info": {
+        "arabic_name": "ديكلوبرو 150 مسكن ممتد المفعول diclopro 150 | ٢٠ قرص",
+        "english_name": "Diclopro 150",
+        "brand_name": "ديكلوبرو (Diclopro)",
+        "price_egp": 106,
+        "prescription_required": false
+      }
+    },
+    {
+      "product_id": 428,
+      "page_number": 22,
+      "position": 8,
+      "search_query": "ديكلوبرو جل (Diclopro Gel) Diclopro Gel",
+      "product_info": {
+        "arabic_name": "ديكلوبرو جل diclopro مسكن进行治疗 المفاصل والعضلات | 50 جم",
+        "english_name": "Diclopro Gel",
+        "brand_name": "ديكلوبرو جل (Diclopro Gel)",
+        "price_egp": 52,
+        "prescription_required": false
+      }
+    },
+    {
+      "product_id": 429,
+      "page_number": 22,
+      "position": 9,
+      "search_query": "دايسينون (Dicynone) Dicynone",
+      "product_info": {
+        "arabic_name": "دايسينون 250مجم / 2مل | 3أمبولات",
+        "english_name": "Dicynone",
+        "brand_name": "دايسينون (Dicynone)",
+        "price_egp": 42,
+        "prescription_required": true
+      }
+    },
+    {
+      "product_id": 430,
+      "page_number": 22,
+      "position": 10,
+      "search_query": "ديفلوكان (Diflucan) Diflucan 150mg",
+      "product_info": {
+        "arabic_name": "ديفلوكان 150مج | كبسولة",
+        "english_name": "Diflucan 150mg",
+        "brand_name": "ديفلوكان (Diflucan)",
+        "price_egp": 111,
+        "prescription_required": false
+      }
+    },
+    {
+      "product_id": 431,
+      "page_number": 22,
+      "position": 11,
+      "search_query": "ديفلوكان (Diflucan) Diflucan Antifungal",
+      "product_info": {
+        "arabic_name": "ديفلوكان مضاد进行治疗 الفطريات 50مج | 7 كبسولات",
+        "english_name": "Diflucan Antifungal",
+        "brand_name": "ديفلوكان (Diflucan)",
+        "price_egp": 179,
+        "prescription_required": true
+      }
+    },
+    {
+      "product_id": 432,
+      "page_number": 22,
+      "position": 12,
+      "search_query": "دايجستوزيم (Digestozyme) Digestozyme Digenorm",
+      "product_info": {
+        "arabic_name": "دايجستوزيم | 20 قرص",
+        "english_name": "Digestozyme Digenorm",
+        "brand_name": "دايجستوزيم (Digestozyme)",
+        "price_egp": 62,
+        "prescription_required": false
+      }
+    },
+    {
+      "product_id": 433,
+      "page_number": 22,
+      "position": 13,
+      "search_query": "ديجليفلوز (Diglifloz) Diglifloz",
+      "product_info": {
+        "arabic_name": "ديجليفلوز 10مجم | 30قرص",
+        "english_name": "Diglifloz",
+        "brand_name": "ديجليفلوز (Diglifloz)",
+        "price_egp": 318,
+        "prescription_required": true
+      }
+    },
+    {
+      "product_id": 434,
+      "page_number": 22,
+      "position": 14,
+      "search_query": "ديجليفلوز (Diglifloz) Diglifloz",
+      "product_info": {
+        "arabic_name": "ديجليفلوز 5مج | 30 قرص",
+        "english_name": "Diglifloz",
+        "brand_name": "ديجليفلوز (Diglifloz)",
+        "price_egp": 183,
+        "prescription_required": true
+      }
+    },
+    {
+      "product_id": 435,
+      "page_number": 22,
+      "position": 15,
+      "search_query": "ديجليفلوز بلس (Diglifloz Plus) Diglifloz Plus",
+      "product_info": {
+        "arabic_name": "ديجليفلوز بلس | 5/850مجم | 30قرص",
+        "english_name": "Diglifloz Plus",
+        "brand_name": "ديجليفلوز بلس (Diglifloz Plus)",
+        "price_egp": 159,
+        "prescription_required": false
+      }
+    },
+    {
+      "product_id": 436,
+      "page_number": 22,
+      "position": 16,
+      "search_query": "ديلاترول (Dilatrol) Dilatrol 25 mg",
+      "product_info": {
+        "arabic_name": "ديلاترول 25 مجم进行治疗 ضغط الدم | ٣٠ قرص",
+        "english_name": "Dilatrol 25 mg",
+        "brand_name": "ديلاترول (Dilatrol)",
+        "price_egp": 75,
+        "prescription_required": true
+      }
+    },
+    {
+      "product_id": 437,
+      "page_number": 22,
+      "position": 17,
+      "search_query": "ديمرا (Dimra) Dimra",
+      "product_info": {
+        "arabic_name": "ديمرا بسط进行治疗 العضلات 500مج\\50مج | 20 قرص",
+        "english_name": "Dimra",
+        "brand_name": "ديمرا (Dimra)",
+        "price_egp": 70,
+        "prescription_required": false
+      }
+    },
+    {
+      "product_id": 438,
+      "page_number": 22,
+      "position": 18,
+      "search_query": "ديسبركام (Dispercam) Dispercam",
+      "product_info": {
+        "arabic_name": "ديسبركام 20 مج | 10 اقراص",
+        "english_name": "Dispercam",
+        "brand_name": "ديسبركام (Dispercam)",
+        "price_egp": 18,
+        "prescription_required": true
+      }
+    },
+    {
+      "product_id": 439,
+      "page_number": 22,
+      "position": 19,
+      "search_query": "ديفاكوت (Divakote) Divakote 500",
+      "product_info": {
+        "arabic_name": "ديفاكوت ٥٠٠进行治疗 الاضطراب الثنائى | ٢٠ قرص",
+        "english_name": "Divakote 500",
+        "brand_name": "ديفاكوت (Divakote)",
+        "price_egp": 106,
+        "prescription_required": true
+      }
+    },
+    {
+      "product_id": 440,
+      "page_number": 22,
+      "position": 20,
+      "search_query": "ديفيدو (Divido) Divido",
+      "product_info": {
+        "arabic_name": "ديفيدو مسكن进行治疗 الالم 75جم | 30 كبسولة",
+        "english_name": "Divido",
+        "brand_name": "ديفيدو (Divido)",
+        "price_egp": 141,
+        "prescription_required": false
+      }
+    },
+    {
+      "product_id": 441,
+      "page_number": 23,
+      "position": 1,
+      "search_query": "ديفيتون - د (Diviton-D) Diviton-D 200 IU/ml Cholecalciferol Vitamin D3 Oral Drops 10ml",
+      "product_info": {
+        "arabic_name": "ديفيتون - د 200 وحدة دولية / مل نقط进行治疗 | 10مل",
+        "english_name": "Diviton-D 200 IU/ml Cholecalciferol Vitamin D3 Oral Drops 10ml",
+        "brand_name": "ديفيتون - د (Diviton-D)",
+        "price_egp": 40,
+        "prescription_required": false
+      }
+    },
+    {
+      "product_id": 442,
+      "page_number": 23,
+      "position": 2,
+      "search_query": "دوغماتيل فورت (Dogmatil Fort) Dogmatil Fort 200 mg 10 Tablets",
+      "product_info": {
+        "arabic_name": "دوغماتيل فورت 200 ملجم | 10 اقراص",
+        "english_name": "Dogmatil Fort 200 mg 10 Tablets",
+        "brand_name": "دوغماتيل فورت (Dogmatil Fort)",
+        "price_egp": 40,
+        "prescription_required": true
+      }
+    },
+    {
+      "product_id": 443,
+      "page_number": 23,
+      "position": 3,
+      "search_query": "دولسيل (Dolcyl) Dolcyl High Blood Sugar 2mg 30 Tablets",
+      "product_info": {
+        "arabic_name": "دولسيل进行治疗 ارتفاع السكر 2 مجم | 30 قرص",
+        "english_name": "Dolcyl High Blood Sugar 2mg 30 Tablets",
+        "brand_name": "دولسيل (Dolcyl)",
+        "price_egp": 36,
+        "prescription_required": true
+      }
+    },
+    {
+      "product_id": 444,
+      "page_number": 23,
+      "position": 4,
+      "search_query": "دولسيل (Dolcyl) Dolcyl High Blood Sugar 4mg 30 Tablets",
+      "product_info": {
+        "arabic_name": "دولسيل进行治疗 ارتفاع السكر 4مجم | 30 قرص",
+        "english_name": "Dolcyl High Blood Sugar 4mg 30 Tablets",
+        "brand_name": "دولسيل (Dolcyl)",
+        "price_egp": 69,
+        "prescription_required": true
+      }
+    },
+    {
+      "product_id": 445,
+      "page_number": 23,
+      "position": 5,
+      "search_query": "دولو دى (Dolo-D) Dolo-D Oral Suspension 115ml",
+      "product_info": {
+        "arabic_name": "دولو دى شراب进行治疗 والبرد والانفلونزا进行治疗ف الاطفال | 115مل",
+        "english_name": "Dolo-D Oral Suspension 115ml",
+        "brand_name": "دولو دى (Dolo-D)",
+        "price_egp": 37,
+        "prescription_required": false
+      }
+    },
+    {
+      "product_id": 446,
+      "page_number": 23,
+      "position": 6,
+      "search_query": "دولفين (Dolphin) Dolphin Antirheumatic 25mg 10 Suppositories",
+      "product_info": {
+        "arabic_name": "دولفين | مضاد للروماتيزم 25مج | 10 لبوس",
+        "english_name": "Dolphin Antirheumatic 25mg 10 Suppositories",
+        "brand_name": "دولفين (Dolphin)",
+        "price_egp": 38,
+        "prescription_required": false
+      }
+    },
+    {
+      "product_id": 447,
+      "page_number": 23,
+      "position": 7,
+      "search_query": "دورميفال (Dormival) Dormival 20 Capsules",
+      "product_info": {
+        "arabic_name": "دورميفال | 20 كبسولة",
+        "english_name": "Dormival 20 Capsules",
+        "brand_name": "دورميفال (Dormival)",
+        "price_egp": 30,
+        "prescription_required": false
+      }
+    },
+    {
+      "product_id": 448,
+      "page_number": 23,
+      "position": 8,
+      "search_query": "دوروفين (Dorofen) Dorofen for Inflammation and Roughness of the Joints 30 Capsules",
+      "product_info": {
+        "arabic_name": "دوروفين进行治疗 التهاب وخشونة进行治疗ات | 30 كبسولة",
+        "english_name": "Dorofen for Inflammation and Roughness of the Joints 30 Capsules",
+        "brand_name": "دوروفين (Dorofen)",
+        "price_egp": 153,
+        "prescription_required": true
+      }
+    },
+    {
+      "product_id": 449,
+      "page_number": 23,
+      "position": 9,
+      "search_query": "داونوبرازول (Downoprazol) Downoprazol 40/1100mg 14 Capsules",
+      "product_info": {
+        "arabic_name": "داونوبرازول | 40مجم | 14كبسولة",
+        "english_name": "Downoprazol 40/1100mg 14 Capsules",
+        "brand_name": "داونوبرازول (Downoprazol)",
+        "price_egp": 95,
+        "prescription_required": false
+      }
+    },
+    {
+      "product_id": 450,
+      "page_number": 23,
+      "position": 10,
+      "search_query": "داونوبرازول (Downoprazol) Downoprazol 20 mg 1/100 mg 14 Capsules",
+      "product_info": {
+        "arabic_name": "داونوبرازول 20مجم | 14 كبسولة",
+        "english_name": "Downoprazol 20 mg 1/100 mg 14 Capsules",
+        "brand_name": "داونوبرازول (Downoprazol)",
+        "price_egp": 101,
+        "prescription_required": true
+      }
+    },
+    {
+      "product_id": 451,
+      "page_number": 23,
+      "position": 11,
+      "search_query": "داونوبرازول (Downoprazol) Downoprazol Powder 40/1680mg 7 Sachets",
+      "product_info": {
+        "arabic_name": "داونوبرازول 40/1680جم | 7 اكياس",
+        "english_name": "Downoprazol Powder 40/1680mg 7 Sachets",
+        "brand_name": "داونوبرازول (Downoprazol)",
+        "price_egp": 42,
+        "prescription_required": true
+      }
+    },
+    {
+      "product_id": 452,
+      "page_number": 23,
+      "position": 12,
+      "search_query": "داونوبرازول (Downoprazole) Downoprazole 20 mg 7 Sachets",
+      "product_info": {
+        "arabic_name": "داونوبرازول 20مج | 7 اكياس",
+        "english_name": "Downoprazole 20 mg 7 Sachets",
+        "brand_name": "داونوبرازول (Downoprazole)",
+        "price_egp": 35,
+        "prescription_required": false
+      }
+    },
+    {
+      "product_id": 453,
+      "page_number": 23,
+      "position": 13,
+      "search_query": "داونستيرولين (Downsterolin) Downsterolin 10/20mg 28 Tablets",
+      "product_info": {
+        "arabic_name": "داونستيرولين 10/20مج | 28قرص",
+        "english_name": "Downsterolin 10/20mg 28 Tablets",
+        "brand_name": "داونستيرولين (Downsterolin)",
+        "price_egp": 122,
+        "prescription_required": true
+      }
+    },
+    {
+      "product_id": 454,
+      "page_number": 23,
+      "position": 14,
+      "search_query": "دكسيوم (Doxium) Doxium for Hemorrhoids and Blood Flow Problems 500g 30 Capsules",
+      "product_info": {
+        "arabic_name": "برشام دكسيوم 500 doxium进行治疗 والدوالى | 30 كبسولة",
+        "english_name": "Doxium for Hemorrhoids and Blood Flow Problems 500g 30 Capsules",
+        "brand_name": "دكسيوم (Doxium)",
+        "price_egp": 275,
+        "prescription_required": true
+      }
+    },
+    {
+      "product_id": 455,
+      "page_number": 23,
+      "position": 15,
+      "search_query": "دوكسى كوست (Doxycost) Doxycost for Acne 200mg 10 Tablets",
+      "product_info": {
+        "arabic_name": "دوكسى كوست进行治疗 حب الشباب 200مج | 10 اقراص",
+        "english_name": "Doxycost for Acne 200mg 10 Tablets",
+        "brand_name": "دوكسى كوست (Doxycost)",
+        "price_egp": 43,
+        "prescription_required": true
+      }
+    },
+    {
+      "product_id": 456,
+      "page_number": 23,
+      "position": 16,
+      "search_query": "درامينكس (Dramenex) Dramenex 50 mg 20 Tablets",
+      "product_info": {
+        "arabic_name": "درامينكس 50 مجم | 20 قرص",
+        "english_name": "Dramenex 50 mg 20 Tablets",
+        "brand_name": "درامينكس (Dramenex)",
+        "price_egp": 28,
+        "prescription_required": false
+      }
+    },
+    {
+      "product_id": 457,
+      "page_number": 23,
+      "position": 17,
+      "search_query": "دروسبينيتا (Drospinetta) Drospinetta 4 mg 28 Tablets",
+      "product_info": {
+        "arabic_name": "دروسبينيتا 4 مجم | 28 قرص",
+        "english_name": "Drospinetta 4 mg 28 Tablets",
+        "brand_name": "دروسبينيتا (Drospinetta)",
+        "price_egp": 112,
+        "prescription_required": false
+      }
+    },
+    {
+      "product_id": 458,
+      "page_number": 23,
+      "position": 18,
+      "search_query": "دولوكسبرين (Duloxeprin) Duloxeprin 30 mg 28 Capsules",
+      "product_info": {
+        "arabic_name": "دولوكسبرين 30مجم | 28 كبسولة",
+        "english_name": "Duloxeprin 30 mg 28 Capsules",
+        "brand_name": "دولوكسبرين (Duloxeprin)",
+        "price_egp": 180,
+        "prescription_required": true
+      }
+    },
+    {
+      "product_id": 459,
+      "page_number": 23,
+      "position": 19,
+      "search_query": "دوفلاك (Duphalac) Duphalac Syrup 200ml",
+      "product_info": {
+        "arabic_name": "دوفلاك ملين进行治疗 الامساك ٢٠٠ مل",
+        "english_name": "Duphalac Syrup 200ml",
+        "brand_name": "دوفلاك (Duphalac)",
+        "price_egp": 143,
+        "prescription_required": false
+      }
+    },
+    {
+      "product_id": 460,
+      "page_number": 23,
+      "position": 20,
+      "search_query": "دوفاستون (Duphaston) Duphaston for Stabilizing Pregnancy 10mg 60 Tablets",
+      "product_info": {
+        "arabic_name": "دوفاستون进行治疗 الحمل 10مج | 60 قرص",
+        "english_name": "Duphaston for Stabilizing Pregnancy 10mg 60 Tablets",
+        "brand_name": "دوفاستون (Duphaston)",
+        "price_egp": 386,
+        "prescription_required": true
+      }
+    },
+    {
+      "product_id": 461,
+      "page_number": 24,
+      "position": 1,
+      "search_query": "ديورازاك (Durazac) Durazac Weekly 90 mg | 4 Delayed-Release Capsules",
+      "product_info": {
+        "arabic_name": "ديورازاك اسبوعيا 90مج | 4 كبسولات",
+        "english_name": "Durazac Weekly 90 mg | 4 Delayed-Release Capsules",
+        "brand_name": "ديورازاك (Durazac)",
+        "price_egp": 48.0,
+        "prescription_required": false
+      }
+    },
+    {
+      "product_id": 462,
+      "page_number": 24,
+      "position": 2,
+      "search_query": "دوسباتالين ريتارد (Duspatalin Retard) Duspatalin Retard | 200mg | 30 Capsules",
+      "product_info": {
+        "arabic_name": "دوسباتالين ريتارد | 200مجم | 30 كبسولة",
+        "english_name": "Duspatalin Retard | 200mg | 30 Capsules",
+        "brand_name": "دوسباتالين ريتارد (Duspatalin Retard)",
+        "price_egp": 138.0,
+        "prescription_required": false
+      }
+    },
+    {
+      "product_id": 463,
+      "page_number": 24,
+      "position": 3,
+      "search_query": "اى - موكسلاف (E-Moxclav) E-Moxclav 457mg/5ml Susp | 70ml",
+      "product_info": {
+        "arabic_name": "اى - موكسلاف 457مجم/5مل شرب | 70مل",
+        "english_name": "E-Moxclav 457mg/5ml Susp | 70ml",
+        "brand_name": "اى - موكسلاف (E-Moxclav)",
+        "price_egp": 67.0,
+        "prescription_required": true
+      }
+    },
+    {
+      "product_id": 464,
+      "page_number": 24,
+      "position": 4,
+      "search_query": "اكتونكس (Ectonex) Ectonex | Adult Nasal Spray",
+      "product_info": {
+        "arabic_name": "اكتونكس | بخاخ进行治疗 الانف والزكام | للكبار",
+        "english_name": "Ectonex | Adult Nasal Spray",
+        "brand_name": "اكتونكس (Ectonex)",
+        "price_egp": 370.0,
+        "prescription_required": false
+      }
+    },
+    {
+      "product_id": 465,
+      "page_number": 24,
+      "position": 5,
+      "search_query": "اكتونكس (Ectonex) Ectonex Kids Nasal Spray | 20ml",
+      "product_info": {
+        "arabic_name": "اكتونكس بخاخ进行治疗 الانف والزكام进行治疗ف الاطفال | 20مل",
+        "english_name": "Ectonex Kids Nasal Spray | 20ml",
+        "brand_name": "اكتونكس (Ectonex)",
+        "price_egp": 320.0,
+        "prescription_required": false
+      }
+    },
+    {
+      "product_id": 466,
+      "page_number": 24,
+      "position": 6,
+      "search_query": "افيميو (Efemyo) Efemyo Eye Drops | 10ml",
+      "product_info": {
+        "arabic_name": "افيميو قطرات进行治疗 | 10مل",
+        "english_name": "Efemyo Eye Drops | 10ml",
+        "brand_name": "افيميو (Efemyo)",
+        "price_egp": 44.0,
+        "prescription_required": true
+      }
+    },
+    {
+      "product_id": 467,
+      "page_number": 24,
+      "position": 7,
+      "search_query": "ايجي بيديكال بلس (Egy Pedical Plus) Egy Pedical Plus Syrup | 100ml",
+      "product_info": {
+        "arabic_name": "ايجي بيديكال بلس شراب | 100مل",
+        "english_name": "Egy Pedical Plus Syrup | 100ml",
+        "brand_name": "ايجي بيديكال بلس (Egy Pedical Plus)",
+        "price_egp": 65.0,
+        "prescription_required": false
+      }
+    },
+    {
+      "product_id": 468,
+      "page_number": 24,
+      "position": 8,
+      "search_query": "إلباليرج (Elballerge) Elballerge | Suspension | 100ml",
+      "product_info": {
+        "arabic_name": "إلباليرج | شراب معلق | 100مل",
+        "english_name": "Elballerge | Suspension | 100ml",
+        "brand_name": "إلباليرج (Elballerge)",
+        "price_egp": 33.0,
+        "prescription_required": false
+      }
+    },
+    {
+      "product_id": 469,
+      "page_number": 24,
+      "position": 9,
+      "search_query": "ايليفيت (Elevit) Elevit Breastfeeding | 30 Capsules",
+      "product_info": {
+        "arabic_name": "ايليفيت进行研究 elevit breastfeeding | ٣٠ كبسولة",
+        "english_name": "Elevit Breastfeeding | 30 Capsules",
+        "brand_name": "ايليفيت (Elevit)",
+        "price_egp": 501.0,
+        "prescription_required": false
+      }
+    },
+    {
+      "product_id": 470,
+      "page_number": 24,
+      "position": 10,
+      "search_query": "اليكا-ام (Elicam-M) Elicam-M Cream 2% | 30gm",
+      "product_info": {
+        "arabic_name": "اليكا-ام كريم 2% | 30جم",
+        "english_name": "Elicam-M Cream 2% | 30gm",
+        "brand_name": "اليكا-ام (Elicam-M)",
+        "price_egp": 52.0,
+        "prescription_required": false
+      }
+    },
+    {
+      "product_id": 471,
+      "page_number": 24,
+      "position": 11,
+      "search_query": "اليديل (Elidel) Elidel | Cream | 1% | 15 gm",
+      "product_info": {
+        "arabic_name": "اليديل | كريم | 1% | 15 جم",
+        "english_name": "Elidel | Cream | 1% | 15 gm",
+        "brand_name": "اليديل (Elidel)",
+        "price_egp": 305.0,
+        "prescription_required": false
+      }
+    },
+    {
+      "product_id": 472,
+      "page_number": 24,
+      "position": 12,
+      "search_query": "ايليكويس (Eliquis) Eliquis | Anticoagulant 5mg | 20 Tablets",
+      "product_info": {
+        "arabic_name": "ايليكويس | مضاد进行治疗 الدم 5مج | 20 قرص",
+        "english_name": "Eliquis | Anticoagulant 5mg | 20 Tablets",
+        "brand_name": "ايليكويس (Eliquis)",
+        "price_egp": 532.0,
+        "prescription_required": true
+      }
+    },
+    {
+      "product_id": 473,
+      "page_number": 24,
+      "position": 13,
+      "search_query": "اليكسوزوليد (Elixozolid) Elixozolid | 600mg | 10 Tablets",
+      "product_info": {
+        "arabic_name": "اليكسوزوليد | 600 ملجم | 10 قرص",
+        "english_name": "Elixozolid | 600mg | 10 Tablets",
+        "brand_name": "اليكسوزوليد (Elixozolid)",
+        "price_egp": 166.0,
+        "prescription_required": true
+      }
+    },
+    {
+      "product_id": 474,
+      "page_number": 24,
+      "position": 14,
+      "search_query": "الوندا (Elonda) Elonda Tablets for Drying Milk and Weaning | 2 Tablets",
+      "product_info": {
+        "arabic_name": "الوندا اقراص进行治疗 اللبن والافطام elonda | ٢ قرص",
+        "english_name": "Elonda Tablets for Drying Milk and Weaning | 2 Tablets",
+        "brand_name": "الوندا (Elonda)",
+        "price_egp": 125.0,
+        "prescription_required": true
+      }
+    },
+    {
+      "product_id": 475,
+      "page_number": 24,
+      "position": 15,
+      "search_query": "ايمو سوفت (Emo Soft) Emo Soft Cream Moisturizer for Dry Skin | 15gm",
+      "product_info": {
+        "arabic_name": "ايمو سوفت كريم مرطب进行治疗 الجافة | 15جم",
+        "english_name": "Emo Soft Cream Moisturizer for Dry Skin | 15gm",
+        "brand_name": "ايمو سوفت (Emo Soft)",
+        "price_egp": 40.0,
+        "prescription_required": false
+      }
+    },
+    {
+      "product_id": 476,
+      "page_number": 24,
+      "position": 16,
+      "search_query": "ايمو سوفت (Emo Soft) Emo Soft Cream Moisturizer for Dry Skin | 30gm",
+      "product_info": {
+        "arabic_name": "ايمو سوفت كريم مرط进行治疗 الجافة | 30جم",
+        "english_name": "Emo Soft Cream Moisturizer for Dry Skin | 30gm",
+        "brand_name": "ايمو سوفت (Emo Soft)",
+        "price_egp": 60.0,
+        "prescription_required": false
+      }
+    },
+    {
+      "product_id": 477,
+      "page_number": 24,
+      "position": 17,
+      "search_query": "ايموكس (E-Mox) E-Mox Antibiotic 500mg | 16 Capsules",
+      "product_info": {
+        "arabic_name": "ايموكس مضاد حيوي 500مج | 16 كبسولة",
+        "english_name": "E-Mox Antibiotic 500mg | 16 Capsules",
+        "brand_name": "ايموكس (E-Mox)",
+        "price_egp": 40.0,
+        "prescription_required": true
+      }
+    },
+    {
+      "product_id": 478,
+      "page_number": 24,
+      "position": 18,
+      "search_query": "إيمباكوزا (Empacoza) Empacoza 10mg | 30 Tablets",
+      "product_info": {
+        "arabic_name": "إيمباكوزا 10مجم | 30قرص",
+        "english_name": "Empacoza 10mg | 30 Tablets",
+        "brand_name": "إيمباكوزا (Empacoza)",
+        "price_egp": 240.0,
+        "prescription_required": true
+      }
+    },
+    {
+      "product_id": 479,
+      "page_number": 24,
+      "position": 19,
+      "search_query": "ايمباكوزا (Empacoza) Empacoza 25mg | 30 Tablets",
+      "product_info": {
+        "arabic_name": "ايمباكوزا 25مج | 30 قرص",
+        "english_name": "Empacoza 25mg | 30 Tablets",
+        "brand_name": "ايمباكوزا (Empacoza)",
+        "price_egp": 240.0,
+        "prescription_required": true
+      }
+    },
+    {
+      "product_id": 480,
+      "page_number": 24,
+      "position": 20,
+      "search_query": "انريتش (Enrich) Enrich Drops 50mg/ml | 30ml",
+      "product_info": {
+        "arabic_name": "انريتش نقط 50مجم/مل | 30مل",
+        "english_name": "Enrich Drops 50mg/ml | 30ml",
+        "brand_name": "انريتش (Enrich)",
+        "price_egp": 40.0,
+        "prescription_required": false
+      }
+    },
+    {
+      "product_id": 481,
+      "page_number": 25,
+      "position": 1,
+      "search_query": "إنريتش (Enrich) Enrich Syrup",
+      "product_info": {
+        "arabic_name": "إنريتش شراب | 100مل",
+        "english_name": "Enrich Syrup",
+        "brand_name": "إنريتش (Enrich)",
+        "price_egp": 34,
+        "prescription_required": false
+      }
+    },
+    {
+      "product_id": 482,
+      "page_number": 25,
+      "position": 2,
+      "search_query": "انتروجرمينا (Enterogermina) Enterogermina Oral Suspension 4 Billion",
+      "product_info": {
+        "arabic_name": "امبولات انتروجرمينا进行治疗 والاطفال进行治疗 للقولون 4 ملي...",
+        "english_name": "Enterogermina Oral Suspension 4 Billion",
+        "brand_name": "انتروجرمينا (Enterogermina)",
+        "price_egp": 200,
+        "prescription_required": false
+      }
+    },
+    {
+      "product_id": 483,
+      "page_number": 25,
+      "position": 3,
+      "search_query": "ابيكوجيل (Epicogel) Epicogel Antacid & Antiflatulent 180ml Syrup",
+      "product_info": {
+        "arabic_name": "ابيكوجيل مضاد进行治疗 والانتفاخ | 180مل شراب",
+        "english_name": "Epicogel Antacid & Antiflatulent 180ml Syrup",
+        "brand_name": "ابيكوجيل (Epicogel)",
+        "price_egp": 48,
+        "prescription_required": false
+      }
+    },
+    {
+      "product_id": 484,
+      "page_number": 25,
+      "position": 4,
+      "search_query": "ايكوبريد (Epicopred) Epicopred 20mg | 20 Tablets",
+      "product_info": {
+        "arabic_name": "ايكوبريد 20مجم | 20 قرص",
+        "english_name": "Epicopred 20mg | 20 Tablets",
+        "brand_name": "ايكوبريد (Epicopred)",
+        "price_egp": 104,
+        "prescription_required": true
+      }
+    },
+    {
+      "product_id": 485,
+      "page_number": 25,
+      "position": 5,
+      "search_query": "إيبيكوبريد (Epicopred) Epicopred 5mg | 30 Orodispersible Tablets",
+      "product_info": {
+        "arabic_name": "إيبيكوبريد 5مجم | 30 قرص",
+        "english_name": "Epicopred 5mg | 30 Orodispersible Tablets",
+        "brand_name": "إيبيكوبريد (Epicopred)",
+        "price_egp": 69,
+        "prescription_required": true
+      }
+    },
+    {
+      "product_id": 486,
+      "page_number": 25,
+      "position": 6,
+      "search_query": "ابيفاسى (Epifasi) Epifasi 5000 IU (1 + 1) Ampoule",
+      "product_info": {
+        "arabic_name": "ابيفاسى | 5000 وحدة دولية (1 + 1) امبول",
+        "english_name": "Epifasi 5000 IU (1 + 1) Ampoule",
+        "brand_name": "ابيفاسى (Epifasi)",
+        "price_egp": 500,
+        "prescription_required": true
+      }
+    },
+    {
+      "product_id": 487,
+      "page_number": 25,
+      "position": 7,
+      "search_query": "ابيماج (Epimag) Epimag | Effervescent Powder | 12 Sachets",
+      "product_info": {
+        "arabic_name": "ابيماج | مسحوق فوار | 12 كيس",
+        "english_name": "Epimag | Effervescent Powder | 12 Sachets",
+        "brand_name": "ابيماج (Epimag)",
+        "price_egp": 26,
+        "prescription_required": true
+      }
+    },
+    {
+      "product_id": 488,
+      "page_number": 25,
+      "position": 8,
+      "search_query": "ابيزيثرو (Epizithro) Epizithro | 500 mg | 3 Capsules",
+      "product_info": {
+        "arabic_name": "ابيزيثرو | 500 ملجم | 3 كبسولات",
+        "english_name": "Epizithro | 500 mg | 3 Capsules",
+        "brand_name": "ابيزيثرو (Epizithro)",
+        "price_egp": 44,
+        "prescription_required": true
+      }
+    },
+    {
+      "product_id": 489,
+      "page_number": 25,
+      "position": 9,
+      "search_query": "ايرالونير (Eraloner) Eraloner High Blood Pressure Treatment 25mg | 20 Tablets",
+      "product_info": {
+        "arabic_name": "ايرالونير进行治疗 المرتفع 25مج | 20 قرص",
+        "english_name": "Eraloner High Blood Pressure Treatment 25mg | 20 Tablets",
+        "brand_name": "ايرالونير (Eraloner)",
+        "price_egp": 102,
+        "prescription_required": true
+      }
+    },
+    {
+      "product_id": 490,
+      "page_number": 25,
+      "position": 10,
+      "search_query": "ايراستابكس كو (Erastapex Co) Erastapex Co for High Blood Pressure 20mg/5mg | 30 Tablets",
+      "product_info": {
+        "arabic_name": "ايراستابكس كو进行治疗 ارتفاع ضغط الدم 20/5مج | 30 قرص",
+        "english_name": "Erastapex Co for High Blood Pressure 20mg/5mg | 30 Tablets",
+        "brand_name": "ايراستابكس كو (Erastapex Co)",
+        "price_egp": 114,
+        "prescription_required": true
+      }
+    },
+    {
+      "product_id": 491,
+      "page_number": 25,
+      "position": 11,
+      "search_query": "ايراستابكس كو (Erastapex Co) Erastapex Co for High Blood Pressure 40mg/10mg | 30 Tablets",
+      "product_info": {
+        "arabic_name": "ايراستابكس كو进行治疗 ارتفاع ضغط الدم 40/10مج | 30 قرص",
+        "english_name": "Erastapex Co for High Blood Pressure 40mg/10mg | 30 Tablets",
+        "brand_name": "ايراستابكس كو (Erastapex Co)",
+        "price_egp": 165,
+        "prescription_required": true
+      }
+    },
+    {
+      "product_id": 492,
+      "page_number": 25,
+      "position": 12,
+      "search_query": "ايراستابكس كو (Erastapex Co) Erastapex Co for High Blood Pressure 40mg/5mg | 30 Tablets",
+      "product_info": {
+        "arabic_name": "ايراستابكس كو进行治疗 ارتفاع ضغط الدم 40/5مج | 30 قرص",
+        "english_name": "Erastapex Co for High Blood Pressure 40mg/5mg | 30 Tablets",
+        "brand_name": "ايراستابكس كو (Erastapex Co)",
+        "price_egp": 144,
+        "prescription_required": true
+      }
+    },
+    {
+      "product_id": 493,
+      "page_number": 25,
+      "position": 13,
+      "search_query": "ايراستابكس (Erastapex) Erastapex Rapid High Blood Pressure Treatment 20mg | 30 Tablets",
+      "product_info": {
+        "arabic_name": "ايراستابكس进行治疗 سريع لإرتفاع ضغط الدم 20مج | 30 قرص",
+        "english_name": "Erastapex Rapid High Blood Pressure Treatment 20mg | 30 Tablets",
+        "brand_name": "ايراستابكس (Erastapex)",
+        "price_egp": 75,
+        "prescription_required": true
+      }
+    },
+    {
+      "product_id": 494,
+      "page_number": 25,
+      "position": 14,
+      "search_query": "ايراستابكس (Erastapex) Erastapex Rapid High Blood Pressure Treatment 40mg | 30 Tablets",
+      "product_info": {
+        "arabic_name": "ايراستابكس进行治疗 سريع لإرتفاع ضغط الدم 40مج | 30 قرص",
+        "english_name": "Erastapex Rapid High Blood Pressure Treatment 40mg | 30 Tablets",
+        "brand_name": "ايراستابكس (Erastapex)",
+        "price_egp": 96,
+        "prescription_required": true
+      }
+    },
+    {
+      "product_id": 495,
+      "page_number": 25,
+      "position": 15,
+      "search_query": "ايراستابكس بلس (Erastapex Plus) Erastapex Plus | Blood Pressure Treatment 40mg/12.5mg | 30 Tablets",
+      "product_info": {
+        "arabic_name": "ايراستابكس بلس |进行治疗 ضغط الدم 40/12.5مج | 30 قرص",
+        "english_name": "Erastapex Plus | Blood Pressure Treatment 40mg/12.5mg | 30 Tablets",
+        "brand_name": "ايراستابكس بلس (Erastapex Plus)",
+        "price_egp": 96,
+        "prescription_required": true
+      }
+    },
+    {
+      "product_id": 496,
+      "page_number": 25,
+      "position": 16,
+      "search_query": "إيراستابكس بلس (Erastapex Plus) Erastapex Plus 20mg/12.5mg | 30 Tablets",
+      "product_info": {
+        "arabic_name": "إيراستابكس بلس 20/12.5مجم | 30 قرص",
+        "english_name": "Erastapex Plus 20mg/12.5mg | 30 Tablets",
+        "brand_name": "إيراستابكس بلس (Erastapex Plus)",
+        "price_egp": 78,
+        "prescription_required": true
+      }
+    },
+    {
+      "product_id": 497,
+      "page_number": 25,
+      "position": 17,
+      "search_query": "إيراستابيكس تريو (Erastapex Trio) Erastapex Trio 40mg/5mg/12.5mg | 30 Tablets",
+      "product_info": {
+        "arabic_name": "إيراستابيكس تريو 40/5/12.5مجم | 30 قرص",
+        "english_name": "Erastapex Trio 40mg/5mg/12.5mg | 30 Tablets",
+        "brand_name": "إيراستابيكس تريو (Erastapex Trio)",
+        "price_egp": 144,
+        "prescription_required": true
+      }
+    },
+    {
+      "product_id": 498,
+      "page_number": 25,
+      "position": 18,
+      "search_query": "اراستابكس تريو (Erastapex Trio) Erastapex Trio for High Blood Pressure 20mg/5mg/12.5mg | 30 Tablets",
+      "product_info": {
+        "arabic_name": "اراستابكس تريو进行治疗 ارتفاع ضغط الدم 20/5/12.5مج | 30 قرص",
+        "english_name": "Erastapex Trio for High Blood Pressure 20mg/5mg/12.5mg | 30 Tablets",
+        "brand_name": "اراستابكس تريو (Erastapex Trio)",
+        "price_egp": 114,
+        "prescription_required": true
+      }
+    },
+    {
+      "product_id": 499,
+      "page_number": 25,
+      "position": 19,
+      "search_query": "ايراستابكس تريو (Erastapex Trio) Erastapex Trio for High Blood Pressure 40mg/10mg/25mg | 30 Tablets",
+      "product_info": {
+        "arabic_name": "ايراستابكس تريو进行治疗 ارتفاع ضغط الدم 40/10/25مج | 30 قرص",
+        "english_name": "Erastapex Trio for High Blood Pressure 40mg/10mg/25mg | 30 Tablets",
+        "brand_name": "ايراستابكس تريو (Erastapex Trio)",
+        "price_egp": 162,
+        "prescription_required": true
+      }
+    },
+    {
+      "product_id": 500,
+      "page_number": 25,
+      "position": 20,
+      "search_query": "اريك (Erec) Erec 100 mg | 12 Tablets for Erectile Dysfunction",
+      "product_info": {
+        "arabic_name": "اريك 100 مجم进行研究 للانتصاب | 12 قرص",
+        "english_name": "Erec 100 mg | 12 Tablets for Erectile Dysfunction",
+        "brand_name": "اريك (Erec)",
+        "price_egp": 144,
+        "prescription_required": false
+      }
+    },
+    {
+      "product_id": 501,
+      "page_number": 26,
+      "position": 1,
+      "search_query": "إيزليزيبين (Eslizepine) Eslizepine Anticonvulsant",
+      "product_info": {
+        "arabic_name": "إيزليزيبين مضاد للاختلاج 400مج | 20 قرص",
+        "english_name": "Eslizepine Anticonvulsant",
+        "brand_name": "إيزليزيبين (Eslizepine)",
+        "price_egp": 342,
+        "prescription_required": true
+      }
+    },
+    {
+      "product_id": 502,
+      "page_number": 26,
+      "position": 2,
+      "search_query": "ازموراب (Esmorap) Esmorap 40mg 14 Cap",
+      "product_info": {
+        "arabic_name": "ازموراب 40 esmorap دواء للحموضة والحرقان | ١٤ كبسولة",
+        "english_name": "Esmorap 40mg 14 Cap",
+        "brand_name": "ازموراب (Esmorap)",
+        "price_egp": 138,
+        "prescription_required": true
+      }
+    },
+    {
+      "product_id": 503,
+      "page_number": 26,
+      "position": 3,
+      "search_query": "إيزوميبرازول (Esomeprazole) Esomeprazole Eva Pharma 40mg 20tab",
+      "product_info": {
+        "arabic_name": "إيزوميبرازول 40مجم | 20 قرص",
+        "english_name": "Esomeprazole Eva Pharma 40mg 20tab",
+        "brand_name": "إيزوميبرازول (Esomeprazole)",
+        "price_egp": 116,
+        "prescription_required": false
+      }
+    },
+    {
+      "product_id": 504,
+      "page_number": 26,
+      "position": 4,
+      "search_query": "إستكان (Estikan) Estikan 20mg 14 tab",
+      "product_info": {
+        "arabic_name": "إستكان 20مجم | 14 قرص",
+        "english_name": "Estikan 20mg 14 tab",
+        "brand_name": "إستكان (Estikan)",
+        "price_egp": 106,
+        "prescription_required": false
+      }
+    },
+    {
+      "product_id": 505,
+      "page_number": 26,
+      "position": 5,
+      "search_query": "اوكاربون (Eucarbon) Eucarbon 30 tab",
+      "product_info": {
+        "arabic_name": "اقراص اوكاربون بالفحم للقولون العصبي eucarbon tab | ٣٠ قرص",
+        "english_name": "Eucarbon 30 tab",
+        "brand_name": "اوكاربون (Eucarbon)",
+        "price_egp": 105,
+        "prescription_required": false
+      }
+    },
+    {
+      "product_id": 506,
+      "page_number": 26,
+      "position": 6,
+      "search_query": "ايفاستين (Evastine) Evastine 5mg 5ml Syrup 100ml",
+      "product_info": {
+        "arabic_name": "ايفاستين شراب للاطفال للحساسية evastine syrup | ١٠٠ مل",
+        "english_name": "Evastine 5mg 5ml Syrup 100ml",
+        "brand_name": "ايفاستين (Evastine)",
+        "price_egp": 28,
+        "prescription_required": false
+      }
+    },
+    {
+      "product_id": 507,
+      "page_number": 26,
+      "position": 7,
+      "search_query": "ايفاستين (Evastine) Evastine Antihistamines Children 10mg 20tab",
+      "product_info": {
+        "arabic_name": "ايفاستين مضاد للحساسية للاطفال 10مج | 20 قرص",
+        "english_name": "Evastine Antihistamines Children 10mg 20tab",
+        "brand_name": "ايفاستين (Evastine)",
+        "price_egp": 54,
+        "prescription_required": false
+      }
+    },
+    {
+      "product_id": 508,
+      "page_number": 26,
+      "position": 8,
+      "search_query": "إكساميد (Examide) Examide 10mg 30tab",
+      "product_info": {
+        "arabic_name": "إكساميد 10مج | 30قرص",
+        "english_name": "Examide 10mg 30tab",
+        "brand_name": "إكساميد (Examide)",
+        "price_egp": 117,
+        "prescription_required": true
+      }
+    },
+    {
+      "product_id": 509,
+      "page_number": 26,
+      "position": 9,
+      "search_query": "اكسامايد (Examide) Examide High Blood Pressure 20mg 20tab",
+      "product_info": {
+        "arabic_name": "اكسامايد لعلاج ارتفاع ضغط الدم 20مج | 20 قرص",
+        "english_name": "Examide High Blood Pressure 20mg 20tab",
+        "brand_name": "اكسامايد (Examide)",
+        "price_egp": 106,
+        "prescription_required": true
+      }
+    },
+    {
+      "product_id": 510,
+      "page_number": 26,
+      "position": 10,
+      "search_query": "اكسفورج (Exforge) Exforge High Blood Pressure 5-160mg 14tab",
+      "product_info": {
+        "arabic_name": "اكسفورج | لعلاج إرتفاع ضغط الدم 5\\160مج | 14 قرص",
+        "english_name": "Exforge High Blood Pressure 5-160mg 14tab",
+        "brand_name": "اكسفورج (Exforge)",
+        "price_egp": 218,
+        "prescription_required": true
+      }
+    },
+    {
+      "product_id": 511,
+      "page_number": 26,
+      "position": 11,
+      "search_query": "اكسفورج (Exforge) Exforge High Blood Pressure 10-160mg 14tab",
+      "product_info": {
+        "arabic_name": "اكسفورج لعلاج إرتفاع ضغط الدم 10\\160مج | 14 قرص",
+        "english_name": "Exforge High Blood Pressure 10-160mg 14tab",
+        "brand_name": "اكسفورج (Exforge)",
+        "price_egp": 218,
+        "prescription_required": true
+      }
+    },
+    {
+      "product_id": 512,
+      "page_number": 26,
+      "position": 12,
+      "search_query": "اكسوزيريليك (Exosirylic) Exosirylic 500mg 20 tabs",
+      "product_info": {
+        "arabic_name": "اكسوزيريليك | 500مج | 20 قرص",
+        "english_name": "Exosirylic 500mg 20 tabs",
+        "brand_name": "اكسوزيريليك (Exosirylic)",
+        "price_egp": 194,
+        "prescription_required": false
+      }
+    },
+    {
+      "product_id": 513,
+      "page_number": 26,
+      "position": 13,
+      "search_query": "اكستروما (Extrauma) Extrauma Forte DNA 280 IU Cream 25mg",
+      "product_info": {
+        "arabic_name": "اكستروما كريم دي إن إيه للكدمات والتورمات | 25جم",
+        "english_name": "Extrauma Forte DNA 280 IU Cream 25mg",
+        "brand_name": "اكستروما (Extrauma)",
+        "price_egp": 28,
+        "prescription_required": false
+      }
+    },
+    {
+      "product_id": 514,
+      "page_number": 26,
+      "position": 14,
+      "search_query": "اكستروما فورت (Extrauma Forte) Extrauma Forte DNA 420 IU Gel 25mg",
+      "product_info": {
+        "arabic_name": "اكستروما فورت جيل للكدمات والتورم والتجلطات | 25جم",
+        "english_name": "Extrauma Forte DNA 420 IU Gel 25mg",
+        "brand_name": "اكستروما فورت (Extrauma Forte)",
+        "price_egp": 41,
+        "prescription_required": false
+      }
+    },
+    {
+      "product_id": 515,
+      "page_number": 26,
+      "position": 15,
+      "search_query": "اكستروما فورت (Extrauma Forte) Extrauma Forte DNA 420 IU Gel 40mg",
+      "product_info": {
+        "arabic_name": "اكستروما فورت جيل للكدمات والتورم extrauma gel | ٤٠ جم",
+        "english_name": "Extrauma Forte DNA 420 IU Gel 40mg",
+        "brand_name": "اكستروما فورت (Extrauma Forte)",
+        "price_egp": 41,
+        "prescription_required": false
+      }
+    },
+    {
+      "product_id": 516,
+      "page_number": 26,
+      "position": 16,
+      "search_query": "ايزاكارد (Ezacard) Ezacard Anticoagulant 75mg 30tab",
+      "product_info": {
+        "arabic_name": "ايزاكارد مضاد للتجلط 75مج | 30 قرص",
+        "english_name": "Ezacard Anticoagulant 75mg 30tab",
+        "brand_name": "ايزاكارد (Ezacard)",
+        "price_egp": 51,
+        "prescription_required": true
+      }
+    },
+    {
+      "product_id": 517,
+      "page_number": 26,
+      "position": 17,
+      "search_query": "ايزابريل (Ezapril) Ezapril High Blood Pressure 20mg 20tab",
+      "product_info": {
+        "arabic_name": "ايزابريل لعلاج حالات ارتفاع ضغط الدم 20مج | 30 قرص",
+        "english_name": "Ezapril High Blood Pressure 20mg 20tab",
+        "brand_name": "ايزابريل (Ezapril)",
+        "price_egp": 69,
+        "prescription_required": true
+      }
+    },
+    {
+      "product_id": 518,
+      "page_number": 26,
+      "position": 18,
+      "search_query": "ايزوجاست (Ezogast) Ezogast 40mg 14 Cap",
+      "product_info": {
+        "arabic_name": "ايزوجاست 40مجم | 14 كبسولة",
+        "english_name": "Ezogast 40mg 14 Cap",
+        "brand_name": "ايزوجاست (Ezogast)",
+        "price_egp": 160,
+        "prescription_required": true
+      }
+    },
+    {
+      "product_id": 519,
+      "page_number": 26,
+      "position": 19,
+      "search_query": "فاركوسين (Farcocin) Farcocin 0.1 Cream 20gm",
+      "product_info": {
+        "arabic_name": "فاركوسين كريم مضاد حيوي | 20 جم",
+        "english_name": "Farcocin 0.1 Cream 20gm",
+        "brand_name": "فاركوسين (Farcocin)",
+        "price_egp": 23,
+        "prescription_required": false
+      }
+    },
+    {
+      "product_id": 520,
+      "page_number": 26,
+      "position": 20,
+      "search_query": "فاركولين (Farcolin) Farcolin Resp Solution 20ml",
+      "product_info": {
+        "arabic_name": "فاركولين 0.121جم | 20مل",
+        "english_name": "Farcolin Resp Solution 20ml",
+        "brand_name": "فاركولين (Farcolin)",
+        "price_egp": 37,
+        "prescription_required": true
+      }
+    },
+    {
+      "product_id": 521,
+      "page_number": 27,
+      "position": 1,
+      "search_query": "فارماكتيف (Farmactive) Farmactive Silver Spray 125ml",
+      "product_info": {
+        "arabic_name": "فارماكتيف سيلفر سبراي مزيل الالم | 125مل",
+        "english_name": "Farmactive Silver Spray 125ml",
+        "brand_name": "فارماكتيف (Farmactive)",
+        "price_egp": 699,
+        "prescription_required": false
+      }
+    },
+    {
+      "product_id": 522,
+      "page_number": 27,
+      "position": 2,
+      "search_query": "فاست فريز (Fast Freeze) Fast Freeze Massage Spray 150ml",
+      "product_info": {
+        "arabic_name": "فاست فريز | بخاخ بالمغنيسيوم | 150 مل",
+        "english_name": "Fast Freeze Massage Spray 150ml",
+        "brand_name": "فاست فريز (Fast Freeze)",
+        "price_egp": 290,
+        "prescription_required": false
+      }
+    },
+    {
+      "product_id": 523,
+      "page_number": 27,
+      "position": 3,
+      "search_query": "فاست فريز (Fast Freeze) Fast Freeze Massage Spray 150ml",
+      "product_info": {
+        "arabic_name": "فاست فريز | بخاخ | 150 مل",
+        "english_name": "Fast Freeze Massage Spray 150ml",
+        "brand_name": "فاست فريز (Fast Freeze)",
+        "price_egp": 250,
+        "prescription_required": false
+      }
+    },
+    {
+      "product_id": 524,
+      "page_number": 27,
+      "position": 4,
+      "search_query": "فاست كيور (Fastcure) Fastcure 40 Mg 14 Cap",
+      "product_info": {
+        "arabic_name": "فاست كيور 40 fastcure للمعده للحموضة والحرقان | 14 كبسولة",
+        "english_name": "Fastcure 40 Mg 14 Cap",
+        "brand_name": "فاست كيور (Fastcure)",
+        "price_egp": 84,
+        "prescription_required": true
+      }
+    },
+    {
+      "product_id": 525,
+      "page_number": 27,
+      "position": 5,
+      "search_query": "فاستيل (Fastel) Fastel 120mg 20tab",
+      "product_info": {
+        "arabic_name": "فاستيل 120مج | 20 قرص",
+        "english_name": "Fastel 120mg 20tab",
+        "brand_name": "فاستيل (Fastel)",
+        "price_egp": 66,
+        "prescription_required": false
+      }
+    },
+    {
+      "product_id": 526,
+      "page_number": 27,
+      "position": 6,
+      "search_query": "فاستر (Faster) Faster Bone Pain 80g Gel",
+      "product_info": {
+        "arabic_name": "فاستر جيل لعلاج آلام العظام | 80جم",
+        "english_name": "Faster Bone Pain 80g Gel",
+        "brand_name": "فاستر (Faster)",
+        "price_egp": 40,
+        "prescription_required": false
+      }
+    },
+    {
+      "product_id": 527,
+      "page_number": 27,
+      "position": 7,
+      "search_query": "فافرين (Faverin) Faverin 50 Mg 60 Tablets",
+      "product_info": {
+        "arabic_name": "فافرين 50مج | 60 قرص",
+        "english_name": "Faverin 50 Mg 60 Tablets",
+        "brand_name": "فافرين (Faverin)",
+        "price_egp": 262,
+        "prescription_required": false
+      }
+    },
+    {
+      "product_id": 528,
+      "page_number": 27,
+      "position": 8,
+      "search_query": "فوار فروت (Fawar Fruit) Fawar Fruit 6 Effervescent Sachets",
+      "product_info": {
+        "arabic_name": "فوار فروت للحامل للحموضة والقولون والانتفاخ fawar fruit | ٦...",
+        "english_name": "Fawar Fruit 6 Effervescent Sachets",
+        "brand_name": "فوار فروت (Fawar Fruit)",
+        "price_egp": 24,
+        "prescription_required": false
+      }
+    },
+    {
+      "product_id": 529,
+      "page_number": 27,
+      "position": 9,
+      "search_query": "فبيوريك (Feburic) Feburic 80mg Febuxostat 30 Tablets",
+      "product_info": {
+        "arabic_name": "فبيوريك | 80مجم | 30قرص",
+        "english_name": "Feburic 80mg Febuxostat 30 Tablets",
+        "brand_name": "فبيوريك (Feburic)",
+        "price_egp": 139.5,
+        "prescription_required": false
+      }
+    },
+    {
+      "product_id": 530,
+      "page_number": 27,
+      "position": 10,
+      "search_query": "فلدين (Feldene) Feldene 20mg Cap",
+      "product_info": {
+        "arabic_name": "فلدين | 20مجم | 10كبسولات",
+        "english_name": "Feldene 20mg Cap",
+        "brand_name": "فلدين (Feldene)",
+        "price_egp": 41.5,
+        "prescription_required": false
+      }
+    },
+    {
+      "product_id": 531,
+      "page_number": 27,
+      "position": 11,
+      "search_query": "فلدين (Feldene) Feldene 20mg Dispersable Tablet 10pcs",
+      "product_info": {
+        "arabic_name": "فلدين 20مجم أقراص قابلة للذوبان | 10قرص",
+        "english_name": "Feldene 20mg Dispersable Tablet 10pcs",
+        "brand_name": "فلدين (Feldene)",
+        "price_egp": 42.5,
+        "prescription_required": true
+      }
+    },
+    {
+      "product_id": 532,
+      "page_number": 27,
+      "position": 12,
+      "search_query": "فلدين (Feldene) Feldene 20mg 1ml 3 Amp",
+      "product_info": {
+        "arabic_name": "فلدين 20مجم/1مل | 3 امبول",
+        "english_name": "Feldene 20mg 1ml 3 Amp",
+        "brand_name": "فلدين (Feldene)",
+        "price_egp": 45,
+        "prescription_required": false
+      }
+    },
+    {
+      "product_id": 533,
+      "page_number": 27,
+      "position": 13,
+      "search_query": "فلدين (Feldene) Feldene Muscle Pain 20mg 1ml 6 Amp",
+      "product_info": {
+        "arabic_name": "فلدين لعلاج آلام العضلات 20مج/1مل | 6 امبولات",
+        "english_name": "Feldene Muscle Pain 20mg 1ml 6 Amp",
+        "brand_name": "فلدين (Feldene)",
+        "price_egp": 63,
+        "prescription_required": false
+      }
+    },
+    {
+      "product_id": 534,
+      "page_number": 27,
+      "position": 14,
+      "search_query": "فيموجيسال (Femogesal) Femogesal Contraceptive 21tab",
+      "product_info": {
+        "arabic_name": "فيموجيسال لمنع الحمل | 21 قرص",
+        "english_name": "Femogesal Contraceptive 21tab",
+        "brand_name": "فيموجيسال (Femogesal)",
+        "price_egp": 76,
+        "prescription_required": true
+      }
+    },
+    {
+      "product_id": 535,
+      "page_number": 27,
+      "position": 15,
+      "search_query": "فيمتونكس (Femtonex) Femtonex 30 Cap 3 Strips",
+      "product_info": {
+        "arabic_name": "اقراص فيمتونكس للسيدات femtonex للخصوبة | ٣٠ قرص",
+        "english_name": "Femtonex 30 Cap 3 Strips",
+        "brand_name": "فيمتونكس (Femtonex)",
+        "price_egp": 300,
+        "prescription_required": false
+      }
+    },
+    {
+      "product_id": 536,
+      "page_number": 27,
+      "position": 16,
+      "search_query": "فينيستيل (Fenistil) Fenistil Oral Drops 15ml",
+      "product_info": {
+        "arabic_name": "فينيستيل | نقط بالفم | 15مل",
+        "english_name": "Fenistil Oral Drops 15ml",
+        "brand_name": "فينيستيل (Fenistil)",
+        "price_egp": 34,
+        "prescription_required": false
+      }
+    },
+    {
+      "product_id": 537,
+      "page_number": 27,
+      "position": 17,
+      "search_query": "فيرتيتونكس (Fertitonex) Fertitonex 30 Capsules",
+      "product_info": {
+        "arabic_name": "فيرتيتونكس 600مجم | 30 كبسولة",
+        "english_name": "Fertitonex 30 Capsules",
+        "brand_name": "فيرتيتونكس (Fertitonex)",
+        "price_egp": 300,
+        "prescription_required": false
+      }
+    },
+    {
+      "product_id": 538,
+      "page_number": 27,
+      "position": 18,
+      "search_query": "فيتمارت (Fitamart) Fitamart Foot Cream 50 Gm",
+      "product_info": {
+        "arabic_name": "فيتمارت | كريم للقدم | 50جم",
+        "english_name": "Fitamart Foot Cream 50 Gm",
+        "brand_name": "فيتمارت (Fitamart)",
+        "price_egp": 90,
+        "prescription_required": false
+      }
+    },
+    {
+      "product_id": 539,
+      "page_number": 27,
+      "position": 19,
+      "search_query": "فيتموتوس (Fitmotus) Fitmotus 30 Fc Tabs",
+      "product_info": {
+        "arabic_name": "فيتموتوس | 30 قرص",
+        "english_name": "Fitmotus 30 Fc Tabs",
+        "brand_name": "فيتموتوس (Fitmotus)",
+        "price_egp": 550,
+        "prescription_required": false
+      }
+    },
+    {
+      "product_id": 540,
+      "page_number": 27,
+      "position": 20,
+      "search_query": "فيتو (Fito) Fito Cream For Burns 32gm",
+      "product_info": {
+        "arabic_name": "فيتو كريم للحروق والجروح وبعد الليزر | 32 جرام",
+        "english_name": "Fito Cream For Burns 32gm",
+        "brand_name": "فيتو (Fito)",
+        "price_egp": 180,
+        "prescription_required": false
+      }
+    },
+    {
+      "product_id": 541,
+      "page_number": 28,
+      "position": 1,
+      "search_query": "فلادازول Fladazole",
+      "product_info": {
+        "arabic_name": "فلادازول 500 مجم | 4 أقراص",
+        "english_name": "Fladazole",
+        "brand_name": "فلادازول",
+        "price_egp": 26,
+        "prescription_required": true
+      }
+    },
+    {
+      "product_id": 542,
+      "page_number": 28,
+      "position": 2,
+      "search_query": "فلاجيل Flagyl",
+      "product_info": {
+        "arabic_name": "فلاجيل شراب للاطفال مطهر معوي 125جم | 100مل",
+        "english_name": "Flagyl",
+        "brand_name": "فلاجيل",
+        "price_egp": 26,
+        "prescription_required": false
+      }
+    },
+    {
+      "product_id": 543,
+      "page_number": 28,
+      "position": 3,
+      "search_query": "فلاش أكت Flash Act",
+      "product_info": {
+        "arabic_name": "فلاش أكت خافض للحرارة 50مل | 9 اكياس",
+        "english_name": "Flash Act",
+        "brand_name": "فلاش أكت",
+        "price_egp": 30,
+        "prescription_required": false
+      }
+    },
+    {
+      "product_id": 544,
+      "page_number": 28,
+      "position": 4,
+      "search_query": "فلاتيديل Flatidyl",
+      "product_info": {
+        "arabic_name": "فلاتيديل أقراص للقولون والغازات | 30 قرص للمضغ",
+        "english_name": "Flatidyl",
+        "brand_name": "فلاتيديل",
+        "price_egp": 54,
+        "prescription_required": false
+      }
+    },
+    {
+      "product_id": 545,
+      "page_number": 28,
+      "position": 5,
+      "search_query": "فلازاكور Flazacor",
+      "product_info": {
+        "arabic_name": "فلازاكور进行治疗 الالتهابات 6مج | 10 اقراص",
+        "english_name": "Flazacor",
+        "brand_name": "فلازاكور",
+        "price_egp": 38,
+        "prescription_required": true
+      }
+    },
+    {
+      "product_id": 546,
+      "page_number": 28,
+      "position": 6,
+      "search_query": "فليبوتون Fleboton",
+      "product_info": {
+        "arabic_name": "فليبوتون للبواسير 3مل | 3 أمبول",
+        "english_name": "Fleboton",
+        "brand_name": "فليبوتون",
+        "price_egp": 51,
+        "prescription_required": true
+      }
+    },
+    {
+      "product_id": 547,
+      "page_number": 28,
+      "position": 7,
+      "search_query": "فليكتور Flector Gel",
+      "product_info": {
+        "arabic_name": "فليكتور جيل مسكن ومضاد التهابات لآلام المفاصل والعظام | 25 جم",
+        "english_name": "Flector Gel",
+        "brand_name": "فليكتور",
+        "price_egp": 32,
+        "prescription_required": false
+      }
+    },
+    {
+      "product_id": 548,
+      "page_number": 28,
+      "position": 8,
+      "search_query": "فليكتور Flector",
+      "product_info": {
+        "arabic_name": "فليكتور مسكن للألم 50مج | 30 كبسولة",
+        "english_name": "Flector",
+        "brand_name": "فليكتور",
+        "price_egp": 87,
+        "prescription_required": false
+      }
+    },
+    {
+      "product_id": 549,
+      "page_number": 28,
+      "position": 9,
+      "search_query": "فليكسيلاكس Flexilax",
+      "product_info": {
+        "arabic_name": "فليكسيلاكس | باسط للعضلات 50/500مج | 30 قرص",
+        "english_name": "Flexilax",
+        "brand_name": "فليكسيلاكس",
+        "price_egp": 84,
+        "prescription_required": true
+      }
+    },
+    {
+      "product_id": 550,
+      "page_number": 28,
+      "position": 10,
+      "search_query": "فلكسوفان Flexofan",
+      "product_info": {
+        "arabic_name": "فلكسوفان باسط للعضلات قوى | 20 كبسولة",
+        "english_name": "Flexofan",
+        "brand_name": "فلكسوفان",
+        "price_egp": 56,
+        "prescription_required": false
+      }
+    },
+    {
+      "product_id": 551,
+      "page_number": 28,
+      "position": 11,
+      "search_query": "فليكس Flix Nasal Spray",
+      "product_info": {
+        "arabic_name": "بخاخ فليكس للانف للحساسية flix nasal spray | ٥٠ مكجم/جرعة",
+        "english_name": "Flix Nasal Spray",
+        "brand_name": "فليكس",
+        "price_egp": 76,
+        "prescription_required": false
+      }
+    },
+    {
+      "product_id": 552,
+      "page_number": 28,
+      "position": 12,
+      "search_query": "فليكسونيز Flixonase Nasal Spray",
+      "product_info": {
+        "arabic_name": "بخاخ فليكسونيز进行研究 للجيوب الانفية وحساسية الانف 50 مكجم | ...",
+        "english_name": "Flixonase Nasal Spray",
+        "brand_name": "فليكسونيز",
+        "price_egp": 133,
+        "prescription_required": false
+      }
+    },
+    {
+      "product_id": 553,
+      "page_number": 28,
+      "position": 13,
+      "search_query": "فليكسوتيد Flixotide Evohaler",
+      "product_info": {
+        "arabic_name": "فليكسوتيد إيفوهيلر 50مكجم | 120جرعة",
+        "english_name": "Flixotide Evohaler",
+        "brand_name": "فليكسوتيد",
+        "price_egp": 111,
+        "prescription_required": false
+      }
+    },
+    {
+      "product_id": 554,
+      "page_number": 28,
+      "position": 14,
+      "search_query": "فلوبادكس Flopadex",
+      "product_info": {
+        "arabic_name": "فلوبادكس | 8مجم | 30كبسولة",
+        "english_name": "Flopadex",
+        "brand_name": "فلوبادكس",
+        "price_egp": 177,
+        "prescription_required": false
+      }
+    },
+    {
+      "product_id": 555,
+      "page_number": 28,
+      "position": 15,
+      "search_query": "فلوكسامو Floxamo",
+      "product_info": {
+        "arabic_name": "فلوكسامو floxamo 1gm进行治疗 الالتهابات | 16 قرص",
+        "english_name": "Floxamo",
+        "brand_name": "فلوكسامو",
+        "price_egp": 110,
+        "prescription_required": true
+      }
+    },
+    {
+      "product_id": 556,
+      "page_number": 28,
+      "position": 16,
+      "search_query": "فلوكا Fluca Eye Drops",
+      "product_info": {
+        "arabic_name": "فلوكا قطرة عين | 5مل",
+        "english_name": "Fluca Eye Drops",
+        "brand_name": "فلوكا",
+        "price_egp": 66,
+        "prescription_required": true
+      }
+    },
+    {
+      "product_id": 557,
+      "page_number": 28,
+      "position": 17,
+      "search_query": "فلوجينيل Flugenil Vaginal Gel",
+      "product_info": {
+        "arabic_name": "فلوجينيل جل مهبلي | 30مل",
+        "english_name": "Flugenil Vaginal Gel",
+        "brand_name": "فلوجينيل",
+        "price_egp": 569,
+        "prescription_required": false
+      }
+    },
+    {
+      "product_id": 558,
+      "page_number": 28,
+      "position": 18,
+      "search_query": "فلوموكس Flumox",
+      "product_info": {
+        "arabic_name": "فلوموكس进行治疗 العدوى البكتيرية 1000مجم | 15 كبسولة",
+        "english_name": "Flumox",
+        "brand_name": "فلوموكس",
+        "price_egp": 92,
+        "prescription_required": true
+      }
+    },
+    {
+      "product_id": 559,
+      "page_number": 28,
+      "position": 19,
+      "search_query": "فلوموكس Flumox",
+      "product_info": {
+        "arabic_name": "فلوموكس进行治疗 العدوى البكتيرية 500مج | 16 كبسولة",
+        "english_name": "Flumox",
+        "brand_name": "فلوموكس",
+        "price_egp": 49,
+        "prescription_required": true
+      }
+    },
+    {
+      "product_id": 560,
+      "page_number": 28,
+      "position": 20,
+      "search_query": "فلورست ن Flurest N",
+      "product_info": {
+        "arabic_name": "فلورست ن | 20 قرص",
+        "english_name": "Flurest N",
+        "brand_name": "فلورست ن",
+        "price_egp": 32,
+        "prescription_required": false
+      }
+    },
+    {
+      "product_id": 561,
+      "page_number": 29,
+      "position": 1,
+      "search_query": "فلوروكينوموكس (Fluroquinomox) Fluroquinomox",
+      "product_info": {
+        "arabic_name": "فلوروكينوموكس | 0.5% قطرة عين | 5مل",
+        "english_name": "Fluroquinomox",
+        "brand_name": "فلوروكينوموكس (Fluroquinomox)",
+        "price_egp": 66,
+        "prescription_required": true
+      }
+    },
+    {
+      "product_id": 562,
+      "page_number": 29,
+      "position": 2,
+      "search_query": "فلوكسوبرايد (Fluxopride) Fluxopride",
+      "product_info": {
+        "arabic_name": "فلوكسوبرايد 5مجم | 30 قرص",
+        "english_name": "Fluxopride",
+        "brand_name": "فلوكسوبرايد (Fluxopride)",
+        "price_egp": 75,
+        "prescription_required": false
+      }
+    },
+    {
+      "product_id": 563,
+      "page_number": 29,
+      "position": 3,
+      "search_query": "فولديكس (Foldex) Foldex",
+      "product_info": {
+        "arabic_name": "فولديكس | كريم | 50جم",
+        "english_name": "Foldex",
+        "brand_name": "فولديكس (Foldex)",
+        "price_egp": 190,
+        "prescription_required": false
+      }
+    },
+    {
+      "product_id": 564,
+      "page_number": 29,
+      "position": 4,
+      "search_query": "فوليكاب (Folicap) Folicap",
+      "product_info": {
+        "arabic_name": "فوليكاب 2.5مجم | 24 كبسولة",
+        "english_name": "Folicap",
+        "brand_name": "فوليكاب (Folicap)",
+        "price_egp": 22,
+        "prescription_required": false
+      }
+    },
+    {
+      "product_id": 565,
+      "page_number": 29,
+      "position": 5,
+      "search_query": "فوراديل (Foradil) Foradil",
+      "product_info": {
+        "arabic_name": "فوراديل 12مكجم | 60 كبسولة مع جهاز للاستنشاق",
+        "english_name": "Foradil",
+        "brand_name": "فوراديل (Foradil)",
+        "price_egp": 560,
+        "prescription_required": false
+      }
+    },
+    {
+      "product_id": 566,
+      "page_number": 29,
+      "position": 6,
+      "search_query": "فورفلوزين (Forflozin) Forflozin",
+      "product_info": {
+        "arabic_name": "دواء فورفلوزين 10 مج forflozin للسكر والتخيسس | 30 قرص",
+        "english_name": "Forflozin",
+        "brand_name": "فورفلوزين (Forflozin)",
+        "price_egp": 306,
+        "prescription_required": true
+      }
+    },
+    {
+      "product_id": 567,
+      "page_number": 29,
+      "position": 7,
+      "search_query": "فورتيفيروم (Fortiferrum) Fortiferrum",
+      "product_info": {
+        "arabic_name": "فورتيفيروم حديد | 14 كيس",
+        "english_name": "Fortiferrum",
+        "brand_name": "فورتيفيروم (Fortiferrum)",
+        "price_egp": 255,
+        "prescription_required": false
+      }
+    },
+    {
+      "product_id": 568,
+      "page_number": 29,
+      "position": 8,
+      "search_query": "فورتم (Fortum) Fortum",
+      "product_info": {
+        "arabic_name": "فورتم مضاد حيوي 1جم | 1 حقنة",
+        "english_name": "Fortum",
+        "brand_name": "فورتم (Fortum)",
+        "price_egp": 106,
+        "prescription_required": true
+      }
+    },
+    {
+      "product_id": 569,
+      "page_number": 29,
+      "position": 9,
+      "search_query": "فورتيموكس بلس (Fortymox Plus) Fortymox Plus",
+      "product_info": {
+        "arabic_name": "فورتيموكس بلس قطرة عين | 5مل",
+        "english_name": "Fortymox Plus",
+        "brand_name": "فورتيموكس بلس (Fortymox Plus)",
+        "price_egp": 39,
+        "prescription_required": false
+      }
+    },
+    {
+      "product_id": 570,
+      "page_number": 29,
+      "position": 10,
+      "search_query": "فورسيجا (Forxiga) Forxiga",
+      "product_info": {
+        "arabic_name": "فورسيجا进行治疗 مرض السكري من النوع الثاني 10جم | 28 قرص",
+        "english_name": "Forxiga",
+        "brand_name": "فورسيجا (Forxiga)",
+        "price_egp": 602,
+        "prescription_required": true
+      }
+    },
+    {
+      "product_id": 571,
+      "page_number": 29,
+      "position": 11,
+      "search_query": "فروست (Frost) Frost Spray",
+      "product_info": {
+        "arabic_name": "فروست سبراي进行研究 والمفاصل frost spray | ١٠٠ مل",
+        "english_name": "Frost Spray",
+        "brand_name": "فروست (Frost)",
+        "price_egp": 140,
+        "prescription_required": false
+      }
+    },
+    {
+      "product_id": 572,
+      "page_number": 29,
+      "position": 12,
+      "search_query": "فروست (Frost) Frost Gel",
+      "product_info": {
+        "arabic_name": "فروست جيل الازرق进行研究 ومسكن للألم | 100جم",
+        "english_name": "Frost Gel",
+        "brand_name": "فروست (Frost)",
+        "price_egp": 110,
+        "prescription_required": false
+      }
+    },
+    {
+      "product_id": 573,
+      "page_number": 29,
+      "position": 13,
+      "search_query": "فيوسيكورت (Fucicort) Fucicort Cream",
+      "product_info": {
+        "arabic_name": "كريم فيوسيكورت进行研究 للدمامل والالتهابات | 15 جم",
+        "english_name": "Fucicort Cream",
+        "brand_name": "فيوسيكورت (Fucicort)",
+        "price_egp": 60,
+        "prescription_required": false
+      }
+    },
+    {
+      "product_id": 574,
+      "page_number": 29,
+      "position": 14,
+      "search_query": "فيوسيكورت (Fucicort) Fucicort Cream",
+      "product_info": {
+        "arabic_name": "كريم فيوسيكورت进行研究 للدمامل والالتهابات | 30 جم",
+        "english_name": "Fucicort Cream",
+        "brand_name": "فيوسيكورت (Fucicort)",
+        "price_egp": 100,
+        "prescription_required": false
+      }
+    },
+    {
+      "product_id": 575,
+      "page_number": 29,
+      "position": 15,
+      "search_query": "فيوسيدين (Fucidine) Fucidine Cream",
+      "product_info": {
+        "arabic_name": "فيوسيدين | كريم | 15جم",
+        "english_name": "Fucidine Cream",
+        "brand_name": "فيوسيدين (Fucidine)",
+        "price_egp": 56,
+        "prescription_required": false
+      }
+    },
+    {
+      "product_id": 576,
+      "page_number": 29,
+      "position": 16,
+      "search_query": "فنجيكان (Fungican) Fungican",
+      "product_info": {
+        "arabic_name": "فنجيكان |进行研究 للفطريات | 150 مج | 2 كبسولة",
+        "english_name": "Fungican",
+        "brand_name": "فنجيكان (Fungican)",
+        "price_egp": 47,
+        "prescription_required": true
+      }
+    },
+    {
+      "product_id": 577,
+      "page_number": 29,
+      "position": 17,
+      "search_query": "فيورازول (Furazol) Furazol",
+      "product_info": {
+        "arabic_name": "فيورازول |进行研究 عدوي الامعاء | 20 قرص",
+        "english_name": "Furazol",
+        "brand_name": "فيورازول (Furazol)",
+        "price_egp": 40,
+        "prescription_required": true
+      }
+    },
+    {
+      "product_id": 578,
+      "page_number": 29,
+      "position": 18,
+      "search_query": "فيوسيدرم (Fusiderm) Fusiderm 2% Cream",
+      "product_info": {
+        "arabic_name": "فيوسيدرم 2٪ | كريم | 15جم",
+        "english_name": "Fusiderm 2% Cream",
+        "brand_name": "فيوسيدرم (Fusiderm)",
+        "price_egp": 44,
+        "prescription_required": false
+      }
+    },
+    {
+      "product_id": 579,
+      "page_number": 29,
+      "position": 19,
+      "search_query": "جي سي مول (G-C Mol) G-C Mol",
+      "product_info": {
+        "arabic_name": "جي سي مول |进行研究 الكحة والحرارة والصداع واعراض البرد | 6 كيس",
+        "english_name": "G-C Mol",
+        "brand_name": "جي سي مول (G-C Mol)",
+        "price_egp": 25,
+        "prescription_required": false
+      }
+    },
+    {
+      "product_id": 580,
+      "page_number": 29,
+      "position": 20,
+      "search_query": "جابيماش (Gabimash) Gabimash",
+      "product_info": {
+        "arabic_name": "جابيماش 800مجم | 30 قرص",
+        "english_name": "Gabimash",
+        "brand_name": "جابيماش (Gabimash)",
+        "price_egp": 216,
+        "prescription_required": true
+      }
+    },
+    {
+      "product_id": 581,
+      "page_number": 30,
+      "position": 1,
+      "search_query": "جاناتون (Ganaton) Ganaton",
+      "product_info": {
+        "arabic_name": "جاناتون |进行治疗 اضطرابات المعدة | 50مجم | 30 قرص",
+        "english_name": "Ganaton",
+        "brand_name": "جاناتون (Ganaton)",
+        "price_egp": 90,
+        "prescription_required": false
+      }
+    },
+    {
+      "product_id": 582,
+      "page_number": 30,
+      "position": 2,
+      "search_query": "جابتين (Gaptin) Gaptin",
+      "product_info": {
+        "arabic_name": "جابتين |进行治疗 الصرع | 100مجم | 30 كبسولة",
+        "english_name": "Gaptin",
+        "brand_name": "جابتين (Gaptin)",
+        "price_egp": 81,
+        "prescription_required": true
+      }
+    },
+    {
+      "product_id": 583,
+      "page_number": 30,
+      "position": 3,
+      "search_query": "جابتين (Gaptin) Gaptin",
+      "product_info": {
+        "arabic_name": "جابتين 300مج | 30 كبسولة",
+        "english_name": "Gaptin",
+        "brand_name": "جابتين (Gaptin)",
+        "price_egp": 126,
+        "prescription_required": true
+      }
+    },
+    {
+      "product_id": 584,
+      "page_number": 30,
+      "position": 4,
+      "search_query": "جابتين (Gaptin) Gaptin",
+      "product_info": {
+        "arabic_name": "أقراص جابتين 400 مجم进行研究 والتوتر والتهاب الاعصاب | 30 كبسولة",
+        "english_name": "Gaptin",
+        "brand_name": "جابتين (Gaptin)",
+        "price_egp": 156,
+        "prescription_required": true
+      }
+    },
+    {
+      "product_id": 585,
+      "page_number": 30,
+      "position": 5,
+      "search_query": "جاراميسين (Garamycin) Garamycin",
+      "product_info": {
+        "arabic_name": "جاراميسين 0.1٪ مرهم | 15جم",
+        "english_name": "Garamycin",
+        "brand_name": "جاراميسين (Garamycin)",
+        "price_egp": 22,
+        "prescription_required": true
+      }
+    },
+    {
+      "product_id": 586,
+      "page_number": 30,
+      "position": 6,
+      "search_query": "جاراميسين (Garamycin) Garamycin",
+      "product_info": {
+        "arabic_name": "جاراميسين进行研究 80مج/2مل | 3 امبولات",
+        "english_name": "Garamycin",
+        "brand_name": "جاراميسين (Garamycin)",
+        "price_egp": 60,
+        "prescription_required": true
+      }
+    },
+    {
+      "product_id": 587,
+      "page_number": 30,
+      "position": 7,
+      "search_query": "جاروبريد (Garopride) Garopride",
+      "product_info": {
+        "arabic_name": "جاروبريد 50مج | 30 قرص",
+        "english_name": "Garopride",
+        "brand_name": "جاروبريد (Garopride)",
+        "price_egp": 63,
+        "prescription_required": true
+      }
+    },
+    {
+      "product_id": 588,
+      "page_number": 30,
+      "position": 8,
+      "search_query": "ديسفلاتيل (Disflatyl) Disflatyl",
+      "product_info": {
+        "arabic_name": "ديسفلاتيل进行研究 40 مجم للقولون进行研究 Disflatyl | 30 قرص",
+        "english_name": "Disflatyl",
+        "brand_name": "ديسفلاتيل (Disflatyl)",
+        "price_egp": 54,
+        "prescription_required": false
+      }
+    },
+    {
+      "product_id": 589,
+      "page_number": 30,
+      "position": 9,
+      "search_query": "جاست ريج (Gast Reg) Gast Reg",
+      "product_info": {
+        "arabic_name": "جاست ريج |进行研究 125 مل",
+        "english_name": "Gast Reg",
+        "brand_name": "جاست ريج (Gast Reg)",
+        "price_egp": 33,
+        "prescription_required": false
+      }
+    },
+    {
+      "product_id": 590,
+      "page_number": 30,
+      "position": 10,
+      "search_query": "جاست ريج (Gast Reg) Gast Reg",
+      "product_info": {
+        "arabic_name": "جاست ريج | 200جم | 30 قرص",
+        "english_name": "Gast Reg",
+        "brand_name": "جاست ريج (Gast Reg)",
+        "price_egp": 84,
+        "prescription_required": false
+      }
+    },
+    {
+      "product_id": 591,
+      "page_number": 30,
+      "position": 11,
+      "search_query": "جاست ريج (Gast Reg) Gast Reg",
+      "product_info": {
+        "arabic_name": "جاست ريج 100جم | 30 قرص",
+        "english_name": "Gast Reg",
+        "brand_name": "جاست ريج (Gast Reg)",
+        "price_egp": 72,
+        "prescription_required": false
+      }
+    },
+    {
+      "product_id": 592,
+      "page_number": 30,
+      "position": 12,
+      "search_query": "جاتيستار (Gatistar) Gatistar",
+      "product_info": {
+        "arabic_name": "جاتيستار 0.5%进行研究 للعين | 5مل",
+        "english_name": "Gatistar",
+        "brand_name": "جاتيستار (Gatistar)",
+        "price_egp": 62,
+        "prescription_required": false
+      }
+    },
+    {
+      "product_id": 593,
+      "page_number": 30,
+      "position": 13,
+      "search_query": "جافيسكون (Gaviscon) Gaviscon Advance",
+      "product_info": {
+        "arabic_name": "جافيسكون进行研究进行研究 للحموضة | 150مل",
+        "english_name": "Gaviscon Advance",
+        "brand_name": "جافيسكون (Gaviscon)",
+        "price_egp": 144,
+        "prescription_required": false
+      }
+    },
+    {
+      "product_id": 594,
+      "page_number": 30,
+      "position": 14,
+      "search_query": "جافيسكون (Gaviscon) Gaviscon Double Action",
+      "product_info": {
+        "arabic_name": "جافيسكون进行研究 | 24 كيس",
+        "english_name": "Gaviscon Double Action",
+        "brand_name": "جافيسكون (Gaviscon)",
+        "price_egp": 288,
+        "prescription_required": false
+      }
+    },
+    {
+      "product_id": 595,
+      "page_number": 30,
+      "position": 15,
+      "search_query": "جينجيجيل (Gengigel) Gengigel Adult Oral Gel",
+      "product_info": {
+        "arabic_name": "جينجيجيل进行研究进行研究 0.2٪ | 20مل",
+        "english_name": "Gengigel Adult Oral Gel",
+        "brand_name": "جينجيجيل (Gengigel)",
+        "price_egp": 330,
+        "prescription_required": false
+      }
+    },
+    {
+      "product_id": 596,
+      "page_number": 30,
+      "position": 16,
+      "search_query": "جينجيجيل (Gengigel) Gengigel Mouthwash",
+      "product_info": {
+        "arabic_name": "جينجيجيل进行研究 الفم | 150مل",
+        "english_name": "Gengigel Mouthwash",
+        "brand_name": "جينجيجيل (Gengigel)",
+        "price_egp": 350,
+        "prescription_required": false
+      }
+    },
+    {
+      "product_id": 597,
+      "page_number": 30,
+      "position": 17,
+      "search_query": "جينجيجيل (Gengigel) Gengigel Teething Gel",
+      "product_info": {
+        "arabic_name": "جينجيجيل进行研究 التسنين | 20مل",
+        "english_name": "Gengigel Teething Gel",
+        "brand_name": "جينجيجيل (Gengigel)",
+        "price_egp": 380,
+        "prescription_required": false
+      }
+    },
+    {
+      "product_id": 598,
+      "page_number": 30,
+      "position": 18,
+      "search_query": "جينوفيل (Genuphil) Genuphil Original",
+      "product_info": {
+        "arabic_name": "جينوفيل | الأصلي | 50قرص",
+        "english_name": "Genuphil Original",
+        "brand_name": "جينوفيل (Genuphil)",
+        "price_egp": 280,
+        "prescription_required": false
+      }
+    },
+    {
+      "product_id": 599,
+      "page_number": 30,
+      "position": 19,
+      "search_query": "جينوفيل (Genuphil) Genuphil Advance",
+      "product_info": {
+        "arabic_name": "جينوفيل进行研究 | 10 أكياس",
+        "english_name": "Genuphil Advance",
+        "brand_name": "جينوفيل (Genuphil)",
+        "price_egp": 280,
+        "prescription_required": false
+      }
+    },
+    {
+      "product_id": 600,
+      "page_number": 30,
+      "position": 20,
+      "search_query": "جينوفيل (Genuphil) Genuphil Advance",
+      "product_info": {
+        "arabic_name": "جينوفيل进行研究 | 30 كيس",
+        "english_name": "Genuphil Advance",
+        "brand_name": "جينوفيل (Genuphil)",
+        "price_egp": 785,
+        "prescription_required": true
+      }
+    }
+  ]
+}

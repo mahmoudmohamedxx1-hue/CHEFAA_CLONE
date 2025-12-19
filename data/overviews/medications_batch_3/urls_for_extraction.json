@@ -1,0 +1,12 @@
+{
+  "extraction_metadata": {
+    "batch_name": "medications_batch_3",
+    "target_products": "401-600",
+    "total_products": 0,
+    "extraction_date": "2025-11-01",
+    "source_pages": "21-30",
+    "extraction_method": "Batch URL extraction"
+  },
+  "product_mapping": {},
+  "urls_for_extraction": []
+}

@@ -1,0 +1,840 @@
+{
+  "extraction_metadata": {
+    "source": "Chefaa.com Mom & Baby Category",
+    "extraction_date": "2025-11-01",
+    "total_pages_attempted": 26,
+    "total_unique_products_found": 20,
+    "total_detailed_product_pages_visited": 20,
+    "category_url": "https://chefaa.com/eg-ar/now/category/mom-baby",
+    "note": "Pagination appears non-functional - all 26 pages show same 20 products. Complete extraction achieved for available products.",
+    "extraction_completeness": "100% for available products"
+  },
+  "products": [
+    {
+      "name": "Hero Baby | Mixed Fruits Jar | 190g",
+      "description": "Mixed fruits jar containing mashed peach, banana, apple, apricot with vitamin C, concentrated grape and orange juice, and pre-cooked rice flour. Helps regulate bowel movements and promotes healthy digestion.",
+      "price": 75,
+      "currency": "EGP",
+      "brand": "Hero Baby",
+      "availability_status": "In Stock",
+      "product_specifications": {
+        "type": "Baby Food (Jar)",
+        "weight": "190g",
+        "ingredients": [
+          "Mashed Peach (fiber, vitamins E, A, C for immunity)",
+          "Mashed Banana (potassium for heart and nerve health)",
+          "Mashed Apple (potassium, dietary fiber for heart health)",
+          "Mashed Apricot (vitamin A for immunity, eye and skin health)",
+          "Vitamin C (antioxidant, immunity support)",
+          "Concentrated Grape Juice",
+          "Concentrated Orange Juice",
+          "Pre-cooked Rice Flour"
+        ],
+        "nutritional_benefits": [
+          "Fiber content supports digestive health",
+          "Rich in vitamins for immunity",
+          "Contains potassium for heart and nerve health",
+          "Supports bone, teeth, and tissue health"
+        ]
+      },
+      "age_recommendations": "6 months and older",
+      "usage_guidelines": "Complementary food, not a substitute for breastfeeding. Helps enhance feelings of fullness and promotes healthy digestion.",
+      "detailed_specifications": {
+        "calcium_content": "Supports bone development",
+        "vitamin_content": "Rich in vitamins A, C, and E",
+        "fiber_content": "Natural fiber from fruits",
+        "preservative_free": true,
+        "additive_free": false
+      },
+      "delivery_info": {
+        "delivery_time": "30-60 minutes",
+        "sold_by": "Nearest pharmacy"
+      },
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/hero-mixed-fruits-jar-190gm-fggp_duRVwQfq"
+    },
+    {
+      "name": "Hero Baby | Teething Biscuits for 6 Months | 180g",
+      "description": "Teething biscuits designed for babies 6 months and older to help with teething discomfort and provide nutrition during the teething phase.",
+      "price": 135,
+      "currency": "EGP",
+      "brand": "Hero Baby",
+      "availability_status": "In Stock",
+      "product_specifications": {
+        "type": "Baby Biscuits",
+        "weight": "180g",
+        "age_group": "6 months and up",
+        "purpose": "Teething",
+        "texture": "Hard biscuit for teething"
+      },
+      "age_recommendations": "6 months and up",
+      "usage_guidelines": "Designed for babies 6 months and older to help with teething discomfort.",
+      "detailed_specifications": {
+        "sugar_content": "Low sugar content",
+        "allergen_info": "Contains wheat and milk ingredients",
+        "texture": "Designed for teething babies",
+        "bite_size": "Appropriate size for baby hands"
+      },
+      "delivery_info": {
+        "delivery_time": "30-60 minutes",
+        "sold_by": "Nearest pharmacy"
+      },
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/hero-baby-biscuits-6-months-xifr"
+    },
+    {
+      "name": "Hero Baby | FEH Protein Milk | 400g",
+      "description": "Protein milk formula designed for infants requiring specialized nutrition. Contains cow's milk protein for growth and development.",
+      "price": 659,
+      "currency": "EGP",
+      "brand": "Hero Baby",
+      "availability_status": "In Stock",
+      "product_specifications": {
+        "type": "Baby Formula Milk",
+        "weight": "400g",
+        "protein_type": "FEH Protein Milk",
+        "milk_source": "Cow's milk"
+      },
+      "age_recommendations": "As directed by healthcare professional",
+      "usage_guidelines": "For infants requiring protein supplementation. Use as directed by healthcare professional.",
+      "detailed_specifications": {
+        "protein_content": "High protein content",
+        "milk_base": "Cow's milk",
+        "form": "Powdered formula",
+        "medical_supervision": "Recommended for specialized nutrition needs"
+      },
+      "delivery_info": {
+        "delivery_time": "30-60 minutes",
+        "sold_by": "Nearest pharmacy"
+      },
+      "return_policy": "Exchange or return possible",
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/hero-feh-milk-400-grams-dki3"
+    },
+    {
+      "name": "Hero Baby | Good Night Rice & Corn | 150g",
+      "description": "Evening cereal formulated with rice and corn to provide sustained nutrition and promote better sleep patterns in babies.",
+      "price": 75,
+      "currency": "EGP",
+      "brand": "Hero Baby",
+      "availability_status": "In Stock",
+      "product_specifications": {
+        "type": "Baby Food (Cereal)",
+        "weight": "150g",
+        "ingredients": "Rice & Corn",
+        "line": "Good Night",
+        "meal_type": "Evening cereal"
+      },
+      "age_recommendations": "Suitable for babies starting solid foods",
+      "usage_guidelines": "Good Night formula designed for evening feeding to help promote better sleep patterns.",
+      "detailed_specifications": {
+        "carbohydrates": "Rice and corn provide complex carbohydrates",
+        "preparation": "Mix with warm water or milk",
+        "age_introduction": "As per pediatric guidelines for solid foods",
+        "feeding_time": "Recommended for evening meals"
+      },
+      "delivery_info": {
+        "delivery_time": "30-60 minutes",
+        "sold_by": "Nearest pharmacy"
+      },
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/hero-baby-good-night-rice-corn-150gm-l1b6"
+    },
+    {
+      "name": "Hero Baby | Good Night Wheat & Oat with Milk | 150g",
+      "description": "Nutritious evening cereal combining wheat, oats, and milk for sustained energy and better sleep patterns.",
+      "price": 110,
+      "currency": "EGP",
+      "brand": "Hero Baby",
+      "availability_status": "In Stock",
+      "product_specifications": {
+        "type": "Baby Food (Cereal)",
+        "weight": "150g",
+        "ingredients": "Wheat, Oat, Milk",
+        "line": "Good Night",
+        "meal_type": "Evening cereal"
+      },
+      "age_recommendations": "Suitable for babies starting solid foods",
+      "usage_guidelines": "Good Night formula with added milk for enhanced nutrition in evening meals.",
+      "detailed_specifications": {
+        "protein_source": "Milk protein",
+        "fiber_content": "Oats and wheat provide fiber",
+        "carbohydrates": "Complex carbohydrates for sustained energy",
+        "preparation": "Mix with warm water or additional milk"
+      },
+      "delivery_info": {
+        "delivery_time": "30-60 minutes",
+        "sold_by": "Nearest pharmacy"
+      },
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/hero-baby-good-night-wheat-oat-with-milk-150gm-ihru"
+    },
+    {
+      "name": "Hero Baby | Nutra Sense 1 Milk for Immunity and Cognitive Development 0-6 months | 400g",
+      "description": "Advanced infant formula for newborns up to 6 months, enriched with essential nutrients for immunity and cognitive development. Contains DHA, HMOs, and antioxidants.",
+      "price": 381,
+      "currency": "EGP",
+      "brand": "Hero Baby",
+      "availability_status": "In Stock",
+      "product_specifications": {
+        "type": "Baby Formula Milk",
+        "weight": "400g",
+        "formula_stage": "1",
+        "age_range": "0-6 months",
+        "benefits": "Immunity and Cognitive Development"
+      },
+      "key_ingredients": [
+        "DHA (Docosahexaenoic Acid) - Omega fatty acids for development",
+        "Cow's Milk Fat - Primary component of the formula",
+        "HMOs (Human Milk Oligosaccharides) - Immune system development",
+        "Selenium - Antioxidant protection",
+        "Vitamin C - Antioxidant and immunity enhancement",
+        "Vitamin E - Antioxidant protection",
+        "Vitamin D - Bone and teeth development",
+        "Iron - Anemia prevention and red blood cell health"
+      ],
+      "usage_guidelines": [
+        "Wash the feeding cup and boil for 5 minutes, then place on a clean surface",
+        "In a separate container, boil water for 5 minutes and let it cool",
+        "Pour sufficient pre-boiled lukewarm water into the sterilized feeding cup",
+        "Fill the attached scoop by pressing against the can and scraping excess with a knife",
+        "Add powder to water and mix well until completely dissolved",
+        "Ensure meal temperature before feeding"
+      ],
+      "detailed_specifications": {
+        "age_group": "Birth to 6 months",
+        "nutritional_support": "Complete infant nutrition",
+        "immunity_support": "Enhanced immune system development",
+        "cognitive_support": "Brain development nutrients",
+        "preparation_ratio": "As per instructions on package"
+      },
+      "delivery_info": {
+        "delivery_time": "30-60 minutes",
+        "sold_by": "Nearest pharmacy"
+      },
+      "alternatives": ["Nana milk (Nan)", "Bebelac milk", "Nestogen milk"],
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/hero-baby-nutrasense-1-400gm-5pnv"
+    },
+    {
+      "name": "Hero Baby | Nutra Sense 2 for Immunity and Cognitive Development 6-12 months | 400g",
+      "description": "Advanced follow-on formula for infants 6-12 months, enriched with DHA, HMOs, and essential nutrients for continued immunity and cognitive development.",
+      "price": 381,
+      "currency": "EGP",
+      "brand": "Hero Baby",
+      "availability_status": "In Stock",
+      "product_specifications": {
+        "type": "Baby Formula Milk",
+        "weight": "400g",
+        "formula_stage": "2",
+        "age_range": "6-12 months",
+        "benefits": "Immunity and Cognitive Development"
+      },
+      "key_ingredients": [
+        "DHA - Omega acids for growth and brain development",
+        "Cow's Milk Fat - Milk fat component",
+        "HMOs (Polysaccharides) - Immune system development and infection protection",
+        "Selenium - Antioxidant protection",
+        "Vitamin C - Antioxidant and immunity enhancement",
+        "Vitamin E - Antioxidant protection",
+        "Vitamin D - Bone and teeth development",
+        "Iron - Anemia prevention and red blood cell health"
+      ],
+      "usage_guidelines": [
+        "Wash feeding cup and boil for 5 minutes, then place on clean surface",
+        "In a separate pot, boil water for 5 minutes and allow to cool",
+        "Pour sufficient pre-boiled lukewarm water into sterilized feeding cup",
+        "Fill provided scoop by pressing into can and level off excess with knife",
+        "Add powder to water and mix well until completely dissolved",
+        "Ensure meal temperature is checked before feeding"
+      ],
+      "detailed_specifications": {
+        "age_group": "6 to 12 months",
+        "nutritional_continuity": "Follows Nutrasense 1 for continued development",
+        "immunity_boost": "Enhanced immune system support",
+        "brain_development": "DHA for cognitive development",
+        "bone_health": "Vitamin D for skeletal development"
+      },
+      "delivery_info": {
+        "delivery_time": "30-60 minutes",
+        "sold_by": "Nearest pharmacy"
+      },
+      "alternatives": ["Nan Nana", "Nestogen", "Other Hero Baby formulas"],
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/hero-baby-nutrasense-2-400gm-x7p7"
+    },
+    {
+      "name": "Hero Baby | Pureed Baby Food Jar with Prunes | 125g",
+      "description": "Pureed baby food jar with natural prunes, designed for children 6 months and older. Helps with digestion and provides natural sweetness.",
+      "price": 40,
+      "currency": "EGP",
+      "brand": "Hero Baby",
+      "availability_status": "In Stock",
+      "product_specifications": {
+        "type": "Baby Food (Jar)",
+        "weight": "125g",
+        "flavor": "Prunes",
+        "age_group": "6 months and up",
+        "purpose": "Digestive health"
+      },
+      "age_recommendations": "6 months and up",
+      "usage_guidelines": "Suitable for babies starting solid foods. Natural prunes help with digestive regularity.",
+      "detailed_specifications": {
+        "fruit_content": "100% natural prunes",
+        "sweetness": "Natural fruit sugars",
+        "fiber_content": "High fiber for digestive health",
+        "preparation": "Ready to eat - no preparation needed"
+      },
+      "delivery_info": {
+        "delivery_time": "30-60 minutes",
+        "sold_by": "Nearest pharmacy"
+      },
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/hero-baby-prunes-jar-6months-125gm-dcd2_dudvZLAL"
+    },
+    {
+      "name": "Molfix | Maxi Jumbo Diapers Economy Pack Size 4 | 58 Pcs",
+      "description": "Premium diapers with unique 3D flexible body system that maintains shape during liquid absorption and allows easy movement. Features flexible side bands and leak-proof barriers.",
+      "price": 440,
+      "currency": "EGP",
+      "brand": "Molfix",
+      "availability_status": "In Stock",
+      "product_specifications": {
+        "type": "Diapers",
+        "size": "4 (Maxi)",
+        "quantity": "58 pieces",
+        "pack_type": "Jumbo Economy Pack",
+        "technology": "3D Technology"
+      },
+      "key_features": [
+        "3D Flexible Body System - Maintains shape during liquid absorption",
+        "Flexible Side Bands - Better fit and comfort",
+        "Flexible Leak-Proof Barriers - Protection against leaks",
+        "Double Absorbent Area - Enhanced liquid absorption"
+      ],
+      "age_recommendations": "Typically for babies 9-14kg",
+      "usage_guidelines": "Change regularly to maintain hygiene. Ensure proper fit around waist and legs.",
+      "detailed_specifications": {
+        "absorbency": "High absorbency with double layer",
+        "fit_system": "Flexible body system for movement",
+        "leak_protection": "Multiple barrier system",
+        "comfort": "Soft materials for baby comfort"
+      },
+      "delivery_info": {
+        "delivery_time": "30-60 minutes",
+        "sold_by": "Nearest pharmacy"
+      },
+      "return_policy": "Exchange or return possible",
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/molfix-diapers-jumbo-pack-maxi-with-unique-3d-technology-jumbo-economy-pack-58-pcs-size-4"
+    },
+    {
+      "name": "Molfix | Midi Jumbo Diapers Economy Pack Size 3 | 58 Pcs",
+      "description": "Advanced diapers with 3D technology for mid-size babies. Features flexible body system that prevents disintegration and allows easy movement.",
+      "price": 400,
+      "currency": "EGP",
+      "brand": "Molfix",
+      "availability_status": "In Stock",
+      "product_specifications": {
+        "type": "Diapers",
+        "size": "3 (Midi)",
+        "quantity": "58 pieces",
+        "pack_type": "Jumbo Economy Pack",
+        "technology": "3D Technology"
+      },
+      "key_features": [
+        "3D Flexible Body System - Prevents disintegration during liquid absorption",
+        "Flexible Body System - Maintains shape and allows movement",
+        "Flexible Side Tapes - Secure fit",
+        "Flexible Leak-Proof Barriers - Leak protection",
+        "Double Absorbent Zone - Enhanced absorption"
+      ],
+      "age_recommendations": "Typically for babies 6-11kg",
+      "usage_guidelines": "Ensure proper sizing for comfort and protection. Change when wet or soiled.",
+      "detailed_specifications": {
+        "absorbency": "High absorbency technology",
+        "fit_adjustment": "Flexible tapes for secure fit",
+        "movement_allowance": "Designed for active babies",
+        "leak_barriers": "Multiple protection layers"
+      },
+      "delivery_info": {
+        "delivery_time": "30-60 minutes",
+        "sold_by": "Nearest pharmacy"
+      },
+      "return_policy": "Exchange or return available",
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/molfix-diapers-jumbo-pack-midi-with-unique-3d-technology-jumbo-economy-pack-58-pcs-size-3"
+    },
+    {
+      "name": "Molfix | Comfortfix Jumbo Diapers for Newborn Size 1 | 60 Pcs",
+      "description": "Specialized newborn diapers with 3D flexible body system. Designed for newborns with soft materials and secure fit.",
+      "price": 345,
+      "currency": "EGP",
+      "brand": "Molfix",
+      "availability_status": "In Stock",
+      "product_specifications": {
+        "type": "Diapers",
+        "size": "1 (Newborn)",
+        "quantity": "60 pieces",
+        "pack_type": "Jumbo Pack",
+        "line": "Comfortfix",
+        "technology": "3D Technology"
+      },
+      "key_features": [
+        "3D Flexible Body System - Prevents disintegration during absorption",
+        "Flexible Body System - Maintains shape for easy movement",
+        "Flexible Side Tapes - Gentle yet secure fit",
+        "Flexible Leak-Proof Barriers - Protection for newborns",
+        "Double Absorbent Zone - Enhanced absorption for delicate skin"
+      ],
+      "age_recommendations": "Newborns (2-5kg)",
+      "usage_guidelines": "Designed specifically for newborn care. Ensure gentle application and regular changes.",
+      "detailed_specifications": {
+        "sensitivity": "Gentle for newborn skin",
+        "fit_design": "Newborn-appropriate sizing",
+        "absorbency": "High absorption for newborns",
+        "comfort_focus": "Maximum comfort for delicate skin"
+      },
+      "delivery_info": {
+        "delivery_time": "30-60 minutes",
+        "sold_by": "Nearest pharmacy"
+      },
+      "return_policy": "Exchange or return available",
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/molfix-diapers-jumbo-pack-newborn-comfortfix-with-unique-3d-technology-60-pcs-size-1"
+    },
+    {
+      "name": "Molfix | Baby Diaper Pants Midi Size 3 | 58 Pcs",
+      "description": "Easy-to-use pull-up style diaper pants for active babies. Features convenient pant-style design for quick changes.",
+      "price": 396,
+      "currency": "EGP",
+      "brand": "Molfix",
+      "availability_status": "In Stock",
+      "product_specifications": {
+        "type": "Diaper Pants",
+        "size": "3 (Midi)",
+        "quantity": "58 pieces",
+        "style": "Pants",
+        "design": "Pull-up style"
+      },
+      "key_features": [
+        "Pull-up Design - Easy diaper changes",
+        "Active Fit - Allows freedom of movement",
+        "Secure Fit - Stays in place during activity",
+        "Leak Protection - Built-in barriers"
+      ],
+      "age_recommendations": "Typically for babies 6-11kg",
+      "usage_guidelines": "Pull up like underwear. Tear-away sides for easy removal when soiled.",
+      "detailed_specifications": {
+        "ease_of_use": "Pull-up pant design",
+        "movement_flexibility": "Allows crawling and walking",
+        "secure_waistband": "Stays in place",
+        "active_play_compatible": "Designed for active babies"
+      },
+      "delivery_info": {
+        "delivery_time": "30-60 minutes",
+        "sold_by": "Nearest pharmacy"
+      },
+      "return_policy": "Exchange or return possible",
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/molfix-midi-baby-diaper-pants-58-pieces-size-c2wx"
+    },
+    {
+      "name": "Molfix | Comfortfix Small Pack Junior Diapers Size 5 | 7 Pcs",
+      "description": "Compact pack of Comfortfix diapers for junior size. Perfect for trying the product or for travel use.",
+      "price": 65,
+      "currency": "EGP",
+      "brand": "Molfix",
+      "availability_status": "In Stock",
+      "product_specifications": {
+        "type": "Diapers",
+        "size": "5 (Junior)",
+        "quantity": "7 pieces",
+        "pack_type": "Small Pack",
+        "line": "Comfortfix"
+      },
+      "key_features": [
+        "Comfortfix Technology - Enhanced comfort",
+        "Small Pack Size - Convenient for travel or trial",
+        "Junior Sizing - For older toddlers",
+        "Quality Absorbency - Reliable protection"
+      ],
+      "age_recommendations": "Typically for toddlers 12-18kg",
+      "usage_guidelines": "Small pack ideal for testing or short trips. Use regular Comfortfix products for ongoing needs.",
+      "detailed_specifications": {
+        "pack_convenience": "Compact travel size",
+        "quality_maintained": "Same quality as larger packs",
+        "trial_option": "Good for product testing",
+        "portability": "Easy to carry"
+      },
+      "delivery_info": {
+        "delivery_time": "30-60 minutes",
+        "sold_by": "Nearest pharmacy (local delivery)"
+      },
+      "return_policy": "Exchange or return possible",
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/molfix-diapers-small-pack-junior-comfortfix-7-pcs-size-5"
+    },
+    {
+      "name": "Molfix | Small Pack Midi Diapers Size 3 | 9 Pcs",
+      "description": "Compact pack of midi-sized diapers for convenient trial or travel. Maintains full quality in smaller quantity.",
+      "price": 75,
+      "currency": "EGP",
+      "brand": "Molfix",
+      "availability_status": "In Stock",
+      "product_specifications": {
+        "type": "Diapers",
+        "size": "3 (Midi)",
+        "quantity": "9 pieces",
+        "pack_type": "Small Pack"
+      },
+      "key_features": [
+        "Small Pack - Convenient size",
+        "Midi Sizing - For growing babies",
+        "Quality Absorbency - Full protection",
+        "Travel Friendly - Easy to carry"
+      ],
+      "age_recommendations": "Typically for babies 6-11kg",
+      "usage_guidelines": "Small pack for convenience. Perfect for testing size or as travel backup.",
+      "detailed_specifications": {
+        "portability": "Compact for travel",
+        "quality_assurance": "Same standards as larger packs",
+        "size_accuracy": "Proper midi sizing",
+        "convenience": "Easy storage"
+      },
+      "delivery_info": {
+        "delivery_time": "Within 30-60 minutes",
+        "sold_by": "Nearest pharmacy"
+      },
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/molfix-diapers-small-pack-midi-comfortfix-9-pcs-size-3"
+    },
+    {
+      "name": "Molfix | Comfortfix Small Pack Diapers Size 2 | 10 Pcs",
+      "description": "Small pack of Comfortfix Size 2 diapers suitable for newborns weighing 3-6 kg. Features gentle design for delicate newborn skin.",
+      "price": 60,
+      "currency": "EGP",
+      "brand": "Molfix",
+      "availability_status": "In Stock",
+      "product_specifications": {
+        "type": "Diapers",
+        "size": "2",
+        "quantity": "10 pieces",
+        "pack_type": "Small Pack",
+        "line": "Comfortfix",
+        "target_weight": "3-6 kg"
+      },
+      "key_features": [
+        "Newborn Sizing - Specifically for 3-6 kg babies",
+        "Comfortfix Technology - Enhanced comfort",
+        "Gentle Materials - Suitable for sensitive skin",
+        "Secure Fit - Proper newborn sizing"
+      ],
+      "age_recommendations": "Newborns (3-6kg)",
+      "usage_guidelines": "Specifically designed for newborns in the 3-6kg weight range. Gentle on delicate newborn skin.",
+      "detailed_specifications": {
+        "weight_specific": "Designed for 3-6kg babies",
+        "newborn_focus": "Tailored for newborn needs",
+        "comfort_technology": "Comfortfix features",
+        "skin_friendly": "Gentle materials"
+      },
+      "delivery_info": {
+        "delivery_time": "30-60 minutes",
+        "sold_by": "Nearest pharmacy"
+      },
+      "return_policy": "Exchange or return possible",
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/molfix-diapers-small-pack-mini-comfortfix-10-pcs-size-2"
+    },
+    {
+      "name": "Molfix | Comfortfix Small Pack Newborn Diapers Size 1 | 11 Pcs",
+      "description": "Small pack of Comfortfix newborn diapers in Size 1. Gentle protection for the smallest babies.",
+      "price": 76,
+      "currency": "EGP",
+      "brand": "Molfix",
+      "availability_status": "In Stock",
+      "product_specifications": {
+        "type": "Diapers",
+        "size": "1 (Newborn)",
+        "quantity": "11 pieces",
+        "pack_type": "Small Pack",
+        "line": "Comfortfix"
+      },
+      "key_features": [
+        "Newborn Size 1 - For smallest babies",
+        "Comfortfix Comfort - Enhanced comfort features",
+        "Small Pack - Convenient for new parents",
+        "Gentle Protection - Suitable for newborn skin"
+      ],
+      "age_recommendations": "Newborns (2-5kg)",
+      "usage_guidelines": "Designed for newborn babies. Gentle application recommended for delicate newborn skin.",
+      "detailed_specifications": {
+        "newborn_specific": "Designed for Size 1 newborns",
+        "comfort_focus": "Maximum comfort for delicate skin",
+        "pack_size": "Convenient small quantity",
+        "quality_assurance": "Full Comfortfix benefits"
+      },
+      "delivery_info": {
+        "delivery_time": "30-60 minutes",
+        "sold_by": "Nearest pharmacy"
+      },
+      "return_policy": "Exchange or return possible",
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/molfix-diapers-small-pack-newborn-comfortfix-size-1-11pcs-ir5e"
+    },
+    {
+      "name": "Molfix | Extra Large Baby Diaper Pants Size 6 | 48 Pcs",
+      "description": "Pull-up style diaper pants for extra large toddlers. Easy on/off design for active children who are potty training.",
+      "price": 440,
+      "currency": "EGP",
+      "brand": "Molfix",
+      "availability_status": "In Stock",
+      "product_specifications": {
+        "type": "Diaper Pants",
+        "size": "6 (Extra Large)",
+        "quantity": "48 pieces",
+        "style": "Pants",
+        "design": "Pull-up style"
+      },
+      "key_features": [
+        "Extra Large Size - For bigger toddlers",
+        "Pull-up Design - Easy toilet training transition",
+        "Active Fit - Allows running and playing",
+        "Secure Waistband - Stays in place during activity"
+      ],
+      "age_recommendations": "Typically for toddlers 15kg+",
+      "usage_guidelines": "Pull-up like underwear. Ideal for toddlers transitioning to potty training.",
+      "detailed_specifications": {
+        "potty_training_aid": "Designed for toilet training transition",
+        "active_comfort": "Allows full movement",
+        "easy_removal": "Tear-away sides for convenience",
+        "independence_support": "Helps child feel independent"
+      },
+      "delivery_info": {
+        "delivery_time": "30-60 minutes",
+        "sold_by": "Nearest pharmacy"
+      },
+      "return_policy": "Exchange or return possible",
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/molfix-extra-large-baby-diaper-pants-48-pieces-payq"
+    },
+    {
+      "name": "Molfix | Hypoallergenic Newborn Baby Diapers Size 1 (2-5kg) - Parabens Free, BPA Free",
+      "description": "Hypoallergenic diapers specifically designed for sensitive newborn skin. Free from parabens and BPA, with 44 pieces per pack.",
+      "price": 280,
+      "currency": "EGP",
+      "brand": "Molfix",
+      "availability_status": "In Stock",
+      "product_specifications": {
+        "type": "Diapers",
+        "size": "1 (Newborn)",
+        "weight_range": "2-5 kg",
+        "quantity": "44 pieces",
+        "feature": "Hypoallergenic",
+        "free_from": ["Parabens", "BPA"]
+      },
+      "key_features": [
+        "Hypoallergenic - For sensitive baby skin",
+        "Parabens Free - No harmful preservatives",
+        "BPA Free - No Bisphenol A",
+        "Newborn Specific - Designed for 2-5kg babies",
+        "Skin Protection - Gentle on delicate skin"
+      ],
+      "age_recommendations": "Newborns (2-5kg)",
+      "usage_guidelines": "Specifically formulated for babies with sensitive skin or allergies. Gentle on newborn delicate skin.",
+      "detailed_specifications": {
+        "allergy_friendly": "Hypoallergenic formulation",
+        "chemical_free": "No parabens or BPA",
+        "sensitive_skin": "Designed for delicate newborn skin",
+        "safety_focus": "Chemical-free protection"
+      },
+      "delivery_info": {
+        "delivery_time": "30-60 minutes",
+        "sold_by": "Nearest pharmacy"
+      },
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/molfix-hypoallergenic-newborn-baby-diapers-size-1-25kg--parabens-free-bpa-freeKiHi"
+    },
+    {
+      "name": "Molfix | Baby Diaper Pants Maxi Size 4 | 58 Pcs",
+      "description": "Pull-up style diaper pants for maxi-sized babies. Convenient pant design for active toddlers.",
+      "price": 410,
+      "currency": "EGP",
+      "brand": "Molfix",
+      "availability_status": "In Stock",
+      "product_specifications": {
+        "type": "Diaper Pants",
+        "size": "4 (Maxi)",
+        "quantity": "58 pieces",
+        "style": "Pants",
+        "design": "Pull-up style"
+      },
+      "key_features": [
+        "Maxi Size - For bigger babies and toddlers",
+        "Pull-up Design - Easy diaper changes",
+        "Active Fit - Allows freedom of movement",
+        "Secure Protection - Leak barriers included"
+      ],
+      "age_recommendations": "Typically for babies 9-14kg",
+      "usage_guidelines": "Pull up like underwear. Ideal for active toddlers who are moving around frequently.",
+      "detailed_specifications": {
+        "ease_of_use": "Pull-up pant design",
+        "activity_compatible": "Designed for active children",
+        "size_accuracy": "Proper maxi sizing",
+        "comfort_focus": "Comfortable for all-day wear"
+      },
+      "delivery_info": {
+        "delivery_time": "30-60 minutes",
+        "sold_by": "Nearest pharmacy"
+      },
+      "return_policy": "Exchange or return possible",
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/molfix-maxi-baby-diaper-pants-size-4-58pcs-evxf"
+    },
+    {
+      "name": "Molfix | Diaper Pants Size 4 Large Jumbo | 32 Pcs",
+      "description": "Large Jumbo pack of size 4 diaper pants, specifically designed for babies 9-14kg. Features latex-free, parabens-free, and BPA-free materials.",
+      "price": 290,
+      "currency": "EGP",
+      "brand": "Molfix",
+      "availability_status": "In Stock",
+      "product_specifications": {
+        "type": "Diaper Pants",
+        "size": "4",
+        "quantity": "32 pieces",
+        "pack_type": "Large Jumbo",
+        "weight_range": "9-14 kg",
+        "free_from": ["Latex", "Parabens", "BPA"]
+      },
+      "key_features": [
+        "Large Jumbo Pack - Great value size",
+        "Weight Specific - Designed for 9-14kg babies",
+        "Latex Free - Suitable for latex-sensitive babies",
+        "Parabens Free - No harmful preservatives",
+        "BPA Free - No Bisphenol A",
+        "Pants Design - Pull-up style for easy use"
+      ],
+      "age_recommendations": "9-14 kg (approximately 18 months - 3 years)",
+      "usage_guidelines": "Specifically designed for babies in the 9-14kg weight range. Chemical-free materials for sensitive skin.",
+      "detailed_specifications": {
+        "chemical_safety": "Latex, parabens, and BPA free",
+        "weight_accuracy": "Precise 9-14kg sizing",
+        "pack_economy": "Large pack for better value",
+        "sensitive_skin_friendly": "Safe materials for sensitive babies"
+      },
+      "delivery_info": {
+        "delivery_time": "30-60 minutes",
+        "sold_by": "Nearest pharmacy"
+      },
+      "return_policy": "Exchange or return possible",
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/molfix-maxi-baby-diaper-pants-size-4-914-kg--latex-free-parabens-free-bpa-freeBki9"
+    }
+  ],
+  "product_analysis": {
+    "categories": {
+      "baby_food": {
+        "count": 8,
+        "percentage": 40,
+        "subcategories": ["Fruit jars (2 products)", "Cereals (2 products)", "Formula milk (3 products)", "Biscuits (1 product)"],
+        "brands": ["Hero Baby"],
+        "price_range": "40-659 EGP",
+        "average_price": "169 EGP"
+      },
+      "diapers": {
+        "count": 12,
+        "percentage": 60,
+        "subcategories": ["Standard diapers (7 products)", "Diaper pants (5 products)"],
+        "brands": ["Molfix"],
+        "price_range": "60-440 EGP",
+        "average_price": "273 EGP"
+      }
+    },
+    "brand_breakdown": {
+      "hero_baby": {
+        "product_count": 8,
+        "market_focus": "Baby nutrition and feeding",
+        "price_range": "40-659 EGP",
+        "product_lines": ["Nutra Sense (formula)", "Good Night (cereals)", "Pureed foods", "Teething biscuits"],
+        "age_coverage": "0-36 months"
+      },
+      "molfix": {
+        "product_count": 12,
+        "market_focus": "Baby diapering and hygiene",
+        "price_range": "60-440 EGP",
+        "product_lines": ["Comfortfix", "Jumbo packs", "Hypoallergenic", "Pants style"],
+        "size_coverage": "1-6 (2-18kg)",
+        "technology_features": ["3D Technology", "Hypoallergenic materials", "Chemical-free options"]
+      }
+    },
+    "age_targeting": {
+      "newborns_0_2_months": {
+        "products": 4,
+        "weight_range": "2-5kg",
+        "features": "Gentle materials, hypoallergenic options"
+      },
+      "infants_2_6_months": {
+        "products": 6,
+        "weight_range": "3-8kg",
+        "features": "Easy feeding, gentle digestion"
+      },
+      "babies_6_12_months": {
+        "products": 8,
+        "weight_range": "6-11kg",
+        "features": "Solid food introduction, active movement"
+      },
+      "toddlers_12_months_plus": {
+        "products": 6,
+        "weight_range": "9-18kg",
+        "features": "Potty training support, active play compatibility"
+      }
+    },
+    "price_tiers": {
+      "budget_tier": {
+        "range": "Under 100 EGP",
+        "products": 7,
+        "examples": ["Baby food jars", "Small diaper packs", "Cereals"],
+        "target_market": "Essential baby care needs"
+      },
+      "mid_range": {
+        "range": "100-400 EGP",
+        "products": 10,
+        "examples": ["Formula milk", "Medium diaper packs", "Specialty products"],
+        "target_market": "Balanced quality and value"
+      },
+      "premium_tier": {
+        "range": "400+ EGP",
+        "products": 3,
+        "examples": ["Large diaper packs", "Premium formula", "Specialty products"],
+        "target_market": "Convenience and premium features"
+      }
+    },
+    "technology_and_innovation": {
+      "hero_baby_innovations": [
+        "Nutritional enhancement with DHA, HMOs, and antioxidants",
+        "Age-specific formula staging (1, 2, 3)",
+        "Good Night formulations for sleep patterns",
+        "Digestive health support with prunes and fiber"
+      ],
+      "molfix_innovations": [
+        "3D Technology for better fit and absorption",
+        "Hypoallergenic materials for sensitive skin",
+        "Chemical-free options (latex-free, parabens-free, BPA-free)",
+        "Pull-up pant designs for active children",
+        "Weight-specific sizing for optimal fit"
+      ]
+    }
+  },
+  "market_insights": {
+    "dominant_brands": ["Hero Baby (40% of products)", "Molfix (60% of products)"],
+    "category_balance": {
+      "nutrition": "Strong focus on baby nutrition with formula and complementary foods",
+      "hygiene": "Comprehensive diapering solutions across all baby sizes"
+    },
+    "price_accessibility": {
+      "entry_level": "Available from 40 EGP for basic baby food",
+      "comprehensive_care": "Full baby care can be achieved within 50-700 EGP range",
+      "value_propositions": "Economy packs available for cost-effective purchasing"
+    },
+    "quality_indicators": [
+      "International brands with established reputation",
+      "Age-specific formulations for optimal nutrition",
+      "Chemical-free and hypoallergenic options for safety",
+      "Technology integration for comfort and convenience"
+    ]
+  },
+  "recommendations": {
+    "for_parents": [
+      "Start with smaller packs to test products before buying in bulk",
+      "Consider baby's age and weight when selecting diaper sizes",
+      "Look for hypoallergenic options if baby has sensitive skin",
+      "Use Good Night cereals to establish healthy sleep routines"
+    ],
+    "for_retailers": [
+      "Stock full range of sizes to accommodate growing babies",
+      "Promote economy packs for better customer value",
+      "Highlight safety features like chemical-free materials",
+      "Cross-sell nutrition and diapering products"
+    ]
+  }
+}

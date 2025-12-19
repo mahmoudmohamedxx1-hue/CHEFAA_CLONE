@@ -1,0 +1,219 @@
+{
+  "extraction_metadata": {
+    "page_number": 65,
+    "phase": "Phase 4",
+    "extraction_date": "2025-11-01",
+    "source_url": "https://chefaa.com/eg-ar/now/category/medications?page=65",
+    "total_medications_extracted": 20,
+    "cumulative_total": 1157
+  },
+  "medications": [
+    {
+      "arabic_name": "جلينسرت كريم",
+      "english_brand_name": "Glensert Cream",
+      "price_egp": 52,
+      "availability_status": "Available",
+      "prescription_required": false,
+      "dosage_information": "20g cream",
+      "therapeutic_uses": "Anti-inflammatory cream"
+    },
+    {
+      "arabic_name": "ديكلاك",
+      "english_brand_name": "Diclac 75 ID",
+      "price_egp": 135,
+      "availability_status": "Available",
+      "prescription_required": false,
+      "dosage_information": "75mg | 30 tablets",
+      "therapeutic_uses": "Pain relief and anti-inflammatory"
+    },
+    {
+      "arabic_name": "ديباكين",
+      "english_brand_name": "Depakine",
+      "price_egp": 47,
+      "availability_status": "Available",
+      "prescription_required": false,
+      "dosage_information": "200ml/mg | 40ml",
+      "therapeutic_uses": "Anticonvulsant, mood stabilizer"
+    },
+    {
+      "arabic_name": "كوبال",
+      "english_brand_name": "Cobal 500 Mcg",
+      "price_egp": 33,
+      "availability_status": "Available",
+      "prescription_required": false,
+      "dosage_information": "500 mcg | 30 tablets",
+      "therapeutic_uses": "Vitamin B12 supplement"
+    },
+    {
+      "arabic_name": "اركوكسيا",
+      "english_brand_name": "Arcoxia",
+      "price_egp": 239,
+      "availability_status": "Available",
+      "prescription_required": true,
+      "dosage_information": "90mg | 14 tablets",
+      "therapeutic_uses": "For treating arthritis"
+    },
+    {
+      "arabic_name": "ريتمونورم",
+      "english_brand_name": "Rytmonorm",
+      "price_egp": 130,
+      "availability_status": "Available",
+      "prescription_required": true,
+      "dosage_information": "150mg | 30 tablets",
+      "therapeutic_uses": "Antiarrhythmic medication"
+    },
+    {
+      "arabic_name": "لاكوسميت",
+      "english_brand_name": "Lacosamet",
+      "price_egp": 149,
+      "availability_status": "Available",
+      "prescription_required": false,
+      "dosage_information": "10mg/ml syrup | 200ml",
+      "therapeutic_uses": "Anticonvulsant medication"
+    },
+    {
+      "arabic_name": "ريفاروسبير",
+      "english_brand_name": "Rivarospire",
+      "price_egp": 364,
+      "availability_status": "Available",
+      "prescription_required": true,
+      "dosage_information": "20mg | 28 tablets",
+      "therapeutic_uses": "Anticoagulant (blood thinner)"
+    },
+    {
+      "arabic_name": "فوتاكوكسيب",
+      "english_brand_name": "Futacoxib 90 mg",
+      "price_egp": 297,
+      "availability_status": "Available",
+      "prescription_required": false,
+      "dosage_information": "90mg | 30 tablets",
+      "therapeutic_uses": "Pain reliever and anti-inflammatory"
+    },
+    {
+      "arabic_name": "مارسالاز",
+      "english_brand_name": "Marsalaz",
+      "price_egp": 159,
+      "availability_status": "Available",
+      "prescription_required": true,
+      "dosage_information": "30 tablets",
+      "therapeutic_uses": "For treating intestinal inflammation"
+    },
+    {
+      "arabic_name": "زيرودوكس",
+      "english_brand_name": "Xerodox",
+      "price_egp": 105,
+      "availability_status": "Available",
+      "prescription_required": false,
+      "dosage_information": "30 tablets (sublingual)",
+      "therapeutic_uses": "Sublingual administration"
+    },
+    {
+      "arabic_name": "مافيلور",
+      "english_brand_name": "Mavilor",
+      "price_egp": 105,
+      "availability_status": "Available",
+      "prescription_required": true,
+      "dosage_information": "5mg | 30 tablets",
+      "therapeutic_uses": "Vasodilator (blood vessel relaxer)"
+    },
+    {
+      "arabic_name": "كيتوستيرل",
+      "english_brand_name": "Ketosteril",
+      "price_egp": 975,
+      "availability_status": "Available",
+      "prescription_required": false,
+      "dosage_information": "100 tablets",
+      "therapeutic_uses": "For chronic kidney disease"
+    },
+    {
+      "arabic_name": "كارفيد",
+      "english_brand_name": "Carvid 25 mg",
+      "price_egp": 81,
+      "availability_status": "Available",
+      "prescription_required": false,
+      "dosage_information": "25mg | 30 tablets",
+      "therapeutic_uses": "Heart conditions (beta-blocker)"
+    },
+    {
+      "arabic_name": "زيتاكوليست",
+      "english_brand_name": "Zetacolest",
+      "price_egp": 474,
+      "availability_status": "Available",
+      "prescription_required": false,
+      "dosage_information": "180mg/10mg | 30 tablets",
+      "therapeutic_uses": "Cholesterol management"
+    },
+    {
+      "arabic_name": "فيبيوريك",
+      "english_brand_name": "Feburic 40 mg",
+      "price_egp": 38,
+      "availability_status": "Available",
+      "prescription_required": false,
+      "dosage_information": "40mg | 10 tablets",
+      "therapeutic_uses": "Gout treatment"
+    },
+    {
+      "arabic_name": "نوبيشيا",
+      "english_brand_name": "Nopecia 1 mg",
+      "price_egp": 36,
+      "availability_status": "Available",
+      "prescription_required": false,
+      "dosage_information": "1mg | 30 capsules",
+      "therapeutic_uses": "Hair loss treatment"
+    },
+    {
+      "arabic_name": "لبن هيرو بيبى اي ار",
+      "english_brand_name": "Hero Baby AR Milk",
+      "price_egp": 361,
+      "availability_status": "Limited quantity",
+      "prescription_required": false,
+      "dosage_information": "400g",
+      "therapeutic_uses": "For reflux cases in babies"
+    },
+    {
+      "arabic_name": "روكسيكام",
+      "english_brand_name": "Rheuxicam 8 mg",
+      "price_egp": 26,
+      "availability_status": "Available",
+      "prescription_required": false,
+      "dosage_information": "8mg | 1 vial + 1 ampoule",
+      "therapeutic_uses": "Anti-inflammatory medication"
+    },
+    {
+      "arabic_name": "ميرتوفيوتال",
+      "english_brand_name": "Mirtofutal (Mirtazapine)",
+      "price_egp": 89,
+      "availability_status": "Available",
+      "prescription_required": false,
+      "dosage_information": "30mg | 20 tablets",
+      "therapeutic_uses": "Antidepressant medication"
+    }
+  ],
+  "therapeutic_categories": {
+    "heart_medications": ["Rytmonorm", "Carvid", "Mavilor"],
+    "anticoagulants": ["Rivarospire"],
+    "arthritis_pain": ["Arcoxia", "Diclac", "Futacoxib", "Rheuxicam"],
+    "epilepsy_mood": ["Depakine", "Lacosamet"],
+    "vitamins_supplements": ["Cobal B12"],
+    "cholesterol": ["Zetacolest"],
+    "kidney_disease": ["Ketosteril"],
+    "gout": ["Feburic"],
+    "hair_loss": ["Nopecia"],
+    "depression": ["Mirtofutal"],
+    "baby_formula": ["Hero Baby AR Milk"],
+    "dermatological": ["Glensert Cream"],
+    "respiratory": ["Xerodox"],
+    "intestinal_conditions": ["Marsalaz"]
+  },
+  "price_analysis": {
+    "minimum_price": 26,
+    "maximum_price": 975,
+    "average_price": 181.8,
+    "total_page_value": 3636
+  },
+  "prescription_distribution": {
+    "prescription_required": 6,
+    "otc_available": 14,
+    "prescription_percentage": 30.0
+  }
+}

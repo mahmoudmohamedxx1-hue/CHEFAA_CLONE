@@ -1,0 +1,284 @@
+📄 Extracted from page: المكياج و الاكسسوارات - شفاء
+URL: https://chefaa.com/eg-ar/now/category/makeup-accessories
+
+Extracted content:
+```json
+{
+  "title": "المكياج و الاكسسوارات - شفاء",
+  "url": "https://chefaa.com/eg-ar/now/category/makeup-accessories",
+  "summary": "This page from Chefaa.com lists various makeup and accessories products available for purchase. The products include nail care items, lip moisturizers, eyelash serum, and earrings from brands like Eva, Shaan, Luna, Nail 15, Capixy, Yolo, Fe, and Caflon. Each product listing provides its name, brand, and price. There are also subcategories for makeup and accessories, and pagination controls for navigating through multiple pages of products.",
+  "key_points": [
+    {
+      "product_name": "إيفا | أسيتون خالي من عطر | 200مل",
+      "description": "Fragrance-free acetone.",
+      "price": "80 جنيه",
+      "brand": "إيفا (Eva)",
+      "rating": "N/A",
+      "stock_status": "In Stock",
+      "specifications": {
+        "volume": "200مل",
+        "feature": "خالي من عطر (fragrance-free)"
+      }
+    },
+    {
+      "product_name": "ايڤا | سكين كلينيك للبشرة المعرضة لحب الشباب مصحح لون البشر...",
+      "description": "Skin Clinic corrector for acne-prone skin.",
+      "price": "200 جنيه",
+      "brand": "ايڤا (Eva)",
+      "rating": "N/A",
+      "stock_status": "In Stock",
+      "specifications": {
+        "volume": "2.6مل",
+        "skin_type": "للبشرة المعرضة لحب الشباب (acne-prone skin)",
+        "type": "مصحح لون (color corrector)"
+      }
+    },
+    {
+      "product_name": "شان | للعناية بالاظافر | 4مل",
+      "description": "Nail care product.",
+      "price": "160 جنيه",
+      "brand": "شان (Shaan)",
+      "rating": "N/A",
+      "stock_status": "In Stock",
+      "specifications": {
+        "volume": "4مل",
+        "category": "للعناية بالاظافر (nail care)"
+      }
+    },
+    {
+      "product_name": "لونا | مرطب الشفاه بالفراولة | 3.5جم",
+      "description": "Lip moisturizer with strawberry flavor.",
+      "price": "20 جنيه",
+      "brand": "لونا (Luna)",
+      "rating": "N/A",
+      "stock_status": "In Stock",
+      "specifications": {
+        "volume": "3.5جم",
+        "flavor": "بالفراولة (strawberry)"
+      }
+    },
+    {
+      "product_name": "لونا | مرطب الشفاه بنكهة الخوخ | 3.5جم",
+      "description": "Lip moisturizer with peach flavor.",
+      "price": "20 جنيه",
+      "brand": "لونا (Luna)",
+      "rating": "N/A",
+      "stock_status": "In Stock",
+      "specifications": {
+        "volume": "3.5جم",
+        "flavor": "بنكهة الخوخ (peach)"
+      }
+    },
+    {
+      "product_name": "لونا | مرطب الشفاه الخاص برائحة جوز الهند | 3.5جم",
+      "description": "Special lip moisturizer with coconut scent.",
+      "price": "20 جنيه",
+      "brand": "لونا (Luna)",
+      "rating": "N/A",
+      "stock_status": "In Stock",
+      "specifications": {
+        "volume": "3.5جم",
+        "scent": "برائحة جوز الهند (coconut)"
+      }
+    },
+    {
+      "product_name": "لونا | مرطب شفاه بالورد | 3.5جم",
+      "description": "Lip moisturizer with rose.",
+      "price": "20 جنيه",
+      "brand": "لونا (Luna)",
+      "rating": "N/A",
+      "stock_status": "In Stock",
+      "specifications": {
+        "volume": "3.5جم",
+        "flavor": "بالورد (rose)"
+      }
+    },
+    {
+      "product_name": "نيل 15| لوشن للعناية بصحة الأظافر | 15مل",
+      "description": "Lotion for nail health care.",
+      "price": "65 جنيه",
+      "brand": "نيل 15 (Nail 15)",
+      "rating": "N/A",
+      "stock_status": "In Stock",
+      "specifications": {
+        "volume": "15مل",
+        "category": "للعناية بصحة الأظافر (nail health care)"
+      }
+    },
+    {
+      "product_name": "كابيكسي | سيرم لعلاج وتقوية الرموش | 10مل",
+      "description": "Eyelash treatment and strengthening serum.",
+      "price": "450 جنيه",
+      "brand": "كابيكسي (Capixy)",
+      "rating": "N/A",
+      "stock_status": "In Stock",
+      "specifications": {
+        "volume": "10مل",
+        "type": "سيرم (serum)",
+        "purpose": "لعلاج وتقوية الرموش (for eyelash treatment and strengthening)"
+      }
+    },
+    {
+      "product_name": "يولو | نيل كير ثيرابي 12",
+      "description": "Nail care therapy product, variant 12.",
+      "price": "70 جنيه",
+      "brand": "يولو (Yolo)",
+      "rating": "N/A",
+      "stock_status": "In Stock",
+      "specifications": {
+        "type": "نيل كير ثيرابي (nail care therapy)",
+        "variant": "12"
+      }
+    },
+    {
+      "product_name": "في | مبرد اظافر متوسط من الستانلس ستيل",
+      "description": "Medium stainless steel nail file.",
+      "price": "80 جنيه",
+      "brand": "في (Fe)",
+      "rating": "N/A",
+      "stock_status": "In Stock",
+      "specifications": {
+        "material": "ستانلس ستيل (stainless steel)",
+        "size": "متوسط (medium)",
+        "type": "مبرد اظافر (nail file)"
+      }
+    },
+    {
+      "product_name": "يولو | طلاء أظافر 107 | 10مل",
+      "description": "Nail polish, color 107.",
+      "price": "65 جنيه",
+      "brand": "يولو (Yolo)",
+      "rating": "N/A",
+      "stock_status": "In Stock",
+      "specifications": {
+        "volume": "10مل",
+        "color_shade": "107"
+      }
+    },
+    {
+      "product_name": "لونا | بلسم الشفاه المرطب بالفانيلا | 3.5جم",
+      "description": "Moisturizing lip balm with vanilla flavor.",
+      "price": "20 جنيه",
+      "brand": "لونا (Luna)",
+      "rating": "N/A",
+      "stock_status": "In Stock",
+      "specifications": {
+        "volume": "3.5جم",
+        "flavor": "بالفانيلا (vanilla)"
+      }
+    },
+    {
+      "product_name": "كافلون | فاشون سينس حلق طبى ألوان",
+      "description": "Fashion Sense sterile red diamond silver stud earrings for sensitive ears, 1 pair.",
+      "price": "220 جنيه",
+      "brand": "كافلون (Caflon)",
+      "rating": "N/A",
+      "stock_status": "In Stock",
+      "specifications": {
+        "type": "حلق طبى (medical earrings)",
+        "design": "ألوان (colored), red diamond silver stud",
+        "feature": "للبشرة الحساسة (for sensitive ears), معقم (sterile), زوج واحد (1 pair)"
+      }
+    },
+    {
+      "product_name": "يولو | طلاء اظافر 3 كالسيوم",
+      "description": "Nail polish with Calcium, variant 3.",
+      "price": "70 جنيه",
+      "brand": "يولو (Yolo)",
+      "rating": "N/A",
+      "stock_status": "In Stock",
+      "specifications": {
+        "ingredient": "كالسيوم (Calcium)",
+        "variant": "3"
+      }
+    },
+    {
+      "product_name": "يولو | طلاء أظافر 241 | 10 مل",
+      "description": "Nail polish, color 241.",
+      "price": "60 جنيه",
+      "brand": "يولو (Yolo)",
+      "rating": "N/A",
+      "stock_status": "In Stock",
+      "specifications": {
+        "volume": "10 مل",
+        "color_shade": "241"
+      }
+    },
+    {
+      "product_name": "يولو | طلاء أظافر 228 | 10 مل",
+      "description": "Nail polish, color 228.",
+      "price": "60 جنيه",
+      "brand": "يولو (Yolo)",
+      "rating": "N/A",
+      "stock_status": "In Stock",
+      "specifications": {
+        "volume": "10 مل",
+        "color_shade": "228"
+      }
+    },
+    {
+      "product_name": "يولو | طلاء اظافر رقم 247 | 10مل",
+      "description": "Nail polish, color 247.",
+      "price": "65 جنيه",
+      "brand": "يولو (Yolo)",
+      "rating": "N/A",
+      "stock_status": "In Stock",
+      "specifications": {
+        "volume": "10مل",
+        "color_shade": "247"
+      }
+    },
+    {
+      "product_name": "يولو | طلاء اظافر رقم 131 | 10مل",
+      "description": "Nail polish, color 131.",
+      "price": "65 جنيه",
+      "brand": "يولو (Yolo)",
+      "rating": "N/A",
+      "stock_status": "In Stock",
+      "specifications": {
+        "volume": "10مل",
+        "color_shade": "131"
+      }
+    },
+    {
+      "product_name": "يولو | طلاء اظافر رقم 119 | 10مل",
+      "description": "Nail polish, color 119.",
+      "price": "65 جنيه",
+      "brand": "يولو (Yolo)",
+      "rating": "N/A",
+      "stock_status": "In Stock",
+      "specifications": {
+        "volume": "10مل",
+        "color_shade": "119"
+      }
+    }
+  ],
+  "relevant_links": [],
+  "pagination_controls": {
+    "present": true,
+    "details": [
+      "‹ (Previous page)",
+      "1 (Current page)",
+      "2 (Link to page 2)",
+      "3 (Link to page 3)",
+      "4 (Link to page 4)",
+      "5 (Link to page 5)",
+      "6 (Link to page 6)",
+      "7 (Link to page 7)",
+      "8 (Link to page 8)",
+      "› (Next page)"
+    ]
+  },
+  "subcategories": {
+    "present": true,
+    "list": [
+      "الوجه (Face)",
+      "العيون (Eyes)",
+      "الرموش (Eyelashes)",
+      "الشفاه (Lips)",
+      "الاظافر (Nails)"
+    ]
+  },
+  "file_name": "makeup_accessories_chefaa.json"
+}
+```

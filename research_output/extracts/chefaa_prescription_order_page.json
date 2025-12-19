@@ -1,0 +1,48 @@
+📄 Extracted from page: طلب ادوية من الصيدلية اون لاين - شفاء
+URL: https://chefaa.com/eg-ar/now/order-medicine-online-prescription
+
+Extracted content:
+```json
+{
+  "title": "طلب ادوية من الصيدلية اون لاين - شفاء",
+  "url": "https://chefaa.com/eg-ar/now/order-medicine-online-prescription",
+  "summary": "This page on Chefaa allows users to order medicines online by uploading a prescription image or typing the medicine names. The process involves selecting a delivery location, uploading the prescription or listing items, and choosing how to handle unavailable products. Users must be logged in to proceed. The platform emphasizes that Chefaa facilitates the order, but pharmacies are responsible for dispensing medicines. Delivery is made to the user's selected address after Chefaa searches for nearby pharmacies.",
+  "key_points": [
+    "Users must log in to order prescriptions.",
+    "Delivery location must be specified to find available pharmacies.",
+    "If no nearby pharmacies, users are directed to a 'Super Saving' service.",
+    "Users can upload an image of their prescription or type the names of the medicines/products they need.",
+    "A maximum number of images can be uploaded for prescriptions.",
+    "Payment method offered is 'Pay on delivery'.",
+    "Users must choose a preference for how to handle products that are unavailable: choose an alternative, process the order without the missing item, or cancel the entire order.",
+    "The ordering process involves three steps: choosing an address, uploading the prescription/writing the request, and Chefaa searching for nearby pharmacies for delivery.",
+    "Chefaa acts as an intermediary; pharmacies are solely responsible for selling and dispensing medicines.",
+    "A section is available to add or manage delivery addresses, including detailed fields like street name, building/villa number, floor, apartment number, and landmark, with an option to select location on a map."
+  ],
+  "relevant_links": [
+    "https://chefaa.com:443/eg-ar/cart (Go to Cart)",
+    "https://chefaa.com:443/eg-ar/login (Login)",
+    "https://chefaa.com:443/eg-ar/now (Home)",
+    "https://chefaa.com:443/eg-ar/now/order-medicine-online-prescription (Prescription/Current Page)",
+    "https://chefaa.com:443/eg-ar/about-us (About Chefaa)",
+    "https://chefaa.com/blog (Blog)",
+    "https://chefaa.com:443/eg-ar/contact-us (Contact Us)",
+    "https://chefaa.com:443/eg-ar/become-partner-pharmacy (Become a Partner Pharmacy)",
+    "https://chefaa.com:443/eg-en/now/order-medicine-online-prescription (English Version of Page)",
+    "https://chefaa.com:443/eg-ar/profile/address-book (Add new address)",
+    "https://chefaa.com:443/eg-ar/order_monthly_prescription (Monthly Prescription)",
+    "https://bulk.chefaa.com/eg-ar (Supply)",
+    "https://chbih.com/ (Bi-Hub)",
+    "https://apps.apple.com/eg/app/chefaa-medicine-delivery/id1438961456 (Apple App Store)",
+    "https://play.google.com/store/apps/details?id=app.com.chefaa&hl=ar (Google Play Store)",
+    "https://appgallery.huawei.com/app/C102545145 (Huawei AppGallery)",
+    "https://chefaa.com:443/eg-ar/page/terms-of-service (Terms of Use)",
+    "https://chefaa.com:443/eg-ar/page/privacy-policy (Privacy Policy)",
+    "https://www.facebook.com/chefaaegypt/",
+    "https://www.instagram.com/chefaa.egypt/",
+    "https://www.linkedin.com/company/getchefaa",
+    "https://www.tiktok.com/@chefaa.egypt/"
+  ],
+  "file_name": "chefaa_prescription_order_page.json"
+}
+```

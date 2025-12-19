@@ -1,0 +1,186 @@
+📄 Extracted from page: العناية بالشعر - شفاء
+URL: https://chefaa.com/eg-ar/now/category/hair-care?page=2
+
+Extracted content:
+```json
+{
+    "title": "العناية بالشعر - شفاء",
+    "url": "https://chefaa.com/eg-ar/now/category/hair-care?page=2",
+    "summary": "This page is the second page of the 'Hair Care' category on Chefaa.com. It lists 20 hair care products, predominantly from the L'Oréal Paris brand, with their Arabic names, translated English names, prices in Egyptian Pounds (EGP), and stock availability. No explicit customer ratings are displayed for these products on this particular page.",
+    "key_points": [
+        "The page is confirmed as the second page (page=2) of the Hair Care category.",
+        "A total of 20 hair care products are listed.",
+        "All extracted products are under the brand 'L'Oréal Paris'.",
+        "Information extracted for each product includes Arabic name, English name (translated), price in EGP, brand, and stock availability (indicated by 'Add to Cart').",
+        "No customer rating information was found on the page for any of the products."
+    ],
+    "relevant_links": [
+        "https://chefaa.com/eg-ar/now/category/hair-care?page=1 (Previous Page)",
+        "https://chefaa.com/eg-ar/now/category/hair-care?page=3 (Next Page)",
+        "https://chefaa.com/eg-ar/now/category/hair-care (Hair Care Category Main Page)"
+    ],
+    "products": [
+        {
+            "arabic_name": "لوريال باريس | صبغة لوريال باريس كاستينج كريم اللامعة | 300...",
+            "english_name": "L'Oréal Paris | Casting Crème Gloss Hair Color | 300 Darkest Brown...",
+            "brand": "L'Oréal Paris",
+            "price_egp": 460,
+            "stock_availability": "In Stock",
+            "ratings": null
+        },
+        {
+            "arabic_name": "لوريال باريس | صبغة شعر بدون امونيا كاستينج كريم اللامعة | ...",
+            "english_name": "L'Oréal Paris | Ammonia-Free Casting Crème Gloss Hair Color | 550 Mahogany...",
+            "brand": "L'Oréal Paris",
+            "price_egp": 460,
+            "stock_availability": "In Stock",
+            "ratings": null
+        },
+        {
+            "arabic_name": "لوريال باريس | زيت إلفيف إكسترا اورديناري للشعر الجاف | 100مل",
+            "english_name": "L'Oréal Paris | Elvive Extraordinary Oil for Dry Hair | 100ml",
+            "brand": "L'Oréal Paris",
+            "price_egp": 495,
+            "stock_availability": "In Stock",
+            "ratings": null
+        },
+        {
+            "arabic_name": "لوريال باريس | كريم ايلفيف مغذي للشعر شديد الجفاف بزيت الام...",
+            "english_name": "L'Oréal Paris | Elvive Nourishing Cream for Very Dry Hair with Amla Oil | 200ml",
+            "brand": "L'Oréal Paris",
+            "price_egp": 234,
+            "stock_availability": "In Stock",
+            "ratings": null
+        },
+        {
+            "arabic_name": "لوريال باريس | بديل الزيت الفيف مغذي بالزيت الإستثنائي للشع...",
+            "english_name": "L'Oréal Paris | Elvive Extraordinary Oil Replacement for Hair | 300ml",
+            "brand": "L'Oréal Paris",
+            "price_egp": 180,
+            "stock_availability": "In Stock",
+            "ratings": null
+        },
+        {
+            "arabic_name": "لوريال باريس | شامبو الفيف للشعر العادي والجاف | 200مل",
+            "english_name": "L'Oréal Paris | Elvive Shampoo for Normal and Dry Hair | 200ml",
+            "brand": "L'Oréal Paris",
+            "price_egp": 120,
+            "stock_availability": "In Stock",
+            "ratings": null
+        },
+        {
+            "arabic_name": "لوريال باريس | الفيف شامبو بالزيوت الثمينة للشعر شديد الجفا...",
+            "english_name": "L'Oréal Paris | Elvive Precious Oils Shampoo for Very Dry Hair | 200ml",
+            "brand": "L'Oréal Paris",
+            "price_egp": 125,
+            "stock_availability": "In Stock",
+            "ratings": null
+        },
+        {
+            "arabic_name": "لوريال باريس | بلسم مقاوم للتكسر الفيف فل رزيست | 200مل",
+            "english_name": "L'Oréal Paris | Elvive Full Resist Breakage Fighter Conditioner | 200ml",
+            "brand": "L'Oréal Paris",
+            "price_egp": 115,
+            "stock_availability": "In Stock",
+            "ratings": null
+        },
+        {
+            "arabic_name": "لوريال باريس الفيف هيالرون شامبو مرطب للشعر الجاف والتالف |...",
+            "english_name": "L'Oréal Paris Elvive Hyaluron Moisturizing Shampoo for Dry and Damaged Hair | 600ml",
+            "brand": "L'Oréal Paris",
+            "price_egp": 214,
+            "stock_availability": "In Stock",
+            "ratings": null
+        },
+        {
+            "arabic_name": "شامبو لوريال البنفسجي بالهيالورونيك للشعر الجاف والمتقصف | ...",
+            "english_name": "L'Oréal Paris Purple Hyaluronic Shampoo for Dry and Brittle Hair | 400ml",
+            "brand": "L'Oréal Paris",
+            "price_egp": 190,
+            "stock_availability": "In Stock",
+            "ratings": null
+        },
+        {
+            "arabic_name": "لوريال باريس الفيف دريم لونج ستريت بديل الزيت للشعر الطويل ...",
+            "english_name": "L'Oréal Paris Elvive Dream Long Straight Oil Replacement for Long and Frizzy Hair | 300ml",
+            "brand": "L'Oréal Paris",
+            "price_egp": 180,
+            "stock_availability": "In Stock",
+            "ratings": null
+        },
+        {
+            "arabic_name": "لوريال باريس | بديل الزيت الفيف العلاج الخماسي المتكامل للش...",
+            "english_name": "L'Oréal Paris | Elvive Total Repair 5 Oil Replacement for Hair | 300ml",
+            "brand": "L'Oréal Paris",
+            "price_egp": 180,
+            "stock_availability": "In Stock",
+            "ratings": null
+        },
+        {
+            "arabic_name": "لوريال باريس | شامبو توتال ريبير 5 الفيف | 600مل",
+            "english_name": "L'Oréal Paris | Elvive Total Repair 5 Shampoo | 600ml",
+            "brand": "L'Oréal Paris",
+            "price_egp": 240,
+            "stock_availability": "In Stock",
+            "ratings": null
+        },
+        {
+            "arabic_name": "صبغة لوريال اكسلانس اشقر رمادي | رقم 7.17",
+            "english_name": "L'Oréal Excellence Ash Blonde Hair Dye | No. 7.17",
+            "brand": "L'Oréal Paris",
+            "price_egp": 326.7,
+            "stock_availability": "In Stock",
+            "ratings": null
+        },
+        {
+            "arabic_name": "لوريال باريس | صبغة شعر برودجي بدون أمونيا | 3.0 كحل بنى | ...",
+            "english_name": "L'Oréal Paris | Prodigy Ammonia-Free Hair Color | 3.0 Kohl Brown | Brown Black",
+            "brand": "L'Oréal Paris",
+            "price_egp": 392,
+            "stock_availability": "In Stock",
+            "ratings": null
+        },
+        {
+            "arabic_name": "لوريال باريس | صبغة شعر برودجي بدون أمونيا | 4.0 بني",
+            "english_name": "L'Oréal Paris | Prodigy Ammonia-Free Hair Color | 4.0 Brown",
+            "brand": "L'Oréal Paris",
+            "price_egp": 392,
+            "stock_availability": "In Stock",
+            "ratings": null
+        },
+        {
+            "arabic_name": "لوريال باريس | صبغة شعر برودجي بدون أمونيا | 4.15 سيينا | ب...",
+            "english_name": "L'Oréal Paris | Prodigy Ammonia-Free Hair Color | 4.15 Sienna | Frosted Brown",
+            "brand": "L'Oréal Paris",
+            "price_egp": 392,
+            "stock_availability": "In Stock",
+            "ratings": null
+        },
+        {
+            "arabic_name": "لوريال باريس | صبغة شعر برودجي بدون أمونيا | 5.30 بني ذهبي",
+            "english_name": "L'Oréal Paris | Prodigy Ammonia-Free Hair Color | 5.30 Light Golden Brown",
+            "brand": "L'Oréal Paris",
+            "price_egp": 401,
+            "stock_availability": "In Stock",
+            "ratings": null
+        },
+        {
+            "arabic_name": "لوريال باريس | صبغة شعر برودجي بدون أمونيا | 6.32 صدف بني |...",
+            "english_name": "L'Oréal Paris | Prodigy Ammonia-Free Hair Color | 6.32 Pearl Brown | Dark Golden Blonde",
+            "brand": "L'Oréal Paris",
+            "price_egp": 390,
+            "stock_availability": "In Stock",
+            "ratings": null
+        },
+        {
+            "arabic_name": "لوريال باريس | صبغة شعر كريم بروديجي إكسيلانس 10.1 أشقر رما...",
+            "english_name": "L'Oréal Paris | Prodigy Excellence Cream Hair Color 10.1 Ash Blonde",
+            "brand": "L'Oréal Paris",
+            "price_egp": 390,
+            "stock_availability": "In Stock",
+            "ratings": null
+        }
+    ],
+    "file_name": "chefaa_hair_care_page2_products.json"
+}
+```

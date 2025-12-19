@@ -1,0 +1,144 @@
+{
+  "medications": [
+    {
+      "product_name": "زينول | 1جم | فيال",
+      "price_egp": 48.00,
+      "brand_manufacturer": "Zinol",
+      "description_category": "Vial (فيال)",
+      "package_size_quantity": "1gm"
+    },
+    {
+      "product_name": "امباجليفورم اكس ار 10/1000مجم | 30 قرص",
+      "price_egp": 236.25,
+      "brand_manufacturer": "Empagliform",
+      "description_category": "Tablets (قرص)",
+      "package_size_quantity": "30 tablets, 10/1000mg"
+    },
+    {
+      "product_name": "جيوبوتا ك 600مجم اس ار | 30 قرص",
+      "price_egp": 60.00,
+      "brand_manufacturer": "Geo-pota K",
+      "description_category": "SR Tablets (قرص)",
+      "package_size_quantity": "30 tablets, 600mg"
+    },
+    {
+      "product_name": "مكسمازيل 10/28مجم | 28 كبسولة",
+      "price_egp": 352.00,
+      "brand_manufacturer": "Mixmazil",
+      "description_category": "Capsules (كبسولة)",
+      "package_size_quantity": "28 capsules, 10/28mg"
+    },
+    {
+      "product_name": "راميلاكت مكمل غذائي 6000 و.ج.ل | 30 قرص",
+      "price_egp": 360.00,
+      "brand_manufacturer": "Ramelact",
+      "description_category": "Dietary Supplement, Tablets (مكمل غذائي, قرص)",
+      "package_size_quantity": "30 tablets, 6000 A.L.U."
+    },
+    {
+      "product_name": "بينموف | مساج سبراي | 200مل",
+      "price_egp": 260.00,
+      "brand_manufacturer": "Benmuv",
+      "description_category": "Massage Spray (مساج سبراي)",
+      "package_size_quantity": "200ml"
+    },
+    {
+      "product_name": "جلوباكاند 16مجم | 28 قرص",
+      "price_egp": 40.00,
+      "brand_manufacturer": "Globacand",
+      "description_category": "Tablets (قرص)",
+      "package_size_quantity": "28 tablets, 16mg"
+    },
+    {
+      "product_name": "شاركلون ادفانس | 30 قرص",
+      "price_egp": 160.00,
+      "brand_manufacturer": "Charclone",
+      "description_category": "Tablets (قرص)",
+      "package_size_quantity": "30 tablets"
+    },
+    {
+      "product_name": "كالسيوم 3 | 20 قرص",
+      "price_egp": 95.00,
+      "brand_manufacturer": "Calcium 3",
+      "description_category": "Tablets (قرص)",
+      "package_size_quantity": "20 tablets"
+    },
+    {
+      "product_name": "فوكاستين شراب 250مجم/5مل | 60مل",
+      "price_egp": 110.00,
+      "brand_manufacturer": "Focustin",
+      "description_category": "Syrup (شراب)",
+      "package_size_quantity": "60ml, 250mg/5ml"
+    },
+    {
+      "product_name": "نكسيماش 40مجم | 28 كبسولة",
+      "price_egp": 220.00,
+      "brand_manufacturer": "Neximash",
+      "description_category": "Capsules (كبسولة)",
+      "package_size_quantity": "28 capsules, 40mg"
+    },
+    {
+      "product_name": "بريفكس مطهر سبراي | 120مل",
+      "price_egp": 50.00,
+      "brand_manufacturer": "Prevex",
+      "description_category": "Antiseptic Spray (مطهر سبراي)",
+      "package_size_quantity": "120ml"
+    },
+    {
+      "product_name": "درينكينج اعشاب | 100جم",
+      "price_egp": 60.00,
+      "brand_manufacturer": "Drinking",
+      "description_category": "Herbal Drink (اعشاب)",
+      "package_size_quantity": "100gm"
+    },
+    {
+      "product_name": "سيريتايد 250مكجم ديسكس | 28 بخه",
+      "price_egp": 335.00,
+      "brand_manufacturer": "Seretide",
+      "description_category": "Diskus Inhaler",
+      "package_size_quantity": "28 inhalations, 250mcg"
+    },
+    {
+      "product_name": "إليكسولايت محلول بنكهة الفراولة | 360مل",
+      "price_egp": 49.00,
+      "brand_manufacturer": "Alexolyte",
+      "description_category": "Solution with Strawberry Flavor (محلول بنكهة الفراولة)",
+      "package_size_quantity": "360ml"
+    },
+    {
+      "product_name": "فلويموسيل 300مجم/3مل للحقن الوريدي والعضلي | 5 امبول",
+      "price_egp": 262.00,
+      "brand_manufacturer": "Fluimucil",
+      "description_category": "IV/IM Injection, Ampoules (امبول)",
+      "package_size_quantity": "5 ampoules, 300mg/3ml"
+    },
+    {
+      "product_name": "مونتيلوساب 10مجم | 14 قرص مغلف",
+      "price_egp": 82.00,
+      "brand_manufacturer": "Montelosab",
+      "description_category": "Film-coated Tablets (قرص مغلف)",
+      "package_size_quantity": "14 tablets, 10mg"
+    },
+    {
+      "product_name": "توبرو | 10 اكياس",
+      "price_egp": 130.00,
+      "brand_manufacturer": "Topro",
+      "description_category": "Sachets (اكياس)",
+      "package_size_quantity": "10 sachets"
+    },
+    {
+      "product_name": "دواء ابيروفاستين 20 مجم للكوليسترول epirovastin | ١٤ قرص",
+      "price_egp": 57.00,
+      "brand_manufacturer": "Epirovastin",
+      "description_category": "Cholesterol medication, Tablets (للكوليسترول, قرص)",
+      "package_size_quantity": "14 tablets, 20mg"
+    },
+    {
+      "product_name": "افوريكسال مكمل غذائي | 30 كبسولة",
+      "price_egp": 270.00,
+      "brand_manufacturer": "Avorexal",
+      "description_category": "Dietary Supplement, Capsules (مكمل غذائي, كبسولة)",
+      "package_size_quantity": "30 capsules"
+    }
+  ]
+}

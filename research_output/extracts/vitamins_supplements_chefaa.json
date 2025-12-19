@@ -1,0 +1,228 @@
+📄 Extracted from page: الفيتامينات والمكملات - شفاء
+URL: https://chefaa.com/eg-ar/now/category/vitamins-supplements
+
+Extracted content:
+```json
+{
+  "title": "الفيتامينات والمكملات - شفاء",
+  "url": "https://chefaa.com/eg-ar/now/category/vitamins-supplements",
+  "summary": "This page from Chefaa lists various vitamin and supplement products. It includes multivitamins for men and women, iron supplements, Omega 3, Vitamin D, and specific supplements targeting hair, skin, memory, immunity, fertility, and weight management. Each product displays its name, associated brand, price in Egyptian Pounds, and key specifications regarding quantity and form. Stock status is generally 'In Stock' unless explicitly stated otherwise (e.g., 'Limited quantity' for one item). No customer ratings are visible on this page for individual products.",
+  "key_points": [
+    "The page is dedicated to a category of 'Vitamins and Supplements'.",
+    "It showcases 20 distinct products on the first page of listings.",
+    "Information for each product includes name, brand, price, and primary specifications like quantity and form (e.g., tablets, capsules, sachets).",
+    "Prices are listed in Egyptian Pounds (جنيه).",
+    "Stock status is indicated, with one product explicitly marked as 'Limited quantity' ('كمية محدودة').",
+    "Product descriptions often highlight the target audience (men/women) or primary benefits (e.g., for hair, immunity, slimming).",
+    "No user ratings or detailed descriptions are provided directly on the listing cards."
+  ],
+  "products": [
+    {
+      "product_name": "سنترم للرجال",
+      "brand": "Centrum",
+      "price": "810 جنيه",
+      "description": "فيتامينات ومكملات للرجال",
+      "stock_status": "In Stock",
+      "ratings": "N/A",
+      "specifications": "100 قرص"
+    },
+    {
+      "product_name": "سنترم للسيدات",
+      "brand": "Centrum",
+      "price": "810 جنيه",
+      "description": "فيتامينات ومكملات للسيدات",
+      "stock_status": "In Stock",
+      "ratings": "N/A",
+      "specifications": "100 قرص"
+    },
+    {
+      "product_name": "سليفار حديد",
+      "brand": "Slevar",
+      "price": "350 جنيه",
+      "description": "مكمل غذائي للحديد",
+      "stock_status": "In Stock",
+      "ratings": "N/A",
+      "specifications": "30 كبسولة"
+    },
+    {
+      "product_name": "فيتامين ليمتلس مان ماكس للرجال",
+      "brand": "Limitless",
+      "price": "240 جنيه",
+      "description": "فيتامين شامل للرجال",
+      "stock_status": "In Stock",
+      "ratings": "N/A",
+      "specifications": "٣٠ قرص"
+    },
+    {
+      "product_name": "فيتامين ليمتلس وومان ماكس للنساء",
+      "brand": "Limitless",
+      "price": "240 جنيه",
+      "description": "فيتامين شامل للنساء",
+      "stock_status": "In Stock",
+      "ratings": "N/A",
+      "specifications": "٣٠ قرص"
+    },
+    {
+      "product_name": "ليمتلس اوميجا 3 زيت السمك",
+      "brand": "Limitless",
+      "price": "230 جنيه",
+      "description": "مكمل أوميجا 3 وزيت السمك",
+      "stock_status": "In Stock",
+      "ratings": "N/A",
+      "specifications": "2000 مجم | 30 كبسولة"
+    },
+    {
+      "product_name": "فيتاسيد ج فوار فيتاسيد سي",
+      "brand": "Vitacid C",
+      "price": "54 جنيه",
+      "description": "فيتامين سي فوار للبرد",
+      "stock_status": "In Stock",
+      "ratings": "N/A",
+      "specifications": "١٢ قرص"
+    },
+    {
+      "product_name": "اوميجا 3 بلس كبسولات",
+      "brand": "Omega 3 Plus",
+      "price": "135 جنيه",
+      "description": "للوزن وتعزيز الذاكرة والمناعة",
+      "stock_status": "In Stock",
+      "ratings": "N/A",
+      "specifications": "30 كبسول"
+    },
+    {
+      "product_name": "فيروجلوبين كبسول",
+      "brand": "Feroglobin",
+      "price": "180 جنيه",
+      "description": "مكمل للشعر والأنيميا",
+      "stock_status": "In Stock",
+      "ratings": "N/A",
+      "specifications": "٣٠ كبسولة"
+    },
+    {
+      "product_name": "اوستيوكير اقراص",
+      "brand": "Osteocare",
+      "price": "150 جنيه",
+      "description": "كالسيوم مع فيتامين د",
+      "stock_status": "In Stock",
+      "ratings": "N/A",
+      "specifications": "٣٠ قرص"
+    },
+    {
+      "product_name": "ليمتلس اوسوفورتين د3 5000",
+      "brand": "Limitless",
+      "price": "115 جنيه",
+      "description": "حبوب فيتامين د3 بتركيز 5000 وحدة دولية",
+      "stock_status": "In Stock",
+      "ratings": "N/A",
+      "specifications": "5000 I.U. | 30 قرص"
+    },
+    {
+      "product_name": "برفكتيل أقراص",
+      "brand": "Vitabiotics Perfectil",
+      "price": "300 جنيه",
+      "description": "للشعر لعلاج التساقط وتطويل الشعر",
+      "stock_status": "كمية محدودة",
+      "ratings": "N/A",
+      "specifications": "30 قرص"
+    },
+    {
+      "product_name": "فيتامين فيتا سترس 600",
+      "brand": "Vitastress",
+      "price": "64 جنيه",
+      "description": "للرجال والنساء للخصوبه",
+      "stock_status": "In Stock",
+      "ratings": "N/A",
+      "specifications": "20 قرص"
+    },
+    {
+      "product_name": "اقراص سيلينيوم ايه سى اى",
+      "brand": "Selenium ACE",
+      "price": "130 جنيه",
+      "description": "مضاد للأكسدة للنساء والرجال",
+      "stock_status": "In Stock",
+      "ratings": "N/A",
+      "specifications": "٣٠ قرص"
+    },
+    {
+      "product_name": "ليمتلس كروماكس كت",
+      "brand": "Limitless",
+      "price": "375 جنيه",
+      "description": "للتخسيس",
+      "stock_status": "In Stock",
+      "ratings": "N/A",
+      "specifications": "٣٠ كيس"
+    },
+    {
+      "product_name": "برشام ميلجا اقراص",
+      "brand": "Milga",
+      "price": "108 جنيه",
+      "description": "مقوى للأعصاب والانتصاب",
+      "stock_status": "In Stock",
+      "ratings": "N/A",
+      "specifications": "40 قرص"
+    },
+    {
+      "product_name": "زنكترون كبسول",
+      "brand": "Zinctron",
+      "price": "126 جنيه",
+      "description": "مكمل غذائي للرجال والنساء للبشرة والشعر",
+      "stock_status": "In Stock",
+      "ratings": "N/A",
+      "specifications": "30 كبسولة"
+    },
+    {
+      "product_name": "كروميترون",
+      "brand": "Chromitron",
+      "price": "150 جنيه",
+      "description": "مكمل غذائي",
+      "stock_status": "In Stock",
+      "ratings": "N/A",
+      "specifications": "30 كبسولة"
+    },
+    {
+      "product_name": "سي ريتارد زنك",
+      "brand": "C-Retard",
+      "price": "80 جنيه",
+      "description": "فيتامين سي وزنك للرجال والنساء",
+      "stock_status": "In Stock",
+      "ratings": "N/A",
+      "specifications": "20 كبسوله"
+    },
+    {
+      "product_name": "كارنيفيتا ادفانس للرجال",
+      "brand": "Carnivita",
+      "price": "395 جنيه",
+      "description": "مكمل غذائي للرجال",
+      "stock_status": "In Stock",
+      "ratings": "N/A",
+      "specifications": "٣٠ كيس"
+    }
+  ],
+  "relevant_links": [
+    "https://chefaa.com:443/eg-ar/nowProduct/centrum-men-100-tabs-vfak",
+    "https://chefaa.com:443/eg-ar/nowProduct/centrum-women-100-tabs-gr9v",
+    "https://chefaa.com:443/eg-ar/nowProduct/sleevar-iron-30-caps-6dei",
+    "https://chefaa.com:443/eg-ar/nowProduct/limitless-man-max-30tab-6ceg",
+    "https://chefaa.com:443/eg-ar/nowProduct/limitless-woman-max-30tablets-fies",
+    "https://chefaa.com:443/eg-ar/nowProduct/limitless-omega-3-30-capsule-6uah",
+    "https://chefaa.com:443/eg-ar/nowProduct/vitacid-c-1gm-efferveccent12-tab",
+    "https://chefaa.com:443/eg-ar/nowProduct/omega-3-plus-30-capsules",
+    "https://chefaa.com:443/eg-ar/nowProduct/feroglobin-30-capsules",
+    "https://chefaa.com:443/eg-ar/nowProduct/osteocare-30-tab",
+    "https://chefaa.com:443/eg-ar/nowProduct/limitless-ossofortin-d3-5000-i-u-30-tab-qrme",
+    "https://chefaa.com:443/eg-ar/nowProduct/vitabiotics-perfectil-original-triple-active-30serv-30tab-qnnj",
+    "https://chefaa.com:443/eg-ar/nowProduct/vitastress-tab-20-tabs-yvoe",
+    "https://chefaa.com:443/eg-ar/nowProduct/selenium-ace-30tab-vu7q",
+    "https://chefaa.com:443/eg-ar/nowProduct/limitless-chromax-cut-30sachets-q4mj",
+    "https://chefaa.com:443/eg-ar/nowProduct/milga-40-tablets",
+    "https://chefaa.com:443/eg-ar/nowProduct/zinctron-capsules",
+    "https://chefaa.com:443/eg-ar/nowProduct/chromitron-30-caps-dtnb",
+    "https://chefaa.com:443/eg-ar/nowProduct/c-retard-zinc-vitamin-c-500mg-20cap-c8u0",
+    "https://chefaa.com:443/eg-ar/nowProduct/carnivita-advance-for-men-30sachets-yt7h",
+    "https://chefaa.com:443/eg-ar/now/category/vitamins-supplements/vitamins-minerals",
+    "https://chefaa.com:443/eg-ar/now/category/vitamins-supplements/supplements",
+    "https://chefaa.com:443/eg-ar/now/category/vitamins-supplements/slimming"
+  ],
+  "file_name": "vitamins_supplements_chefaa.json"
+}
+```

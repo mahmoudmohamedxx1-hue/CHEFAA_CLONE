@@ -1,0 +1,42 @@
+📄 Extracted from page: العناية بالشعر - شفاء
+URL: https://chefaa.com/eg-ar/now/category/hair-care?page=4
+
+Extracted content:
+```json
+{
+  "title": "العناية بالشعر - شفاء",
+  "url": "https://chefaa.com/eg-ar/now/category/hair-care?page=4",
+  "summary": "This page is the fourth page within the 'Hair Care' category on Chefaa, an Egyptian online pharmacy. It presents a list of 20 distinct hair care products, including shampoos, conditioners, hair creams, hair sprays, hair masks, hair dye, and specialized treatments for various hair concerns like dryness, fall, and scalp issues. Each product entry provides its name, brand, price, and a direct link to its detail page. The page also indicates the current pagination status within the broader category.",
+  "key_points": [
+    "Total products extracted from page 4: 20",
+    "Pagination status: Currently on page 4 out of an estimated 51 total pages for the 'Hair Care' category.",
+    "Products details (JSON string): [\n  {\n    \"name\": \"كريم للشعر لتنشيطه وتحسين صحته\",\n    \"brand\": \"فيفيدول\",\n    \"price\": 170,\n    \"unit\": \"جنيه\",\n    \"volume\": \"100جم\",\n    \"product_url\": \"https://chefaa.com:443/eg-ar/nowProduct/vividol-hair-cream-100gm-nng1\"\n  },\n  {\n    \"name\": \"كريم للشعر\",\n    \"brand\": \"كابيكسي\",\n    \"price\": 275,\n    \"unit\": \"جنيه\",\n    \"volume\": \"120مل\",\n    \"product_url\": \"https://chefaa.com:443/eg-ar/nowProduct/capixy-hair-cream-120ml-3o3c_duI8ZpxE\"\n  },\n  {\n    \"name\": \"سبراي بخاخ لتساقط الشعر من الصيدلية\",\n    \"brand\": \"سترونج فيل\",\n    \"price\": 185,\n    \"unit\": \"جنيه\",\n    \"volume\": \"220 مل\",\n    \"product_url\": \"https://chefaa.com:443/eg-ar/nowProduct/strong-ville-vital-hair-and-scalp-extra-hair-tonic-spray\"\n  },\n  {\n    \"name\": \"بخاخ الشعر بتقنية التثبيت الفائق\",\n    \"brand\": \"إنليفن\",\n    \"price\": 300,\n    \"unit\": \"جنيه\",\n    \"volume\": \"300مل\",\n    \"product_url\": \"https://chefaa.com:443/eg-ar/nowProduct/enliven-ultra-hold-hair-spray-300ml-cdzd\"\n  },\n  {\n    \"name\": \"هونى هير كريم | كريم شعر بالعسل\",\n    \"brand\": \"إيڤا\",\n    \"price\": 45,\n    \"unit\": \"جنيه\",\n    \"volume\": \"45جم\",\n    \"product_url\": \"https://chefaa.com:443/eg-ar/nowProduct/eva-honey-hair-cream-45gm-dxdy\"\n  },\n  {\n    \"name\": \"كريم الشعر بالزيتون\",\n    \"brand\": \"فاتيكا\",\n    \"price\": 75,\n    \"unit\": \"جنيه\",\n    \"volume\": \"190مل\",\n    \"product_url\": \"https://chefaa.com:443/eg-ar/nowProduct/vatika-hair-cream-olive-210ml-xir9\"\n  },\n  {\n    \"name\": \"شامبو ضد تساقط الشعر\",\n    \"brand\": \"دوف\",\n    \"price\": 80,\n    \"unit\": \"جنيه\",\n    \"volume\": \"200مل\",\n    \"product_url\": \"https://chefaa.com:443/eg-ar/nowProduct/dove-hair-fall-rescue-shampoo-200ml-jgm5_ducK4ksl\"\n  },\n  {\n    \"name\": \"ماء اكسجين حجم 10\",\n    \"brand\": \"لونا\",\n    \"price\": 17,\n    \"unit\": \"جنيه\",\n    \"volume\": \"80مل\",\n    \"product_url\": \"https://chefaa.com:443/eg-ar/nowProduct/luna-hydrogen-peroxide-10-vol-wjhx_duVXoosi\"\n  },\n  {\n    \"name\": \"صبغة شعر كولور ناتشرالز كريم | 1 أسود\",\n    \"brand\": \"غارنييه\",\n    \"price\": 146,\n    \"unit\": \"جنيه\",\n    \"volume\": \"N/A (color code)\",\n    \"product_url\": \"https://chefaa.com:443/eg-ar/nowProduct/color-naturals-creme-hair-color-1-black\"\n  },\n  {\n    \"name\": \"شامبو لصحة وكثافة الشعر ومضاد للقشرة\",\n    \"brand\": \"جاستن بلو\",\n    \"price\": 195,\n    \"unit\": \"جنيه\",\n    \"volume\": \"80مل\",\n    \"product_url\": \"https://chefaa.com:443/eg-ar/nowProduct/justin-blue-shampoo-rtvs\"\n  },\n  {\n    \"name\": \"بلسم بجوز الهند للشعر الجاف والهايش\",\n    \"brand\": \"بوبانا\",\n    \"price\": 120,\n    \"unit\": \"جنيه\",\n    \"volume\": \"400 مل\",\n    \"product_url\": \"https://chefaa.com:443/eg-ar/nowProduct/bobana-coconut-oil-conditioner-for-dry-hair-400ml-6cgx\"\n  },\n  {\n    \"name\": \"شامبو للشعر الجاف والتالف\",\n    \"brand\": \"كلاري\",\n    \"price\": 300,\n    \"unit\": \"جنيه\",\n    \"volume\": \"300 مل\",\n    \"product_url\": \"https://chefaa.com:443/eg-ar/nowProduct/clary-shampoo-300ml-is1d\"\n  },\n  {\n    \"name\": \"ماسك وكريم معالج للشعر بالثوم ناتشورالز\",\n    \"brand\": \"فاتيكا\",\n    \"price\": 135,\n    \"unit\": \"جنيه\",\n    \"volume\": \"1كجم\",\n    \"product_url\": \"https://chefaa.com:443/eg-ar/nowProduct/vatika-hammam-cream-garlic-1kg-t4l5\"\n  },\n  {\n    \"name\": \"شامبو ديركوس المضاد للقشرة للشعر العادي الى الدهني\",\n    \"brand\": \"فيشي\",\n    \"price\": 720,\n    \"unit\": \"جنيه\",\n    \"volume\": \"200مل\",\n    \"product_url\": \"https://chefaa.com:443/eg-ar/nowProduct/vichy-dercos-anti-dandruff-shampoo-for-normal-to-oily-hair-200ml-kkvw\"\n  },\n  {\n    \"name\": \"كريم تصفيف الشعر فائق الترطيب باللوز + 10% خصم\",\n    \"brand\": \"فاتيكا\",\n    \"price\": 75,\n    \"unit\": \"جنيه\",\n    \"volume\": \"190مل\",\n    \"product_url\": \"https://chefaa.com:443/eg-ar/nowProduct/vatika-orange-family-cream-210-g10-discount-jlyt\"\n  },\n  {\n    \"name\": \"الفيف شامبو جليكوليك جلوس للشعر الباهت\",\n    \"brand\": \"لوريال\",\n    \"price\": 200,\n    \"unit\": \"جنيه\",\n    \"volume\": \"400مل\",\n    \"product_url\": \"https://chefaa.com:443/eg-ar/nowProduct/loreal-elvive-glycolic-gloss-hair-care-shampoo-for-dull-hair-400ml-zugo\"\n  },\n  {\n    \"name\": \"كبسولات للشعر لتطويله وتكثيفه | ٦٠ كبسوله\",\n    \"brand\": \"هير تونيك\",\n    \"price\": 190,\n    \"unit\": \"جنيه\",\n    \"volume\": \"٦٠ كبسوله\",\n    \"product_url\": \"https://chefaa.com:443/eg-ar/nowProduct/hairtonic-60capsulesGrGc\"\n  },\n  {\n    \"name\": \"بلسم طبي للشعر الجاف والتالف\",\n    \"brand\": \"سيروبايب\",\n    \"price\": 215,\n    \"unit\": \"جنيه\",\n    \"volume\": \"200 جم\",\n    \"product_url\": \"https://chefaa.com:443/eg-ar/nowProduct/seropipe-hair-conditioner-200gm-oeg9\"\n  },\n  {\n    \"name\": \"هير ماسك لترطيب الشعر\",\n    \"brand\": \"سيروبايب\",\n    \"price\": 285,\n    \"unit\": \"جنيه\",\n    \"volume\": \"٣٠٠ مل\",\n    \"product_url\": \"https://chefaa.com:443/eg-ar/nowProduct/seropipe-hair-mask-300ml-3r2e\"\n  },\n  {\n    \"name\": \"دواء للقمل وحشرات الرأس للاطفال | nitolic kit\",\n    \"brand\": \"نيتوليك\",\n    \"price\": 460,\n    \"unit\": \"جنيه\",\n    \"volume\": \"50مل\",\n    \"product_url\": \"https://chefaa.com:443/eg-ar/nowProduct/nitolic-therapeutic-for-head-lice-and-nitic-50ml-qtag\"\n  }\n]"
+  ],
+  "relevant_links": [
+    "https://chefaa.com:443/eg-ar/nowProduct/vividol-hair-cream-100gm-nng1",
+    "https://chefaa.com:443/eg-ar/nowProduct/capixy-hair-cream-120ml-3o3c_duI8ZpxE",
+    "https://chefaa.com:443/eg-ar/nowProduct/strong-ville-vital-hair-and-scalp-extra-hair-tonic-spray",
+    "https://chefaa.com:443/eg-ar/nowProduct/enliven-ultra-hold-hair-spray-300ml-cdzd",
+    "https://chefaa.com:443/eg-ar/nowProduct/eva-honey-hair-cream-45gm-dxdy",
+    "https://chefaa.com:443/eg-ar/nowProduct/vatika-hair-cream-olive-210ml-xir9",
+    "https://chefaa.com:443/eg-ar/nowProduct/dove-hair-fall-rescue-shampoo-200ml-jgm5_ducK4ksl",
+    "https://chefaa.com:443/eg-ar/nowProduct/luna-hydrogen-peroxide-10-vol-wjhx_duVXoosi",
+    "https://chefaa.com:443/eg-ar/nowProduct/color-naturals-creme-hair-color-1-black",
+    "https://chefaa.com:443/eg-ar/nowProduct/justin-blue-shampoo-rtvs",
+    "https://chefaa.com:443/eg-ar/nowProduct/bobana-coconut-oil-conditioner-for-dry-hair-400ml-6cgx",
+    "https://chefaa.com:443/eg-ar/nowProduct/clary-shampoo-300ml-is1d",
+    "https://chefaa.com:443/eg-ar/nowProduct/vatika-hammam-cream-garlic-1kg-t4l5",
+    "https://chefaa.com:443/eg-ar/nowProduct/vichy-dercos-anti-dandruff-shampoo-for-normal-to-oily-hair-200ml-kkvw",
+    "https://chefaa.com:443/eg-ar/nowProduct/vatika-orange-family-cream-210-g10-discount-jlyt",
+    "https://chefaa.com:443/eg-ar/nowProduct/loreal-elvive-glycolic-gloss-hair-care-shampoo-for-dull-hair-400ml-zugo",
+    "https://chefaa.com:443/eg-ar/nowProduct/hairtonic-60capsulesGrGc",
+    "https://chefaa.com:443/eg-ar/nowProduct/seropipe-hair-conditioner-200gm-oeg9",
+    "https://chefaa.com:443/eg-ar/nowProduct/seropipe-hair-mask-300ml-3r2e",
+    "https://chefaa.com:443/eg-ar/nowProduct/nitolic-therapeutic-for-head-lice-and-nitic-50ml-qtag",
+    "https://chefaa.com:443/eg-ar/now/category/hair-care?page=3",
+    "https://chefaa.com:443/eg-ar/now/category/hair-care?page=5",
+    "https://chefaa.com:443/eg-ar/now/category/hair-care"
+  ],
+  "file_name": "chefaa_hair_care_page_4.json"
+}
+```

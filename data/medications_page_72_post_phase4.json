@@ -1,0 +1,220 @@
+{
+  "extraction_metadata": {
+    "page_number": 72,
+    "phase": "Post-Phase 4",
+    "extraction_date": "2025-11-01",
+    "source_url": "https://chefaa.com/eg-ar/now/category/medications?page=72",
+    "total_medications_extracted": 20,
+    "cumulative_total": 1277,
+    "progress_to_50_percent": "95.3% (1,277/1,340)"
+  },
+  "medications": [
+    {
+      "arabic_name": "شارتوريج",
+      "english_brand_name": "Chartoreg",
+      "price_egp": 134,
+      "availability_status": "In Stock",
+      "prescription_required": false,
+      "dosage_information": "40mg | 28 tablets",
+      "therapeutic_uses": "Blood pressure medication"
+    },
+    {
+      "arabic_name": "يوريكول",
+      "english_brand_name": "Uricol",
+      "price_egp": 21,
+      "availability_status": "In Stock",
+      "prescription_required": true,
+      "dosage_information": "Urinary tract antiseptic | 6 effervescent sachets",
+      "therapeutic_uses": "Urinary tract antiseptic"
+    },
+    {
+      "arabic_name": "كليندام",
+      "english_brand_name": "Clindam",
+      "price_egp": 75,
+      "availability_status": "In Stock",
+      "prescription_required": false,
+      "dosage_information": "300mg | 16 capsules",
+      "therapeutic_uses": "Antibiotic"
+    },
+    {
+      "arabic_name": "ريفو",
+      "english_brand_name": "Rivo",
+      "price_egp": 7.05,
+      "availability_status": "In Stock",
+      "prescription_required": false,
+      "dosage_information": "200 tablets",
+      "therapeutic_uses": "Basic supplement"
+    },
+    {
+      "arabic_name": "ابيجونال",
+      "english_brand_name": "Epigonal",
+      "price_egp": 286,
+      "availability_status": "In Stock",
+      "prescription_required": true,
+      "dosage_information": "75mg | 1 ampoule + 1 ampoule solvent",
+      "therapeutic_uses": "Hormonal medication"
+    },
+    {
+      "arabic_name": "اوفيونهيبيتا",
+      "english_brand_name": "Ovunhipita",
+      "price_egp": 61,
+      "availability_status": "In Stock",
+      "prescription_required": true,
+      "dosage_information": "75mg | 28 tablets",
+      "therapeutic_uses": "Contraceptive medication"
+    },
+    {
+      "arabic_name": "أندوكاندوكسين",
+      "english_brand_name": "Andocandoxin",
+      "price_egp": 61,
+      "availability_status": "In Stock",
+      "prescription_required": false,
+      "dosage_information": "600mg | 1 vaginal capsule",
+      "therapeutic_uses": "Vaginal medication"
+    },
+    {
+      "arabic_name": "زيثروكان",
+      "english_brand_name": "Zithrokan",
+      "price_egp": 77,
+      "availability_status": "In Stock",
+      "prescription_required": true,
+      "dosage_information": "Antibiotic | 500mg | 3 capsules",
+      "therapeutic_uses": "Antibiotic"
+    },
+    {
+      "arabic_name": "إيستراسيبتف ميكروجم",
+      "english_brand_name": "Estraceptive",
+      "price_egp": 41,
+      "availability_status": "In Stock",
+      "prescription_required": false,
+      "dosage_information": "35/250 | 21 tablets",
+      "therapeutic_uses": "Contraceptive"
+    },
+    {
+      "arabic_name": "دي جي كير غسول الفم بالقرنفل",
+      "english_brand_name": "DG Care",
+      "price_egp": 35,
+      "availability_status": "In Stock",
+      "prescription_required": false,
+      "dosage_information": "125ml",
+      "therapeutic_uses": "Clove mouthwash"
+    },
+    {
+      "arabic_name": "ميلاتونين",
+      "english_brand_name": "Melatonin",
+      "price_egp": 90,
+      "availability_status": "In Stock",
+      "prescription_required": false,
+      "dosage_information": "3mg | 20 capsules",
+      "therapeutic_uses": "Sleep aid"
+    },
+    {
+      "arabic_name": "هيدراسيك",
+      "english_brand_name": "Hidrasec",
+      "price_egp": 109,
+      "availability_status": "In Stock",
+      "prescription_required": false,
+      "dosage_information": "100mg | 10 capsules",
+      "therapeutic_uses": "Diarrhea medication"
+    },
+    {
+      "arabic_name": "ليفرين",
+      "english_brand_name": "Liverin",
+      "price_egp": 125,
+      "availability_status": "In Stock",
+      "prescription_required": false,
+      "dosage_information": "20 capsules",
+      "therapeutic_uses": "Liver support supplement"
+    },
+    {
+      "arabic_name": "جاستروبيوتيك",
+      "english_brand_name": "Gastrobiotic",
+      "price_egp": 344,
+      "availability_status": "In Stock",
+      "prescription_required": true,
+      "dosage_information": "550mg | 20 tablets",
+      "therapeutic_uses": "Gastrointestinal medication"
+    },
+    {
+      "arabic_name": "كاردetulnyaى اس",
+      "english_brand_name": "Cardilol CS",
+      "price_egp": 36,
+      "availability_status": "In Stock",
+      "prescription_required": true,
+      "dosage_information": "25mg | 30 tablets",
+      "therapeutic_uses": "Blood pressure medication"
+    },
+    {
+      "arabic_name": "اينيرا كولاجين",
+      "english_brand_name": "Enera Collagen",
+      "price_egp": 300,
+      "availability_status": "In Stock",
+      "prescription_required": false,
+      "dosage_information": "For joint support | 10 sachets",
+      "therapeutic_uses": "For joint support"
+    },
+    {
+      "arabic_name": "فيوسي",
+      "english_brand_name": "Fusi",
+      "price_egp": 79,
+      "availability_status": "In Stock",
+      "prescription_required": false,
+      "dosage_information": "2% | cream | 30g",
+      "therapeutic_uses": "Antifungal cream"
+    },
+    {
+      "arabic_name": "ستوبادول",
+      "english_brand_name": "Stopadol",
+      "price_egp": 50,
+      "availability_status": "In Stock",
+      "prescription_required": false,
+      "dosage_information": "Cold and Flu | 20 tablets",
+      "therapeutic_uses": "Cold and Flu"
+    },
+    {
+      "arabic_name": "ستوبادول كولد ماكس",
+      "english_brand_name": "Stopadol Cold Max",
+      "price_egp": 46,
+      "availability_status": "In Stock",
+      "prescription_required": false,
+      "dosage_information": "20 tablets",
+      "therapeutic_uses": "Cold and Flu medication"
+    },
+    {
+      "arabic_name": "راميكسول",
+      "english_brand_name": "Ramixole",
+      "price_egp": 118.5,
+      "availability_status": "In Stock",
+      "prescription_required": true,
+      "dosage_information": "1mg | 30 tablets",
+      "therapeutic_uses": "Blood pressure medication"
+    }
+  ],
+  "therapeutic_categories": {
+    "antibiotics": ["Clindam", "Zithrokan"],
+    "blood_pressure": ["Chartoreg", "Cardilol CS", "Ramixole"],
+    "urinary": ["Uricol"],
+    "contraceptives": ["Ovunhipita", "Estraceptive"],
+    "cold_flu": ["Stopadol", "Stopadol Cold Max"],
+    "liver_support": ["Liverin"],
+    "gastrointestinal": ["Gastrobiotic", "Hidrasec"],
+    "sleep_aid": ["Melatonin"],
+    "joint_support": ["Enera Collagen"],
+    "antifungal": ["Fusi"],
+    "hormonal": ["Epigonal"],
+    "oral_care": ["DG Care"],
+    "vaginal": ["Andocandoxin"],
+    "vitamins": ["Rivo"]
+  },
+  "price_analysis": {
+    "minimum_price": 7.05,
+    "maximum_price": 344,
+    "average_price": 107.5,
+    "total_page_value": 2150.05
+  },
+  "prescription_distribution": {
+    "prescription_required": 8,
+    "otc_available": 12,
+    "prescription_percentage": 40.0
+  }
+}

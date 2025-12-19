@@ -1,0 +1,28 @@
+📄 Extracted from page: شامبو وبلسم - شفاء
+URL: https://chefaa.com/eg-ar/now/category/hair-care/shampoo-conditioner
+
+Extracted content:
+```json
+{
+  "title": "شامبو وبلسم - شفاء",
+  "url": "https://chefaa.com/eg-ar/now/category/hair-care/shampoo-conditioner",
+  "summary": "The page is dedicated to 'Shampoo and Conditioner' products. It lists various hair care products such as shampoos and conditioners from brands like Eva, Selengena, L'Oreal, ACM, Bio Soft, and Clary, along with their prices. It also includes navigation links to other categories like 'Vitamins and Supplements'.",
+  "key_points": [
+    "The page is a product listing for shampoos and conditioners.",
+    "It displays product names, brands, and prices for hair care items.",
+    "No dietary supplement products are listed on this specific page.",
+    "The navigation menu includes a category for 'الفيتامينات والمكملات' (Vitamins and Supplements), but the current page content is not from that category."
+  ],
+  "relevant_links": [
+    "https://chefaa.com:443/eg-ar/now/category/hair-care/shampoo-conditioner",
+    "https://chefaa.com:443/eg-ar/now/category/vitamins-supplements",
+    "https://chefaa.com:443/eg-ar/now/category/vitamins-supplements/vitamins-minerals",
+    "https://chefaa.com:443/eg-ar/now/category/vitamins-supplements/supplements",
+    "https://chefaa.com:443/eg-ar/now/category/vitamins-supplements/slimming"
+  ],
+  "extracted_data": {
+    "message": "The extraction goal was to find 'supplement product information'. However, this page ('Shampoo and Conditioner') does not contain any supplement products. The content is exclusively about hair care products (shampoos and conditioners). To find supplement products, the user would need to navigate to the 'Vitamins and Supplements' category (الفيتامينات والمكملات)."
+  },
+  "file_name": "chefaa_shampoo_conditioner_page_no_supplements.json"
+}
+```

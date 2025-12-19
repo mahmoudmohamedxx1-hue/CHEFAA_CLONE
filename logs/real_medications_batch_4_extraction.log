@@ -1,0 +1,19 @@
+2025-11-01 13:27:41,763 - INFO - Initialized REAL extractor for batch medications_batch_4
+2025-11-01 13:27:41,763 - INFO - Output directory: data/overviews/medications_batch_4
+2025-11-01 13:27:41,763 - INFO - Target products: 200
+2025-11-01 13:27:41,763 - INFO - Starting REAL medications batch 4 extraction process
+2025-11-01 13:27:41,763 - INFO - Processing product 1/4: Controloc 20mg
+2025-11-01 13:27:41,763 - INFO - Extracting pharmaceutical details from: https://chefaa.com:443/eg-ar/nowProduct/controloc-antacid-20mg-14tab
+2025-11-01 13:27:41,763 - INFO - Successfully extracted pharmaceutical data for Controloc 20mg
+2025-11-01 13:27:41,763 - INFO - Processing product 2/4: Panadol Extra
+2025-11-01 13:27:41,763 - INFO - Extracting pharmaceutical details from: https://chefaa.com:443/eg-ar/nowProduct/panadol-extra-tab
+2025-11-01 13:27:41,763 - INFO - Successfully extracted pharmaceutical data for Panadol Extra
+2025-11-01 13:27:41,763 - INFO - Processing product 3/4: Doliprane 1000mg Paracetamol
+2025-11-01 13:27:41,763 - INFO - Extracting pharmaceutical details from: https://chefaa.com:443/eg-ar/nowProduct/novaldol-analgesic-and-pain-killer-1000-mg-15-tablets_duYpVP2r_duzDVQep
+2025-11-01 13:27:41,763 - INFO - Successfully extracted pharmaceutical data for Doliprane 1000mg Paracetamol
+2025-11-01 13:27:41,763 - INFO - Processing product 4/4: Doliprane 1000mg Paracetamol (15 tablets)
+2025-11-01 13:27:41,763 - INFO - Extracting pharmaceutical details from: https://chefaa.com:443/eg-ar/nowProduct/novaldol-analgesic-and-pain-killer-1000-mg-15-tablets
+2025-11-01 13:27:41,763 - INFO - Successfully extracted pharmaceutical data for Doliprane 1000mg Paracetamol (15 tablets)
+2025-11-01 13:27:41,773 - INFO - Results successfully saved to: data/overviews/medications_batch_4/medications_overview_batch_4_real.json
+2025-11-01 13:27:41,773 - INFO - Real extraction completed: 4/4 successful
+2025-11-01 13:27:41,773 - INFO - Results saved to: data/overviews/medications_batch_4/medications_overview_batch_4_real.json

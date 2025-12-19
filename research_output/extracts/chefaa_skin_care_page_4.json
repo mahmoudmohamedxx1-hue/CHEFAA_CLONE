@@ -1,0 +1,267 @@
+📄 Extracted from page: العناية بالبشرة - شفاء
+URL: https://chefaa.com/eg-ar/now/category/skin-care
+
+Extracted content:
+```json
+{
+  "title": "العناية بالبشرة - شفاء",
+  "url": "https://chefaa.com/eg-ar/now/category/skin-care",
+  "summary": "This document extracts product information from Chefaa.com, specifically from page 4 of the 'Skin Care' category, not 'Hair Care' as originally requested, based on the provided URL and page content. The page lists 20 skin care products, including deodorants, moisturizing creams, serums, face masks, hand scrubs, eye creams, day creams, shower creams, acne creams, facial cleansers, hydrating gels, soaps, and eye contour creams. For each product, the brand, Arabic and inferred English names, price in EGP, and available sizes/volumes are extracted. Detailed product descriptions, customer ratings/reviews, and usage instructions are not present on this product listing page.",
+  "key_points": [
+    "Product Names (Arabic & English inferred from URL/title)",
+    "Brands",
+    "Prices in EGP",
+    "Sizes/Volumes",
+    "Stock Availability (inferred as 'In Stock' due to 'Add to Cart' option)",
+    "No explicit detailed descriptions, ratings, or usage instructions visible on this page."
+  ],
+  "products": [
+    {
+      "product_name_arabic": "نيفيا | مزيل العرق بروتكت اند كير ستيك للنساء | 40مل",
+      "product_name_english": "Nivea Protect & Care Antiperspirant Deodorant Stick for Women | 40ml",
+      "brand": "نيفيا (Nivea)",
+      "price_egp": 150,
+      "stock_availability": "In Stock",
+      "specifications": {
+        "volume": "40ml",
+        "form": "Stick",
+        "type": "Deodorant"
+      }
+    },
+    {
+      "product_name_arabic": "نيفيا | سوفت كريم مرطب ومنعش للجسم | 50مل",
+      "product_name_english": "Nivea Soft Moisturizing & Refreshing Cream for Body | 50ml",
+      "brand": "نيفيا (Nivea)",
+      "price_egp": 48,
+      "stock_availability": "In Stock",
+      "specifications": {
+        "volume": "50ml",
+        "form": "Cream",
+        "type": "Moisturizer"
+      }
+    },
+    {
+      "product_name_arabic": "نيفيا | سوفت كريم مرطب ومنعش للجسم | 100مل",
+      "product_name_english": "Nivea Soft Moisturizing & Refreshing Cream for Body | 100ml",
+      "brand": "نيفيا (Nivea)",
+      "price_egp": 80,
+      "stock_availability": "In Stock",
+      "specifications": {
+        "volume": "100ml",
+        "form": "Cream",
+        "type": "Moisturizer"
+      }
+    },
+    {
+      "product_name_arabic": "نيفيا | سوفت كريم مرطب ومنعش للجسم | 200مل",
+      "product_name_english": "Nivea Soft Moisturizing & Refreshing Cream for Body | 200ml",
+      "brand": "نيفيا (Nivea)",
+      "price_egp": 145,
+      "stock_availability": "In Stock",
+      "specifications": {
+        "volume": "200ml",
+        "form": "Cream",
+        "type": "Moisturizer"
+      }
+    },
+    {
+      "product_name_arabic": "إيفا | نياسيناميد مضاد للشيخوخة | 30 مل",
+      "product_name_english": "Eva Niacinamide Anti-Aging Facial Serum | 30ml",
+      "brand": "إيفا (Eva)",
+      "price_egp": 210,
+      "stock_availability": "In Stock",
+      "specifications": {
+        "volume": "30ml",
+        "form": "Serum",
+        "type": "Anti-aging"
+      }
+    },
+    {
+      "product_name_arabic": "إيفا | قناع الفحم ينقي البشرة",
+      "product_name_english": "Eva Charcoal Sheet Mask for Skin Purification",
+      "brand": "إيفا (Eva)",
+      "price_egp": 90,
+      "stock_availability": "In Stock",
+      "specifications": {
+        "quantity": "3 sheets (inferred from URL)",
+        "form": "Sheet Mask",
+        "type": "Purifying"
+      }
+    },
+    {
+      "product_name_arabic": "إيفا | مقشر لليد جولد سبيل | 50مل",
+      "product_name_english": "Eva Gold Spell Hand Scrub | 50ml",
+      "brand": "إيفا (Eva)",
+      "price_egp": 70,
+      "stock_availability": "In Stock",
+      "specifications": {
+        "volume": "50ml",
+        "form": "Scrub",
+        "type": "Hand Care"
+      }
+    },
+    {
+      "product_name_arabic": "إيفا | ناتشورال جلو كريم لتفتيح وترطيب منطقة حول العين | 15جم",
+      "product_name_english": "Eva Natural Glow Lightening & Moisturizing Eye Contour Cream | 15gm",
+      "brand": "إيفا (Eva)",
+      "price_egp": 65,
+      "stock_availability": "In Stock",
+      "specifications": {
+        "volume": "15gm",
+        "form": "Cream",
+        "type": "Eye Care"
+      }
+    },
+    {
+      "product_name_arabic": "إيفا | كريم نهاري للعناية بالبشرة بعامل حماية من الشمس SPF ...",
+      "product_name_english": "Eva Skin Care Natural Glow Day Cream SPF 30 | 50gm",
+      "brand": "إيفا (Eva)",
+      "price_egp": 100,
+      "stock_availability": "In Stock",
+      "specifications": {
+        "volume": "50gm",
+        "form": "Cream",
+        "type": "Day Cream with SPF 30"
+      }
+    },
+    {
+      "product_name_arabic": "ايفا | كريم الاستحمام سكين كير باشون | 250مل",
+      "product_name_english": "Eva Skin Care Shower Cream Passion | 250ml",
+      "brand": "ايفا (Eva)",
+      "price_egp": 100,
+      "stock_availability": "In Stock",
+      "specifications": {
+        "volume": "250ml",
+        "form": "Cream",
+        "type": "Shower Cream"
+      }
+    },
+    {
+      "product_name_arabic": "إيفا | ماسك الكولاجين من سكين كلينيك",
+      "product_name_english": "Eva Skin Clinic Collagen Sheet Mask",
+      "brand": "إيفا (Eva)",
+      "price_egp": 90,
+      "stock_availability": "In Stock",
+      "specifications": {
+        "quantity": "3 (inferred from URL)",
+        "form": "Sheet Mask",
+        "type": "Collagen Mask"
+      }
+    },
+    {
+      "product_name_arabic": "إيفا | كريم الوجه الخالي من البقع | 18 جرام",
+      "product_name_english": "Eva Spotless Face Cream | 18gm",
+      "brand": "إيفا (Eva)",
+      "price_egp": 25,
+      "stock_availability": "In Stock",
+      "specifications": {
+        "volume": "18gm",
+        "form": "Cream",
+        "type": "Spot Treatment"
+      }
+    },
+    {
+      "product_name_arabic": "كريم ستارفيل للحبوب وإزالة الرؤوس السوداء للبشرة الدهنية | ...",
+      "product_name_english": "Starville Acne Prone Skin Cream for Pimples and Blackhead Removal",
+      "brand": "ستارفيل (Starville)",
+      "price_egp": 85,
+      "stock_availability": "In Stock",
+      "specifications": {
+        "type": "Acne Cream",
+        "skin_type": "Oily Skin"
+      }
+    },
+    {
+      "product_name_arabic": "ستارفيل غسول جل للبشرة الدهنية والمعرضة للحبوب | 100 مل",
+      "product_name_english": "Starville Acne Prone Skin Facial Cleanser Gel | 100ml",
+      "brand": "ستارفيل (Starville)",
+      "price_egp": 80,
+      "stock_availability": "In Stock",
+      "specifications": {
+        "volume": "100ml",
+        "form": "Gel Cleanser",
+        "skin_type": "Oily & Acne-prone Skin"
+      }
+    },
+    {
+      "product_name_arabic": "غسول ستارفيل للحبوب starville غسول للبشرة الدهنية والمختلطة...",
+      "product_name_english": "Starville Facial Cleanser for Pimples | Oily & Combination Skin",
+      "brand": "ستارفيل (Starville)",
+      "price_egp": 125,
+      "stock_availability": "In Stock",
+      "specifications": {
+        "form": "Cleanser",
+        "skin_type": "Oily & Combination Skin"
+      }
+    },
+    {
+      "product_name_arabic": "ستارفيل غسول جل للبشرة الدهنية والمعرضة للحبوب | 400 مل",
+      "product_name_english": "Starville Acne Prone Skin Facial Cleanser Gel | 400ml",
+      "brand": "ستارفيل (Starville)",
+      "price_egp": 210,
+      "stock_availability": "In Stock",
+      "specifications": {
+        "volume": "400ml",
+        "form": "Gel Cleanser",
+        "skin_type": "Oily & Acne-prone Skin"
+      }
+    },
+    {
+      "product_name_arabic": "ستارفيل | جل مرطب للبشرة الدهنية | 100جم",
+      "product_name_english": "Starville Hydrating Gel for Oily Skin | 100gm",
+      "brand": "ستارفيل (Starville)",
+      "price_egp": 175,
+      "stock_availability": "In Stock",
+      "specifications": {
+        "volume": "100gm",
+        "form": "Gel Moisturizer",
+        "skin_type": "Oily Skin"
+      }
+    },
+    {
+      "product_name_arabic": "صابونة ستارفيل للحبوب للبشره الدهنية | 100جم",
+      "product_name_english": "Starville Acne Soap for Oily Skin | 100gm",
+      "brand": "ستارفيل (Starville)",
+      "price_egp": 50,
+      "stock_availability": "In Stock",
+      "specifications": {
+        "volume": "100gm",
+        "form": "Soap",
+        "skin_type": "Oily Skin"
+      }
+    },
+    {
+      "product_name_arabic": "ستارفيل | ماسك ورقي للبشرة المعرضة للحبوب | 1 كيس",
+      "product_name_english": "Starville Acne Prone Skin Face Mask | 1 sachet",
+      "brand": "ستارفيل (Starville)",
+      "price_egp": 45,
+      "stock_availability": "In Stock",
+      "specifications": {
+        "volume": "1 sachet",
+        "form": "Sheet Mask",
+        "skin_type": "Acne-prone Skin"
+      }
+    },
+    {
+      "product_name_arabic": "ستارفيل | اي كونتور للعين للهالات السوداء | 30جم",
+      "product_name_english": "Starville Eye Contour Cream for Dark Circles | 30gm",
+      "brand": "ستارفيل (Starville)",
+      "price_egp": 220,
+      "stock_availability": "In Stock",
+      "specifications": {
+        "volume": "30gm",
+        "form": "Cream",
+        "type": "Eye Contour Cream"
+      }
+    }
+  ],
+  "relevant_links": [
+    "https://chefaa.com/eg-ar/now/category/skin-care",
+    "https://chefaa.com/eg-ar/now/category/skin-care?page=2",
+    "https://chefaa.com/eg-ar/now/category/skin-care?page=3",
+    "https://chefaa.com/eg-ar/now/category/skin-care?page=5",
+    "https://chefaa.com/eg-ar/now/category/skin-care?page=56"
+  ],
+  "file_name": "chefaa_skin_care_page_4.json"
+}
+```

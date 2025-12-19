@@ -1,0 +1,221 @@
+{
+  "extraction_metadata": {
+    "batch_number": 6,
+    "batch_name": "Real Data Extraction from Chefaa.com",
+    "extraction_date": "2025-11-01T13:09:08.683477",
+    "data_source": "chefaa.com - Real product page extraction",
+    "requested_range": "1001-1200 (200 products)",
+    "actual_range_processed": "10 real product pages with valid URLs",
+    "methodology": "Actual web scraping from chefaa.com product pages"
+  },
+  "honest_assessment": {
+    "requested_products_1001_1200": {
+      "status": "CANNOT BE EXTRACTED",
+      "reason": "Consolidated database only contains 380 products total",
+      "products_available": 380,
+      "target_range_availability": "NO PRODUCTS IN RANGE 1001-1200"
+    },
+    "actual_extraction_attempt": {
+      "products_with_valid_urls": 40,
+      "products_actually_extracted": 10,
+      "extraction_success_rate": "10/40 (25%)",
+      "real_pharmaceutical_data_extracted": "Only 1 product (Sleepez) had comprehensive data"
+    },
+    "data_quality_analysis": {
+      "comprehensive_extractions": 1,
+      "limited_extractions": 9,
+      "failed_extractions": 0,
+      "success_rate_quality": "Only 1/10 products contained pharmaceutical information"
+    }
+  },
+  "extraction_results": {
+    "statirose_20mg": {
+      "product_name": "Statirose 20mg tablets",
+      "url": "https://chefaa.com:443/eg-ar/nowProduct/statirose-20mg-10tab-3eng",
+      "extraction_status": "SUCCESS - ECOMMERCE DATA ONLY",
+      "extracted_data": {
+        "price": "52 EGP",
+        "availability": "May not be available",
+        "description": "Basic product listing page",
+        "clinical_info": "None - No pharmaceutical details available on page"
+      },
+      "data_quality": "LIMITED - Only e-commerce information available"
+    },
+    "spascolon_100mg": {
+      "product_name": "Spascolon 100mg tablets",
+      "url": "https://chefaa.com:443/eg-ar/nowProduct/spascolon-100mg-30tab-lqi1",
+      "extraction_status": "SUCCESS - ECOMMERCE DATA ONLY",
+      "extracted_data": {
+        "price": "108 EGP",
+        "availability": "Available",
+        "description": "30 tablets package",
+        "clinical_info": "None - No pharmaceutical details available on page"
+      },
+      "data_quality": "LIMITED - Only e-commerce information available"
+    },
+    "solvimyst_syrup": {
+      "product_name": "Solvimyst Syrup 120ml",
+      "url": "https://chefaa.com:443/eg-ar/nowProduct/solvimyst-syrup-120ml-4vgs",
+      "extraction_status": "SUCCESS - ECOMMERCE DATA ONLY",
+      "extracted_data": {
+        "price": "44 EGP",
+        "description": "120ml syrup package",
+        "clinical_info": "None - No pharmaceutical details available on page"
+      },
+      "data_quality": "LIMITED - Only e-commerce information available"
+    },
+    "sleepez_2mg": {
+      "product_name": "Sleepez 2mg tablets",
+      "url": "https://chefaa.com:443/eg-ar/nowProduct/sleepez-2mg-20tab-zdow",
+      "extraction_status": "SUCCESS - COMPREHENSIVE DATA",
+      "extracted_data": {
+        "active_ingredients": "Eszopiclone 2mg",
+        "therapeutic_applications": [
+          "Treatment of insomnia and difficulty sleeping",
+          "Improves sleep quality",
+          "Contributes to falling asleep quickly and easily"
+        ],
+        "dosage_information": {
+          "initial_dose": "1 mg once daily",
+          "dose_increase": "May be increased by physician to 2 mg or 3 mg if lower doses are ineffective",
+          "maximum_dose": "3 mg once daily",
+          "administration_time": "Immediately before bedtime",
+          "route": "Oral",
+          "special_instructions": "To be used only under medical supervision according to the dose and duration specified by the doctor"
+        },
+        "safety_information": {
+          "warnings": "To be used only under medical supervision",
+          "contraindications": "Not specified",
+          "precautions": "Not specified"
+        },
+        "alternatives": [
+          "Night Calm",
+          "Magicpiclone",
+          "Nestacoran",
+          "Noctiplon"
+        ],
+        "manufacturer": "Chemipharm",
+        "price_variations": {
+          "sleepez_1mg": "14 EGP",
+          "sleepez_2mg": "18 EGP",
+          "sleepez_3mg": "57 EGP"
+        }
+      },
+      "data_quality": "GOOD - Comprehensive pharmaceutical information extracted"
+    },
+    "shatoo_200_50mg": {
+      "product_name": "Shatoo 200/50mg tablets",
+      "url": "https://chefaa.com:443/eg-ar/nowProduct/shatoo-20050mg-7tab-xbut",
+      "extraction_status": "SUCCESS - ECOMMERCE DATA ONLY",
+      "extracted_data": {
+        "price": "52 EGP",
+        "manufacturer": "ايجي فار فارما (Egyphar Pharma)",
+        "description": "7 tablets package",
+        "clinical_info": "None - No pharmaceutical details available on page"
+      },
+      "data_quality": "LIMITED - Only e-commerce information available"
+    },
+    "bioprex_25mg": {
+      "product_name": "Bioprex 2.5mg tablets",
+      "url": "https://chefaa.com:443/eg-ar/nowProduct/bioprex-25mg-30tab-buka",
+      "extraction_status": "SUCCESS - ECOMMERCE DATA ONLY",
+      "extracted_data": {
+        "price": "90 EGP",
+        "description": "30 tablets package",
+        "clinical_info": "None - No pharmaceutical details available on page"
+      },
+      "data_quality": "LIMITED - Only e-commerce information available"
+    },
+    "bisolock_25mg": {
+      "product_name": "Bisolock 2.5mg tablets",
+      "url": "https://chefaa.com:443/eg-ar/nowProduct/bisolock-25mg-30tab-cdnm",
+      "extraction_status": "SUCCESS - ECOMMERCE DATA ONLY",
+      "extracted_data": {
+        "price": "48 EGP",
+        "description": "30 tablets package",
+        "note": "Pharmacy can view prescription/leaflet",
+        "clinical_info": "None - No pharmaceutical details available on page"
+      },
+      "data_quality": "LIMITED - Only e-commerce information available"
+    },
+    "savibleed_500mg": {
+      "product_name": "Savibleed 500mg tablets",
+      "url": "https://chefaa.com:443/eg-ar/nowProduct/savibleed-500mg-20tab-iwxd",
+      "extraction_status": "SUCCESS - ECOMMERCE DATA ONLY",
+      "extracted_data": {
+        "price": "62 EGP",
+        "description": "20 tablets package",
+        "note": "Prescription link available for pharmacy viewing",
+        "clinical_info": "None - No pharmaceutical details available on page"
+      },
+      "data_quality": "LIMITED - Only e-commerce information available"
+    },
+    "rhinocalm": {
+      "product_name": "Rhinocalm tablets",
+      "url": "https://chefaa.com:443/eg-ar/nowProduct/rhinocalm-20tab-af7b",
+      "extraction_status": "SUCCESS - ECOMMERCE DATA ONLY",
+      "extracted_data": {
+        "price": "56 EGP",
+        "description": "20 tablets package",
+        "clinical_info": "None - No pharmaceutical details available on page"
+      },
+      "data_quality": "LIMITED - Only e-commerce information available"
+    },
+    "pulmiprove_625mg": {
+      "product_name": "Pulmiprove 62.5mg capsules",
+      "url": "https://chefaa.com:443/eg-ar/nowProduct/pulmiprove-625mg-30cap-ww8y",
+      "extraction_status": "SUCCESS - ECOMMERCE DATA ONLY",
+      "extracted_data": {
+        "price": "1380 EGP",
+        "description": "30 capsules package",
+        "note": "Pharmacy can request prescription leaflet",
+        "clinical_info": "None - No pharmaceutical details available on page"
+      },
+      "data_quality": "LIMITED - Only e-commerce information available"
+    }
+  },
+  "key_findings": {
+    "pharmaceutical_data_availability": "Very limited on chefaa.com product pages",
+    "data_types_extracted": [
+      "Product names and descriptions (100%)",
+      "Pricing information (100%)",
+      "Basic specifications (100%)",
+      "Active ingredients (10%) - Only Sleepez",
+      "Therapeutic applications (10%) - Only Sleepez",
+      "Dosage information (10%) - Only Sleepez",
+      "Safety information (10%) - Only Sleepez"
+    ],
+    "major_limitations": [
+      "Most product pages are e-commerce listings only",
+      "No pharmaceutical details like contraindications, adverse effects, drug interactions",
+      "No clinical guidelines or pregnancy safety information",
+      "Many products require prescription but details not accessible on public pages"
+    ]
+  },
+  "comparative_analysis": {
+    "previous_fake_data": {
+      "products_processed": 200,
+      "completeness_reported": "100%",
+      "reality": "All data was simulated/template-filled"
+    },
+    "real_extraction": {
+      "products_processed": 10,
+      "completeness_reported": "10% - Only 1 product had pharmaceutical data",
+      "reality": "Only e-commerce data available for 90% of products"
+    }
+  },
+  "recommendations": {
+    "data_sources": [
+      "Use professional pharmaceutical databases like FDA, EMA, WHO",
+      "Access manufacturer websites for detailed drug information",
+      "Use medical literature databases like PubMed",
+      "Consult licensed pharmaceutical data providers"
+    ],
+    "extraction_strategy": [
+      "Focus on products with actual pharmaceutical pages",
+      "Combine web scraping with professional medical databases",
+      "Prioritize FDA/EMA approved medications with full documentation",
+      "Use pharmaceutical APIs for structured drug data"
+    ]
+  }
+}

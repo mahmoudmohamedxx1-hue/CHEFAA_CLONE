@@ -1,0 +1,203 @@
+📄 Extracted from page: العناية بالبشرة - شفاء
+URL: https://chefaa.com/eg-ar/now/category/skin-care?products_eg%5Bquery%5D=%D8%B4%D8%A7%D9%85%D8%A8%D9%88&products_eg%5Brange%5D%5Bfinal_price%5D=%3A8000
+
+Extracted content:
+```json
+{
+  "title": "العناية بالبشرة - شفاء",
+  "url": "https://chefaa.com/eg-ar/now/category/skin-care?products_eg%5Bquery%5D=%D8%B4%D8%A7%D9%85%D8%A8%D9%88&products_eg%5Brange%5D%5Bfinal_price%5D=%3A8000",
+  "summary": "This page displays a list of 20 shampoo products from the 'Chefaa' online pharmacy, resulting from a search query for 'شامبو' (shampoo). Each product listing includes the product name, brand, price, and sometimes volume. No conditioner products were explicitly listed in the displayed titles on this page.",
+  "key_points": [
+    "A total of 20 shampoo products were extracted from the search results on this page.",
+    "Products include various brands such as Nizapex, Eva, Selengena, L'Oréal, ACM, and Aloekita.",
+    "Prices range from 68.00 EGP to 549.00 EGP.",
+    "Many products specify their volume in milliliters."
+  ],
+  "products": [
+    {
+      "name": "Nizapex Shampoo for Dandruff and Fungi",
+      "brand": "Nizapex",
+      "price": 68.00,
+      "currency": "EGP",
+      "volume": "80 ml",
+      "type": "Shampoo"
+    },
+    {
+      "name": "Optimum Care Recipe Hydrating Blend Shampoo with Berry Scent",
+      "brand": "Eva",
+      "price": 125.00,
+      "currency": "EGP",
+      "volume": "350ml",
+      "type": "Shampoo"
+    },
+    {
+      "name": "Optimum Care Recipe Nourishing Blend Shampoo with Coconut Scent",
+      "brand": "Eva",
+      "price": 125.00,
+      "currency": "EGP",
+      "volume": "350ml",
+      "type": "Shampoo"
+    },
+    {
+      "name": "Eva Marshmallow Optimum Care Recipe Shampoo",
+      "brand": "Eva",
+      "price": 125.00,
+      "currency": "EGP",
+      "volume": "350 ml",
+      "type": "Shampoo"
+    },
+    {
+      "name": "Optimum Care Recipe Strength Booster Blend Shampoo with Mocha Scent",
+      "brand": "Eva",
+      "price": 125.00,
+      "currency": "EGP",
+      "volume": "350ml",
+      "type": "Shampoo"
+    },
+    {
+      "name": "Selengena Shampoo - Medical Anti-dandruff Shampoo",
+      "brand": "Selengena",
+      "price": 105.00,
+      "currency": "EGP",
+      "volume": "120 ml",
+      "type": "Shampoo"
+    },
+    {
+      "name": "Selengena Anti-dandruff Shampoo",
+      "brand": "Selengena",
+      "price": 165.00,
+      "currency": "EGP",
+      "volume": "220ml",
+      "type": "Shampoo"
+    },
+    {
+      "name": "L'Oréal Excellence Hair Dye with Purple Shampoo and Hair Mask - 7.12 Cool Pearl Blonde",
+      "brand": "L'Oréal",
+      "price": 327.00,
+      "currency": "EGP",
+      "volume": null,
+      "type": "Shampoo (part of a kit)"
+    },
+    {
+      "name": "L'Oréal Elvive Pure Hyaluron Shampoo for Oily Hair",
+      "brand": "L'Oréal Elvive",
+      "price": 125.00,
+      "currency": "EGP",
+      "volume": "200ml",
+      "type": "Shampoo"
+    },
+    {
+      "name": "L'Oréal Paris Elvive 3-in-1 Shampoo for Dry Hair",
+      "brand": "L'Oréal Paris",
+      "price": 427.00,
+      "currency": "EGP",
+      "volume": "400ml",
+      "type": "Shampoo"
+    },
+    {
+      "name": "L'Oréal Paris Elvive Dream Long Shampoo (20% off)",
+      "brand": "L'Oréal Paris",
+      "price": 105.50,
+      "currency": "EGP",
+      "volume": "400ml",
+      "type": "Shampoo"
+    },
+    {
+      "name": "L'Oréal Paris Elvive Shampoo for Normal and Dry Hair",
+      "brand": "L'Oréal Paris",
+      "price": 120.00,
+      "currency": "EGP",
+      "volume": "200ml",
+      "type": "Shampoo"
+    },
+    {
+      "name": "L'Oréal Paris Elvive Shampoo with Precious Oils for Very Dry Hair",
+      "brand": "L'Oréal Paris",
+      "price": 125.00,
+      "currency": "EGP",
+      "volume": "200ml",
+      "type": "Shampoo"
+    },
+    {
+      "name": "L'Oréal Paris Elvive Hyaluron Moisturizing Shampoo for Dry and Damaged Hair",
+      "brand": "L'Oréal Paris",
+      "price": 214.00,
+      "currency": "EGP",
+      "volume": "600 ml",
+      "type": "Shampoo"
+    },
+    {
+      "name": "L'Oréal Purple Hyaluronic Shampoo for Dry and Brittle Hair",
+      "brand": "L'Oréal",
+      "price": 190.00,
+      "currency": "EGP",
+      "volume": "400 ml",
+      "type": "Shampoo"
+    },
+    {
+      "name": "L'Oréal Paris Total Repair 5 Elvive Shampoo",
+      "brand": "L'Oréal Paris",
+      "price": 240.00,
+      "currency": "EGP",
+      "volume": "600ml",
+      "type": "Shampoo"
+    },
+    {
+      "name": "L'Oréal Paris Jojoba Oil Shampoo for Very Dry Hair",
+      "brand": "L'Oréal Paris",
+      "price": 188.00,
+      "currency": "EGP",
+      "volume": "400ml",
+      "type": "Shampoo"
+    },
+    {
+      "name": "L'Oréal Paris Elvive Hyaluron Moisturizing Shampoo for Dry and Damaged Hair",
+      "brand": "L'Oréal Paris",
+      "price": 125.00,
+      "currency": "EGP",
+      "volume": "200 ml",
+      "type": "Shampoo"
+    },
+    {
+      "name": "ACM Shampoo for All Hair Types",
+      "brand": "ACM",
+      "price": 549.00,
+      "currency": "EGP",
+      "volume": "125ml",
+      "type": "Shampoo"
+    },
+    {
+      "name": "Aloekita Blue Caffeine Shampoo for Hair Loss Reduction",
+      "brand": "Aloekita",
+      "price": 199.00,
+      "currency": "EGP",
+      "volume": "200ml",
+      "type": "Shampoo"
+    }
+  ],
+  "total_products_found": 20,
+  "relevant_links": [
+    "https://chefaa.com/eg-ar/nowProduct/nizapex-shampoo-80-ml",
+    "https://chefaa.com/eg-ar/nowProduct/eva-optimum-care-recipe-hydrating-blend-conditioner-berries-scent-350ml-8jum_du1crEnW_dudCQvpo",
+    "https://chefaa.com/eg-ar/nowProduct/eva-optimum-care-recipe-nourishing-blend-conditioner-coconut-scent-350ml-aaoa_duBQ7C5V_duTLxA4X",
+    "https://chefaa.com/eg-ar/nowProduct/eva-optimum-care-recipe-silk-shine-blend-conditioner-marshmallow-scent-350ml-927y_du6jnwer_duu1s4x3",
+    "https://chefaa.com/eg-ar/nowProduct/eva-optimum-care-recipe-strength-booster-blend-conditioner-mocha-scent-350ml-gxfw_du0sg14E_du05TqIG",
+    "https://chefaa.com/eg-ar/nowProduct/selengena-anti-dandruff-shampoo",
+    "https://chefaa.com/eg-ar/nowProduct/selengena-shampoo-120ml-hglu_duDDxrSW_due2Utxn",
+    "https://chefaa.com/eg-ar/nowProduct/excellence-hair-color-ash-supreme-pearl-blonde-712-llgp",
+    "https://chefaa.com/eg-ar/nowProduct/loréal-elvive-hyaluron-pure-purifying-shampoo-for-oily-hair-200ml-bmba",
+    "https://chefaa.com/eg-ar/nowProduct/loreal-paris-3-in-1-elvive-extraordinary-oil-low-shampoo-for-dry-hair-400ml",
+    "https://chefaa.com/eg-ar/nowProduct/loreal-elvive-dream-long-reinforcing-shampoo-for-weakened-long-hair-20-offsUum",
+    "https://chefaa.com/eg-ar/nowProduct/loreal-paris-elvive-extraordinary-oil-very-dry-hair-shampoo-200ml",
+    "https://chefaa.com/eg-ar/nowProduct/loreal-paris-elvive-extraordinary-oil-very-dry-hair-shampoo-200ml-727-oyaq_duBmcLYD",
+    "https://chefaa.com/eg-ar/nowProduct/loréal-paris-elvive-hydra-hyaluronic-shampoo-600ml-z8gz",
+    "https://chefaa.com/eg-ar/nowProduct/loréal-paris-elvive-hydra-hyaluronic-shampoo-400ml-ydqs",
+    "https://chefaa.com/eg-ar/nowProduct/loréal-paris-elvive-total-repair-5-shampoo-600ml-emzp",
+    "https://chefaa.com/eg-ar/nowProduct/loréal-paris-dry-to-very-dry-hair-oil-shampoo-200ml-wzmm",
+    "https://chefaa.com/eg-ar/nowProduct/loreal-paris-elvive-hyaluron-moisture-shampoo-200ml-9cte",
+    "https://chefaa.com/eg-ar/nowProduct/acm-shampoo-for-all-hairs-125-ml-eljg_du6zowhF",
+    "https://chefaa.com/eg-ar/nowProduct/aloekita-hair-shampoo-200ml-uw6j"
+  ],
+  "file_name": "chefaa_shampoo_products.json"
+}
+```

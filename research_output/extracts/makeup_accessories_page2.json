@@ -1,0 +1,271 @@
+📄 Extracted from page: المكياج و الاكسسوارات - شفاء
+URL: https://chefaa.com/eg-ar/now/category/makeup-accessories?page=2
+
+Extracted content:
+```json
+{
+  "title": "المكياج و الاكسسوارات - شفاء",
+  "url": "https://chefaa.com/eg-ar/now/category/makeup-accessories?page=2",
+  "summary": "This page displays a list of 20 makeup and accessories products from Chefaa, specifically for page 2 of the 'Makeup & Accessories' category. The products include various nail polishes, nail care items, makeup removers, foundations, lip balm, and lash/brow growth gels. All listed items appear to be in stock with their respective prices.",
+  "key_points": [
+    "20 makeup and accessories products are listed on page 2.",
+    "Product categories include nail polish, nail care, makeup remover, foundation, lip balm, and lash/brow gels.",
+    "All products are currently indicated as 'In stock' based on the presence of an 'Add to cart' option.",
+    "Prices for these products range from 60 EGP to 499 EGP.",
+    "No customer ratings are displayed for the products on this page."
+  ],
+  "relevant_links": [
+    "https://chefaa.com:443/eg-ar/now/category/makeup-accessories?page=1",
+    "https://chefaa.com:443/eg-ar/now/category/makeup-accessories?page=3",
+    "https://chefaa.com:443/eg-ar/now/category/makeup-accessories?page=4"
+  ],
+  "products": [
+    {
+      "product_name": "يولو | طلاء اظافر رقم 114",
+      "description": "Nail polish in color number 114.",
+      "price": "65 جنيه",
+      "brand": "يولو",
+      "rating": "N/A",
+      "stock_status": "In stock",
+      "specifications": [
+        "Color: No. 114",
+        "Volume: 10ml"
+      ]
+    },
+    {
+      "product_name": "يولو | سيروم العناية بالأظافر 13",
+      "description": "Nail care serum number 13.",
+      "price": "85 جنيه",
+      "brand": "يولو",
+      "rating": "N/A",
+      "stock_status": "In stock",
+      "specifications": [
+        "Type: Cuticle serum",
+        "Volume: 10ml"
+      ]
+    },
+    {
+      "product_name": "موود | جل استحمام ليلي",
+      "description": "Night shower gel for a relaxing bathing experience.",
+      "price": "89 جنيه",
+      "brand": "موود",
+      "rating": "N/A",
+      "stock_status": "In stock",
+      "specifications": [
+        "Type: Shower Gel",
+        "Volume: 750ml"
+      ]
+    },
+    {
+      "product_name": "إيزابيلا | قطن لإزالة المكياج",
+      "description": "Lint-free cotton pads designed for effective makeup removal.",
+      "price": "85 جنيه",
+      "brand": "إيزابيلا",
+      "rating": "N/A",
+      "stock_status": "In stock",
+      "specifications": [
+        "Quantity: 70 pieces",
+        "Feature: Lint-free"
+      ]
+    },
+    {
+      "product_name": "يولو | طلاء أظافر 124",
+      "description": "Nail polish in color number 124.",
+      "price": "65 جنيه",
+      "brand": "يولو",
+      "rating": "N/A",
+      "stock_status": "In stock",
+      "specifications": [
+        "Color: No. 124",
+        "Volume: 10ml"
+      ]
+    },
+    {
+      "product_name": "يولو | طلاء أظافر 206",
+      "description": "Nail polish in color number 206.",
+      "price": "65 جنيه",
+      "brand": "يولو",
+      "rating": "N/A",
+      "stock_status": "In stock",
+      "specifications": [
+        "Color: No. 206",
+        "Volume: 10ml"
+      ]
+    },
+    {
+      "product_name": "ايلى | العناية بالاظافر بانثينول بالصبار",
+      "description": "Nail care product formulated with Panthenol and Aloe.",
+      "price": "65 جنيه",
+      "brand": "ايلى",
+      "rating": "N/A",
+      "stock_status": "In stock",
+      "specifications": [
+        "Ingredients: Panthenol, Aloe",
+        "Volume: 14ml"
+      ]
+    },
+    {
+      "product_name": "بامبينو | وسادات قطنية طبيعية مضادة للبكتيريا",
+      "description": "Natural anti-bacterial cotton pads.",
+      "price": "87 جنيه",
+      "brand": "بامبينو",
+      "rating": "N/A",
+      "stock_status": "In stock",
+      "specifications": [
+        "Quantity: 50 pieces",
+        "Feature: Natural, Anti-bacterial"
+      ]
+    },
+    {
+      "product_name": "نانو تريت | كريم اساس بمعامل حماية SPF30 - لايت",
+      "description": "Foundation with SPF30 protection in a light shade.",
+      "price": "499 جنيه",
+      "brand": "نانو تريت",
+      "rating": "N/A",
+      "stock_status": "In stock",
+      "specifications": [
+        "Type: Foundation",
+        "Shade: Light",
+        "SPF: 30",
+        "Volume: 30ml"
+      ]
+    },
+    {
+      "product_name": "يولو | طلاء اظافر رقم 182",
+      "description": "Nail polish in color number 182.",
+      "price": "65 جنيه",
+      "brand": "يولو",
+      "rating": "N/A",
+      "stock_status": "In stock",
+      "specifications": [
+        "Color: No. 182",
+        "Volume: 10ml"
+      ]
+    },
+    {
+      "product_name": "يولو | طلاء اظافر رقم 117",
+      "description": "Nail polish in color number 117.",
+      "price": "65 جنيه",
+      "brand": "يولو",
+      "rating": "N/A",
+      "stock_status": "In stock",
+      "specifications": [
+        "Color: No. 117",
+        "Volume: 10ml"
+      ]
+    },
+    {
+      "product_name": "إيزابيلا | وسادات قطنية لإزالة المكياج",
+      "description": "Cotton pads for makeup removal.",
+      "price": "90 جنيه",
+      "brand": "إيزابيلا",
+      "rating": "N/A",
+      "stock_status": "In stock",
+      "specifications": [
+        "Quantity: 120 pieces"
+      ]
+    },
+    {
+      "product_name": "ليبلي | مرطب شفاه لامع بنكهة التوت البري للعناية والحماية",
+      "description": "Glossy lip balm with wild berries flavor for lip care and protection.",
+      "price": "99 جنيه",
+      "brand": "ليبلي",
+      "rating": "N/A",
+      "stock_status": "In stock",
+      "specifications": [
+        "Flavor: Wild Berries",
+        "Feature: Glossy, Care, Protection"
+      ]
+    },
+    {
+      "product_name": "يولو | طلاء أظافر 239",
+      "description": "Nail polish in color number 239.",
+      "price": "65 جنيه",
+      "brand": "يولو",
+      "rating": "N/A",
+      "stock_status": "In stock",
+      "specifications": [
+        "Color: No. 239",
+        "Volume: 10ml"
+      ]
+    },
+    {
+      "product_name": "يولو | طلاء أظافر 211",
+      "description": "Nail polish in color number 211.",
+      "price": "65 جنيه",
+      "brand": "يولو",
+      "rating": "N/A",
+      "stock_status": "In stock",
+      "specifications": [
+        "Color: No. 211",
+        "Volume: 10ml"
+      ]
+    },
+    {
+      "product_name": "رو افريكان | فوليكل بوستر جل للرموش",
+      "description": "Follicle Booster gel for eyelashes.",
+      "price": "235 جنيه",
+      "brand": "رو افريكان",
+      "rating": "N/A",
+      "stock_status": "In stock",
+      "specifications": [
+        "Type: Eyelash Gel",
+        "Feature: Follicle Booster",
+        "Volume: 5gm"
+      ]
+    },
+    {
+      "product_name": "ديوك | بايب جل للحواجب",
+      "description": "Bayeb eyebrow gel.",
+      "price": "270 جنيه",
+      "brand": "ديوك",
+      "rating": "N/A",
+      "stock_status": "In stock",
+      "specifications": [
+        "Type: Eyebrow Gel",
+        "Volume: 12ml"
+      ]
+    },
+    {
+      "product_name": "رو افريكان للحواجب فوليكل بوستر زيت لإنبات شعر الحواجب",
+      "description": "Follicle Booster oil for eyebrow hair growth.",
+      "price": "150 جنيه",
+      "brand": "رو افريكان",
+      "rating": "N/A",
+      "stock_status": "In stock",
+      "specifications": [
+        "Type: Eyebrow Oil",
+        "Feature: Follicle Booster, Hair growth",
+        "Volume: 15ml"
+      ]
+    },
+    {
+      "product_name": "يولو | طلاء اظافر 227",
+      "description": "Nail polish in color number 227.",
+      "price": "60 جنيه",
+      "brand": "يولو",
+      "rating": "N/A",
+      "stock_status": "In stock",
+      "specifications": [
+        "Color: No. 227",
+        "Volume: 10ml"
+      ]
+    },
+    {
+      "product_name": "إيفا كولاجين | بي بي كريم غامق",
+      "description": "BB cream in a dark shade, formulated with collagen for anti-aging benefits.",
+      "price": "270 جنيه",
+      "brand": "إيفا كولاجين",
+      "rating": "N/A",
+      "stock_status": "In stock",
+      "specifications": [
+        "Type: BB Cream",
+        "Shade: Dark",
+        "Feature: Anti-ageing, Collagen",
+        "Volume: 50ml"
+      ]
+    }
+  ],
+  "file_name": "makeup_accessories_page2.json"
+}
+```

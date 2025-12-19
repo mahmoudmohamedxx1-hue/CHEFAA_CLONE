@@ -1,0 +1,22 @@
+📄 Extracted from page: العناية بالشعر - شفاء
+URL: https://chefaa.com/eg-ar/now/category/hair-care
+
+Extracted content:
+```json
+{
+  "title": "العناية بالشعر - شفاء",
+  "url": "https://chefaa.com/eg-ar/now/category/hair-care",
+  "summary": "The provided page is for the 'Hair Care' category on Chefaa. While the goal is to extract detailed information about the 'Kids & Infant medications' page, this specific page does not display products, pagination, or page indicators directly for 'Kids & Infant medications'. However, a navigation link to the 'Kids & Infant medications' category is available within the site's main menu.",
+  "key_points": [
+    "The current page is dedicated to 'Hair Care' products, not 'Kids & Infant medications'.",
+    "No specific product listings, pagination elements, or page indicators for 'Kids & Infant medications' are present on this 'Hair Care' page.",
+    "A navigation control leading to the 'Kids & Infant medications' page is found in the main menu under the 'Medications' (الأدوية) section. The link is labeled 'أدوية الأطفال'.",
+    "The direct URL for the 'Kids & Infant medications' category is: `https://chefaa.com:443/eg-ar/now/category/medications/kids-infant-medications`.",
+    "The page also features general site navigation, search functionality, and options for selecting delivery location."
+  ],
+  "relevant_links": [
+    "https://chefaa.com:443/eg-ar/now/category/medications/kids-infant-medications"
+  ],
+  "file_name": "chefaa_kids_infant_medications_page_ref.json"
+}
+```

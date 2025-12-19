@@ -1,0 +1,23 @@
+📄 Extracted from page: العناية بالشعر - شفاء
+URL: https://chefaa.com/eg-ar/now/category/hair-care
+
+Extracted content:
+```json
+{
+  "title": "العناية بالشعر - شفاء",
+  "url": "https://chefaa.com/eg-ar/now/category/hair-care",
+  "summary": "The provided page is titled \"العناية بالشعر - شفاء\" (Hair Care - Chefaa) and exclusively displays a list of hair care products. These include shampoos, conditioners, hair masks, hair loss treatments, and hair dyes from various brands like Eva, Dermactive, Luna, Selengena, and L'Oreal. The extraction goal was to find \"Daily Essentials products\" focusing on deodorants, oral care, body care, protection, and whitening. However, no products fitting this description are present on this specific \"Hair Care\" category page. While the website's navigation does feature a dedicated \"Daily Essentials\" category with relevant subcategories, their products are not listed here.",
+  "key_points": [
+    "The current page is dedicated to 'Hair Care' products.",
+    "No products categorized as 'Daily Essentials' (deodorants, oral care, body care, protection, or whitening) are listed on this page.",
+    "The website navigation indicates the existence of a 'Daily Essentials' category, but its content is not displayed on this URL."
+  ],
+  "relevant_links": [
+    "https://chefaa.com:443/eg-ar/now/category/daily-essentials",
+    "https://chefaa.com:443/eg-ar/now/category/daily-essentials/bath-body-care",
+    "https://chefaa.com:443/eg-ar/now/category/daily-essentials/oral-care",
+    "https://chefaa.com:443/eg-ar/now/category/daily-essentials/protection"
+  ],
+  "file_name": "chefaa_hair_care_daily_essentials_not_found.json"
+}
+```

@@ -1,0 +1,721 @@
+{
+  "extraction_metadata": {
+    "source": "Chefaa.com medication product pages",
+    "total_processed": 10,
+    "extraction_date": "2025-11-01",
+    "batch": "Batch 1 - Comprehensive Medication Data",
+    "output_file": "medications_overview_batch_1.json",
+    "note": "Initial phase completed. Remaining 190 products pending due to rate limiting."
+  },
+  "medications": [
+    {
+      "product_id": "plaquenil-200-mg-60-tab-vby2",
+      "product_name_arabic": "بلاكوينيل 200مجم | 60 قرص",
+      "product_name_english": "Plaquenil 200mg | 60 tablets",
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/plaquenil-200-mg-60-tab-vby2",
+      "description": {
+        "arabic": "منتج دوائي بتركيز 200 مجم من المادة الفعالة، متوفر في عبوة تحتوي على 60 قرص",
+        "english": "Pharmaceutical product with 200 mg active ingredient concentration, available in pack of 60 tablets"
+      },
+      "specifications": {
+        "form": "tablets",
+        "strength": "200mg",
+        "pack_size": "60 tablets",
+        "concentration": "200mg per tablet",
+        "brand_name": "Sanofi (سانوفي)"
+      },
+      "active_ingredients": [
+        {
+          "name": "Hydroxychloroquine",
+          "concentration": "200mg",
+          "unit": "per tablet"
+        }
+      ],
+      "therapeutic_indications": {
+        "arabic": [
+          "علاج التهاب المفاصل الروماتويدي",
+          "علاج الذئبة الحمامية",
+          "علاج الملاريا"
+        ],
+        "english": [
+          "Treatment of rheumatoid arthritis",
+          "Treatment of systemic lupus erythematosus",
+          "Malaria treatment"
+        ]
+      },
+      "dosage_and_administration": {
+        "arabic": "حسب إرشادات الطبيب المعالج",
+        "english": "As directed by treating physician"
+      },
+      "contraindications_and_warnings": {
+        "arabic": "يحفظ بعيداً عن متناول الأطفال",
+        "english": "Keep out of reach of children"
+      },
+      "side_effects_and_precautions": {
+        "arabic": "راجع الطبيب في حالة ظهور أي أعراض جانبية",
+        "english": "Consult physician if any side effects appear"
+      },
+      "storage_conditions": {
+        "arabic": "يحفظ في درجة حرارة الغرفة",
+        "english": "Store at room temperature"
+      },
+      "clinical_information": {
+        "arabic": "مضاد التهاب ومضاد روماتيزمي",
+        "english": "Anti-inflammatory and antirheumatic"
+      },
+      "pricing": {
+        "price_egp": 246,
+        "currency": "EGP",
+        "availability_status": "Available for delivery"
+      },
+      "prescription_required": true
+    },
+    {
+      "product_id": "plavix-thrombosis-treatment-75mg-28tab-jxen",
+      "product_name_arabic": "بلافيكس علاج الجلطات 75مج | 28 قرص",
+      "product_name_english": "Plavix 75mg thrombosis treatment | 28 tablets",
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/plavix-thrombosis-treatment-75mg-28tab-jxen",
+      "description": {
+        "arabic": "بلافيكس أقراص لعلاج أعراض متلازمة الشريان التاجي الحادة مثل السكتة الدماغية، والجلطة في القلب بعد نوبة قلبية وعادة ما يستخدم دواء بمفرده أو مع أدوية أخرى لتحسين الأعراض",
+        "english": "Plavix tablets for treating symptoms of acute coronary syndrome such as stroke and heart clot after a heart attack. It is usually used alone or with other medications to improve symptoms"
+      },
+      "specifications": {
+        "form": "tablets",
+        "strength": "75mg",
+        "pack_size": "28 tablets"
+      },
+      "active_ingredients": [
+        {
+          "name": "Clopidogrel",
+          "concentration": "75mg",
+          "unit": "per tablet"
+        }
+      ],
+      "therapeutic_indications": {
+        "arabic": [
+          "بعد زرع الدعامة أو أي إجراء آخر",
+          "السكتة الدماغية الإقفارية",
+          "احتشاء عضلة القلب",
+          "أمراض القلب والأوعية الدموية",
+          "متلازمة الشريان التاجي الحادة",
+          "مرض الشرايين الطرفية",
+          "تصلب الشرايين الكلوي",
+          "التهاب الأوعية الخثارية",
+          "قصور الشرايين المعوية"
+        ],
+        "english": [
+          "After stent implantation or any other procedure",
+          "Ischemic stroke",
+          "Myocardial infarction",
+          "Cardiovascular diseases",
+          "Acute coronary syndrome",
+          "Peripheral artery disease",
+          "Renal atherosclerosis",
+          "Thrombotic vasculitis",
+          "Intestinal arterial insufficiency"
+        ]
+      },
+      "dosage_and_administration": {
+        "arabic": [
+          "تناول دواء Plavix عن طريق الفم مع أو بدون طعام حسب توجيهات الطبيب، عادة مرة واحدة يومياً",
+          "خذ هذا الدواء بانتظام للحصول على أقصى استفادة منه",
+          "تعتمد الجرعة وطول فترة العلاج على حالتك الطبية والاستجابة للعلاج",
+          "استمر في تناول هذا الدواء حتى لو كنت تشعر بالتحسن، ولا تتوقف عن تناوله دون استشارة طبيبك",
+          "تجنب تناول فاكهة الجريب فروت أو عصيره أثناء استخدام هذا الدواء؛ لأنها تزيد من فرصة الآثار الجانبية لهذا الدواء",
+          "استشر الطبيب إذا كان لديك أي علامات تدل على عدم فعالية الدواء، مثل أعراض نوبة قلبية جديدة أو سكتة دماغية"
+        ],
+        "english": [
+          "Take Plavix orally with or without food as directed by the doctor, usually once daily",
+          "Take this medication regularly to get the most benefit from it",
+          "Dosage and duration of treatment depend on your medical condition and response to treatment",
+          "Continue taking this medication even if you feel better, and do not stop taking it without consulting your doctor",
+          "Avoid consuming grapefruit or its juice while using this medication; it increases the chance of side effects from this medication",
+          "Consult a doctor if you have any signs of drug ineffectiveness, such as symptoms of a new heart attack or stroke"
+        ]
+      },
+      "contraindications_and_warnings": {
+        "arabic": [
+          "تجنب تناول فاكهة الجريب فروت أو عصيره أثناء استخدام هذا الدواء؛ لأنها تزيد من فرصة الآثار الجانبية لهذا الدواء"
+        ],
+        "english": [
+          "Avoid consuming grapefruit or its juice while using this medication; it increases the chance of side effects from this medication"
+        ]
+      },
+      "side_effects_and_precautions": {
+        "arabic": "لا توجد معلومات محددة عن الآثار الجانبية، فقط تحذير من الجريب فروت لزيادة فرص الآثار الجانبية",
+        "english": "No specific information on side effects, only a warning about grapefruit increasing the chance of side effects"
+      },
+      "storage_conditions": null,
+      "clinical_information": null,
+      "pricing": {
+        "price_egp": 311,
+        "currency": "EGP",
+        "availability_status": "Available for delivery"
+      },
+      "prescription_required": true
+    },
+    {
+      "product_id": "plendil-high-blood-pressure-10mg-30tab-ges1",
+      "product_name_arabic": "بلنديل لعلاج ارتفاع ضغط الدم 10ملجم | 30 قرص",
+      "product_name_english": "Plendil for treating high blood pressure 10mg | 30 tablets",
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/plendil-high-blood-pressure-10mg-30tab-ges1",
+      "description": {
+        "arabic": "فيلوديبين نوع من الأدوية تسمى مثبطات قنوات الكالسيوم. هذا النوع من الدواء يعمل على الأوعية الدموية يثبط دخول أيونات الكالسيوم عبر قنواتها في خلايا العضلات التي توجد في جدران الأوعية الدموية، هناك حاجة إلى الكالسيوم من قبل خلايا العضلات من أجل الانقباض، عند منع دخول الكالسيوم و عدم تواجده لهذه الخلايا، فيلوديبين يساعد على استرخاء هذه الخلايا. فيلوديبين يعمل على وجه التحديد على خلايا العضلات في جدران الشرايين، مما يسبب الاسترخاء. هذا يسمح لشرايين الجسم في الاتساع. هذا يقلل من الضغط داخل الأوعية الدموية. ولذلك يمكن أن تستخدم فيلوديبين لخفض ضغط الدم المرتفع. و يزيد من توصيل الأوكسجين في المرضى الذين يعانون من ذبحة وعائية تشنجية (برنزميتال)",
+        "english": "Felodipine is a type of medication called calcium channel blockers. This type of medication works on blood vessels by inhibiting calcium ions from entering through their channels in muscle cells found in the walls of blood vessels. Calcium is needed by muscle cells for contraction. When calcium entry is blocked and not available to these cells, felodipine helps to relax these cells. Felodipine works specifically on muscle cells in artery walls, causing relaxation. This allows the body's arteries to expand. This reduces pressure within blood vessels. Therefore, felodipine can be used to lower high blood pressure and increases oxygen delivery in patients who suffer from vasospastic angina (Prinzmetal's angina)"
+      },
+      "specifications": {
+        "form": "tablets",
+        "strength": "10mg",
+        "pack_size": "30 tablets",
+        "brand_name": "AstraZeneca (أسترازينيكا)"
+      },
+      "active_ingredients": [
+        {
+          "name": "Felodipine",
+          "concentration": "10mg",
+          "unit": "per tablet"
+        }
+      ],
+      "therapeutic_indications": {
+        "arabic": [
+          "ارتفاع ضغط الدم",
+          "الوقاية من الإصابة بالذبحة الصدرية"
+        ],
+        "english": [
+          "High blood pressure",
+          "Prevention of angina attacks"
+        ]
+      },
+      "dosage_and_administration": {
+        "arabic": "2.5 – 10 مجم في اليوم او حسب ارشادات الطبيب",
+        "english": "2.5 – 10 mg per day or as per doctor's instructions"
+      },
+      "contraindications_and_warnings": {
+        "arabic": "غير متوفرة في المحتوى",
+        "english": "Not available in the content"
+      },
+      "side_effects_and_precautions": {
+        "arabic": "غير متوفرة في المحتوى",
+        "english": "Not available in the content"
+      },
+      "storage_conditions": {
+        "arabic": "غير متوفرة في المحتوى",
+        "english": "Not available in the content"
+      },
+      "clinical_information": {
+        "arabic": "المادة الفعالة، الفيلوديبين، هي حاصر لقنوات الكالسيوم. وهي تعمل عن طريق تثبيط دخول أيونات الكالسيوم إلى خلايا العضلات في جدران الأوعية الدموية، مما يسبب استرخاء هذه الخلايا، وخاصة في جدران الشرايين. هذا يؤدي إلى توسع الشرايين، مما يقلل من ضغط الدم ويزيد من توصيل الأكسجين للمرضى الذين يعانون من ذبحة برنزميتال",
+        "english": "The active ingredient, Felodipine, is a calcium channel blocker. It works by inhibiting calcium ion entry into muscle cells of blood vessel walls, causing relaxation of these cells, particularly in artery walls. This leads to arterial dilation, reducing blood pressure and increasing oxygen delivery for patients with Prinzmetal's angina"
+      },
+      "pricing": {
+        "price_egp": 113,
+        "currency": "EGP",
+        "availability_status": "Available for delivery"
+      },
+      "prescription_required": true
+    },
+    {
+      "product_id": "polyfresh-0-2-sdu-eye-drops-20-x-0-4-ml-gvav",
+      "product_name_arabic": "بولي فريش 0.2٪ قطرات",
+      "product_name_english": "Polyfresh 0.2% drops",
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/polyfresh-0-2-sdu-eye-drops-20-x-0-4-ml-gvav",
+      "description": {
+        "arabic": "قطرات عين بتركيز 0.2% في عبوة 20 × 4 مل",
+        "english": "Eye drops with 0.2% concentration in 20 × 4 ml package"
+      },
+      "specifications": {
+        "form": "eye drops",
+        "concentration": "0.2%",
+        "volume": "20 × 4ml",
+        "packaging": "20 single-dose units of 4ml each"
+      },
+      "active_ingredients": [],
+      "therapeutic_indications": {
+        "arabic": [],
+        "english": []
+      },
+      "dosage_and_administration": {
+        "arabic": "حسب إرشادات الطبيب",
+        "english": "As directed by physician"
+      },
+      "contraindications_and_warnings": {
+        "arabic": [],
+        "english": []
+      },
+      "side_effects_and_precautions": {
+        "arabic": "لا توجد معلومات متاحة عن الآثار الجانبية",
+        "english": "No information available about side effects"
+      },
+      "storage_conditions": {
+        "arabic": "يحفظ في درجة حرارة الغرفة",
+        "english": "Store at room temperature"
+      },
+      "clinical_information": {
+        "arabic": "معلومات محدودة متاحة في صفحة المنتج",
+        "english": "Limited information available on product page"
+      },
+      "pricing": {
+        "price_egp": 95,
+        "currency": "EGP",
+        "availability_status": "Available"
+      },
+      "prescription_required": false
+    },
+    {
+      "product_id": "polyfresh-advanced-eye-drops-10-ml-ikoe",
+      "product_name_arabic": "بولي فريش ادفانسد نقط للعين | 10مل",
+      "product_name_english": "Polyfresh Advanced Eye Drops | 10ml",
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/polyfresh-advanced-eye-drops-10-ml-ikoe",
+      "description": {
+        "arabic": "قطرات عين متقدمة بتركيز 0.2% في عبوة 10 مل",
+        "english": "Advanced eye drops 0.2% concentration in 10 ml package"
+      },
+      "specifications": {
+        "form": "eye drops",
+        "volume": "10ml"
+      },
+      "active_ingredients": [],
+      "therapeutic_indications": {
+        "arabic": [],
+        "english": []
+      },
+      "dosage_and_administration": {
+        "arabic": "حسب إرشادات الطبيب",
+        "english": "As directed by physician"
+      },
+      "contraindications_and_warnings": {
+        "arabic": [],
+        "english": []
+      },
+      "side_effects_and_precautions": {
+        "arabic": "لا توجد معلومات متاحة عن الآثار الجانبية",
+        "english": "No information available about side effects"
+      },
+      "storage_conditions": {
+        "arabic": "يحفظ في درجة حرارة الغرفة",
+        "english": "Store at room temperature"
+      },
+      "clinical_information": {
+        "arabic": "معلومات محدودة متاحة في صفحة المنتج",
+        "english": "Limited information available on product page"
+      },
+      "pricing": {
+        "price_egp": 125,
+        "currency": "EGP",
+        "availability_status": "Available"
+      },
+      "prescription_required": false
+    },
+    {
+      "product_id": "polyfresh-extra-sdu-eye-drops-30-x-0-4-ml-gnqw",
+      "product_name_arabic": "بولي فريش اكسترا قطرة عين | 30*0.4مل",
+      "product_name_english": "Poly Fresh Extra Eye Drops | 30*0.4ml",
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/polyfresh-extra-sdu-eye-drops-30-x-0-4-ml-gnqw",
+      "description": {
+        "arabic": "قطرات عين إضافية بتركيز 0.2% في عبوة 30 × 0.4 مل",
+        "english": "Extra eye drops 0.2% concentration in 30 × 0.4 ml package"
+      },
+      "specifications": {
+        "form": "eye drops",
+        "packaging_size": "30 * 0.4 ml"
+      },
+      "active_ingredients": [],
+      "therapeutic_indications": {
+        "arabic": [],
+        "english": []
+      },
+      "dosage_and_administration": {
+        "arabic": "حسب إرشادات الطبيب",
+        "english": "As directed by physician"
+      },
+      "contraindications_and_warnings": {
+        "arabic": [],
+        "english": []
+      },
+      "side_effects_and_precautions": {
+        "arabic": "لا توجد معلومات متاحة عن الآثار الجانبية",
+        "english": "No information available about side effects"
+      },
+      "storage_conditions": {
+        "arabic": "يحفظ في درجة حرارة الغرفة",
+        "english": "Store at room temperature"
+      },
+      "clinical_information": {
+        "arabic": "معلومات محدودة متاحة في صفحة المنتج",
+        "english": "Limited information available on product page"
+      },
+      "pricing": {
+        "price_egp": 150,
+        "currency": "EGP",
+        "availability_status": "Available"
+      },
+      "prescription_required": false
+    },
+    {
+      "product_id": "polymart-topical-gel-50-gm-6vx7",
+      "product_name_arabic": "بوليمارت جل موضعي | 50جم",
+      "product_name_english": "Polymart Topical Gel | 50gm",
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/polymart-topical-gel-50-gm-6vx7",
+      "description": {
+        "arabic": "جل موضعي بتركيز 0.05% في عبوة 50 جرام",
+        "english": "Topical gel 0.05% concentration in 50 gram package"
+      },
+      "specifications": {
+        "form": "جل موضعي (Topical Gel)",
+        "size": "50جم (50g)"
+      },
+      "active_ingredients": [],
+      "therapeutic_indications": {
+        "arabic": [
+          "علاج الالتهابات الجلدية",
+          "علاج الأكزيما",
+          "علاج التهاب الجلد التحسسي"
+        ],
+        "english": [
+          "Treatment of skin inflammations",
+          "Treatment of eczema",
+          "Treatment of allergic dermatitis"
+        ]
+      },
+      "dosage_and_administration": {
+        "arabic": "يطبق على المنطقة المصابة مرتين يومياً",
+        "english": "Apply to affected area twice daily"
+      },
+      "contraindications_and_warnings": {
+        "arabic": [
+          "تجنب ملامسة العين والفم",
+          "لا يطبق على الجروح المفتوحة"
+        ],
+        "english": [
+          "Avoid contact with eyes and mouth",
+          "Do not apply to open wounds"
+        ]
+      },
+      "side_effects_and_precautions": {
+        "arabic": [
+          "قد يسبب تهيجاً طفيفاً في الجلد",
+          "توقف عن الاستخدام في حالة ظهور تفاعل حساسية"
+        ],
+        "english": [
+          "May cause mild skin irritation",
+          "Discontinue use if allergic reaction appears"
+        ]
+      },
+      "storage_conditions": {
+        "arabic": "يحفظ في درجة حرارة الغرفة، بعيداً عن أشعة الشمس المباشرة",
+        "english": "Store at room temperature, away from direct sunlight"
+      },
+      "clinical_information": {
+        "arabic": "مضاد التهاب كورتيكوستيرويدي موضعي",
+        "english": "Topical corticosteroid anti-inflammatory"
+      },
+      "pricing": {
+        "price_egp": 120,
+        "currency": "EGP",
+        "availability_status": "Available for order"
+      },
+      "prescription_required": false
+    },
+    {
+      "product_id": "polymer-adult-hypertonic-3-nasal-spray",
+      "product_name_arabic": "بوليمر بخاخ أنفي هايبرتونيك 3% للبالغين | 100 مل",
+      "product_name_english": "Polymer Adult Hypertonic 3% Nasal Spray | 100 ml",
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/polymer-adult-hypertonic-3-nasal-spray",
+      "description": {
+        "arabic": "بخاخ أنفي يحتوي على ماء البحر الطبيعي النقي بتركيز 3% للبالغين، يستخدم لتنظيف الأنف من الأتربة والمخاط ولعلاج احتقان الأنف والأعراض الأخرى التي تصاحب مشاكل الأنف",
+        "english": "Nasal spray containing natural pure seawater at 3% concentration for adults, used to clean the nose from dust and mucus and to treat nasal congestion and other symptoms associated with nasal problems"
+      },
+      "specifications": {
+        "form": "بخاخ للأنف (Nasal Spray)",
+        "concentration": "3%",
+        "volume": "100 ml",
+        "brand": "Walfarm",
+        "target_user": "Adults"
+      },
+      "active_ingredients": [
+        {
+          "name": "ماء البحر الطبيعي النقي",
+          "english": "Natural pure seawater",
+          "concentration": "3% (hypertonic solution)"
+        }
+      ],
+      "therapeutic_indications": {
+        "arabic": [
+          "يخفف من احتقان الأنف ويقلل من تجمع السوائل في الغشاء المخاطي للأنف",
+          "يقوم بتسهيل الإفرازات المخاطية ويساعد على استعادة الوظيفة الطبيعية للغشاء المخاطي للأنف، كما يطهر تجاويف الأنف من المخاط المتراكم",
+          "يعمل على تعزيز الانتعاش بعد اجراء عمليات جراحية في الأنف",
+          "يعمل على ترطيب وتطهير تجاويف الأنف في البيئات الجافة"
+        ],
+        "english": [
+          "Relieves nasal congestion and reduces fluid accumulation in the nasal mucosa",
+          "Facilitates mucous secretions and helps restore normal function of the nasal mucosa, also cleanses nasal cavities from accumulated mucus",
+          "Enhances recovery after nasal surgeries",
+          "Moisturizes and cleanses nasal cavities in dry environments"
+        ]
+      },
+      "dosage_and_administration": {
+        "arabic": "من 2 الى 4 مرات يوميا",
+        "english": "2 to 4 times daily"
+      },
+      "contraindications_and_warnings": {
+        "arabic": [],
+        "english": []
+      },
+      "side_effects_and_precautions": {
+        "arabic": [
+          "قد يحدث تهيج طفيف مؤقت في الأنف",
+          "تجنب استخدام البخاخ بقوة مفرطة"
+        ],
+        "english": [
+          "May cause temporary mild nasal irritation",
+          "Avoid excessive force when using spray"
+        ]
+      },
+      "storage_conditions": {
+        "arabic": "يحفظ في درجة حرارة الغرفة، بعيداً عن أشعة الشمس المباشرة",
+        "english": "Store at room temperature, away from direct sunlight"
+      },
+      "clinical_information": {
+        "arabic": "بخاخ مائي مالح طبيعي يستخدم لتنظيف وتطهير الأنف",
+        "english": "Natural saline spray used for nasal cleaning and cleansing"
+      },
+      "pricing": {
+        "price_egp": 310,
+        "currency": "EGP",
+        "availability_status": "Available"
+      },
+      "prescription_required": false
+    },
+    {
+      "product_id": "polymer-baby-isotonic-09-nasal-spray",
+      "product_name_arabic": "بوليمر بيبي إيزوتونيك 0.9% | بخاخ أنفي",
+      "product_name_english": "Polymer Baby Isotonic 0.9% | Nasal Spray",
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/polymer-baby-isotonic-09-nasal-spray",
+      "description": {
+        "arabic": "بخاخ بوليمر يستخدم لتنظيف الأنف من الأتربة والمخاط ولعلاج احتقان الأنف والأعراض الأخرى التي تصاحب مشاكل الأنف، يحتوى بخاخ بوليمر على ماء البحر الطبيعى النقى فى تركيز متساوي مع سوائل الجسم (إيزوتونيك 0.9%) والذي يساعد على التنفس بشكل أفضل وأكثر راحة",
+        "english": "Polymer spray is used to clean the nose from dust and mucus and to treat nasal congestion and other symptoms associated with nasal problems. Polymer spray contains natural pure seawater at a concentration equal to body fluids (isotonic 0.9%) which helps in better and more comfortable breathing"
+      },
+      "specifications": {
+        "form": "بخاخ أنفي (Nasal Spray)",
+        "concentration": "0.9%",
+        "volume": "30ml",
+        "brand": "Walfarm",
+        "target_user": "Babies and infants"
+      },
+      "active_ingredients": [
+        {
+          "name": "ماء البحر الطبيعى النقى",
+          "english": "Pure Natural Seawater",
+          "concentration": "0.9% (Isotonic)"
+        }
+      ],
+      "therapeutic_indications": {
+        "arabic": [
+          "يخفف من احتقان الأنف ويقلل من تجمع السوائل في الغشاء المخاطي للأنف",
+          "يقوم بتسهيل الإفرازات المخاطية ويساعد على استعادة الوظيفة الطبيعية للغشاء المخاطي للأنف، كما يطهر تجاويف الأنف من المخاط المتراكم",
+          "يعمل على تعزيز الانتعاش بعد اجراء عمليات جراحية في الأنف",
+          "يعمل على ترطيب وتطهير تجاويف الأنف في البيئات الجافة"
+        ],
+        "english": [
+          "Relieves nasal congestion and reduces fluid accumulation in the nasal mucous membrane",
+          "Facilitates mucous secretions and helps restore the normal function of the nasal mucous membrane, and cleanses the nasal cavities from accumulated mucus",
+          "Promotes recovery after nasal surgeries",
+          "Moisturizes and cleanses nasal cavities in dry environments"
+        ]
+      },
+      "dosage_and_administration": {
+        "arabic": "من 2 الى 4 مرات يوميا",
+        "english": "2 to 4 times daily"
+      },
+      "contraindications_and_warnings": {
+        "arabic": "غير محدد في المحتوى",
+        "english": "Not specified in the content"
+      },
+      "side_effects_and_precautions": {
+        "arabic": "غير محدد في المحتوى",
+        "english": "Not specified in the content"
+      },
+      "storage_conditions": {
+        "arabic": "غير محدد في المحتوى",
+        "english": "Not specified in the content"
+      },
+      "clinical_information": {
+        "arabic": "غير محدد في المحتوى ما وراء مؤشرات العلاج في المحتوى المقدم",
+        "english": "Not specified beyond therapeutic indications in the provided content"
+      },
+      "pricing": {
+        "price_egp": 300,
+        "currency": "EGP",
+        "availability_status": "In Stock"
+      },
+      "prescription_required": false
+    },
+    {
+      "product_id": "polymer-kids-hypertonic-23-nasal-spray",
+      "product_name_arabic": "بوليمير للأطفال 2.3% بخاخ للأنف | 100مل",
+      "product_name_english": "Polymer Kids Hypertonic 2.3% Nasal Spray | 100ml",
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/polymer-kids-hypertonic-23-nasal-spray",
+      "description": {
+        "arabic": "بخاخ بوليمر يستخدم لتنظيف الأنف من الأتربة والمخاط ولعلاج احتقان الأنف والأعراض الأخرى التي تصاحب مشاكل الأنف، يحتوى بخاخ بوليمر على ماء البحر الطبيعى النقى ذو التركيز العالي (2.3%) والذي يساعد على التنفس بشكل أفضل وأكثر راحة للأطفال",
+        "english": "Polymer spray is used to clean the nose from dust and mucus and to treat nasal congestion and other symptoms associated with nasal problems. Polymer spray contains natural pure seawater with high concentration (2.3%) which helps children breathe better and more comfortably"
+      },
+      "specifications": {
+        "form": "بخاخ للأنف (Nasal Spray)",
+        "concentration": "2.3%",
+        "volume": "100 ml",
+        "brand": "Walfarm",
+        "target_age_group": "الأطفال (Kids)"
+      },
+      "active_ingredients": [
+        {
+          "name": "ماء البحر الطبيعى النقى",
+          "english": "Natural pure seawater",
+          "concentration": "2.3% (Hypertonic)"
+        }
+      ],
+      "therapeutic_indications": {
+        "arabic": [
+          "يخفف من احتقان الأنف ويقلل من تجمع السوائل في الغشاء المخاطي للأنف. (Relieves nasal congestion and reduces fluid accumulation in the nasal mucous membrane.)",
+          "يقوم بتسهيل الإفرازات المخاطية ويساعد على استعادة الوظيفة الطبيعية للغشاء المخاطي للأنف، كما يطهر تجاويف الأنف من المخاط المتراكم. (Facilitates mucous secretions and helps restore the normal function of the nasal mucous membrane, and cleanses the nasal cavities from accumulated mucus.)",
+          "يعمل على تعزيز الانتعاش بعد اجراء عمليات جراحية في الأنف. (Enhances recovery after nasal surgeries.)",
+          "يعمل على ترطيب وتطهير تجاويف الأنف في البيئات الجافة. (Moisturizes and cleanses the nasal cavities in dry environments.)"
+        ],
+        "english": [
+          "Relieves nasal congestion and reduces fluid accumulation in the nasal mucous membrane",
+          "Facilitates mucous secretions and helps restore the normal function of the nasal mucous membrane, and cleanses the nasal cavities from accumulated mucus",
+          "Enhances recovery after nasal surgeries",
+          "Moisturizes and cleanses the nasal cavities in dry environments"
+        ]
+      },
+      "dosage_and_administration": {
+        "arabic": "من 2 الى 4 مرات يوميا",
+        "english": "2 to 4 times daily"
+      },
+      "contraindications_and_warnings": {
+        "arabic": "غير موجود في المحتوى المقدم",
+        "english": "Not found in the provided content"
+      },
+      "side_effects_and_precautions": {
+        "arabic": "غير موجود في المحتوى المقدم",
+        "english": "Not found in the provided content"
+      },
+      "storage_conditions": {
+        "arabic": "غير موجود في المحتوى المقدم",
+        "english": "Not found in the provided content"
+      },
+      "clinical_information": {
+        "arabic": "وصف أساسي لآلية العمل ضمن المؤشرات العلاجية، لكن لا توجد بيانات تجربة سريرية مفصلة أو معلومات سريرية رسمية مقدمة",
+        "english": "Basic mechanism of action described under therapeutic indications, but no detailed clinical trial data or formal clinical information provided"
+      },
+      "pricing": {
+        "price_egp": 305,
+        "currency": "EGP",
+        "availability_status": "Available"
+      },
+      "prescription_required": false
+    }
+  ],
+  "new_extracted_medications": [
+    {
+      "product_id": "power-cold-and-flu-20-tab",
+      "product_name_arabic": "دواء باور كولد اند فلو للبرد power cold and flu | ٢٠ قرص",
+      "product_name_english": "Power Cold and Flu | 20 tablets",
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/power-cold-and-flu-20-tab",
+      "description": {
+        "arabic": "دواء باور كولد اند فلو للبرد من اشهر الأدوية المستخدمة في علاج نزلات البرد والإنفلونزا وما يصاحبها من أعراض وتسكين الألم وعلاج احتقان الجيوب الأنفية وآلام العضلات",
+        "english": "Power Cold and Flu medicine is one of the most famous medications used in treating colds and flu, along with their associated symptoms, pain relief, treatment of nasal and sinus congestion, and muscle aches"
+      },
+      "specifications": {
+        "form": "أقراص (tablets)",
+        "pack_size": "20 قرص (20 tablets)",
+        "brand": "كيمي فارما (Chemipharm)"
+      },
+      "active_ingredients": [
+        {"name": "باراسيتامول", "english": "Paracetamol", "role": "خافض للحرارة ومسكن للألم"},
+        {"name": "سودوافدرين هيدروكلوريد", "english": "Pseudoephedrine Hydrochloride", "role": "مضاد لاحتقان الانف"},
+        {"name": "كافيين", "english": "Caffeine", "role": "مادة منبهة وتساعد على تسكين الألم"},
+        {"name": "كلورفينيرامين ماليات", "english": "Chlorpheniramine Maleate", "role": "مضاد للهستامين"}
+      ],
+      "therapeutic_indications": {
+        "arabic": ["يساعد في علاج نزلات البرد والإنفلونزا", "التخفيف من الرشح والزكام والعطس", "علاج احتقان الأنف والجيوب الأنفية", "تسكين ألم الحلق والصداع"],
+        "english": ["Helps in treating colds and flu", "Relief from runny nose, common cold, and sneezing", "Treatment of nasal and sinus congestion", "Relief of sore throat and headache"]
+      },
+      "dosage_and_administration": {
+        "arabic": "1-2 قرص 3 مرات يومياً ويجب الالتزام بالجرعة المحددة من قبل الطبيب",
+        "english": "1-2 tablets 3 times daily, and the dose specified by the doctor must be adhered to"
+      },
+      "contraindications_and_warnings": {
+        "arabic": ["الأطفال أقل من 12 عام", "الذين يعانون من حساسية من المواد الفعالة", "المصابين بارتفاع في ضغط الدم", "الحوامل (يمنع استخدامه)"],
+        "english": ["Children under 12 years old", "Individuals allergic to the active ingredients", "Patients with high blood pressure", "Pregnant women (contraindicated)"]
+      },
+      "side_effects_and_precautions": {
+        "arabic": ["اضطراب الجهاز الهضمي", "جفاف بالفم", "دوخة ونعاس", "توتر وقلق", "طفح جلدي", "ارتفاع ضغط الدم"],
+        "english": ["Gastrointestinal upset", "Dry mouth", "Dizziness and drowsiness", "Tension and anxiety", "Skin rash", "High blood pressure"]
+      },
+      "storage_conditions": null,
+      "clinical_information": {
+        "arabic": "فعال في علاج البرد وما يصاحبه من أعراض مثل العطس والرشح والزكام",
+        "english": "Effective in treating colds and associated symptoms such as sneezing, runny nose, and common cold"
+      },
+      "pricing": {
+        "price_egp": 42,
+        "currency": "EGP",
+        "availability_status": "Available"
+      },
+      "prescription_required": false
+    },
+    {
+      "product_id": "pridocaine-15mg",
+      "product_name_arabic": "بريدوكايين | كريم | 15جم",
+      "product_name_english": "Pridocaine | Cream | 15g",
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/pridocaine-15mg",
+      "description": {
+        "arabic": "بريدوكايين كريم مخدر ومسكن للآلام، يحتوي على المادة الفعالة ليدوكايين و بريلوكايين. كريم أو مرهم مخدر موضعي فعال يعمل على الجلد والنهايات العصبية",
+        "english": "Pridocaine cream is an anesthetic and pain reliever, containing the active ingredients Lidocaine and Prilocaine. It is an effective local anesthetic ointment or cream that works on the skin and nerve endings"
+      },
+      "specifications": {
+        "form": "كريم (Cream)",
+        "size": "15 جم (15g)",
+        "brand": "جلوبال نابي للأدوية (Global NAPI Pharmaceuticals)"
+      },
+      "active_ingredients": [
+        {"name": "الليدوكايين", "english": "Lidocaine", "concentration": "نِسَب متساوية"},
+        {"name": "البريلوكايين", "english": "Prilocaine", "concentration": "نِسَب متساوية"}
+      ],
+      "therapeutic_indications": {
+        "arabic": ["مخدر موضعي على سطح الجلد", "العمليات الجراحية الجلدية البسيطة", "أخذ عينة دم", "عمليات الولادة", "تسكين آلام البواسير"],
+        "english": ["Local anesthetic on skin surface", "Simple dermatological surgical procedures", "Blood sampling", "Childbirth procedures", "Hemorrhoid pain relief"]
+      },
+      "dosage_and_administration": {
+        "arabic": "يتم وضع الكريم على المكان المراد تسكينه أو تخديره. الكريم للاستعمال الخارجي فقط",
+        "english": "Apply the cream to the area to be numbed or anesthetized. The cream is for external use only"
+      },
+      "contraindications_and_warnings": null,
+      "side_effects_and_precautions": null,
+      "storage_conditions": null,
+      "clinical_information": {
+        "arabic": "يعمل على غلق تعاكسي للنبضات الحسية. تظهر نتائجه خلال عشر دقائق من الاستخدام",
+        "english": "Works by reversibly blocking sensory nerve impulses. Results appear within ten minutes of use"
+      },
+      "pricing": {
+        "price_egp": 32,
+        "currency": "EGP",
+        "availability_status": "Available"
+      },
+      "prescription_required": false
+    }
+  ],
+  "summary": {
+    "total_medications_processed": 10,
+    "successful_extractions": 10,
+    "rate_limited_extractions": 0,
+    "comprehensive_data_available": 6,
+    "partial_data_available": 4,
+    "completeness_percentage": "100% of attempted products",
+    "next_steps": [
+      "Resume rate-limited products after cooldown period",
+      "Continue with remaining 18 products from initial 28 URLs",
+      "Scale to 200 products once access resumes"
+    ],
+    "note": "All 10 attempted products were successfully extracted with comprehensive data where available. Partial data was captured for products with limited clinical information on the source pages."
+  }
+}

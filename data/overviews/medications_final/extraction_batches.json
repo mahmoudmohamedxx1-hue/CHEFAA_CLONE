@@ -1,0 +1,2068 @@
+{
+  "extraction_metadata": {
+    "total_products_1401_plus": 880,
+    "total_urls_generated": 145,
+    "total_batches": 8,
+    "batch_size": 20,
+    "extraction_start_time": "2025-11-01T13:03:03.084068",
+    "extraction_target": "comprehensive_pharmaceutical_details",
+    "source_website": "https://chefaa.com"
+  },
+  "batches": [
+    {
+      "batch_number": 1,
+      "products": [
+        {
+          "url": "https://chefaa.com/eg-ar/nowProduct/%D9%86%D9%8A%D8%B1%D9%83%D8%A7%D8%B1%D8%AF%D9%88%D8%A7-5%D9%85%D8%AC%D9%85-30-%D9%82%D8%B1%D8%B5",
+          "product_id": 2136,
+          "product_name": "نيركاردوا 5مجم | 30 قرص",
+          "source_info": {
+            "source_page": 127,
+            "source_file": "medications_page_127_phase5_batch5.json"
+          },
+          "alternative_urls": [
+            "https://chefaa.com/product/%D9%86%D9%8A%D8%B1%D9%83%D8%A7%D8%B1%D8%AF%D9%88%D8%A7-5%D9%85%D8%AC%D9%85-30-%D9%82%D8%B1%D8%B5",
+            "https://chefaa.com/eg-ar/medications/%D9%86%D9%8A%D8%B1%D9%83%D8%A7%D8%B1%D8%AF%D9%88%D8%A7-5%D9%85%D8%AC%D9%85-30-%D9%82%D8%B1%D8%B5"
+          ]
+        },
+        {
+          "url": "https://chefaa.com/eg-ar/nowProduct/%D8%A3%D9%88%D9%84%D9%8A%D8%A8%D8%AA%D9%8A%D9%86%D8%A7-25%D9%85%D8%AC%D9%85-30%D9%82%D8%B1%D8%B5",
+          "product_id": 2137,
+          "product_name": "أوليبتينا | 25مجم | 30قرص",
+          "source_info": {
+            "source_page": 127,
+            "source_file": "medications_page_127_phase5_batch5.json"
+          },
+          "alternative_urls": [
+            "https://chefaa.com/product/%D8%A3%D9%88%D9%84%D9%8A%D8%A8%D8%AA%D9%8A%D9%86%D8%A7-25%D9%85%D8%AC%D9%85-30%D9%82%D8%B1%D8%B5",
+            "https://chefaa.com/eg-ar/medications/%D8%A3%D9%88%D9%84%D9%8A%D8%A8%D8%AA%D9%8A%D9%86%D8%A7-25%D9%85%D8%AC%D9%85-30%D9%82%D8%B1%D8%B5"
+          ]
+        },
+        {
+          "url": "https://chefaa.com/eg-ar/nowProduct/%D8%A7%D9%88%D9%85%D9%86%D9%8A%D8%B3%D9%8A%D9%81-125-%D9%85%D8%AC%D9%85-5-%D9%85%D9%84-40-%D9%85%D9%84-%D8%B4%D8%B1%D8%A7%D8%A8",
+          "product_id": 2138,
+          "product_name": "اومنيسيف 125 مجم \\ 5 مل | 40 مل شراب",
+          "source_info": {
+            "source_page": 127,
+            "source_file": "medications_page_127_phase5_batch5.json"
+          },
+          "alternative_urls": [
+            "https://chefaa.com/product/%D8%A7%D9%88%D9%85%D9%86%D9%8A%D8%B3%D9%8A%D9%81-125-%D9%85%D8%AC%D9%85-5-%D9%85%D9%84-40-%D9%85%D9%84-%D8%B4%D8%B1%D8%A7%D8%A8",
+            "https://chefaa.com/eg-ar/medications/%D8%A7%D9%88%D9%85%D9%86%D9%8A%D8%B3%D9%8A%D9%81-125-%D9%85%D8%AC%D9%85-5-%D9%85%D9%84-40-%D9%85%D9%84-%D8%B4%D8%B1%D8%A7%D8%A8"
+          ]
+        },
+        {
+          "url": "https://chefaa.com/eg-ar/nowProduct/%D8%A3%D9%88%D8%B1%D8%A7%D9%85%D8%A7%D9%83%D8%B3-%D8%A8%D9%8A-%D8%BA%D8%B3%D9%88%D9%84-%D9%81%D9%85-%D9%84%D9%84%D8%A3%D8%B7%D9%81%D8%A7%D9%84-30%D9%85%D9%84",
+          "product_id": 2139,
+          "product_name": "أوراماكس بي | غسول فم للأطفال | 30مل",
+          "source_info": {
+            "source_page": 127,
+            "source_file": "medications_page_127_phase5_batch5.json"
+          },
+          "alternative_urls": [
+            "https://chefaa.com/product/%D8%A3%D9%88%D8%B1%D8%A7%D9%85%D8%A7%D9%83%D8%B3-%D8%A8%D9%8A-%D8%BA%D8%B3%D9%88%D9%84-%D9%81%D9%85-%D9%84%D9%84%D8%A3%D8%B7%D9%81%D8%A7%D9%84-30%D9%85%D9%84",
+            "https://chefaa.com/eg-ar/medications/%D8%A3%D9%88%D8%B1%D8%A7%D9%85%D8%A7%D9%83%D8%B3-%D8%A8%D9%8A-%D8%BA%D8%B3%D9%88%D9%84-%D9%81%D9%85-%D9%84%D9%84%D8%A3%D8%B7%D9%81%D8%A7%D9%84-30%D9%85%D9%84"
+          ]
+        },
+        {
+          "url": "https://chefaa.com/eg-ar/nowProduct/%D8%A7%D9%88%D8%B1%D8%AC%D8%A7%D9%86%D9%8A%D9%83-%D9%86%D9%8A%D8%B4%D9%86-%D8%A8%D9%8A-%D9%83%D9%88%D9%85%D8%A8%D9%84%D9%83%D8%B3-60-%D9%82%D8%B1%D8%B5",
+          "product_id": 2140,
+          "product_name": "اورجانيك نيشن بي-كومبلكس | 60 قرص",
+          "source_info": {
+            "source_page": 127,
+            "source_file": "medications_page_127_phase5_batch5.json"
+          },
+          "alternative_urls": [
+            "https://chefaa.com/product/%D8%A7%D9%88%D8%B1%D8%AC%D8%A7%D9%86%D9%8A%D9%83-%D9%86%D9%8A%D8%B4%D9%86-%D8%A8%D9%8A-%D9%83%D9%88%D9%85%D8%A8%D9%84%D9%83%D8%B3-60-%D9%82%D8%B1%D8%B5",
+            "https://chefaa.com/eg-ar/medications/%D8%A7%D9%88%D8%B1%D8%AC%D8%A7%D9%86%D9%8A%D9%83-%D9%86%D9%8A%D8%B4%D9%86-%D8%A8%D9%8A-%D9%83%D9%88%D9%85%D8%A8%D9%84%D9%83%D8%B3-60-%D9%82%D8%B1%D8%B5"
+          ]
+        },
+        {
+          "url": "https://chefaa.com/eg-ar/nowProduct/%D9%81%D9%8A%D8%AA%D8%A7%D9%85%D9%8A%D9%86-%D9%86%D9%8A%D8%B4%D9%86-30%D8%A3%D9%82%D8%B1%D8%A7%D8%B5",
+          "product_id": 2141,
+          "product_name": "فيتامين نيشن | 30أقراص",
+          "source_info": {
+            "source_page": 127,
+            "source_file": "medications_page_127_phase5_batch5.json"
+          },
+          "alternative_urls": [
+            "https://chefaa.com/product/%D9%81%D9%8A%D8%AA%D8%A7%D9%85%D9%8A%D9%86-%D9%86%D9%8A%D8%B4%D9%86-30%D8%A3%D9%82%D8%B1%D8%A7%D8%B5",
+            "https://chefaa.com/eg-ar/medications/%D9%81%D9%8A%D8%AA%D8%A7%D9%85%D9%8A%D9%86-%D9%86%D9%8A%D8%B4%D9%86-30%D8%A3%D9%82%D8%B1%D8%A7%D8%B5"
+          ]
+        },
+        {
+          "url": "https://chefaa.com/eg-ar/nowProduct/%D8%A3%D9%88%D8%B3%D9%8A%D9%84%D8%AA%D8%A7%D9%85%D9%81%D9%8A%D8%B1-75%D9%85%D8%AC%D9%85-10%D9%83%D8%A8%D8%B3%D9%88%D9%84%D9%87",
+          "product_id": 2142,
+          "product_name": "أوسيلتامفير | 75مجم | 10كبسوله",
+          "source_info": {
+            "source_page": 127,
+            "source_file": "medications_page_127_phase5_batch5.json"
+          },
+          "alternative_urls": [
+            "https://chefaa.com/product/%D8%A3%D9%88%D8%B3%D9%8A%D9%84%D8%AA%D8%A7%D9%85%D9%81%D9%8A%D8%B1-75%D9%85%D8%AC%D9%85-10%D9%83%D8%A8%D8%B3%D9%88%D9%84%D9%87",
+            "https://chefaa.com/eg-ar/medications/%D8%A3%D9%88%D8%B3%D9%8A%D9%84%D8%AA%D8%A7%D9%85%D9%81%D9%8A%D8%B1-75%D9%85%D8%AC%D9%85-10%D9%83%D8%A8%D8%B3%D9%88%D9%84%D9%87"
+          ]
+        },
+        {
+          "url": "https://chefaa.com/eg-ar/nowProduct/%D8%A3%D9%88%D8%B3%D8%AA%D9%88%D9%81%D8%A7%D9%84-14-%D9%82%D8%B1%D8%B5",
+          "product_id": 2143,
+          "product_name": "أوستوفال | 14 قرص",
+          "source_info": {
+            "source_page": 127,
+            "source_file": "medications_page_127_phase5_batch5.json"
+          },
+          "alternative_urls": [
+            "https://chefaa.com/product/%D8%A3%D9%88%D8%B3%D8%AA%D9%88%D9%81%D8%A7%D9%84-14-%D9%82%D8%B1%D8%B5",
+            "https://chefaa.com/eg-ar/medications/%D8%A3%D9%88%D8%B3%D8%AA%D9%88%D9%81%D8%A7%D9%84-14-%D9%82%D8%B1%D8%B5"
+          ]
+        },
+        {
+          "url": "https://chefaa.com/eg-ar/nowProduct/%D8%A8%D8%A7%D8%B1%D9%88%D9%83%D8%B3%D9%8A%D8%AF%D9%8A%D8%A8-%D8%B3%D9%8A-%D8%A7%D8%B1-375%D9%85%D8%AC%D9%85-30%D9%82%D8%B1%D8%B5",
+          "product_id": 2144,
+          "product_name": "باروكسيديب سي ار | 37.5مجم | 30قرص",
+          "source_info": {
+            "source_page": 127,
+            "source_file": "medications_page_127_phase5_batch5.json"
+          },
+          "alternative_urls": [
+            "https://chefaa.com/product/%D8%A8%D8%A7%D8%B1%D9%88%D9%83%D8%B3%D9%8A%D8%AF%D9%8A%D8%A8-%D8%B3%D9%8A-%D8%A7%D8%B1-375%D9%85%D8%AC%D9%85-30%D9%82%D8%B1%D8%B5",
+            "https://chefaa.com/eg-ar/medications/%D8%A8%D8%A7%D8%B1%D9%88%D9%83%D8%B3%D9%8A%D8%AF%D9%8A%D8%A8-%D8%B3%D9%8A-%D8%A7%D8%B1-375%D9%85%D8%AC%D9%85-30%D9%82%D8%B1%D8%B5"
+          ]
+        },
+        {
+          "url": "https://chefaa.com/eg-ar/nowProduct/%D8%A8%D8%B1%D9%8A%D8%AF%D8%A7%D8%A8%D9%88%D9%83%D8%B3-30%D9%85%D8%AC%D9%85-6%D8%A3%D9%82%D8%B1%D8%A7%D8%B5",
+          "product_id": 2145,
+          "product_name": "بريدابوكس | 30مجم | 6أقراص",
+          "source_info": {
+            "source_page": 127,
+            "source_file": "medications_page_127_phase5_batch5.json"
+          },
+          "alternative_urls": [
+            "https://chefaa.com/product/%D8%A8%D8%B1%D9%8A%D8%AF%D8%A7%D8%A8%D9%88%D9%83%D8%B3-30%D9%85%D8%AC%D9%85-6%D8%A3%D9%82%D8%B1%D8%A7%D8%B5",
+            "https://chefaa.com/eg-ar/medications/%D8%A8%D8%B1%D9%8A%D8%AF%D8%A7%D8%A8%D9%88%D9%83%D8%B3-30%D9%85%D8%AC%D9%85-6%D8%A3%D9%82%D8%B1%D8%A7%D8%B5"
+          ]
+        },
+        {
+          "url": "https://chefaa.com/eg-ar/nowProduct/%D8%A8%D8%B1%D9%8A%D9%81%D8%A7%D8%AC%D9%84%D9%8A%D8%A8-5%D9%85%D8%AC%D9%85-30%D9%82%D8%B1%D8%B5",
+          "product_id": 2146,
+          "product_name": "بريفاجليب | 5مجم | 30قرص",
+          "source_info": {
+            "source_page": 127,
+            "source_file": "medications_page_127_phase5_batch5.json"
+          },
+          "alternative_urls": [
+            "https://chefaa.com/product/%D8%A8%D8%B1%D9%8A%D9%81%D8%A7%D8%AC%D9%84%D9%8A%D8%A8-5%D9%85%D8%AC%D9%85-30%D9%82%D8%B1%D8%B5",
+            "https://chefaa.com/eg-ar/medications/%D8%A8%D8%B1%D9%8A%D9%81%D8%A7%D8%AC%D9%84%D9%8A%D8%A8-5%D9%85%D8%AC%D9%85-30%D9%82%D8%B1%D8%B5"
+          ]
+        },
+        {
+          "url": "https://chefaa.com/eg-ar/nowProduct/%D8%A8%D8%B1%D9%88%D8%AA%D9%88%D9%81%D9%8A%D9%83%D8%B3-20%D9%85%D8%AC%D9%85-14%D9%82%D8%B1%D8%B5",
+          "product_id": 2147,
+          "product_name": "بروتوفيكس | 20مجم | 14قرص",
+          "source_info": {
+            "source_page": 127,
+            "source_file": "medications_page_127_phase5_batch5.json"
+          },
+          "alternative_urls": [
+            "https://chefaa.com/product/%D8%A8%D8%B1%D9%88%D8%AA%D9%88%D9%81%D9%8A%D9%83%D8%B3-20%D9%85%D8%AC%D9%85-14%D9%82%D8%B1%D8%B5",
+            "https://chefaa.com/eg-ar/medications/%D8%A8%D8%B1%D9%88%D8%AA%D9%88%D9%81%D9%8A%D9%83%D8%B3-20%D9%85%D8%AC%D9%85-14%D9%82%D8%B1%D8%B5"
+          ]
+        },
+        {
+          "url": "https://chefaa.com/eg-ar/nowProduct/%D8%A8%D8%A7%D9%84%D9%85%D9%8A%D8%A8%D8%B1%D9%88%D9%81-125%D9%85%D8%AC%D9%85-30%D9%82%D8%B1%D8%B5",
+          "product_id": 2148,
+          "product_name": "بالميبروف | 125مجم | 30قرص",
+          "source_info": {
+            "source_page": 127,
+            "source_file": "medications_page_127_phase5_batch5.json"
+          },
+          "alternative_urls": [
+            "https://chefaa.com/product/%D8%A8%D8%A7%D9%84%D9%85%D9%8A%D8%A8%D8%B1%D9%88%D9%81-125%D9%85%D8%AC%D9%85-30%D9%82%D8%B1%D8%B5",
+            "https://chefaa.com/eg-ar/medications/%D8%A8%D8%A7%D9%84%D9%85%D9%8A%D8%A8%D8%B1%D9%88%D9%81-125%D9%85%D8%AC%D9%85-30%D9%82%D8%B1%D8%B5"
+          ]
+        },
+        {
+          "url": "https://chefaa.com/eg-ar/nowProduct/%D9%83%D9%88%D9%8A%D9%86%D9%88%D8%B3%D8%AA%D8%B1%D8%A7%D9%85%D8%A7%D9%83%D8%B3-750%D9%85%D8%AC%D9%85-5-%D8%A3%D9%82%D8%B1%D8%A7%D8%B5",
+          "product_id": 2149,
+          "product_name": "كوينوستراماكس 750مجم | 5 أقراص",
+          "source_info": {
+            "source_page": 127,
+            "source_file": "medications_page_127_phase5_batch5.json"
+          },
+          "alternative_urls": [
+            "https://chefaa.com/product/%D9%83%D9%88%D9%8A%D9%86%D9%88%D8%B3%D8%AA%D8%B1%D8%A7%D9%85%D8%A7%D9%83%D8%B3-750%D9%85%D8%AC%D9%85-5-%D8%A3%D9%82%D8%B1%D8%A7%D8%B5",
+            "https://chefaa.com/eg-ar/medications/%D9%83%D9%88%D9%8A%D9%86%D9%88%D8%B3%D8%AA%D8%B1%D8%A7%D9%85%D8%A7%D9%83%D8%B3-750%D9%85%D8%AC%D9%85-5-%D8%A3%D9%82%D8%B1%D8%A7%D8%B5"
+          ]
+        },
+        {
+          "url": "https://chefaa.com/eg-ar/nowProduct/%D9%83%D9%88%D9%8A%D8%AA%D9%83%D9%88%D9%84-150%D9%85%D8%AC%D9%85-30%D9%82%D8%B1%D8%B5",
+          "product_id": 2150,
+          "product_name": "كويتكول | 150مجم | 30قرص",
+          "source_info": {
+            "source_page": 127,
+            "source_file": "medications_page_127_phase5_batch5.json"
+          },
+          "alternative_urls": [
+            "https://chefaa.com/product/%D9%83%D9%88%D9%8A%D8%AA%D9%83%D9%88%D9%84-150%D9%85%D8%AC%D9%85-30%D9%82%D8%B1%D8%B5",
+            "https://chefaa.com/eg-ar/medications/%D9%83%D9%88%D9%8A%D8%AA%D9%83%D9%88%D9%84-150%D9%85%D8%AC%D9%85-30%D9%82%D8%B1%D8%B5"
+          ]
+        },
+        {
+          "url": "https://chefaa.com/eg-ar/nowProduct/%D8%B1%D9%88%D9%86%D9%85%D8%A7-100%D9%85%D8%AC%D9%85-10-%D8%A3%D9%83%D9%8A%D8%A7%D8%B3",
+          "product_id": 2151,
+          "product_name": "رونما 100مجم | 10 أكياس",
+          "source_info": {
+            "source_page": 127,
+            "source_file": "medications_page_127_phase5_batch5.json"
+          },
+          "alternative_urls": [
+            "https://chefaa.com/product/%D8%B1%D9%88%D9%86%D9%85%D8%A7-100%D9%85%D8%AC%D9%85-10-%D8%A3%D9%83%D9%8A%D8%A7%D8%B3",
+            "https://chefaa.com/eg-ar/medications/%D8%B1%D9%88%D9%86%D9%85%D8%A7-100%D9%85%D8%AC%D9%85-10-%D8%A3%D9%83%D9%8A%D8%A7%D8%B3"
+          ]
+        },
+        {
+          "url": "https://chefaa.com/eg-ar/nowProduct/%D8%B3%D8%A7%D9%86%D9%88%D9%84%D9%8A%D9%81%D9%88%D9%83%D8%B3-%D9%86%D9%82%D8%B7-%D9%84%D9%84%D8%B9%D9%8A%D9%86-5%D9%85%D9%84",
+          "product_id": 2152,
+          "product_name": "سانوليفوكس نقط للعين | 5مل",
+          "source_info": {
+            "source_page": 127,
+            "source_file": "medications_page_127_phase5_batch5.json"
+          },
+          "alternative_urls": [
+            "https://chefaa.com/product/%D8%B3%D8%A7%D9%86%D9%88%D9%84%D9%8A%D9%81%D9%88%D9%83%D8%B3-%D9%86%D9%82%D8%B7-%D9%84%D9%84%D8%B9%D9%8A%D9%86-5%D9%85%D9%84",
+            "https://chefaa.com/eg-ar/medications/%D8%B3%D8%A7%D9%86%D9%88%D9%84%D9%8A%D9%81%D9%88%D9%83%D8%B3-%D9%86%D9%82%D8%B7-%D9%84%D9%84%D8%B9%D9%8A%D9%86-5%D9%85%D9%84"
+          ]
+        },
+        {
+          "url": "https://chefaa.com/eg-ar/nowProduct/%D8%B3%D9%8A%D8%A8%D8%AA%D9%88%D9%86%D8%A7-%D8%B4%D8%B1%D8%A7%D8%A6%D8%AD-%D9%82%D8%B7%D9%86-%D8%AF%D8%A7%D8%A6%D8%B1%D9%8A%D8%A9-%D9%84%D9%84%D8%A7%D8%B3%D8%AA%D8%AE%D8%AF%D8%A7%D9%85-%D8%A7%D9%84%D9%8A%D9%88%D9%85%D9%8A",
+          "product_id": 2153,
+          "product_name": "سيبتونا | شرائح قطن دائرية للاستخدام اليومي",
+          "source_info": {
+            "source_page": 127,
+            "source_file": "medications_page_127_phase5_batch5.json"
+          },
+          "alternative_urls": [
+            "https://chefaa.com/product/%D8%B3%D9%8A%D8%A8%D8%AA%D9%88%D9%86%D8%A7-%D8%B4%D8%B1%D8%A7%D8%A6%D8%AD-%D9%82%D8%B7%D9%86-%D8%AF%D8%A7%D8%A6%D8%B1%D9%8A%D8%A9-%D9%84%D9%84%D8%A7%D8%B3%D8%AA%D8%AE%D8%AF%D8%A7%D9%85-%D8%A7%D9%84%D9%8A%D9%88%D9%85%D9%8A",
+            "https://chefaa.com/eg-ar/medications/%D8%B3%D9%8A%D8%A8%D8%AA%D9%88%D9%86%D8%A7-%D8%B4%D8%B1%D8%A7%D8%A6%D8%AD-%D9%82%D8%B7%D9%86-%D8%AF%D8%A7%D8%A6%D8%B1%D9%8A%D8%A9-%D9%84%D9%84%D8%A7%D8%B3%D8%AA%D8%AE%D8%AF%D8%A7%D9%85-%D8%A7%D9%84%D9%8A%D9%88%D9%85%D9%8A"
+          ]
+        },
+        {
+          "url": "https://chefaa.com/eg-ar/nowProduct/%D8%B3%D9%8A%D8%AA%D8%B1%D9%86%D9%88%D9%85%D9%8A%D8%AA-4%D9%85%D8%AC%D9%85-4-%D8%A3%D9%82%D8%B1%D8%A7%D8%B5",
+          "product_id": 2154,
+          "product_name": "سيترنوميت 4مجم | 4 أقراص",
+          "source_info": {
+            "source_page": 127,
+            "source_file": "medications_page_127_phase5_batch5.json"
+          },
+          "alternative_urls": [
+            "https://chefaa.com/product/%D8%B3%D9%8A%D8%AA%D8%B1%D9%86%D9%88%D9%85%D9%8A%D8%AA-4%D9%85%D8%AC%D9%85-4-%D8%A3%D9%82%D8%B1%D8%A7%D8%B5",
+            "https://chefaa.com/eg-ar/medications/%D8%B3%D9%8A%D8%AA%D8%B1%D9%86%D9%88%D9%85%D9%8A%D8%AA-4%D9%85%D8%AC%D9%85-4-%D8%A3%D9%82%D8%B1%D8%A7%D8%B5"
+          ]
+        },
+        {
+          "url": "https://chefaa.com/eg-ar/nowProduct/%D8%B4%D9%84%D8%AC%D8%A7%D8%AA%D9%8A%D9%86-300%D9%85%D8%AC%D9%85-30%D9%83%D8%A8%D8%B3%D9%88%D9%84%D8%A9",
+          "product_id": 2155,
+          "product_name": "شلجاتين | 300مجم | 30كبسولة",
+          "source_info": {
+            "source_page": 127,
+            "source_file": "medications_page_127_phase5_batch5.json"
+          },
+          "alternative_urls": [
+            "https://chefaa.com/product/%D8%B4%D9%84%D8%AC%D8%A7%D8%AA%D9%8A%D9%86-300%D9%85%D8%AC%D9%85-30%D9%83%D8%A8%D8%B3%D9%88%D9%84%D8%A9",
+            "https://chefaa.com/eg-ar/medications/%D8%B4%D9%84%D8%AC%D8%A7%D8%AA%D9%8A%D9%86-300%D9%85%D8%AC%D9%85-30%D9%83%D8%A8%D8%B3%D9%88%D9%84%D8%A9"
+          ]
+        }
+      ],
+      "total_products": 20
+    },
+    {
+      "batch_number": 2,
+      "products": [
+        {
+          "url": "https://chefaa.com/eg-ar/nowProduct/%D8%B3%D9%8A%D9%86%D9%88%D9%85%D8%A7%D8%B1%D9%8A%D9%86-%D9%82%D8%A7%D8%B1%D9%88%D8%B1%D8%A9-%D8%A7%D9%84%D8%B9%D9%86%D8%A7%D9%8A%D8%A9-%D8%A8%D8%A7%D9%84%D8%A7%D9%86%D9%81-%D9%87%D8%A7%D9%8A%D8%A8%D8%B1%D8%AA%D9%88%D9%86%D9%8A%D9%83-%D9%84%D9%84%D8%A7%D8%B7%D9%81%D8%A7%D9%84-%D8%A7%D9%84%D8%B1%D8%B6%D8%B9",
+          "product_id": 2156,
+          "product_name": "سينومارين | قارورة العناية بالانف هايبرتونيك للاطفال الرضع ...",
+          "source_info": {
+            "source_page": 128,
+            "source_file": "medications_page_128_phase5_batch5.json"
+          },
+          "alternative_urls": [
+            "https://chefaa.com/product/%D8%B3%D9%8A%D9%86%D9%88%D9%85%D8%A7%D8%B1%D9%8A%D9%86-%D9%82%D8%A7%D8%B1%D9%88%D8%B1%D8%A9-%D8%A7%D9%84%D8%B9%D9%86%D8%A7%D9%8A%D8%A9-%D8%A8%D8%A7%D9%84%D8%A7%D9%86%D9%81-%D9%87%D8%A7%D9%8A%D8%A8%D8%B1%D8%AA%D9%88%D9%86%D9%8A%D9%83-%D9%84%D9%84%D8%A7%D8%B7%D9%81%D8%A7%D9%84-%D8%A7%D9%84%D8%B1%D8%B6%D8%B9",
+            "https://chefaa.com/eg-ar/medications/%D8%B3%D9%8A%D9%86%D9%88%D9%85%D8%A7%D8%B1%D9%8A%D9%86-%D9%82%D8%A7%D8%B1%D9%88%D8%B1%D8%A9-%D8%A7%D9%84%D8%B9%D9%86%D8%A7%D9%8A%D8%A9-%D8%A8%D8%A7%D9%84%D8%A7%D9%86%D9%81-%D9%87%D8%A7%D9%8A%D8%A8%D8%B1%D8%AA%D9%88%D9%86%D9%8A%D9%83-%D9%84%D9%84%D8%A7%D8%B7%D9%81%D8%A7%D9%84-%D8%A7%D9%84%D8%B1%D8%B6%D8%B9"
+          ]
+        },
+        {
+          "url": "https://chefaa.com/eg-ar/nowProduct/%D8%B3%D9%88%D9%81%D9%8A%D9%86%D8%A7%D8%B3%D9%8A%D9%86-1%D9%85%D8%AC%D9%85-%D8%B4%D8%B1%D8%A7%D8%A8-%D9%85%D8%B9%D9%84%D9%82-120%D9%85%D9%84",
+          "product_id": 2157,
+          "product_name": "سوفيناسين | 1مجم شراب معلق | 120مل",
+          "source_info": {
+            "source_page": 128,
+            "source_file": "medications_page_128_phase5_batch5.json"
+          },
+          "alternative_urls": [
+            "https://chefaa.com/product/%D8%B3%D9%88%D9%81%D9%8A%D9%86%D8%A7%D8%B3%D9%8A%D9%86-1%D9%85%D8%AC%D9%85-%D8%B4%D8%B1%D8%A7%D8%A8-%D9%85%D8%B9%D9%84%D9%82-120%D9%85%D9%84",
+            "https://chefaa.com/eg-ar/medications/%D8%B3%D9%88%D9%81%D9%8A%D9%86%D8%A7%D8%B3%D9%8A%D9%86-1%D9%85%D8%AC%D9%85-%D8%B4%D8%B1%D8%A7%D8%A8-%D9%85%D8%B9%D9%84%D9%82-120%D9%85%D9%84"
+          ]
+        },
+        {
+          "url": "https://chefaa.com/eg-ar/nowProduct/%D8%B3%D9%88%D9%84%D9%8A%D9%83%D8%A7-100-%D9%88%D8%AD%D8%AF%D8%A950-%D9%85%D8%AC%D9%85-%D8%B3%D9%88%D9%84%D9%88%D8%B3%D8%AA%D8%A7%D8%B1-%D9%8A%D9%82%D9%84%D9%84-%D9%85%D8%B3%D8%AA%D9%88%D9%89-%D8%A7%D9%84%D8%B3%D9%83%D8%B1-%D9%81%D9%8A-%D8%A7%D9%84%D8%AF%D9%85",
+          "product_id": 2158,
+          "product_name": "سوليكا 100 وحدة/50 مجم سولوستار يقلل مستوى السكر في الدم | ...",
+          "source_info": {
+            "source_page": 128,
+            "source_file": "medications_page_128_phase5_batch5.json"
+          },
+          "alternative_urls": [
+            "https://chefaa.com/product/%D8%B3%D9%88%D9%84%D9%8A%D9%83%D8%A7-100-%D9%88%D8%AD%D8%AF%D8%A950-%D9%85%D8%AC%D9%85-%D8%B3%D9%88%D9%84%D9%88%D8%B3%D8%AA%D8%A7%D8%B1-%D9%8A%D9%82%D9%84%D9%84-%D9%85%D8%B3%D8%AA%D9%88%D9%89-%D8%A7%D9%84%D8%B3%D9%83%D8%B1-%D9%81%D9%8A-%D8%A7%D9%84%D8%AF%D9%85",
+            "https://chefaa.com/eg-ar/medications/%D8%B3%D9%88%D9%84%D9%8A%D9%83%D8%A7-100-%D9%88%D8%AD%D8%AF%D8%A950-%D9%85%D8%AC%D9%85-%D8%B3%D9%88%D9%84%D9%88%D8%B3%D8%AA%D8%A7%D8%B1-%D9%8A%D9%82%D9%84%D9%84-%D9%85%D8%B3%D8%AA%D9%88%D9%89-%D8%A7%D9%84%D8%B3%D9%83%D8%B1-%D9%81%D9%8A-%D8%A7%D9%84%D8%AF%D9%85"
+          ]
+        },
+        {
+          "url": "https://chefaa.com/eg-ar/nowProduct/%D8%B3%D9%88%D8%B1%D8%B3%D9%8A%D8%B1%D9%8A-%D8%A7%D9%86%D8%AA%D9%8A%D9%86%D8%B3%D9%8A%D9%81-%D9%83%D9%8A%D8%B1-%D9%84%D9%88%D8%B4%D9%86-%D9%84%D9%84%D8%B4%D8%B9%D8%B1-160%D9%85%D9%84",
+          "product_id": 2159,
+          "product_name": "سورسيري | انتينسيف كير لوشن للشعر | 160مل",
+          "source_info": {
+            "source_page": 128,
+            "source_file": "medications_page_128_phase5_batch5.json"
+          },
+          "alternative_urls": [
+            "https://chefaa.com/product/%D8%B3%D9%88%D8%B1%D8%B3%D9%8A%D8%B1%D9%8A-%D8%A7%D9%86%D8%AA%D9%8A%D9%86%D8%B3%D9%8A%D9%81-%D9%83%D9%8A%D8%B1-%D9%84%D9%88%D8%B4%D9%86-%D9%84%D9%84%D8%B4%D8%B9%D8%B1-160%D9%85%D9%84",
+            "https://chefaa.com/eg-ar/medications/%D8%B3%D9%88%D8%B1%D8%B3%D9%8A%D8%B1%D9%8A-%D8%A7%D9%86%D8%AA%D9%8A%D9%86%D8%B3%D9%8A%D9%81-%D9%83%D9%8A%D8%B1-%D9%84%D9%88%D8%B4%D9%86-%D9%84%D9%84%D8%B4%D8%B9%D8%B1-160%D9%85%D9%84"
+          ]
+        },
+        {
+          "url": "https://chefaa.com/eg-ar/nowProduct/%D8%B3%D8%AA%D9%88%D8%A8%D8%A7%D8%AF%D9%88%D9%84-%D8%A7%D9%83%D8%B3%D8%AA%D9%86%D8%AF-650%D9%85%D8%AC%D9%85-30-%D9%82%D8%B1%D8%B5",
+          "product_id": 2160,
+          "product_name": "ستوبادول اكستند 650مجم | 30 قرص",
+          "source_info": {
+            "source_page": 128,
+            "source_file": "medications_page_128_phase5_batch5.json"
+          },
+          "alternative_urls": [
+            "https://chefaa.com/product/%D8%B3%D8%AA%D9%88%D8%A8%D8%A7%D8%AF%D9%88%D9%84-%D8%A7%D9%83%D8%B3%D8%AA%D9%86%D8%AF-650%D9%85%D8%AC%D9%85-30-%D9%82%D8%B1%D8%B5",
+            "https://chefaa.com/eg-ar/medications/%D8%B3%D8%AA%D9%88%D8%A8%D8%A7%D8%AF%D9%88%D9%84-%D8%A7%D9%83%D8%B3%D8%AA%D9%86%D8%AF-650%D9%85%D8%AC%D9%85-30-%D9%82%D8%B1%D8%B5"
+          ]
+        },
+        {
+          "url": "https://chefaa.com/eg-ar/nowProduct/%D8%B3%D8%AA%D8%B1%D8%A7%D9%83%D9%88%D8%A8%D9%8A%D9%86%D8%A7-25%D9%85%D8%AC%D9%85-30%D9%82%D8%B1%D8%B5",
+          "product_id": 2161,
+          "product_name": "ستراكوبينا | 2.5مجم | 30قرص",
+          "source_info": {
+            "source_page": 128,
+            "source_file": "medications_page_128_phase5_batch5.json"
+          },
+          "alternative_urls": [
+            "https://chefaa.com/product/%D8%B3%D8%AA%D8%B1%D8%A7%D9%83%D9%88%D8%A8%D9%8A%D9%86%D8%A7-25%D9%85%D8%AC%D9%85-30%D9%82%D8%B1%D8%B5",
+            "https://chefaa.com/eg-ar/medications/%D8%B3%D8%AA%D8%B1%D8%A7%D9%83%D9%88%D8%A8%D9%8A%D9%86%D8%A7-25%D9%85%D8%AC%D9%85-30%D9%82%D8%B1%D8%B5"
+          ]
+        },
+        {
+          "url": "https://chefaa.com/eg-ar/nowProduct/%D8%AA%D9%8A%D9%86%D9%8A%D8%A7%D8%B1%D9%8A%D8%B3%D8%AA-%D9%83%D8%B1%D9%8A%D9%85-15%D8%AC%D9%85",
+          "product_id": 2162,
+          "product_name": "تينياريست كريم | 15جم",
+          "source_info": {
+            "source_page": 128,
+            "source_file": "medications_page_128_phase5_batch5.json"
+          },
+          "alternative_urls": [
+            "https://chefaa.com/product/%D8%AA%D9%8A%D9%86%D9%8A%D8%A7%D8%B1%D9%8A%D8%B3%D8%AA-%D9%83%D8%B1%D9%8A%D9%85-15%D8%AC%D9%85",
+            "https://chefaa.com/eg-ar/medications/%D8%AA%D9%8A%D9%86%D9%8A%D8%A7%D8%B1%D9%8A%D8%B3%D8%AA-%D9%83%D8%B1%D9%8A%D9%85-15%D8%AC%D9%85"
+          ]
+        },
+        {
+          "url": "https://chefaa.com/eg-ar/nowProduct/%D8%AA%D9%88%D9%8A%D9%86%D8%AC%D9%88-%D9%84%D9%88%D8%B4%D9%86-%D9%85%D9%87%D8%AF%D8%A6-%D9%84%D9%84%D8%A8%D8%B4%D8%B1%D8%A9-%D8%A8%D8%A7%D9%84%D9%83%D8%A7%D9%84%D8%A7%D9%85%D9%8A%D9%86-120%D9%85%D9%84",
+          "product_id": 2163,
+          "product_name": "توينجو | لوشن مهدئ للبشرة بالكالامين | 120مل",
+          "source_info": {
+            "source_page": 128,
+            "source_file": "medications_page_128_phase5_batch5.json"
+          },
+          "alternative_urls": [
+            "https://chefaa.com/product/%D8%AA%D9%88%D9%8A%D9%86%D8%AC%D9%88-%D9%84%D9%88%D8%B4%D9%86-%D9%85%D9%87%D8%AF%D8%A6-%D9%84%D9%84%D8%A8%D8%B4%D8%B1%D8%A9-%D8%A8%D8%A7%D9%84%D9%83%D8%A7%D9%84%D8%A7%D9%85%D9%8A%D9%86-120%D9%85%D9%84",
+            "https://chefaa.com/eg-ar/medications/%D8%AA%D9%88%D9%8A%D9%86%D8%AC%D9%88-%D9%84%D9%88%D8%B4%D9%86-%D9%85%D9%87%D8%AF%D8%A6-%D9%84%D9%84%D8%A8%D8%B4%D8%B1%D8%A9-%D8%A8%D8%A7%D9%84%D9%83%D8%A7%D9%84%D8%A7%D9%85%D9%8A%D9%86-120%D9%85%D9%84"
+          ]
+        },
+        {
+          "url": "https://chefaa.com/eg-ar/nowProduct/%D9%81%D8%A7%D9%86%D9%81%D9%8A%D9%84%D8%AF%D8%A7-50-%D9%85%D8%AC%D9%85-%D9%81%D9%8A%D9%84%D8%AF%D8%A7%D8%AC%D9%84%D9%8A%D8%A8%D8%AA%D9%8A%D9%86-30-%D9%82%D8%B1%D8%B5",
+          "product_id": 2164,
+          "product_name": "فانفيلدا 50 مجم فيلداجليبتين | 30 قرص",
+          "source_info": {
+            "source_page": 128,
+            "source_file": "medications_page_128_phase5_batch5.json"
+          },
+          "alternative_urls": [
+            "https://chefaa.com/product/%D9%81%D8%A7%D9%86%D9%81%D9%8A%D9%84%D8%AF%D8%A7-50-%D9%85%D8%AC%D9%85-%D9%81%D9%8A%D9%84%D8%AF%D8%A7%D8%AC%D9%84%D9%8A%D8%A8%D8%AA%D9%8A%D9%86-30-%D9%82%D8%B1%D8%B5",
+            "https://chefaa.com/eg-ar/medications/%D9%81%D8%A7%D9%86%D9%81%D9%8A%D9%84%D8%AF%D8%A7-50-%D9%85%D8%AC%D9%85-%D9%81%D9%8A%D9%84%D8%AF%D8%A7%D8%AC%D9%84%D9%8A%D8%A8%D8%AA%D9%8A%D9%86-30-%D9%82%D8%B1%D8%B5"
+          ]
+        },
+        {
+          "url": "https://chefaa.com/eg-ar/nowProduct/%D9%81%D9%8A%D9%84%D8%A7%D9%81%D9%88%D8%B1%D9%8A%D8%A7-40%D9%85%D8%AC%D9%85-30-%D9%82%D8%B1%D8%B5",
+          "product_id": 2165,
+          "product_name": "فيلافوريا 40مجم | 30 قرص",
+          "source_info": {
+            "source_page": 128,
+            "source_file": "medications_page_128_phase5_batch5.json"
+          },
+          "alternative_urls": [
+            "https://chefaa.com/product/%D9%81%D9%8A%D9%84%D8%A7%D9%81%D9%88%D8%B1%D9%8A%D8%A7-40%D9%85%D8%AC%D9%85-30-%D9%82%D8%B1%D8%B5",
+            "https://chefaa.com/eg-ar/medications/%D9%81%D9%8A%D9%84%D8%A7%D9%81%D9%88%D8%B1%D9%8A%D8%A7-40%D9%85%D8%AC%D9%85-30-%D9%82%D8%B1%D8%B5"
+          ]
+        },
+        {
+          "url": "https://chefaa.com/eg-ar/nowProduct/%D8%A8%D9%88%D8%B3%D8%B7%D9%86-%D9%83%D9%8A%D9%88-%D8%B1%D9%8A%D8%B2%D9%85-30-%D9%83%D8%A8%D8%B3%D9%88%D9%84%D8%A9",
+          "product_id": 2166,
+          "product_name": "بوسطن كيو ريزم | 30 كبسولة",
+          "source_info": {
+            "source_page": 128,
+            "source_file": "medications_page_128_phase5_batch5.json"
+          },
+          "alternative_urls": [
+            "https://chefaa.com/product/%D8%A8%D9%88%D8%B3%D8%B7%D9%86-%D9%83%D9%8A%D9%88-%D8%B1%D9%8A%D8%B2%D9%85-30-%D9%83%D8%A8%D8%B3%D9%88%D9%84%D8%A9",
+            "https://chefaa.com/eg-ar/medications/%D8%A8%D9%88%D8%B3%D8%B7%D9%86-%D9%83%D9%8A%D9%88-%D8%B1%D9%8A%D8%B2%D9%85-30-%D9%83%D8%A8%D8%B3%D9%88%D9%84%D8%A9"
+          ]
+        },
+        {
+          "url": "https://chefaa.com/eg-ar/nowProduct/%D8%A3%D8%B1%D9%8A%D8%A8%D9%8A%D8%A8%D8%B1%D8%A7%D8%B2%D9%88%D9%84-1%D9%85%D8%AC%D9%85%D9%85%D9%84-%D9%85%D8%AD%D9%84%D9%88%D9%84-%D9%81%D9%85%D9%88%D9%8A-120%D9%85%D9%84",
+          "product_id": 2167,
+          "product_name": "أريبيبرازول 1مجم/مل محلول فموي | 120مل",
+          "source_info": {
+            "source_page": 128,
+            "source_file": "medications_page_128_phase5_batch5.json"
+          },
+          "alternative_urls": [
+            "https://chefaa.com/product/%D8%A3%D8%B1%D9%8A%D8%A8%D9%8A%D8%A8%D8%B1%D8%A7%D8%B2%D9%88%D9%84-1%D9%85%D8%AC%D9%85%D9%85%D9%84-%D9%85%D8%AD%D9%84%D9%88%D9%84-%D9%81%D9%85%D9%88%D9%8A-120%D9%85%D9%84",
+            "https://chefaa.com/eg-ar/medications/%D8%A3%D8%B1%D9%8A%D8%A8%D9%8A%D8%A8%D8%B1%D8%A7%D8%B2%D9%88%D9%84-1%D9%85%D8%AC%D9%85%D9%85%D9%84-%D9%85%D8%AD%D9%84%D9%88%D9%84-%D9%81%D9%85%D9%88%D9%8A-120%D9%85%D9%84"
+          ]
+        },
+        {
+          "url": "https://chefaa.com/eg-ar/nowProduct/%D8%A3%D8%B3%D9%83%D9%8A%D8%B2%D8%A7%D8%AF%D9%83%D8%B3-%D8%A5%D9%86-%D8%AC%D9%84-40%D8%AC%D9%85",
+          "product_id": 2168,
+          "product_name": "أسكيزادكس-إن جل | 40جم",
+          "source_info": {
+            "source_page": 128,
+            "source_file": "medications_page_128_phase5_batch5.json"
+          },
+          "alternative_urls": [
+            "https://chefaa.com/product/%D8%A3%D8%B3%D9%83%D9%8A%D8%B2%D8%A7%D8%AF%D9%83%D8%B3-%D8%A5%D9%86-%D8%AC%D9%84-40%D8%AC%D9%85",
+            "https://chefaa.com/eg-ar/medications/%D8%A3%D8%B3%D9%83%D9%8A%D8%B2%D8%A7%D8%AF%D9%83%D8%B3-%D8%A5%D9%86-%D8%AC%D9%84-40%D8%AC%D9%85"
+          ]
+        },
+        {
+          "url": "https://chefaa.com/eg-ar/nowProduct/%D8%A8%D9%8A%D8%B3%D9%88%D9%84%D9%88%D9%83-10%D9%85%D8%AC%D9%85-20%D9%82%D8%B1%D8%B5",
+          "product_id": 2169,
+          "product_name": "بيسولوك | 10مجم | 20قرص",
+          "source_info": {
+            "source_page": 128,
+            "source_file": "medications_page_128_phase5_batch5.json"
+          },
+          "alternative_urls": [
+            "https://chefaa.com/product/%D8%A8%D9%8A%D8%B3%D9%88%D9%84%D9%88%D9%83-10%D9%85%D8%AC%D9%85-20%D9%82%D8%B1%D8%B5",
+            "https://chefaa.com/eg-ar/medications/%D8%A8%D9%8A%D8%B3%D9%88%D9%84%D9%88%D9%83-10%D9%85%D8%AC%D9%85-20%D9%82%D8%B1%D8%B5"
+          ]
+        },
+        {
+          "url": "https://chefaa.com/eg-ar/nowProduct/%D8%A8%D9%88%D8%B1%D8%AC%D8%A7%D8%B2%D9%88%D9%86-%D8%A8%D9%84%D8%B3-%D9%85%D8%B1%D9%87%D9%85-30%D8%AC%D9%85",
+          "product_id": 2170,
+          "product_name": "بورجازون بلس | مرهم | 30جم",
+          "source_info": {
+            "source_page": 128,
+            "source_file": "medications_page_128_phase5_batch5.json"
+          },
+          "alternative_urls": [
+            "https://chefaa.com/product/%D8%A8%D9%88%D8%B1%D8%AC%D8%A7%D8%B2%D9%88%D9%86-%D8%A8%D9%84%D8%B3-%D9%85%D8%B1%D9%87%D9%85-30%D8%AC%D9%85",
+            "https://chefaa.com/eg-ar/medications/%D8%A8%D9%88%D8%B1%D8%AC%D8%A7%D8%B2%D9%88%D9%86-%D8%A8%D9%84%D8%B3-%D9%85%D8%B1%D9%87%D9%85-30%D8%AC%D9%85"
+          ]
+        },
+        {
+          "url": "https://chefaa.com/eg-ar/nowProduct/%D9%83%D8%A7%D9%81%D9%8A%D9%86%D8%AA%D9%88%D9%84-%D8%B4%D8%B1%D8%A7%D8%A8-120%D9%85%D9%84",
+          "product_id": 2171,
+          "product_name": "كافينتول | شراب | 120مل",
+          "source_info": {
+            "source_page": 128,
+            "source_file": "medications_page_128_phase5_batch5.json"
+          },
+          "alternative_urls": [
+            "https://chefaa.com/product/%D9%83%D8%A7%D9%81%D9%8A%D9%86%D8%AA%D9%88%D9%84-%D8%B4%D8%B1%D8%A7%D8%A8-120%D9%85%D9%84",
+            "https://chefaa.com/eg-ar/medications/%D9%83%D8%A7%D9%81%D9%8A%D9%86%D8%AA%D9%88%D9%84-%D8%B4%D8%B1%D8%A7%D8%A8-120%D9%85%D9%84"
+          ]
+        },
+        {
+          "url": "https://chefaa.com/eg-ar/nowProduct/%D8%B3%D9%8A%D9%81%D8%A7%D8%B2%D9%88%D9%86-%D8%A8%D9%84%D8%B3-%D9%81%D9%8A%D8%A7%D9%84-15%D8%AC%D8%B1%D8%A7%D9%85",
+          "product_id": 2172,
+          "product_name": "سيفازون بلس | فيال | 1.5جرام",
+          "source_info": {
+            "source_page": 128,
+            "source_file": "medications_page_128_phase5_batch5.json"
+          },
+          "alternative_urls": [
+            "https://chefaa.com/product/%D8%B3%D9%8A%D9%81%D8%A7%D8%B2%D9%88%D9%86-%D8%A8%D9%84%D8%B3-%D9%81%D9%8A%D8%A7%D9%84-15%D8%AC%D8%B1%D8%A7%D9%85",
+            "https://chefaa.com/eg-ar/medications/%D8%B3%D9%8A%D9%81%D8%A7%D8%B2%D9%88%D9%86-%D8%A8%D9%84%D8%B3-%D9%81%D9%8A%D8%A7%D9%84-15%D8%AC%D8%B1%D8%A7%D9%85"
+          ]
+        },
+        {
+          "url": "https://chefaa.com/eg-ar/nowProduct/%D9%83%D9%88%D9%86%D9%81%D8%A7%D8%B1%D8%B2%D9%8A%D9%88%D8%AA%D8%A7%D9%85-75%D9%85%D8%AC%D9%85-20%D9%82%D8%B1%D8%B5",
+          "product_id": 2173,
+          "product_name": "كونفارزيوتام | 75مجم | 20قرص",
+          "source_info": {
+            "source_page": 128,
+            "source_file": "medications_page_128_phase5_batch5.json"
+          },
+          "alternative_urls": [
+            "https://chefaa.com/product/%D9%83%D9%88%D9%86%D9%81%D8%A7%D8%B1%D8%B2%D9%8A%D9%88%D8%AA%D8%A7%D9%85-75%D9%85%D8%AC%D9%85-20%D9%82%D8%B1%D8%B5",
+            "https://chefaa.com/eg-ar/medications/%D9%83%D9%88%D9%86%D9%81%D8%A7%D8%B1%D8%B2%D9%8A%D9%88%D8%AA%D8%A7%D9%85-75%D9%85%D8%AC%D9%85-20%D9%82%D8%B1%D8%B5"
+          ]
+        },
+        {
+          "url": "https://chefaa.com/eg-ar/nowProduct/%D9%83%D9%88%D8%B3%D9%8A%D9%85%D8%A8%D8%B1%D9%8A%D9%84-5%D9%85%D8%AC%D9%8510%D9%85%D8%AC%D9%85-15%D9%82%D8%B1%D8%B5",
+          "product_id": 2174,
+          "product_name": "كوسيمبريل | 5مجم/10مجم | 15قرص",
+          "source_info": {
+            "source_page": 128,
+            "source_file": "medications_page_128_phase5_batch5.json"
+          },
+          "alternative_urls": [
+            "https://chefaa.com/product/%D9%83%D9%88%D8%B3%D9%8A%D9%85%D8%A8%D8%B1%D9%8A%D9%84-5%D9%85%D8%AC%D9%8510%D9%85%D8%AC%D9%85-15%D9%82%D8%B1%D8%B5",
+            "https://chefaa.com/eg-ar/medications/%D9%83%D9%88%D8%B3%D9%8A%D9%85%D8%A8%D8%B1%D9%8A%D9%84-5%D9%85%D8%AC%D9%8510%D9%85%D8%AC%D9%85-15%D9%82%D8%B1%D8%B5"
+          ]
+        },
+        {
+          "url": "https://chefaa.com/eg-ar/nowProduct/%D9%83%D9%88%D9%83%D8%B3%D8%B1%D9%8A%D8%AA%D9%88%D8%B1-60-%D9%85%D8%AC%D9%85-30-%D9%82%D8%B1%D8%B5",
+          "product_id": 2175,
+          "product_name": "كوكسريتور 60 مجم | 30 قرص",
+          "source_info": {
+            "source_page": 128,
+            "source_file": "medications_page_128_phase5_batch5.json"
+          },
+          "alternative_urls": [
+            "https://chefaa.com/product/%D9%83%D9%88%D9%83%D8%B3%D8%B1%D9%8A%D8%AA%D9%88%D8%B1-60-%D9%85%D8%AC%D9%85-30-%D9%82%D8%B1%D8%B5",
+            "https://chefaa.com/eg-ar/medications/%D9%83%D9%88%D9%83%D8%B3%D8%B1%D9%8A%D8%AA%D9%88%D8%B1-60-%D9%85%D8%AC%D9%85-30-%D9%82%D8%B1%D8%B5"
+          ]
+        }
+      ],
+      "total_products": 20
+    },
+    {
+      "batch_number": 3,
+      "products": [
+        {
+          "url": "https://chefaa.com/eg-ar/nowProduct/%D8%B3%D8%A7%D9%8A%D9%83%D9%84%D9%88%D8%AC%D9%8A%D8%B3%D8%AA",
+          "product_id": 2176,
+          "product_name": "سايكلوجيست",
+          "source_info": {
+            "source_page": 129,
+            "source_file": "medications_page_129_phase5_batch5.json"
+          },
+          "alternative_urls": [
+            "https://chefaa.com/product/%D8%B3%D8%A7%D9%8A%D9%83%D9%84%D9%88%D8%AC%D9%8A%D8%B3%D8%AA",
+            "https://chefaa.com/eg-ar/medications/%D8%B3%D8%A7%D9%8A%D9%83%D9%84%D9%88%D8%AC%D9%8A%D8%B3%D8%AA"
+          ]
+        },
+        {
+          "url": "https://chefaa.com/eg-ar/nowProduct/%D9%81%D8%B1%D9%88%D8%B2%D9%8A%D8%AA%D9%88%D8%B1",
+          "product_id": 2177,
+          "product_name": "فروزيتور",
+          "source_info": {
+            "source_page": 129,
+            "source_file": "medications_page_129_phase5_batch5.json"
+          },
+          "alternative_urls": [
+            "https://chefaa.com/product/%D9%81%D8%B1%D9%88%D8%B2%D9%8A%D8%AA%D9%88%D8%B1",
+            "https://chefaa.com/eg-ar/medications/%D9%81%D8%B1%D9%88%D8%B2%D9%8A%D8%AA%D9%88%D8%B1"
+          ]
+        },
+        {
+          "url": "https://chefaa.com/eg-ar/nowProduct/%D8%AC%D9%8A%D9%86%D9%88%D9%85%D9%88%D9%86%D9%8A%D9%83%D8%B3",
+          "product_id": 2178,
+          "product_name": "جينومونيكس",
+          "source_info": {
+            "source_page": 129,
+            "source_file": "medications_page_129_phase5_batch5.json"
+          },
+          "alternative_urls": [
+            "https://chefaa.com/product/%D8%AC%D9%8A%D9%86%D9%88%D9%85%D9%88%D9%86%D9%8A%D9%83%D8%B3",
+            "https://chefaa.com/eg-ar/medications/%D8%AC%D9%8A%D9%86%D9%88%D9%85%D9%88%D9%86%D9%8A%D9%83%D8%B3"
+          ]
+        },
+        {
+          "url": "https://chefaa.com/eg-ar/nowProduct/%D9%83%D9%8A%D9%81%D9%88%D8%B1%D9%83",
+          "product_id": 2179,
+          "product_name": "كيفورك",
+          "source_info": {
+            "source_page": 129,
+            "source_file": "medications_page_129_phase5_batch5.json"
+          },
+          "alternative_urls": [
+            "https://chefaa.com/product/%D9%83%D9%8A%D9%81%D9%88%D8%B1%D9%83",
+            "https://chefaa.com/eg-ar/medications/%D9%83%D9%8A%D9%81%D9%88%D8%B1%D9%83"
+          ]
+        },
+        {
+          "url": "https://chefaa.com/eg-ar/nowProduct/%D9%84%D9%8A%D9%81%D9%88%D9%83%D8%A7%D8%B1",
+          "product_id": 2180,
+          "product_name": "ليفوكار",
+          "source_info": {
+            "source_page": 129,
+            "source_file": "medications_page_129_phase5_batch5.json"
+          },
+          "alternative_urls": [
+            "https://chefaa.com/product/%D9%84%D9%8A%D9%81%D9%88%D9%83%D8%A7%D8%B1",
+            "https://chefaa.com/eg-ar/medications/%D9%84%D9%8A%D9%81%D9%88%D9%83%D8%A7%D8%B1"
+          ]
+        },
+        {
+          "url": "https://chefaa.com/eg-ar/nowProduct/%D9%84%D9%88%D9%81%D9%8A%D8%B1",
+          "product_id": 2181,
+          "product_name": "لوفير",
+          "source_info": {
+            "source_page": 129,
+            "source_file": "medications_page_129_phase5_batch5.json"
+          },
+          "alternative_urls": [
+            "https://chefaa.com/product/%D9%84%D9%88%D9%81%D9%8A%D8%B1",
+            "https://chefaa.com/eg-ar/medications/%D9%84%D9%88%D9%81%D9%8A%D8%B1"
+          ]
+        },
+        {
+          "url": "https://chefaa.com/eg-ar/nowProduct/%D9%85%D8%A7%D9%86%D8%AF%D9%88%D8%BA%D9%8A%D8%B3%D8%AA",
+          "product_id": 2182,
+          "product_name": "ماندوغيست",
+          "source_info": {
+            "source_page": 129,
+            "source_file": "medications_page_129_phase5_batch5.json"
+          },
+          "alternative_urls": [
+            "https://chefaa.com/product/%D9%85%D8%A7%D9%86%D8%AF%D9%88%D8%BA%D9%8A%D8%B3%D8%AA",
+            "https://chefaa.com/eg-ar/medications/%D9%85%D8%A7%D9%86%D8%AF%D9%88%D8%BA%D9%8A%D8%B3%D8%AA"
+          ]
+        },
+        {
+          "url": "https://chefaa.com/eg-ar/nowProduct/%D9%85%D9%8A%D8%AB%D8%A7%D8%A8%D9%8A%D9%88%D8%AC%D9%8A%D9%86",
+          "product_id": 2183,
+          "product_name": "ميثابيوجين",
+          "source_info": {
+            "source_page": 129,
+            "source_file": "medications_page_129_phase5_batch5.json"
+          },
+          "alternative_urls": [
+            "https://chefaa.com/product/%D9%85%D9%8A%D8%AB%D8%A7%D8%A8%D9%8A%D9%88%D8%AC%D9%8A%D9%86",
+            "https://chefaa.com/eg-ar/medications/%D9%85%D9%8A%D8%AB%D8%A7%D8%A8%D9%8A%D9%88%D8%AC%D9%8A%D9%86"
+          ]
+        },
+        {
+          "url": "https://chefaa.com/eg-ar/nowProduct/%D9%85%D8%A7%D9%8A%D8%A7%D9%83%D9%8A%D9%84%D9%8A%D9%83",
+          "product_id": 2184,
+          "product_name": "ماياكيليك",
+          "source_info": {
+            "source_page": 129,
+            "source_file": "medications_page_129_phase5_batch5.json"
+          },
+          "alternative_urls": [
+            "https://chefaa.com/product/%D9%85%D8%A7%D9%8A%D8%A7%D9%83%D9%8A%D9%84%D9%8A%D9%83",
+            "https://chefaa.com/eg-ar/medications/%D9%85%D8%A7%D9%8A%D8%A7%D9%83%D9%8A%D9%84%D9%8A%D9%83"
+          ]
+        },
+        {
+          "url": "https://chefaa.com/eg-ar/nowProduct/%D9%85%D9%88%D9%83%D8%B3%D9%8A%D8%B3%D9%8A%D8%A7%D8%B1%D9%88",
+          "product_id": 2185,
+          "product_name": "موكسيسيارو",
+          "source_info": {
+            "source_page": 129,
+            "source_file": "medications_page_129_phase5_batch5.json"
+          },
+          "alternative_urls": [
+            "https://chefaa.com/product/%D9%85%D9%88%D9%83%D8%B3%D9%8A%D8%B3%D9%8A%D8%A7%D8%B1%D9%88",
+            "https://chefaa.com/eg-ar/medications/%D9%85%D9%88%D9%83%D8%B3%D9%8A%D8%B3%D9%8A%D8%A7%D8%B1%D9%88"
+          ]
+        },
+        {
+          "url": "https://chefaa.com/eg-ar/nowProduct/%D9%86%D9%8A%D9%83%D8%B3%D9%8A%D9%85%D8%B1%D9%8A%D9%83%D8%A7%D9%86",
+          "product_id": 2186,
+          "product_name": "نيكسيمريكان",
+          "source_info": {
+            "source_page": 129,
+            "source_file": "medications_page_129_phase5_batch5.json"
+          },
+          "alternative_urls": [
+            "https://chefaa.com/product/%D9%86%D9%8A%D9%83%D8%B3%D9%8A%D9%85%D8%B1%D9%8A%D9%83%D8%A7%D9%86",
+            "https://chefaa.com/eg-ar/medications/%D9%86%D9%8A%D9%83%D8%B3%D9%8A%D9%85%D8%B1%D9%8A%D9%83%D8%A7%D9%86"
+          ]
+        },
+        {
+          "url": "https://chefaa.com/eg-ar/nowProduct/%D9%86%D9%88%D9%81%D8%B1%D8%A7%D9%83%D8%AA",
+          "product_id": 2187,
+          "product_name": "نوفراكت",
+          "source_info": {
+            "source_page": 129,
+            "source_file": "medications_page_129_phase5_batch5.json"
+          },
+          "alternative_urls": [
+            "https://chefaa.com/product/%D9%86%D9%88%D9%81%D8%B1%D8%A7%D9%83%D8%AA",
+            "https://chefaa.com/eg-ar/medications/%D9%86%D9%88%D9%81%D8%B1%D8%A7%D9%83%D8%AA"
+          ]
+        },
+        {
+          "url": "https://chefaa.com/eg-ar/nowProduct/%D8%A3%D9%88%D9%83%D9%88%D8%B3%D9%8A%D9%8A%D9%84%D8%B1%D9%8A%D8%AF%D8%AC",
+          "product_id": 2188,
+          "product_name": "أوكوسييلريدج",
+          "source_info": {
+            "source_page": 129,
+            "source_file": "medications_page_129_phase5_batch5.json"
+          },
+          "alternative_urls": [
+            "https://chefaa.com/product/%D8%A3%D9%88%D9%83%D9%88%D8%B3%D9%8A%D9%8A%D9%84%D8%B1%D9%8A%D8%AF%D8%AC",
+            "https://chefaa.com/eg-ar/medications/%D8%A3%D9%88%D9%83%D9%88%D8%B3%D9%8A%D9%8A%D9%84%D8%B1%D9%8A%D8%AF%D8%AC"
+          ]
+        },
+        {
+          "url": "https://chefaa.com/eg-ar/nowProduct/%D8%A3%D9%88%D9%84%D9%88%D8%A8%D8%A7%D8%AA",
+          "product_id": 2189,
+          "product_name": "أولوبات",
+          "source_info": {
+            "source_page": 129,
+            "source_file": "medications_page_129_phase5_batch5.json"
+          },
+          "alternative_urls": [
+            "https://chefaa.com/product/%D8%A3%D9%88%D9%84%D9%88%D8%A8%D8%A7%D8%AA",
+            "https://chefaa.com/eg-ar/medications/%D8%A3%D9%88%D9%84%D9%88%D8%A8%D8%A7%D8%AA"
+          ]
+        },
+        {
+          "url": "https://chefaa.com/eg-ar/nowProduct/%D8%A8%D9%8A%D9%86-%D8%B1%D9%8A%D9%84%D9%8A%D9%81%D8%B1",
+          "product_id": 2190,
+          "product_name": "بين ريليفر",
+          "source_info": {
+            "source_page": 129,
+            "source_file": "medications_page_129_phase5_batch5.json"
+          },
+          "alternative_urls": [
+            "https://chefaa.com/product/%D8%A8%D9%8A%D9%86-%D8%B1%D9%8A%D9%84%D9%8A%D9%81%D8%B1",
+            "https://chefaa.com/eg-ar/medications/%D8%A8%D9%8A%D9%86-%D8%B1%D9%8A%D9%84%D9%8A%D9%81%D8%B1"
+          ]
+        },
+        {
+          "url": "https://chefaa.com/eg-ar/nowProduct/%D9%83%D9%88%D9%8A%D8%AA%D8%A7%D8%B2%D9%8A%D9%83-%D8%A7%D9%83%D8%B3-%D8%A7%D8%B1",
+          "product_id": 2191,
+          "product_name": "كويتازيك اكس ار",
+          "source_info": {
+            "source_page": 129,
+            "source_file": "medications_page_129_phase5_batch5.json"
+          },
+          "alternative_urls": [
+            "https://chefaa.com/product/%D9%83%D9%88%D9%8A%D8%AA%D8%A7%D8%B2%D9%8A%D9%83-%D8%A7%D9%83%D8%B3-%D8%A7%D8%B1",
+            "https://chefaa.com/eg-ar/medications/%D9%83%D9%88%D9%8A%D8%AA%D8%A7%D8%B2%D9%8A%D9%83-%D8%A7%D9%83%D8%B3-%D8%A7%D8%B1"
+          ]
+        },
+        {
+          "url": "https://chefaa.com/eg-ar/nowProduct/%D8%B1%D9%88%D8%B2%D9%88%D9%81%D8%A7%D8%B3%D8%AA%D8%A7%D8%AA%D9%8A%D9%86",
+          "product_id": 2192,
+          "product_name": "روزوفاستاتين",
+          "source_info": {
+            "source_page": 129,
+            "source_file": "medications_page_129_phase5_batch5.json"
+          },
+          "alternative_urls": [
+            "https://chefaa.com/product/%D8%B1%D9%88%D8%B2%D9%88%D9%81%D8%A7%D8%B3%D8%AA%D8%A7%D8%AA%D9%8A%D9%86",
+            "https://chefaa.com/eg-ar/medications/%D8%B1%D9%88%D8%B2%D9%88%D9%81%D8%A7%D8%B3%D8%AA%D8%A7%D8%AA%D9%8A%D9%86"
+          ]
+        },
+        {
+          "url": "https://chefaa.com/eg-ar/nowProduct/%D8%AA%D9%8A%D8%A7%D8%A8%D8%B1%D9%8A%D8%AF",
+          "product_id": 2193,
+          "product_name": "تيابريد",
+          "source_info": {
+            "source_page": 129,
+            "source_file": "medications_page_129_phase5_batch5.json"
+          },
+          "alternative_urls": [
+            "https://chefaa.com/product/%D8%AA%D9%8A%D8%A7%D8%A8%D8%B1%D9%8A%D8%AF",
+            "https://chefaa.com/eg-ar/medications/%D8%AA%D9%8A%D8%A7%D8%A8%D8%B1%D9%8A%D8%AF"
+          ]
+        },
+        {
+          "url": "https://chefaa.com/eg-ar/nowProduct/%D8%AA%D8%B1%D8%A7%D9%89-%D8%A8%D9%8A%D8%AA%D8%A7%D8%A8%D8%B1%D9%88%D9%86%D8%A7%D8%AA",
+          "product_id": 2194,
+          "product_name": "تراى بيتابرونات",
+          "source_info": {
+            "source_page": 129,
+            "source_file": "medications_page_129_phase5_batch5.json"
+          },
+          "alternative_urls": [
+            "https://chefaa.com/product/%D8%AA%D8%B1%D8%A7%D9%89-%D8%A8%D9%8A%D8%AA%D8%A7%D8%A8%D8%B1%D9%88%D9%86%D8%A7%D8%AA",
+            "https://chefaa.com/eg-ar/medications/%D8%AA%D8%B1%D8%A7%D9%89-%D8%A8%D9%8A%D8%AA%D8%A7%D8%A8%D8%B1%D9%88%D9%86%D8%A7%D8%AA"
+          ]
+        },
+        {
+          "url": "https://chefaa.com/eg-ar/nowProduct/%D9%81%D9%8A%D8%B2%D9%8A%D9%83%D9%8A%D8%B1",
+          "product_id": 2195,
+          "product_name": "فيزيكير",
+          "source_info": {
+            "source_page": 129,
+            "source_file": "medications_page_129_phase5_batch5.json"
+          },
+          "alternative_urls": [
+            "https://chefaa.com/product/%D9%81%D9%8A%D8%B2%D9%8A%D9%83%D9%8A%D8%B1",
+            "https://chefaa.com/eg-ar/medications/%D9%81%D9%8A%D8%B2%D9%8A%D9%83%D9%8A%D8%B1"
+          ]
+        }
+      ],
+      "total_products": 20
+    },
+    {
+      "batch_number": 4,
+      "products": [
+        {
+          "url": "https://chefaa.com/eg-ar/nowProduct/%D8%B2%D9%8A%D9%86%D9%88%D9%84-1%D8%AC%D9%85-%D9%81%D9%8A%D8%A7%D9%84",
+          "product_id": 2196,
+          "product_name": "زينول | 1جم | فيال",
+          "source_info": {
+            "source_page": 130,
+            "source_file": "medications_page_130_phase5_batch6.json"
+          },
+          "alternative_urls": [
+            "https://chefaa.com/product/%D8%B2%D9%8A%D9%86%D9%88%D9%84-1%D8%AC%D9%85-%D9%81%D9%8A%D8%A7%D9%84",
+            "https://chefaa.com/eg-ar/medications/%D8%B2%D9%8A%D9%86%D9%88%D9%84-1%D8%AC%D9%85-%D9%81%D9%8A%D8%A7%D9%84"
+          ]
+        },
+        {
+          "url": "https://chefaa.com/eg-ar/nowProduct/%D8%A7%D9%85%D8%A8%D8%A7%D8%AC%D9%84%D9%8A%D9%81%D9%88%D8%B1%D9%85-%D8%A7%D9%83%D8%B3-%D8%A7%D8%B1-101000%D9%85%D8%AC%D9%85-30-%D9%82%D8%B1%D8%B5",
+          "product_id": 2197,
+          "product_name": "امباجليفورم اكس ار 10/1000مجم | 30 قرص",
+          "source_info": {
+            "source_page": 130,
+            "source_file": "medications_page_130_phase5_batch6.json"
+          },
+          "alternative_urls": [
+            "https://chefaa.com/product/%D8%A7%D9%85%D8%A8%D8%A7%D8%AC%D9%84%D9%8A%D9%81%D9%88%D8%B1%D9%85-%D8%A7%D9%83%D8%B3-%D8%A7%D8%B1-101000%D9%85%D8%AC%D9%85-30-%D9%82%D8%B1%D8%B5",
+            "https://chefaa.com/eg-ar/medications/%D8%A7%D9%85%D8%A8%D8%A7%D8%AC%D9%84%D9%8A%D9%81%D9%88%D8%B1%D9%85-%D8%A7%D9%83%D8%B3-%D8%A7%D8%B1-101000%D9%85%D8%AC%D9%85-30-%D9%82%D8%B1%D8%B5"
+          ]
+        },
+        {
+          "url": "https://chefaa.com/eg-ar/nowProduct/%D8%AC%D9%8A%D9%88%D8%A8%D9%88%D8%AA%D8%A7-%D9%83-600%D9%85%D8%AC%D9%85-%D8%A7%D8%B3-%D8%A7%D8%B1-30-%D9%82%D8%B1%D8%B5",
+          "product_id": 2198,
+          "product_name": "جيوبوتا ك 600مجم اس ار | 30 قرص",
+          "source_info": {
+            "source_page": 130,
+            "source_file": "medications_page_130_phase5_batch6.json"
+          },
+          "alternative_urls": [
+            "https://chefaa.com/product/%D8%AC%D9%8A%D9%88%D8%A8%D9%88%D8%AA%D8%A7-%D9%83-600%D9%85%D8%AC%D9%85-%D8%A7%D8%B3-%D8%A7%D8%B1-30-%D9%82%D8%B1%D8%B5",
+            "https://chefaa.com/eg-ar/medications/%D8%AC%D9%8A%D9%88%D8%A8%D9%88%D8%AA%D8%A7-%D9%83-600%D9%85%D8%AC%D9%85-%D8%A7%D8%B3-%D8%A7%D8%B1-30-%D9%82%D8%B1%D8%B5"
+          ]
+        },
+        {
+          "url": "https://chefaa.com/eg-ar/nowProduct/%D9%85%D9%83%D8%B3%D9%85%D8%A7%D8%B2%D9%8A%D9%84-1028%D9%85%D8%AC%D9%85-28-%D9%83%D8%A8%D8%B3%D9%88%D9%84%D8%A9",
+          "product_id": 2199,
+          "product_name": "مكسمازيل 10/28مجم | 28 كبسولة",
+          "source_info": {
+            "source_page": 130,
+            "source_file": "medications_page_130_phase5_batch6.json"
+          },
+          "alternative_urls": [
+            "https://chefaa.com/product/%D9%85%D9%83%D8%B3%D9%85%D8%A7%D8%B2%D9%8A%D9%84-1028%D9%85%D8%AC%D9%85-28-%D9%83%D8%A8%D8%B3%D9%88%D9%84%D8%A9",
+            "https://chefaa.com/eg-ar/medications/%D9%85%D9%83%D8%B3%D9%85%D8%A7%D8%B2%D9%8A%D9%84-1028%D9%85%D8%AC%D9%85-28-%D9%83%D8%A8%D8%B3%D9%88%D9%84%D8%A9"
+          ]
+        },
+        {
+          "url": "https://chefaa.com/eg-ar/nowProduct/%D8%B1%D8%A7%D9%85%D9%8A%D9%84%D8%A7%D9%83%D8%AA-%D9%85%D9%83%D9%85%D9%84-%D8%BA%D8%B0%D8%A7%D8%A6%D9%8A-6000-%D9%88%D8%AC%D9%84-30-%D9%82%D8%B1%D8%B5",
+          "product_id": 2200,
+          "product_name": "راميلاكت مكمل غذائي 6000 و.ج.ل | 30 قرص",
+          "source_info": {
+            "source_page": 130,
+            "source_file": "medications_page_130_phase5_batch6.json"
+          },
+          "alternative_urls": [
+            "https://chefaa.com/product/%D8%B1%D8%A7%D9%85%D9%8A%D9%84%D8%A7%D9%83%D8%AA-%D9%85%D9%83%D9%85%D9%84-%D8%BA%D8%B0%D8%A7%D8%A6%D9%8A-6000-%D9%88%D8%AC%D9%84-30-%D9%82%D8%B1%D8%B5",
+            "https://chefaa.com/eg-ar/medications/%D8%B1%D8%A7%D9%85%D9%8A%D9%84%D8%A7%D9%83%D8%AA-%D9%85%D9%83%D9%85%D9%84-%D8%BA%D8%B0%D8%A7%D8%A6%D9%8A-6000-%D9%88%D8%AC%D9%84-30-%D9%82%D8%B1%D8%B5"
+          ]
+        },
+        {
+          "url": "https://chefaa.com/eg-ar/nowProduct/%D8%A8%D9%8A%D9%86%D9%85%D9%88%D9%81-%D9%85%D8%B3%D8%A7%D8%AC-%D8%B3%D8%A8%D8%B1%D8%A7%D9%8A-200%D9%85%D9%84",
+          "product_id": 2201,
+          "product_name": "بينموف | مساج سبراي | 200مل",
+          "source_info": {
+            "source_page": 130,
+            "source_file": "medications_page_130_phase5_batch6.json"
+          },
+          "alternative_urls": [
+            "https://chefaa.com/product/%D8%A8%D9%8A%D9%86%D9%85%D9%88%D9%81-%D9%85%D8%B3%D8%A7%D8%AC-%D8%B3%D8%A8%D8%B1%D8%A7%D9%8A-200%D9%85%D9%84",
+            "https://chefaa.com/eg-ar/medications/%D8%A8%D9%8A%D9%86%D9%85%D9%88%D9%81-%D9%85%D8%B3%D8%A7%D8%AC-%D8%B3%D8%A8%D8%B1%D8%A7%D9%8A-200%D9%85%D9%84"
+          ]
+        },
+        {
+          "url": "https://chefaa.com/eg-ar/nowProduct/%D8%AC%D9%84%D9%88%D8%A8%D8%A7%D9%83%D8%A7%D9%86%D8%AF-16%D9%85%D8%AC%D9%85-28-%D9%82%D8%B1%D8%B5",
+          "product_id": 2202,
+          "product_name": "جلوباكاند 16مجم | 28 قرص",
+          "source_info": {
+            "source_page": 130,
+            "source_file": "medications_page_130_phase5_batch6.json"
+          },
+          "alternative_urls": [
+            "https://chefaa.com/product/%D8%AC%D9%84%D9%88%D8%A8%D8%A7%D9%83%D8%A7%D9%86%D8%AF-16%D9%85%D8%AC%D9%85-28-%D9%82%D8%B1%D8%B5",
+            "https://chefaa.com/eg-ar/medications/%D8%AC%D9%84%D9%88%D8%A8%D8%A7%D9%83%D8%A7%D9%86%D8%AF-16%D9%85%D8%AC%D9%85-28-%D9%82%D8%B1%D8%B5"
+          ]
+        },
+        {
+          "url": "https://chefaa.com/eg-ar/nowProduct/%D8%B4%D8%A7%D8%B1%D9%83%D9%84%D9%88%D9%86-%D8%A7%D8%AF%D9%81%D8%A7%D9%86%D8%B3-30-%D9%82%D8%B1%D8%B5",
+          "product_id": 2203,
+          "product_name": "شاركلون ادفانس | 30 قرص",
+          "source_info": {
+            "source_page": 130,
+            "source_file": "medications_page_130_phase5_batch6.json"
+          },
+          "alternative_urls": [
+            "https://chefaa.com/product/%D8%B4%D8%A7%D8%B1%D9%83%D9%84%D9%88%D9%86-%D8%A7%D8%AF%D9%81%D8%A7%D9%86%D8%B3-30-%D9%82%D8%B1%D8%B5",
+            "https://chefaa.com/eg-ar/medications/%D8%B4%D8%A7%D8%B1%D9%83%D9%84%D9%88%D9%86-%D8%A7%D8%AF%D9%81%D8%A7%D9%86%D8%B3-30-%D9%82%D8%B1%D8%B5"
+          ]
+        },
+        {
+          "url": "https://chefaa.com/eg-ar/nowProduct/%D9%83%D8%A7%D9%84%D8%B3%D9%8A%D9%88%D9%85-3-20-%D9%82%D8%B1%D8%B5",
+          "product_id": 2204,
+          "product_name": "كالسيوم 3 | 20 قرص",
+          "source_info": {
+            "source_page": 130,
+            "source_file": "medications_page_130_phase5_batch6.json"
+          },
+          "alternative_urls": [
+            "https://chefaa.com/product/%D9%83%D8%A7%D9%84%D8%B3%D9%8A%D9%88%D9%85-3-20-%D9%82%D8%B1%D8%B5",
+            "https://chefaa.com/eg-ar/medications/%D9%83%D8%A7%D9%84%D8%B3%D9%8A%D9%88%D9%85-3-20-%D9%82%D8%B1%D8%B5"
+          ]
+        },
+        {
+          "url": "https://chefaa.com/eg-ar/nowProduct/%D9%81%D9%88%D9%83%D8%A7%D8%B3%D8%AA%D9%8A%D9%86-%D8%B4%D8%B1%D8%A7%D8%A8-250%D9%85%D8%AC%D9%855%D9%85%D9%84-60%D9%85%D9%84",
+          "product_id": 2205,
+          "product_name": "فوكاستين شراب 250مجم/5مل | 60مل",
+          "source_info": {
+            "source_page": 130,
+            "source_file": "medications_page_130_phase5_batch6.json"
+          },
+          "alternative_urls": [
+            "https://chefaa.com/product/%D9%81%D9%88%D9%83%D8%A7%D8%B3%D8%AA%D9%8A%D9%86-%D8%B4%D8%B1%D8%A7%D8%A8-250%D9%85%D8%AC%D9%855%D9%85%D9%84-60%D9%85%D9%84",
+            "https://chefaa.com/eg-ar/medications/%D9%81%D9%88%D9%83%D8%A7%D8%B3%D8%AA%D9%8A%D9%86-%D8%B4%D8%B1%D8%A7%D8%A8-250%D9%85%D8%AC%D9%855%D9%85%D9%84-60%D9%85%D9%84"
+          ]
+        },
+        {
+          "url": "https://chefaa.com/eg-ar/nowProduct/%D9%86%D9%83%D8%B3%D9%8A%D9%85%D8%A7%D8%B4-40%D9%85%D8%AC%D9%85-28-%D9%83%D8%A8%D8%B3%D9%88%D9%84%D8%A9",
+          "product_id": 2206,
+          "product_name": "نكسيماش 40مجم | 28 كبسولة",
+          "source_info": {
+            "source_page": 130,
+            "source_file": "medications_page_130_phase5_batch6.json"
+          },
+          "alternative_urls": [
+            "https://chefaa.com/product/%D9%86%D9%83%D8%B3%D9%8A%D9%85%D8%A7%D8%B4-40%D9%85%D8%AC%D9%85-28-%D9%83%D8%A8%D8%B3%D9%88%D9%84%D8%A9",
+            "https://chefaa.com/eg-ar/medications/%D9%86%D9%83%D8%B3%D9%8A%D9%85%D8%A7%D8%B4-40%D9%85%D8%AC%D9%85-28-%D9%83%D8%A8%D8%B3%D9%88%D9%84%D8%A9"
+          ]
+        },
+        {
+          "url": "https://chefaa.com/eg-ar/nowProduct/%D8%A8%D8%B1%D9%8A%D9%81%D9%83%D8%B3-%D9%85%D8%B7%D9%87%D8%B1-%D8%B3%D8%A8%D8%B1%D8%A7%D9%8A-120%D9%85%D9%84",
+          "product_id": 2207,
+          "product_name": "بريفكس مطهر سبراي | 120مل",
+          "source_info": {
+            "source_page": 130,
+            "source_file": "medications_page_130_phase5_batch6.json"
+          },
+          "alternative_urls": [
+            "https://chefaa.com/product/%D8%A8%D8%B1%D9%8A%D9%81%D9%83%D8%B3-%D9%85%D8%B7%D9%87%D8%B1-%D8%B3%D8%A8%D8%B1%D8%A7%D9%8A-120%D9%85%D9%84",
+            "https://chefaa.com/eg-ar/medications/%D8%A8%D8%B1%D9%8A%D9%81%D9%83%D8%B3-%D9%85%D8%B7%D9%87%D8%B1-%D8%B3%D8%A8%D8%B1%D8%A7%D9%8A-120%D9%85%D9%84"
+          ]
+        },
+        {
+          "url": "https://chefaa.com/eg-ar/nowProduct/%D8%AF%D8%B1%D9%8A%D9%86%D9%83%D9%8A%D9%86%D8%AC-%D8%A7%D8%B9%D8%B4%D8%A7%D8%A8-100%D8%AC%D9%85",
+          "product_id": 2208,
+          "product_name": "درينكينج اعشاب | 100جم",
+          "source_info": {
+            "source_page": 130,
+            "source_file": "medications_page_130_phase5_batch6.json"
+          },
+          "alternative_urls": [
+            "https://chefaa.com/product/%D8%AF%D8%B1%D9%8A%D9%86%D9%83%D9%8A%D9%86%D8%AC-%D8%A7%D8%B9%D8%B4%D8%A7%D8%A8-100%D8%AC%D9%85",
+            "https://chefaa.com/eg-ar/medications/%D8%AF%D8%B1%D9%8A%D9%86%D9%83%D9%8A%D9%86%D8%AC-%D8%A7%D8%B9%D8%B4%D8%A7%D8%A8-100%D8%AC%D9%85"
+          ]
+        },
+        {
+          "url": "https://chefaa.com/eg-ar/nowProduct/%D8%B3%D9%8A%D8%B1%D9%8A%D8%AA%D8%A7%D9%8A%D8%AF-250%D9%85%D9%83%D8%AC%D9%85-%D8%AF%D9%8A%D8%B3%D9%83%D8%B3-28-%D8%A8%D8%AE%D9%87",
+          "product_id": 2209,
+          "product_name": "سيريتايد 250مكجم ديسكس | 28 بخه",
+          "source_info": {
+            "source_page": 130,
+            "source_file": "medications_page_130_phase5_batch6.json"
+          },
+          "alternative_urls": [
+            "https://chefaa.com/product/%D8%B3%D9%8A%D8%B1%D9%8A%D8%AA%D8%A7%D9%8A%D8%AF-250%D9%85%D9%83%D8%AC%D9%85-%D8%AF%D9%8A%D8%B3%D9%83%D8%B3-28-%D8%A8%D8%AE%D9%87",
+            "https://chefaa.com/eg-ar/medications/%D8%B3%D9%8A%D8%B1%D9%8A%D8%AA%D8%A7%D9%8A%D8%AF-250%D9%85%D9%83%D8%AC%D9%85-%D8%AF%D9%8A%D8%B3%D9%83%D8%B3-28-%D8%A8%D8%AE%D9%87"
+          ]
+        },
+        {
+          "url": "https://chefaa.com/eg-ar/nowProduct/%D8%A5%D9%84%D9%8A%D9%83%D8%B3%D9%88%D9%84%D8%A7%D9%8A%D8%AA-%D9%85%D8%AD%D9%84%D9%88%D9%84-%D8%A8%D9%86%D9%83%D9%87%D8%A9-%D8%A7%D9%84%D9%81%D8%B1%D8%A7%D9%88%D9%84%D8%A9-360%D9%85%D9%84",
+          "product_id": 2210,
+          "product_name": "إليكسولايت محلول بنكهة الفراولة | 360مل",
+          "source_info": {
+            "source_page": 130,
+            "source_file": "medications_page_130_phase5_batch6.json"
+          },
+          "alternative_urls": [
+            "https://chefaa.com/product/%D8%A5%D9%84%D9%8A%D9%83%D8%B3%D9%88%D9%84%D8%A7%D9%8A%D8%AA-%D9%85%D8%AD%D9%84%D9%88%D9%84-%D8%A8%D9%86%D9%83%D9%87%D8%A9-%D8%A7%D9%84%D9%81%D8%B1%D8%A7%D9%88%D9%84%D8%A9-360%D9%85%D9%84",
+            "https://chefaa.com/eg-ar/medications/%D8%A5%D9%84%D9%8A%D9%83%D8%B3%D9%88%D9%84%D8%A7%D9%8A%D8%AA-%D9%85%D8%AD%D9%84%D9%88%D9%84-%D8%A8%D9%86%D9%83%D9%87%D8%A9-%D8%A7%D9%84%D9%81%D8%B1%D8%A7%D9%88%D9%84%D8%A9-360%D9%85%D9%84"
+          ]
+        },
+        {
+          "url": "https://chefaa.com/eg-ar/nowProduct/%D9%81%D9%84%D9%88%D9%8A%D9%85%D9%88%D8%B3%D9%8A%D9%84-300%D9%85%D8%AC%D9%853%D9%85%D9%84-%D9%84%D9%84%D8%AD%D9%82%D9%86-%D8%A7%D9%84%D9%88%D8%B1%D9%8A%D8%AF%D9%8A-%D9%88%D8%A7%D9%84%D8%B9%D8%B6%D9%84%D9%8A-5-%D8%A7%D9%85%D8%A8%D9%88%D9%84",
+          "product_id": 2211,
+          "product_name": "فلويموسيل 300مجم/3مل للحقن الوريدي والعضلي | 5 امبول",
+          "source_info": {
+            "source_page": 130,
+            "source_file": "medications_page_130_phase5_batch6.json"
+          },
+          "alternative_urls": [
+            "https://chefaa.com/product/%D9%81%D9%84%D9%88%D9%8A%D9%85%D9%88%D8%B3%D9%8A%D9%84-300%D9%85%D8%AC%D9%853%D9%85%D9%84-%D9%84%D9%84%D8%AD%D9%82%D9%86-%D8%A7%D9%84%D9%88%D8%B1%D9%8A%D8%AF%D9%8A-%D9%88%D8%A7%D9%84%D8%B9%D8%B6%D9%84%D9%8A-5-%D8%A7%D9%85%D8%A8%D9%88%D9%84",
+            "https://chefaa.com/eg-ar/medications/%D9%81%D9%84%D9%88%D9%8A%D9%85%D9%88%D8%B3%D9%8A%D9%84-300%D9%85%D8%AC%D9%853%D9%85%D9%84-%D9%84%D9%84%D8%AD%D9%82%D9%86-%D8%A7%D9%84%D9%88%D8%B1%D9%8A%D8%AF%D9%8A-%D9%88%D8%A7%D9%84%D8%B9%D8%B6%D9%84%D9%8A-5-%D8%A7%D9%85%D8%A8%D9%88%D9%84"
+          ]
+        },
+        {
+          "url": "https://chefaa.com/eg-ar/nowProduct/%D9%85%D9%88%D9%86%D8%AA%D9%8A%D9%84%D9%88%D8%B3%D8%A7%D8%A8-10%D9%85%D8%AC%D9%85-14-%D9%82%D8%B1%D8%B5-%D9%85%D8%BA%D9%84%D9%81",
+          "product_id": 2212,
+          "product_name": "مونتيلوساب 10مجم | 14 قرص مغلف",
+          "source_info": {
+            "source_page": 130,
+            "source_file": "medications_page_130_phase5_batch6.json"
+          },
+          "alternative_urls": [
+            "https://chefaa.com/product/%D9%85%D9%88%D9%86%D8%AA%D9%8A%D9%84%D9%88%D8%B3%D8%A7%D8%A8-10%D9%85%D8%AC%D9%85-14-%D9%82%D8%B1%D8%B5-%D9%85%D8%BA%D9%84%D9%81",
+            "https://chefaa.com/eg-ar/medications/%D9%85%D9%88%D9%86%D8%AA%D9%8A%D9%84%D9%88%D8%B3%D8%A7%D8%A8-10%D9%85%D8%AC%D9%85-14-%D9%82%D8%B1%D8%B5-%D9%85%D8%BA%D9%84%D9%81"
+          ]
+        },
+        {
+          "url": "https://chefaa.com/eg-ar/nowProduct/%D8%AA%D9%88%D8%A8%D8%B1%D9%88-10-%D8%A7%D9%83%D9%8A%D8%A7%D8%B3",
+          "product_id": 2213,
+          "product_name": "توبرو | 10 اكياس",
+          "source_info": {
+            "source_page": 130,
+            "source_file": "medications_page_130_phase5_batch6.json"
+          },
+          "alternative_urls": [
+            "https://chefaa.com/product/%D8%AA%D9%88%D8%A8%D8%B1%D9%88-10-%D8%A7%D9%83%D9%8A%D8%A7%D8%B3",
+            "https://chefaa.com/eg-ar/medications/%D8%AA%D9%88%D8%A8%D8%B1%D9%88-10-%D8%A7%D9%83%D9%8A%D8%A7%D8%B3"
+          ]
+        },
+        {
+          "url": "https://chefaa.com/eg-ar/nowProduct/%D8%AF%D9%88%D8%A7%D8%A1-%D8%A7%D8%A8%D9%8A%D8%B1%D9%88%D9%81%D8%A7%D8%B3%D8%AA%D9%8A%D9%86-20-%D9%85%D8%AC%D9%85-%D9%84%D9%84%D9%83%D9%88%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%88%D9%84-epirovastin-%D9%A1%D9%A4-%D9%82%D8%B1%D8%B5",
+          "product_id": 2214,
+          "product_name": "دواء ابيروفاستين 20 مجم للكوليسترول epirovastin | ١٤ قرص",
+          "source_info": {
+            "source_page": 130,
+            "source_file": "medications_page_130_phase5_batch6.json"
+          },
+          "alternative_urls": [
+            "https://chefaa.com/product/%D8%AF%D9%88%D8%A7%D8%A1-%D8%A7%D8%A8%D9%8A%D8%B1%D9%88%D9%81%D8%A7%D8%B3%D8%AA%D9%8A%D9%86-20-%D9%85%D8%AC%D9%85-%D9%84%D9%84%D9%83%D9%88%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%88%D9%84-epirovastin-%D9%A1%D9%A4-%D9%82%D8%B1%D8%B5",
+            "https://chefaa.com/eg-ar/medications/%D8%AF%D9%88%D8%A7%D8%A1-%D8%A7%D8%A8%D9%8A%D8%B1%D9%88%D9%81%D8%A7%D8%B3%D8%AA%D9%8A%D9%86-20-%D9%85%D8%AC%D9%85-%D9%84%D9%84%D9%83%D9%88%D9%84%D9%8A%D8%B3%D8%AA%D8%B1%D9%88%D9%84-epirovastin-%D9%A1%D9%A4-%D9%82%D8%B1%D8%B5"
+          ]
+        },
+        {
+          "url": "https://chefaa.com/eg-ar/nowProduct/%D8%A7%D9%81%D9%88%D8%B1%D9%8A%D9%83%D8%B3%D8%A7%D9%84-%D9%85%D9%83%D9%85%D9%84-%D8%BA%D8%B0%D8%A7%D8%A6%D9%8A-30-%D9%83%D8%A8%D8%B3%D9%88%D9%84%D8%A9",
+          "product_id": 2215,
+          "product_name": "افوريكسال مكمل غذائي | 30 كبسولة",
+          "source_info": {
+            "source_page": 130,
+            "source_file": "medications_page_130_phase5_batch6.json"
+          },
+          "alternative_urls": [
+            "https://chefaa.com/product/%D8%A7%D9%81%D9%88%D8%B1%D9%8A%D9%83%D8%B3%D8%A7%D9%84-%D9%85%D9%83%D9%85%D9%84-%D8%BA%D8%B0%D8%A7%D8%A6%D9%8A-30-%D9%83%D8%A8%D8%B3%D9%88%D9%84%D8%A9",
+            "https://chefaa.com/eg-ar/medications/%D8%A7%D9%81%D9%88%D8%B1%D9%8A%D9%83%D8%B3%D8%A7%D9%84-%D9%85%D9%83%D9%85%D9%84-%D8%BA%D8%B0%D8%A7%D8%A6%D9%8A-30-%D9%83%D8%A8%D8%B3%D9%88%D9%84%D8%A9"
+          ]
+        }
+      ],
+      "total_products": 20
+    },
+    {
+      "batch_number": 5,
+      "products": [
+        {
+          "url": "https://chefaa.com/eg-ar/nowProduct/%D8%A7%D8%B3%D8%AA%D9%8A%D9%83%D8%A7%D9%86%D8%A7-10%D9%85%D8%AC%D9%85-28-%D9%82%D8%B1%D8%B5",
+          "product_id": 2216,
+          "product_name": "استيكانا 10مجم | 28 قرص",
+          "source_info": {
+            "source_page": 131,
+            "source_file": "medications_page_131_phase5_batch6.json"
+          },
+          "alternative_urls": [
+            "https://chefaa.com/product/%D8%A7%D8%B3%D8%AA%D9%8A%D9%83%D8%A7%D9%86%D8%A7-10%D9%85%D8%AC%D9%85-28-%D9%82%D8%B1%D8%B5",
+            "https://chefaa.com/eg-ar/medications/%D8%A7%D8%B3%D8%AA%D9%8A%D9%83%D8%A7%D9%86%D8%A7-10%D9%85%D8%AC%D9%85-28-%D9%82%D8%B1%D8%B5"
+          ]
+        },
+        {
+          "url": "https://chefaa.com/eg-ar/nowProduct/%D8%A5%D9%84%D9%8A%D9%83%D8%B3%D9%88%D9%84%D8%A7%D9%8A%D8%AA-%D9%85%D8%AD%D9%84%D9%88%D9%84-%D8%A8%D9%86%D9%83%D9%87%D8%A9-%D8%A7%D9%84%D9%85%D9%88%D8%B2-360%D9%85%D9%84",
+          "product_id": 2217,
+          "product_name": "إليكسولايت محلول بنكهة الموز | 360مل",
+          "source_info": {
+            "source_page": 131,
+            "source_file": "medications_page_131_phase5_batch6.json"
+          },
+          "alternative_urls": [
+            "https://chefaa.com/product/%D8%A5%D9%84%D9%8A%D9%83%D8%B3%D9%88%D9%84%D8%A7%D9%8A%D8%AA-%D9%85%D8%AD%D9%84%D9%88%D9%84-%D8%A8%D9%86%D9%83%D9%87%D8%A9-%D8%A7%D9%84%D9%85%D9%88%D8%B2-360%D9%85%D9%84",
+            "https://chefaa.com/eg-ar/medications/%D8%A5%D9%84%D9%8A%D9%83%D8%B3%D9%88%D9%84%D8%A7%D9%8A%D8%AA-%D9%85%D8%AD%D9%84%D9%88%D9%84-%D8%A8%D9%86%D9%83%D9%87%D8%A9-%D8%A7%D9%84%D9%85%D9%88%D8%B2-360%D9%85%D9%84"
+          ]
+        },
+        {
+          "url": "https://chefaa.com/eg-ar/nowProduct/%D9%84%D8%A7%D9%83%D9%88%D8%B3%D8%A7%D9%85%D9%8A%D8%AA-100%D9%85%D8%AC%D9%85-30-%D9%82%D8%B1%D8%B5",
+          "product_id": 2218,
+          "product_name": "لاكوساميت 100مجم | 30 قرص",
+          "source_info": {
+            "source_page": 131,
+            "source_file": "medications_page_131_phase5_batch6.json"
+          },
+          "alternative_urls": [
+            "https://chefaa.com/product/%D9%84%D8%A7%D9%83%D9%88%D8%B3%D8%A7%D9%85%D9%8A%D8%AA-100%D9%85%D8%AC%D9%85-30-%D9%82%D8%B1%D8%B5",
+            "https://chefaa.com/eg-ar/medications/%D9%84%D8%A7%D9%83%D9%88%D8%B3%D8%A7%D9%85%D9%8A%D8%AA-100%D9%85%D8%AC%D9%85-30-%D9%82%D8%B1%D8%B5"
+          ]
+        },
+        {
+          "url": "https://chefaa.com/eg-ar/nowProduct/%D9%81%D9%88%D9%86%D8%A7%D9%81%D9%88%D8%AA-20%D9%85%D8%AC%D9%85-20-%D9%82%D8%B1%D8%B5",
+          "product_id": 2219,
+          "product_name": "فونافوت 20مجم | 20 قرص",
+          "source_info": {
+            "source_page": 131,
+            "source_file": "medications_page_131_phase5_batch6.json"
+          },
+          "alternative_urls": [
+            "https://chefaa.com/product/%D9%81%D9%88%D9%86%D8%A7%D9%81%D9%88%D8%AA-20%D9%85%D8%AC%D9%85-20-%D9%82%D8%B1%D8%B5",
+            "https://chefaa.com/eg-ar/medications/%D9%81%D9%88%D9%86%D8%A7%D9%81%D9%88%D8%AA-20%D9%85%D8%AC%D9%85-20-%D9%82%D8%B1%D8%B5"
+          ]
+        },
+        {
+          "url": "https://chefaa.com/eg-ar/nowProduct/%D9%83%D9%88%D9%86%D8%AA%D8%B1%D8%A7%D9%87%D9%8A%D8%B3%D8%AA%D8%A7%D8%AF%D9%8A%D9%86-20%D9%85%D8%AC%D9%85-30-%D9%82%D8%B1%D8%B5",
+          "product_id": 2220,
+          "product_name": "كونتراهيستادين 20مجم | 30 قرص",
+          "source_info": {
+            "source_page": 131,
+            "source_file": "medications_page_131_phase5_batch6.json"
+          },
+          "alternative_urls": [
+            "https://chefaa.com/product/%D9%83%D9%88%D9%86%D8%AA%D8%B1%D8%A7%D9%87%D9%8A%D8%B3%D8%AA%D8%A7%D8%AF%D9%8A%D9%86-20%D9%85%D8%AC%D9%85-30-%D9%82%D8%B1%D8%B5",
+            "https://chefaa.com/eg-ar/medications/%D9%83%D9%88%D9%86%D8%AA%D8%B1%D8%A7%D9%87%D9%8A%D8%B3%D8%AA%D8%A7%D8%AF%D9%8A%D9%86-20%D9%85%D8%AC%D9%85-30-%D9%82%D8%B1%D8%B5"
+          ]
+        },
+        {
+          "url": "https://chefaa.com/eg-ar/nowProduct/%D8%A8%D9%8A%D8%B1%D9%84%D8%A7%D9%8A%D8%AA-%D9%83%D8%B1%D9%8A%D9%85-25%D8%AC%D9%85",
+          "product_id": 2221,
+          "product_name": "بيرلايت كريم | 25جم",
+          "source_info": {
+            "source_page": 131,
+            "source_file": "medications_page_131_phase5_batch6.json"
+          },
+          "alternative_urls": [
+            "https://chefaa.com/product/%D8%A8%D9%8A%D8%B1%D9%84%D8%A7%D9%8A%D8%AA-%D9%83%D8%B1%D9%8A%D9%85-25%D8%AC%D9%85",
+            "https://chefaa.com/eg-ar/medications/%D8%A8%D9%8A%D8%B1%D9%84%D8%A7%D9%8A%D8%AA-%D9%83%D8%B1%D9%8A%D9%85-25%D8%AC%D9%85"
+          ]
+        },
+        {
+          "url": "https://chefaa.com/eg-ar/nowProduct/%D9%88%D9%8A%D9%86%D8%B2%D9%88%D9%83%D8%B3%D9%8A%D8%A8-60%D9%85%D8%AC%D9%85-30-%D9%82%D8%B1%D8%B5",
+          "product_id": 2222,
+          "product_name": "وينزوكسيب 60مجم | 30 قرص",
+          "source_info": {
+            "source_page": 131,
+            "source_file": "medications_page_131_phase5_batch6.json"
+          },
+          "alternative_urls": [
+            "https://chefaa.com/product/%D9%88%D9%8A%D9%86%D8%B2%D9%88%D9%83%D8%B3%D9%8A%D8%A8-60%D9%85%D8%AC%D9%85-30-%D9%82%D8%B1%D8%B5",
+            "https://chefaa.com/eg-ar/medications/%D9%88%D9%8A%D9%86%D8%B2%D9%88%D9%83%D8%B3%D9%8A%D8%A8-60%D9%85%D8%AC%D9%85-30-%D9%82%D8%B1%D8%B5"
+          ]
+        },
+        {
+          "url": "https://chefaa.com/eg-ar/nowProduct/%D8%B3%D9%8A%D9%84%D9%8A%D9%83%D8%B3-%D8%A3%D9%88%D9%85%D9%8A%D8%AC%D8%A7-15-%D9%83%D9%8A%D8%B3",
+          "product_id": 2223,
+          "product_name": "سيليكس أوميجا | 15 كيس",
+          "source_info": {
+            "source_page": 131,
+            "source_file": "medications_page_131_phase5_batch6.json"
+          },
+          "alternative_urls": [
+            "https://chefaa.com/product/%D8%B3%D9%8A%D9%84%D9%8A%D9%83%D8%B3-%D8%A3%D9%88%D9%85%D9%8A%D8%AC%D8%A7-15-%D9%83%D9%8A%D8%B3",
+            "https://chefaa.com/eg-ar/medications/%D8%B3%D9%8A%D9%84%D9%8A%D9%83%D8%B3-%D8%A3%D9%88%D9%85%D9%8A%D8%AC%D8%A7-15-%D9%83%D9%8A%D8%B3"
+          ]
+        },
+        {
+          "url": "https://chefaa.com/eg-ar/nowProduct/%D8%B1%D9%88%D8%AA%D8%A7%D8%A8%D9%8A%D8%B1%D9%8A%D8%AA%D9%83-1%D8%AC%D9%85100%D9%85%D9%84-1-%D9%81%D9%8A%D8%A7%D9%84",
+          "product_id": 2224,
+          "product_name": "روتابيريتك 1جم/100مل | 1 فيال",
+          "source_info": {
+            "source_page": 131,
+            "source_file": "medications_page_131_phase5_batch6.json"
+          },
+          "alternative_urls": [
+            "https://chefaa.com/product/%D8%B1%D9%88%D8%AA%D8%A7%D8%A8%D9%8A%D8%B1%D9%8A%D8%AA%D9%83-1%D8%AC%D9%85100%D9%85%D9%84-1-%D9%81%D9%8A%D8%A7%D9%84",
+            "https://chefaa.com/eg-ar/medications/%D8%B1%D9%88%D8%AA%D8%A7%D8%A8%D9%8A%D8%B1%D9%8A%D8%AA%D9%83-1%D8%AC%D9%85100%D9%85%D9%84-1-%D9%81%D9%8A%D8%A7%D9%84"
+          ]
+        },
+        {
+          "url": "https://chefaa.com/eg-ar/nowProduct/%D9%85%D9%8A%D8%B1%D9%81%D9%8A%D9%86%D8%A7%D8%B3%D9%8A%D9%86-%D8%A5%D9%85-%D8%A2%D8%B1-550%D9%85%D8%AC%D9%85-30-%D9%82%D8%B1%D8%B5",
+          "product_id": 2225,
+          "product_name": "ميرفيناسين إم آر 5/50مجم | 30 قرص",
+          "source_info": {
+            "source_page": 131,
+            "source_file": "medications_page_131_phase5_batch6.json"
+          },
+          "alternative_urls": [
+            "https://chefaa.com/product/%D9%85%D9%8A%D8%B1%D9%81%D9%8A%D9%86%D8%A7%D8%B3%D9%8A%D9%86-%D8%A5%D9%85-%D8%A2%D8%B1-550%D9%85%D8%AC%D9%85-30-%D9%82%D8%B1%D8%B5",
+            "https://chefaa.com/eg-ar/medications/%D9%85%D9%8A%D8%B1%D9%81%D9%8A%D9%86%D8%A7%D8%B3%D9%8A%D9%86-%D8%A5%D9%85-%D8%A2%D8%B1-550%D9%85%D8%AC%D9%85-30-%D9%82%D8%B1%D8%B5"
+          ]
+        },
+        {
+          "url": "https://chefaa.com/eg-ar/nowProduct/%D8%B3%D9%8A%D9%84%D9%81%D8%B1-%D9%84%D8%A7%D9%8A%D9%86-%D9%84%D9%88%D9%84%D8%A8-%D9%86%D8%AD%D8%A7%D8%B3%D9%8A-380-ag-%D9%82%D8%B7%D8%B9%D8%A9-%D9%88%D8%A7%D8%AD%D8%AF%D8%A9",
+          "product_id": 2226,
+          "product_name": "سيلفر لاين | لولب نحاسي 380 Ag | قطعة واحدة",
+          "source_info": {
+            "source_page": 131,
+            "source_file": "medications_page_131_phase5_batch6.json"
+          },
+          "alternative_urls": [
+            "https://chefaa.com/product/%D8%B3%D9%8A%D9%84%D9%81%D8%B1-%D9%84%D8%A7%D9%8A%D9%86-%D9%84%D9%88%D9%84%D8%A8-%D9%86%D8%AD%D8%A7%D8%B3%D9%8A-380-ag-%D9%82%D8%B7%D8%B9%D8%A9-%D9%88%D8%A7%D8%AD%D8%AF%D8%A9",
+            "https://chefaa.com/eg-ar/medications/%D8%B3%D9%8A%D9%84%D9%81%D8%B1-%D9%84%D8%A7%D9%8A%D9%86-%D9%84%D9%88%D9%84%D8%A8-%D9%86%D8%AD%D8%A7%D8%B3%D9%8A-380-ag-%D9%82%D8%B7%D8%B9%D8%A9-%D9%88%D8%A7%D8%AD%D8%AF%D8%A9"
+          ]
+        },
+        {
+          "url": "https://chefaa.com/eg-ar/nowProduct/%D8%A8%D9%8A-%D9%85%D9%8A%D9%84%D8%AA-%D9%85%D9%83%D9%85%D9%84-%D8%BA%D8%B0%D8%A7%D8%A6%D9%8A-30-%D9%82%D8%B1%D8%B5%D8%A7-%D8%B3%D8%B1%D9%8A%D8%B9-%D8%A7%D9%84%D8%B0%D9%88%D8%A8%D8%A7%D9%86",
+          "product_id": 2227,
+          "product_name": "بي-ميلت مكمل غذائي | 30 قرصًا سريع الذوبان",
+          "source_info": {
+            "source_page": 131,
+            "source_file": "medications_page_131_phase5_batch6.json"
+          },
+          "alternative_urls": [
+            "https://chefaa.com/product/%D8%A8%D9%8A-%D9%85%D9%8A%D9%84%D8%AA-%D9%85%D9%83%D9%85%D9%84-%D8%BA%D8%B0%D8%A7%D8%A6%D9%8A-30-%D9%82%D8%B1%D8%B5%D8%A7-%D8%B3%D8%B1%D9%8A%D8%B9-%D8%A7%D9%84%D8%B0%D9%88%D8%A8%D8%A7%D9%86",
+            "https://chefaa.com/eg-ar/medications/%D8%A8%D9%8A-%D9%85%D9%8A%D9%84%D8%AA-%D9%85%D9%83%D9%85%D9%84-%D8%BA%D8%B0%D8%A7%D8%A6%D9%8A-30-%D9%82%D8%B1%D8%B5%D8%A7-%D8%B3%D8%B1%D9%8A%D8%B9-%D8%A7%D9%84%D8%B0%D9%88%D8%A8%D8%A7%D9%86"
+          ]
+        },
+        {
+          "url": "https://chefaa.com/eg-ar/nowProduct/%D8%B2%D8%A7%D8%B1%D8%B2%D9%8A%D9%88-30%D9%85%D9%83%D9%8505%D9%85%D9%84-1-%D8%AD%D9%82%D9%86%D8%A9-%D9%85%D9%85%D9%84%D9%88%D8%A1%D8%A9-%D9%85%D8%B3%D8%A8%D9%82%D8%A7",
+          "product_id": 2228,
+          "product_name": "زارزيو 30مكم/0.5مل | 1 حقنة مملوءة مسبقًا",
+          "source_info": {
+            "source_page": 131,
+            "source_file": "medications_page_131_phase5_batch6.json"
+          },
+          "alternative_urls": [
+            "https://chefaa.com/product/%D8%B2%D8%A7%D8%B1%D8%B2%D9%8A%D9%88-30%D9%85%D9%83%D9%8505%D9%85%D9%84-1-%D8%AD%D9%82%D9%86%D8%A9-%D9%85%D9%85%D9%84%D9%88%D8%A1%D8%A9-%D9%85%D8%B3%D8%A8%D9%82%D8%A7",
+            "https://chefaa.com/eg-ar/medications/%D8%B2%D8%A7%D8%B1%D8%B2%D9%8A%D9%88-30%D9%85%D9%83%D9%8505%D9%85%D9%84-1-%D8%AD%D9%82%D9%86%D8%A9-%D9%85%D9%85%D9%84%D9%88%D8%A1%D8%A9-%D9%85%D8%B3%D8%A8%D9%82%D8%A7"
+          ]
+        },
+        {
+          "url": "https://chefaa.com/eg-ar/nowProduct/%D8%A7%D8%B1%D9%88%D9%85%D9%8A%D8%AC%D8%A7-%D9%85%D8%B3%D8%A7%D8%AC-%D8%AC%D9%8A%D9%84-%D9%84%D9%84%D8%AC%D9%84%D8%AF-60%D8%AC%D9%85",
+          "product_id": 2229,
+          "product_name": "اروميجا مساج جيل للجلد | 60جم",
+          "source_info": {
+            "source_page": 131,
+            "source_file": "medications_page_131_phase5_batch6.json"
+          },
+          "alternative_urls": [
+            "https://chefaa.com/product/%D8%A7%D8%B1%D9%88%D9%85%D9%8A%D8%AC%D8%A7-%D9%85%D8%B3%D8%A7%D8%AC-%D8%AC%D9%8A%D9%84-%D9%84%D9%84%D8%AC%D9%84%D8%AF-60%D8%AC%D9%85",
+            "https://chefaa.com/eg-ar/medications/%D8%A7%D8%B1%D9%88%D9%85%D9%8A%D8%AC%D8%A7-%D9%85%D8%B3%D8%A7%D8%AC-%D8%AC%D9%8A%D9%84-%D9%84%D9%84%D8%AC%D9%84%D8%AF-60%D8%AC%D9%85"
+          ]
+        },
+        {
+          "url": "https://chefaa.com/eg-ar/nowProduct/%D9%81%D8%B1%D9%8A-%D9%81%D9%8A%D8%AA-%D9%85%D9%83%D9%85%D9%84-%D8%BA%D8%B0%D8%A7%D8%A6%D9%8A-20-%D9%82%D8%B1%D8%B5",
+          "product_id": 2230,
+          "product_name": "فري فيت مكمل غذائي | 20 قرص",
+          "source_info": {
+            "source_page": 131,
+            "source_file": "medications_page_131_phase5_batch6.json"
+          },
+          "alternative_urls": [
+            "https://chefaa.com/product/%D9%81%D8%B1%D9%8A-%D9%81%D9%8A%D8%AA-%D9%85%D9%83%D9%85%D9%84-%D8%BA%D8%B0%D8%A7%D8%A6%D9%8A-20-%D9%82%D8%B1%D8%B5",
+            "https://chefaa.com/eg-ar/medications/%D9%81%D8%B1%D9%8A-%D9%81%D9%8A%D8%AA-%D9%85%D9%83%D9%85%D9%84-%D8%BA%D8%B0%D8%A7%D8%A6%D9%8A-20-%D9%82%D8%B1%D8%B5"
+          ]
+        },
+        {
+          "url": "https://chefaa.com/eg-ar/nowProduct/%D9%87%D8%A7%D9%8A%D8%A8%D9%88%D9%84%D8%A7%D9%83%D8%AA-05%D9%85%D8%AC%D9%85-2-%D9%82%D8%B1%D8%B5",
+          "product_id": 2231,
+          "product_name": "هايبولاكت 0.5مجم | 2 قرص",
+          "source_info": {
+            "source_page": 131,
+            "source_file": "medications_page_131_phase5_batch6.json"
+          },
+          "alternative_urls": [
+            "https://chefaa.com/product/%D9%87%D8%A7%D9%8A%D8%A8%D9%88%D9%84%D8%A7%D9%83%D8%AA-05%D9%85%D8%AC%D9%85-2-%D9%82%D8%B1%D8%B5",
+            "https://chefaa.com/eg-ar/medications/%D9%87%D8%A7%D9%8A%D8%A8%D9%88%D9%84%D8%A7%D9%83%D8%AA-05%D9%85%D8%AC%D9%85-2-%D9%82%D8%B1%D8%B5"
+          ]
+        },
+        {
+          "url": "https://chefaa.com/eg-ar/nowProduct/%D8%B1%D9%88%D8%AA%D8%A7%D9%87%D9%8A%D9%84%D9%83%D8%B3-%D8%AB%D8%A7%D9%8A%D9%85-%D8%A3%D9%82%D8%B1%D8%A7%D8%B5-%D8%A7%D8%B3%D8%AA%D8%AD%D9%84%D8%A7%D8%A8-%D9%85%D9%84%D8%B7%D9%81%D8%A9-%D9%84%D9%84%D8%AD%D9%84%D9%82-%D8%A8%D9%86%D9%83%D9%87%D8%A9-%D8%A7%D9%84%D9%82%D9%87%D9%88%D8%A9-24-%D9%82%D8%B1%D8%B5",
+          "product_id": 2232,
+          "product_name": "روتاهيلكس ثايم | أقراص استحلاب مُلطفة للحلق بنكهة القهوة | 24 قرص",
+          "source_info": {
+            "source_page": 131,
+            "source_file": "medications_page_131_phase5_batch6.json"
+          },
+          "alternative_urls": [
+            "https://chefaa.com/product/%D8%B1%D9%88%D8%AA%D8%A7%D9%87%D9%8A%D9%84%D9%83%D8%B3-%D8%AB%D8%A7%D9%8A%D9%85-%D8%A3%D9%82%D8%B1%D8%A7%D8%B5-%D8%A7%D8%B3%D8%AA%D8%AD%D9%84%D8%A7%D8%A8-%D9%85%D9%84%D8%B7%D9%81%D8%A9-%D9%84%D9%84%D8%AD%D9%84%D9%82-%D8%A8%D9%86%D9%83%D9%87%D8%A9-%D8%A7%D9%84%D9%82%D9%87%D9%88%D8%A9-24-%D9%82%D8%B1%D8%B5",
+            "https://chefaa.com/eg-ar/medications/%D8%B1%D9%88%D8%AA%D8%A7%D9%87%D9%8A%D9%84%D9%83%D8%B3-%D8%AB%D8%A7%D9%8A%D9%85-%D8%A3%D9%82%D8%B1%D8%A7%D8%B5-%D8%A7%D8%B3%D8%AA%D8%AD%D9%84%D8%A7%D8%A8-%D9%85%D9%84%D8%B7%D9%81%D8%A9-%D9%84%D9%84%D8%AD%D9%84%D9%82-%D8%A8%D9%86%D9%83%D9%87%D8%A9-%D8%A7%D9%84%D9%82%D9%87%D9%88%D8%A9-24-%D9%82%D8%B1%D8%B5"
+          ]
+        },
+        {
+          "url": "https://chefaa.com/eg-ar/nowProduct/%D8%B4%D9%8A%D8%AA%D9%88%D8%B3%D9%8A%D9%84-%D9%83%D8%B1%D9%8A%D9%85-50%D8%AC%D9%85",
+          "product_id": 2233,
+          "product_name": "شيتوسيل كريم | 50جم",
+          "source_info": {
+            "source_page": 131,
+            "source_file": "medications_page_131_phase5_batch6.json"
+          },
+          "alternative_urls": [
+            "https://chefaa.com/product/%D8%B4%D9%8A%D8%AA%D9%88%D8%B3%D9%8A%D9%84-%D9%83%D8%B1%D9%8A%D9%85-50%D8%AC%D9%85",
+            "https://chefaa.com/eg-ar/medications/%D8%B4%D9%8A%D8%AA%D9%88%D8%B3%D9%8A%D9%84-%D9%83%D8%B1%D9%8A%D9%85-50%D8%AC%D9%85"
+          ]
+        },
+        {
+          "url": "https://chefaa.com/eg-ar/nowProduct/%D9%85%D9%8A%D9%86%D9%88%D8%A8%D9%8A%D8%B3-%D8%A7%D9%88%D8%B1%D9%8A%D8%AC%D9%8A%D9%86%D8%A7%D9%84-30-%D9%82%D8%B1%D8%B5",
+          "product_id": 2234,
+          "product_name": "مينوبيس اوريجينال | 30 قرص",
+          "source_info": {
+            "source_page": 131,
+            "source_file": "medications_page_131_phase5_batch6.json"
+          },
+          "alternative_urls": [
+            "https://chefaa.com/product/%D9%85%D9%8A%D9%86%D9%88%D8%A8%D9%8A%D8%B3-%D8%A7%D9%88%D8%B1%D9%8A%D8%AC%D9%8A%D9%86%D8%A7%D9%84-30-%D9%82%D8%B1%D8%B5",
+            "https://chefaa.com/eg-ar/medications/%D9%85%D9%8A%D9%86%D9%88%D8%A8%D9%8A%D8%B3-%D8%A7%D9%88%D8%B1%D9%8A%D8%AC%D9%8A%D9%86%D8%A7%D9%84-30-%D9%82%D8%B1%D8%B5"
+          ]
+        },
+        {
+          "url": "https://chefaa.com/eg-ar/nowProduct/%D8%B1%D9%88%D8%AA%D8%A7%D9%87%D9%8A%D9%84%D9%83%D8%B3-%D8%AB%D8%A7%D9%8A%D9%85-%D8%A3%D9%82%D8%B1%D8%A7%D8%B5-%D8%A7%D8%B3%D8%AA%D8%AD%D9%84%D8%A7%D8%A8-%D9%85%D9%84%D8%B7%D9%81%D8%A9-%D9%84%D9%84%D8%AD%D9%84%D9%82-%D8%A8%D9%86%D9%83%D9%87%D8%A9-%D8%A7%D9%84%D9%84%D9%8A%D9%85%D9%88%D9%86-%D9%88-%D8%A7%D9%84%D8%B9%D8%B3%D9%84-24-%D9%82%D8%B1%D8%B5",
+          "product_id": 2235,
+          "product_name": "روتاهيلكس ثايم | أقراص استحلاب مُلطفة للحلق بنكهة الليمون و العسل | 24 قرص",
+          "source_info": {
+            "source_page": 131,
+            "source_file": "medications_page_131_phase5_batch6.json"
+          },
+          "alternative_urls": [
+            "https://chefaa.com/product/%D8%B1%D9%88%D8%AA%D8%A7%D9%87%D9%8A%D9%84%D9%83%D8%B3-%D8%AB%D8%A7%D9%8A%D9%85-%D8%A3%D9%82%D8%B1%D8%A7%D8%B5-%D8%A7%D8%B3%D8%AA%D8%AD%D9%84%D8%A7%D8%A8-%D9%85%D9%84%D8%B7%D9%81%D8%A9-%D9%84%D9%84%D8%AD%D9%84%D9%82-%D8%A8%D9%86%D9%83%D9%87%D8%A9-%D8%A7%D9%84%D9%84%D9%8A%D9%85%D9%88%D9%86-%D9%88-%D8%A7%D9%84%D8%B9%D8%B3%D9%84-24-%D9%82%D8%B1%D8%B5",
+            "https://chefaa.com/eg-ar/medications/%D8%B1%D9%88%D8%AA%D8%A7%D9%87%D9%8A%D9%84%D9%83%D8%B3-%D8%AB%D8%A7%D9%8A%D9%85-%D8%A3%D9%82%D8%B1%D8%A7%D8%B5-%D8%A7%D8%B3%D8%AA%D8%AD%D9%84%D8%A7%D8%A8-%D9%85%D9%84%D8%B7%D9%81%D8%A9-%D9%84%D9%84%D8%AD%D9%84%D9%82-%D8%A8%D9%86%D9%83%D9%87%D8%A9-%D8%A7%D9%84%D9%84%D9%8A%D9%85%D9%88%D9%86-%D9%88-%D8%A7%D9%84%D8%B9%D8%B3%D9%84-24-%D9%82%D8%B1%D8%B5"
+          ]
+        }
+      ],
+      "total_products": 20
+    },
+    {
+      "batch_number": 6,
+      "products": [
+        {
+          "url": "https://chefaa.com/eg-ar/nowProduct/controloc-antacid-20mg-14tab",
+          "product_id": 2236,
+          "product_name": "Controloc Antacid 20mg 14tab",
+          "source_info": {
+            "source_page": 132,
+            "source_file": "medications_page_132_phase5_batch6.json"
+          },
+          "alternative_urls": [
+            "https://chefaa.com/product/controloc-antacid-20mg-14tab",
+            "https://chefaa.com/eg-ar/medications/controloc-antacid-20mg-14tab"
+          ]
+        },
+        {
+          "url": "https://chefaa.com/eg-ar/nowProduct/%D8%B1%D9%88%D8%AA%D8%A7%D9%87%D9%8A%D9%84%D9%83%D8%B3-%D8%AB%D8%A7%D9%8A%D9%85-%D8%A3%D9%82%D8%B1%D8%A7%D8%B5-%D8%A7%D8%B3%D8%AA%D8%AD%D9%84%D8%A7%D8%A8-%D9%85%D9%84%D8%B7%D9%81%D8%A9-%D9%84%D9%84%D8%AD%D9%84%D9%82-%D8%A8%D9%86%D9%83%D9%87%D8%A9-%D8%A7%D9%84%D9%83%D9%88%D9%84%D8%A7",
+          "product_id": 2237,
+          "product_name": "روتاهيلكس ثايم | أقراص استحلاب مُلطفة للحلق بنكهة الكولا",
+          "source_info": {
+            "source_page": 132,
+            "source_file": "medications_page_132_phase5_batch6.json"
+          },
+          "alternative_urls": [
+            "https://chefaa.com/product/%D8%B1%D9%88%D8%AA%D8%A7%D9%87%D9%8A%D9%84%D9%83%D8%B3-%D8%AB%D8%A7%D9%8A%D9%85-%D8%A3%D9%82%D8%B1%D8%A7%D8%B5-%D8%A7%D8%B3%D8%AA%D8%AD%D9%84%D8%A7%D8%A8-%D9%85%D9%84%D8%B7%D9%81%D8%A9-%D9%84%D9%84%D8%AD%D9%84%D9%82-%D8%A8%D9%86%D9%83%D9%87%D8%A9-%D8%A7%D9%84%D9%83%D9%88%D9%84%D8%A7",
+            "https://chefaa.com/eg-ar/medications/%D8%B1%D9%88%D8%AA%D8%A7%D9%87%D9%8A%D9%84%D9%83%D8%B3-%D8%AB%D8%A7%D9%8A%D9%85-%D8%A3%D9%82%D8%B1%D8%A7%D8%B5-%D8%A7%D8%B3%D8%AA%D8%AD%D9%84%D8%A7%D8%A8-%D9%85%D9%84%D8%B7%D9%81%D8%A9-%D9%84%D9%84%D8%AD%D9%84%D9%82-%D8%A8%D9%86%D9%83%D9%87%D8%A9-%D8%A7%D9%84%D9%83%D9%88%D9%84%D8%A7"
+          ]
+        },
+        {
+          "url": "https://chefaa.com/eg-ar/nowProduct/%D8%B1%D9%88%D8%AA%D8%A7%D9%87%D9%8A%D9%84%D9%83%D8%B3-%D8%AB%D8%A7%D9%8A%D9%85-%D8%A3%D9%82%D8%B1%D8%A7%D8%B5-%D8%A7%D8%B3%D8%AA%D8%AD%D9%84%D8%A7%D8%A8-%D9%85%D9%84%D8%B7%D9%81%D8%A9-%D9%84%D9%84%D8%AD%D9%84%D9%82-%D8%A8%D9%86%D9%83%D9%87%D8%A9-%D8%A7%D9%84%D8%A8%D8%B1%D8%AA%D9%82%D8%A7%D9%84",
+          "product_id": 2238,
+          "product_name": "روتاهيلكس ثايم | أقراص استحلاب مُلطفة للحلق بنكهة البرتقال",
+          "source_info": {
+            "source_page": 132,
+            "source_file": "medications_page_132_phase5_batch6.json"
+          },
+          "alternative_urls": [
+            "https://chefaa.com/product/%D8%B1%D9%88%D8%AA%D8%A7%D9%87%D9%8A%D9%84%D9%83%D8%B3-%D8%AB%D8%A7%D9%8A%D9%85-%D8%A3%D9%82%D8%B1%D8%A7%D8%B5-%D8%A7%D8%B3%D8%AA%D8%AD%D9%84%D8%A7%D8%A8-%D9%85%D9%84%D8%B7%D9%81%D8%A9-%D9%84%D9%84%D8%AD%D9%84%D9%82-%D8%A8%D9%86%D9%83%D9%87%D8%A9-%D8%A7%D9%84%D8%A8%D8%B1%D8%AA%D9%82%D8%A7%D9%84",
+            "https://chefaa.com/eg-ar/medications/%D8%B1%D9%88%D8%AA%D8%A7%D9%87%D9%8A%D9%84%D9%83%D8%B3-%D8%AB%D8%A7%D9%8A%D9%85-%D8%A3%D9%82%D8%B1%D8%A7%D8%B5-%D8%A7%D8%B3%D8%AA%D8%AD%D9%84%D8%A7%D8%A8-%D9%85%D9%84%D8%B7%D9%81%D8%A9-%D9%84%D9%84%D8%AD%D9%84%D9%82-%D8%A8%D9%86%D9%83%D9%87%D8%A9-%D8%A7%D9%84%D8%A8%D8%B1%D8%AA%D9%82%D8%A7%D9%84"
+          ]
+        },
+        {
+          "url": "https://chefaa.com/eg-ar/nowProduct/%D8%B1%D9%88%D8%AA%D8%A7%D9%87%D9%8A%D9%84%D9%83%D8%B3-%D8%B3%D8%A8%D8%B1%D8%A7%D9%89-30%D9%85%D9%84",
+          "product_id": 2239,
+          "product_name": "روتاهيلكس سبراى | 30مل",
+          "source_info": {
+            "source_page": 132,
+            "source_file": "medications_page_132_phase5_batch6.json"
+          },
+          "alternative_urls": [
+            "https://chefaa.com/product/%D8%B1%D9%88%D8%AA%D8%A7%D9%87%D9%8A%D9%84%D9%83%D8%B3-%D8%B3%D8%A8%D8%B1%D8%A7%D9%89-30%D9%85%D9%84",
+            "https://chefaa.com/eg-ar/medications/%D8%B1%D9%88%D8%AA%D8%A7%D9%87%D9%8A%D9%84%D9%83%D8%B3-%D8%B3%D8%A8%D8%B1%D8%A7%D9%89-30%D9%85%D9%84"
+          ]
+        },
+        {
+          "url": "https://chefaa.com/eg-ar/nowProduct/%D8%B1%D9%88%D8%AA%D8%A7%D9%87%D9%8A%D9%84%D9%83%D8%B3-%D8%A7%D9%83%D8%B3%D8%AA%D8%B1%D8%A7-%D8%A7%D9%82%D8%B1%D8%A7%D8%B5-%D8%A7%D8%B3%D8%AA%D8%AD%D9%84%D8%A7%D8%A8-%D8%A8%D9%86%D9%83%D9%87%D8%A9-%D8%A7%D9%84%D9%82%D9%87%D9%88%D8%A9-24-%D9%82%D8%B1%D8%B5",
+          "product_id": 2240,
+          "product_name": "روتاهيلكس اكسترا اقراص استحلاب بنكهة القهوة | 24 قرص",
+          "source_info": {
+            "source_page": 132,
+            "source_file": "medications_page_132_phase5_batch6.json"
+          },
+          "alternative_urls": [
+            "https://chefaa.com/product/%D8%B1%D9%88%D8%AA%D8%A7%D9%87%D9%8A%D9%84%D9%83%D8%B3-%D8%A7%D9%83%D8%B3%D8%AA%D8%B1%D8%A7-%D8%A7%D9%82%D8%B1%D8%A7%D8%B5-%D8%A7%D8%B3%D8%AA%D8%AD%D9%84%D8%A7%D8%A8-%D8%A8%D9%86%D9%83%D9%87%D8%A9-%D8%A7%D9%84%D9%82%D9%87%D9%88%D8%A9-24-%D9%82%D8%B1%D8%B5",
+            "https://chefaa.com/eg-ar/medications/%D8%B1%D9%88%D8%AA%D8%A7%D9%87%D9%8A%D9%84%D9%83%D8%B3-%D8%A7%D9%83%D8%B3%D8%AA%D8%B1%D8%A7-%D8%A7%D9%82%D8%B1%D8%A7%D8%B5-%D8%A7%D8%B3%D8%AA%D8%AD%D9%84%D8%A7%D8%A8-%D8%A8%D9%86%D9%83%D9%87%D8%A9-%D8%A7%D9%84%D9%82%D9%87%D9%88%D8%A9-24-%D9%82%D8%B1%D8%B5"
+          ]
+        },
+        {
+          "url": "https://chefaa.com/eg-ar/nowProduct/%D8%B1%D9%88%D8%AA%D8%A7%D9%87%D9%8A%D9%84%D9%83%D8%B3-%D8%A7%D9%83%D8%B3%D8%AA%D8%B1%D8%A7-%D8%A7%D9%82%D8%B1%D8%A7%D8%B5-%D8%A7%D8%B3%D8%AA%D8%AD%D9%84%D8%A7%D8%A8-%D8%A8%D9%86%D9%83%D9%87%D8%A9-%D8%A7%D9%84%D9%83%D9%88%D9%84%D8%A7-24-%D9%82%D8%B1%D8%B5",
+          "product_id": 2241,
+          "product_name": "روتاهيلكس اكسترا اقراص استحلاب بنكهة الكولا | 24 قرص",
+          "source_info": {
+            "source_page": 132,
+            "source_file": "medications_page_132_phase5_batch6.json"
+          },
+          "alternative_urls": [
+            "https://chefaa.com/product/%D8%B1%D9%88%D8%AA%D8%A7%D9%87%D9%8A%D9%84%D9%83%D8%B3-%D8%A7%D9%83%D8%B3%D8%AA%D8%B1%D8%A7-%D8%A7%D9%82%D8%B1%D8%A7%D8%B5-%D8%A7%D8%B3%D8%AA%D8%AD%D9%84%D8%A7%D8%A8-%D8%A8%D9%86%D9%83%D9%87%D8%A9-%D8%A7%D9%84%D9%83%D9%88%D9%84%D8%A7-24-%D9%82%D8%B1%D8%B5",
+            "https://chefaa.com/eg-ar/medications/%D8%B1%D9%88%D8%AA%D8%A7%D9%87%D9%8A%D9%84%D9%83%D8%B3-%D8%A7%D9%83%D8%B3%D8%AA%D8%B1%D8%A7-%D8%A7%D9%82%D8%B1%D8%A7%D8%B5-%D8%A7%D8%B3%D8%AA%D8%AD%D9%84%D8%A7%D8%A8-%D8%A8%D9%86%D9%83%D9%87%D8%A9-%D8%A7%D9%84%D9%83%D9%88%D9%84%D8%A7-24-%D9%82%D8%B1%D8%B5"
+          ]
+        },
+        {
+          "url": "https://chefaa.com/eg-ar/nowProduct/%D8%B1%D9%88%D8%AA%D8%A7%D9%87%D9%8A%D9%84%D9%83%D8%B3-%D8%A7%D9%83%D8%B3%D8%AA%D8%B1%D8%A7-%D8%A7%D9%82%D8%B1%D8%A7%D8%B5-%D8%A7%D8%B3%D8%AA%D8%AD%D9%84%D8%A7%D8%A8-%D8%A8%D9%86%D9%83%D9%87%D8%A9-%D8%A7%D9%84%D8%A8%D8%B1%D8%AA%D9%82%D8%A7%D9%84-24-%D9%82%D8%B1%D8%B5",
+          "product_id": 2242,
+          "product_name": "روتاهيلكس اكسترا اقراص استحلاب بنكهة البرتقال | 24 قرص",
+          "source_info": {
+            "source_page": 132,
+            "source_file": "medications_page_132_phase5_batch6.json"
+          },
+          "alternative_urls": [
+            "https://chefaa.com/product/%D8%B1%D9%88%D8%AA%D8%A7%D9%87%D9%8A%D9%84%D9%83%D8%B3-%D8%A7%D9%83%D8%B3%D8%AA%D8%B1%D8%A7-%D8%A7%D9%82%D8%B1%D8%A7%D8%B5-%D8%A7%D8%B3%D8%AA%D8%AD%D9%84%D8%A7%D8%A8-%D8%A8%D9%86%D9%83%D9%87%D8%A9-%D8%A7%D9%84%D8%A8%D8%B1%D8%AA%D9%82%D8%A7%D9%84-24-%D9%82%D8%B1%D8%B5",
+            "https://chefaa.com/eg-ar/medications/%D8%B1%D9%88%D8%AA%D8%A7%D9%87%D9%8A%D9%84%D9%83%D8%B3-%D8%A7%D9%83%D8%B3%D8%AA%D8%B1%D8%A7-%D8%A7%D9%82%D8%B1%D8%A7%D8%B5-%D8%A7%D8%B3%D8%AA%D8%AD%D9%84%D8%A7%D8%A8-%D8%A8%D9%86%D9%83%D9%87%D8%A9-%D8%A7%D9%84%D8%A8%D8%B1%D8%AA%D9%82%D8%A7%D9%84-24-%D9%82%D8%B1%D8%B5"
+          ]
+        },
+        {
+          "url": "https://chefaa.com/eg-ar/nowProduct/%D9%86%D9%8A%D9%88%D8%B1%D9%8A%D8%AF-30-%D9%83%D8%A8%D8%B3%D9%88%D9%84%D8%A9",
+          "product_id": 2243,
+          "product_name": "نيوريد 30 | كبسولة",
+          "source_info": {
+            "source_page": 132,
+            "source_file": "medications_page_132_phase5_batch6.json"
+          },
+          "alternative_urls": [
+            "https://chefaa.com/product/%D9%86%D9%8A%D9%88%D8%B1%D9%8A%D8%AF-30-%D9%83%D8%A8%D8%B3%D9%88%D9%84%D8%A9",
+            "https://chefaa.com/eg-ar/medications/%D9%86%D9%8A%D9%88%D8%B1%D9%8A%D8%AF-30-%D9%83%D8%A8%D8%B3%D9%88%D9%84%D8%A9"
+          ]
+        },
+        {
+          "url": "https://chefaa.com/eg-ar/nowProduct/%D8%B2%D9%8A%D9%85%D8%A7%D9%84%D8%A7%D9%83%D8%AA-250%D9%85%D8%AC-30-%D9%83%D8%A8%D8%B3%D9%88%D9%84%D8%A9",
+          "product_id": 2244,
+          "product_name": "زيمالاكت 250مج | 30 كبسولة",
+          "source_info": {
+            "source_page": 132,
+            "source_file": "medications_page_132_phase5_batch6.json"
+          },
+          "alternative_urls": [
+            "https://chefaa.com/product/%D8%B2%D9%8A%D9%85%D8%A7%D9%84%D8%A7%D9%83%D8%AA-250%D9%85%D8%AC-30-%D9%83%D8%A8%D8%B3%D9%88%D9%84%D8%A9",
+            "https://chefaa.com/eg-ar/medications/%D8%B2%D9%8A%D9%85%D8%A7%D9%84%D8%A7%D9%83%D8%AA-250%D9%85%D8%AC-30-%D9%83%D8%A8%D8%B3%D9%88%D9%84%D8%A9"
+          ]
+        },
+        {
+          "url": "https://chefaa.com/eg-ar/nowProduct/%D8%A7%D9%84-%D8%A7%D9%88%D9%85%D9%8A%D8%AC%D8%A7-3-1000%D9%85%D8%AC%D9%85-30-%D9%83%D8%A8%D8%B3%D9%88%D9%84%D8%A9",
+          "product_id": 2245,
+          "product_name": "ال اوميجا 3 1000مجم | 30 كبسولة",
+          "source_info": {
+            "source_page": 132,
+            "source_file": "medications_page_132_phase5_batch6.json"
+          },
+          "alternative_urls": [
+            "https://chefaa.com/product/%D8%A7%D9%84-%D8%A7%D9%88%D9%85%D9%8A%D8%AC%D8%A7-3-1000%D9%85%D8%AC%D9%85-30-%D9%83%D8%A8%D8%B3%D9%88%D9%84%D8%A9",
+            "https://chefaa.com/eg-ar/medications/%D8%A7%D9%84-%D8%A7%D9%88%D9%85%D9%8A%D8%AC%D8%A7-3-1000%D9%85%D8%AC%D9%85-30-%D9%83%D8%A8%D8%B3%D9%88%D9%84%D8%A9"
+          ]
+        },
+        {
+          "url": "https://chefaa.com/eg-ar/nowProduct/%D9%81%D8%A7%D8%B3%D8%AA-%D9%81%D8%B1%D9%8A%D8%B2-%D8%B3%D8%A8%D8%B1%D8%A7%D9%8A-%D9%85%D8%B3%D8%A7%D8%AC-200%D9%85%D9%84",
+          "product_id": 2246,
+          "product_name": "فاست فريز سبراي مساج | 200مل",
+          "source_info": {
+            "source_page": 132,
+            "source_file": "medications_page_132_phase5_batch6.json"
+          },
+          "alternative_urls": [
+            "https://chefaa.com/product/%D9%81%D8%A7%D8%B3%D8%AA-%D9%81%D8%B1%D9%8A%D8%B2-%D8%B3%D8%A8%D8%B1%D8%A7%D9%8A-%D9%85%D8%B3%D8%A7%D8%AC-200%D9%85%D9%84",
+            "https://chefaa.com/eg-ar/medications/%D9%81%D8%A7%D8%B3%D8%AA-%D9%81%D8%B1%D9%8A%D8%B2-%D8%B3%D8%A8%D8%B1%D8%A7%D9%8A-%D9%85%D8%B3%D8%A7%D8%AC-200%D9%85%D9%84"
+          ]
+        },
+        {
+          "url": "https://chefaa.com/eg-ar/nowProduct/%D8%AA%D8%B1%D9%8A%D9%83%D8%B2%D9%8A%D9%85%D8%B3-%D9%85%D8%B1%D9%87%D9%85-01-30%D8%AC%D9%85",
+          "product_id": 2247,
+          "product_name": "تريكزيمس مرهم 0.1٪ | 30جم",
+          "source_info": {
+            "source_page": 132,
+            "source_file": "medications_page_132_phase5_batch6.json"
+          },
+          "alternative_urls": [
+            "https://chefaa.com/product/%D8%AA%D8%B1%D9%8A%D9%83%D8%B2%D9%8A%D9%85%D8%B3-%D9%85%D8%B1%D9%87%D9%85-01-30%D8%AC%D9%85",
+            "https://chefaa.com/eg-ar/medications/%D8%AA%D8%B1%D9%8A%D9%83%D8%B2%D9%8A%D9%85%D8%B3-%D9%85%D8%B1%D9%87%D9%85-01-30%D8%AC%D9%85"
+          ]
+        },
+        {
+          "url": "https://chefaa.com/eg-ar/nowProduct/%D8%A8%D9%8A%D9%84%D8%A7%D8%B3%D8%AA%D9%8A%D8%AC%D9%8A%D9%83-25%D9%85%D8%AC%D9%85%D9%85%D9%84-%D8%B4%D8%B1%D8%A7%D8%A8-120%D9%85%D9%84",
+          "product_id": 2248,
+          "product_name": "بيلاستيجيك 2.5مجم/مل شراب | 120مل",
+          "source_info": {
+            "source_page": 132,
+            "source_file": "medications_page_132_phase5_batch6.json"
+          },
+          "alternative_urls": [
+            "https://chefaa.com/product/%D8%A8%D9%8A%D9%84%D8%A7%D8%B3%D8%AA%D9%8A%D8%AC%D9%8A%D9%83-25%D9%85%D8%AC%D9%85%D9%85%D9%84-%D8%B4%D8%B1%D8%A7%D8%A8-120%D9%85%D9%84",
+            "https://chefaa.com/eg-ar/medications/%D8%A8%D9%8A%D9%84%D8%A7%D8%B3%D8%AA%D9%8A%D8%AC%D9%8A%D9%83-25%D9%85%D8%AC%D9%85%D9%85%D9%84-%D8%B4%D8%B1%D8%A7%D8%A8-120%D9%85%D9%84"
+          ]
+        },
+        {
+          "url": "https://chefaa.com/eg-ar/nowProduct/%D8%A8%D9%88%D9%83%D8%B3%D9%8A%D8%A8%D9%88-%D9%83%D8%B1%D9%8A%D9%85-%D9%85%D8%B1%D8%B7%D8%A8-%D9%84%D9%84%D8%A8%D8%B4%D8%B1%D8%A9-15%D8%AC%D9%85",
+          "product_id": 2249,
+          "product_name": "بوكسيبو كريم مرطب للبشرة | 15جم",
+          "source_info": {
+            "source_page": 132,
+            "source_file": "medications_page_132_phase5_batch6.json"
+          },
+          "alternative_urls": [
+            "https://chefaa.com/product/%D8%A8%D9%88%D9%83%D8%B3%D9%8A%D8%A8%D9%88-%D9%83%D8%B1%D9%8A%D9%85-%D9%85%D8%B1%D8%B7%D8%A8-%D9%84%D9%84%D8%A8%D8%B4%D8%B1%D8%A9-15%D8%AC%D9%85",
+            "https://chefaa.com/eg-ar/medications/%D8%A8%D9%88%D9%83%D8%B3%D9%8A%D8%A8%D9%88-%D9%83%D8%B1%D9%8A%D9%85-%D9%85%D8%B1%D8%B7%D8%A8-%D9%84%D9%84%D8%A8%D8%B4%D8%B1%D8%A9-15%D8%AC%D9%85"
+          ]
+        },
+        {
+          "url": "https://chefaa.com/eg-ar/nowProduct/%D8%B4%D8%A7%D8%B1%D8%AA%D9%88%D8%B1%D9%8A%D8%AC-%D8%A8%D9%84%D8%B3-8025%D9%85%D8%AC%D9%85-28%D9%82%D8%B1%D8%B5",
+          "product_id": 2250,
+          "product_name": "شارتوريج بلس 80/25مجم | 28قرص",
+          "source_info": {
+            "source_page": 132,
+            "source_file": "medications_page_132_phase5_batch6.json"
+          },
+          "alternative_urls": [
+            "https://chefaa.com/product/%D8%B4%D8%A7%D8%B1%D8%AA%D9%88%D8%B1%D9%8A%D8%AC-%D8%A8%D9%84%D8%B3-8025%D9%85%D8%AC%D9%85-28%D9%82%D8%B1%D8%B5",
+            "https://chefaa.com/eg-ar/medications/%D8%B4%D8%A7%D8%B1%D8%AA%D9%88%D8%B1%D9%8A%D8%AC-%D8%A8%D9%84%D8%B3-8025%D9%85%D8%AC%D9%85-28%D9%82%D8%B1%D8%B5"
+          ]
+        },
+        {
+          "url": "https://chefaa.com/eg-ar/nowProduct/%D9%86%D9%88%D8%B1%D8%B3-%D9%84%D9%88%D8%B4%D9%86-125%D8%AC%D9%85",
+          "product_id": 2251,
+          "product_name": "نورس لوشن | 125جم",
+          "source_info": {
+            "source_page": 132,
+            "source_file": "medications_page_132_phase5_batch6.json"
+          },
+          "alternative_urls": [
+            "https://chefaa.com/product/%D9%86%D9%88%D8%B1%D8%B3-%D9%84%D9%88%D8%B4%D9%86-125%D8%AC%D9%85",
+            "https://chefaa.com/eg-ar/medications/%D9%86%D9%88%D8%B1%D8%B3-%D9%84%D9%88%D8%B4%D9%86-125%D8%AC%D9%85"
+          ]
+        },
+        {
+          "url": "https://chefaa.com/eg-ar/nowProduct/%D9%83%D9%88%D9%83%D8%B3%D9%88%D8%B1%D9%8A%D8%B2%D8%AA-60%D9%85%D8%AC%D9%85-20-%D9%82%D8%B1%D8%B5-%D9%85%D8%BA%D9%84%D9%81",
+          "product_id": 2252,
+          "product_name": "كوكسوريزت 60مجم | 20 قرص مغلف",
+          "source_info": {
+            "source_page": 132,
+            "source_file": "medications_page_132_phase5_batch6.json"
+          },
+          "alternative_urls": [
+            "https://chefaa.com/product/%D9%83%D9%88%D9%83%D8%B3%D9%88%D8%B1%D9%8A%D8%B2%D8%AA-60%D9%85%D8%AC%D9%85-20-%D9%82%D8%B1%D8%B5-%D9%85%D8%BA%D9%84%D9%81",
+            "https://chefaa.com/eg-ar/medications/%D9%83%D9%88%D9%83%D8%B3%D9%88%D8%B1%D9%8A%D8%B2%D8%AA-60%D9%85%D8%AC%D9%85-20-%D9%82%D8%B1%D8%B5-%D9%85%D8%BA%D9%84%D9%81"
+          ]
+        },
+        {
+          "url": "https://chefaa.com/eg-ar/nowProduct/%D8%B1%D9%8A%D8%B3%D8%A8%D9%8A-%D8%AF%D9%8A%D8%A8-20-%D9%82%D8%B1%D8%B5",
+          "product_id": 2253,
+          "product_name": "ريسبي ديب | 20 قرص",
+          "source_info": {
+            "source_page": 132,
+            "source_file": "medications_page_132_phase5_batch6.json"
+          },
+          "alternative_urls": [
+            "https://chefaa.com/product/%D8%B1%D9%8A%D8%B3%D8%A8%D9%8A-%D8%AF%D9%8A%D8%A8-20-%D9%82%D8%B1%D8%B5",
+            "https://chefaa.com/eg-ar/medications/%D8%B1%D9%8A%D8%B3%D8%A8%D9%8A-%D8%AF%D9%8A%D8%A8-20-%D9%82%D8%B1%D8%B5"
+          ]
+        },
+        {
+          "url": "https://chefaa.com/eg-ar/nowProduct/%D9%81%D9%84%D8%A7%D8%AC%D9%88%D8%B4%D9%88%D9%86-20%D9%85%D8%AC%D9%85-5-%D8%A7%D9%82%D8%B1%D8%A7%D8%B5-%D9%85%D8%BA%D9%84%D9%81%D8%A9",
+          "product_id": 2254,
+          "product_name": "فلاجوشون 20مجم | 5 اقراص مغلفة",
+          "source_info": {
+            "source_page": 132,
+            "source_file": "medications_page_132_phase5_batch6.json"
+          },
+          "alternative_urls": [
+            "https://chefaa.com/product/%D9%81%D9%84%D8%A7%D8%AC%D9%88%D8%B4%D9%88%D9%86-20%D9%85%D8%AC%D9%85-5-%D8%A7%D9%82%D8%B1%D8%A7%D8%B5-%D9%85%D8%BA%D9%84%D9%81%D8%A9",
+            "https://chefaa.com/eg-ar/medications/%D9%81%D9%84%D8%A7%D8%AC%D9%88%D8%B4%D9%88%D9%86-20%D9%85%D8%AC%D9%85-5-%D8%A7%D9%82%D8%B1%D8%A7%D8%B5-%D9%85%D8%BA%D9%84%D9%81%D8%A9"
+          ]
+        },
+        {
+          "url": "https://chefaa.com/eg-ar/nowProduct/%D8%B3%D9%88%D8%A8%D8%B1-%D9%83%D9%8A%D8%AF%D8%B2-%D9%81%D9%8A%D8%AA%D8%A7%D9%85%D9%8A%D9%86-%D8%AF3-400-%D9%88%D8%AD%D8%AF%D8%A9-%D8%AF%D9%88%D9%84%D9%8A%D8%A9-%D9%82%D8%B7%D8%B1%D8%A7%D8%AA-%D9%81%D9%85%D9%88%D9%8A%D8%A9-15%D9%85%D9%84",
+          "product_id": 2255,
+          "product_name": "سوبر كيدز | فيتامين د3 400 وحدة دولية قطرات فموية | 15مل",
+          "source_info": {
+            "source_page": 132,
+            "source_file": "medications_page_132_phase5_batch6.json"
+          },
+          "alternative_urls": [
+            "https://chefaa.com/product/%D8%B3%D9%88%D8%A8%D8%B1-%D9%83%D9%8A%D8%AF%D8%B2-%D9%81%D9%8A%D8%AA%D8%A7%D9%85%D9%8A%D9%86-%D8%AF3-400-%D9%88%D8%AD%D8%AF%D8%A9-%D8%AF%D9%88%D9%84%D9%8A%D8%A9-%D9%82%D8%B7%D8%B1%D8%A7%D8%AA-%D9%81%D9%85%D9%88%D9%8A%D8%A9-15%D9%85%D9%84",
+            "https://chefaa.com/eg-ar/medications/%D8%B3%D9%88%D8%A8%D8%B1-%D9%83%D9%8A%D8%AF%D8%B2-%D9%81%D9%8A%D8%AA%D8%A7%D9%85%D9%8A%D9%86-%D8%AF3-400-%D9%88%D8%AD%D8%AF%D8%A9-%D8%AF%D9%88%D9%84%D9%8A%D8%A9-%D9%82%D8%B7%D8%B1%D8%A7%D8%AA-%D9%81%D9%85%D9%88%D9%8A%D8%A9-15%D9%85%D9%84"
+          ]
+        }
+      ],
+      "total_products": 20
+    },
+    {
+      "batch_number": 7,
+      "products": [
+        {
+          "url": "https://chefaa.com/eg-ar/nowProduct/%D8%AC%D9%84%D9%8A%D8%A8%D8%AA%D8%A7%D9%84%D9%8A%D9%86%D8%A7-25-500%D9%85%D8%AC%D9%85-30-%D9%82%D8%B1%D8%B5",
+          "product_id": 2256,
+          "product_name": "جليبتالينا 2.5 / 500مجم | 30 قرص",
+          "source_info": {
+            "source_page": 132,
+            "source_file": "medications_page_132_phase5_batch6.json"
+          },
+          "alternative_urls": [
+            "https://chefaa.com/product/%D8%AC%D9%84%D9%8A%D8%A8%D8%AA%D8%A7%D9%84%D9%8A%D9%86%D8%A7-25-500%D9%85%D8%AC%D9%85-30-%D9%82%D8%B1%D8%B5",
+            "https://chefaa.com/eg-ar/medications/%D8%AC%D9%84%D9%8A%D8%A8%D8%AA%D8%A7%D9%84%D9%8A%D9%86%D8%A7-25-500%D9%85%D8%AC%D9%85-30-%D9%82%D8%B1%D8%B5"
+          ]
+        },
+        {
+          "url": "https://chefaa.com/eg-ar/nowProduct/%D8%A8%D9%84%D9%8A%D9%86%D9%83%D9%88%D8%B1%D8%B3%D8%AA-125%D9%85%D8%AC%D9%85-30-%D9%82%D8%B1%D8%B5",
+          "product_id": 2257,
+          "product_name": "بلينكورست 125مجم | 30 قرص",
+          "source_info": {
+            "source_page": 133,
+            "source_file": "medications_page_133_phase5_batch6.json"
+          },
+          "alternative_urls": [
+            "https://chefaa.com/product/%D8%A8%D9%84%D9%8A%D9%86%D9%83%D9%88%D8%B1%D8%B3%D8%AA-125%D9%85%D8%AC%D9%85-30-%D9%82%D8%B1%D8%B5",
+            "https://chefaa.com/eg-ar/medications/%D8%A8%D9%84%D9%8A%D9%86%D9%83%D9%88%D8%B1%D8%B3%D8%AA-125%D9%85%D8%AC%D9%85-30-%D9%82%D8%B1%D8%B5"
+          ]
+        },
+        {
+          "url": "https://chefaa.com/eg-ar/nowProduct/%D8%AA%D9%8A%D8%B1%D9%8A-%D9%85%D9%8A%D9%83%D8%B3-%D9%84%D9%88%D8%B4%D9%86-%D9%84%D9%84%D8%A3%D8%B8%D8%A7%D9%81%D8%B1-15%D9%85%D9%84",
+          "product_id": 2258,
+          "product_name": "تيري ميكس لوشن للأظافر | 15مل",
+          "source_info": {
+            "source_page": 133,
+            "source_file": "medications_page_133_phase5_batch6.json"
+          },
+          "alternative_urls": [
+            "https://chefaa.com/product/%D8%AA%D9%8A%D8%B1%D9%8A-%D9%85%D9%8A%D9%83%D8%B3-%D9%84%D9%88%D8%B4%D9%86-%D9%84%D9%84%D8%A3%D8%B8%D8%A7%D9%81%D8%B1-15%D9%85%D9%84",
+            "https://chefaa.com/eg-ar/medications/%D8%AA%D9%8A%D8%B1%D9%8A-%D9%85%D9%8A%D9%83%D8%B3-%D9%84%D9%88%D8%B4%D9%86-%D9%84%D9%84%D8%A3%D8%B8%D8%A7%D9%81%D8%B1-15%D9%85%D9%84"
+          ]
+        },
+        {
+          "url": "https://chefaa.com/eg-ar/nowProduct/%D8%A7%D9%8A%D9%81%D9%8A-%D9%83%D9%88%D9%8A%D9%84-%D8%B4%D8%B1%D8%A7%D8%A8-120%D9%85%D9%84",
+          "product_id": 2259,
+          "product_name": "ايفي كويل شراب | 120مل",
+          "source_info": {
+            "source_page": 133,
+            "source_file": "medications_page_133_phase5_batch6.json"
+          },
+          "alternative_urls": [
+            "https://chefaa.com/product/%D8%A7%D9%8A%D9%81%D9%8A-%D9%83%D9%88%D9%8A%D9%84-%D8%B4%D8%B1%D8%A7%D8%A8-120%D9%85%D9%84",
+            "https://chefaa.com/eg-ar/medications/%D8%A7%D9%8A%D9%81%D9%8A-%D9%83%D9%88%D9%8A%D9%84-%D8%B4%D8%B1%D8%A7%D8%A8-120%D9%85%D9%84"
+          ]
+        },
+        {
+          "url": "https://chefaa.com/eg-ar/nowProduct/%D8%A8%D9%88%D9%84%D9%8A%D9%85%D8%A7%D8%B1%D8%AA-%D9%83%D9%88%D9%84-%D8%AC%D9%8A%D9%84-50%D8%AC%D9%85",
+          "product_id": 2260,
+          "product_name": "بوليمارت | كول جيل | 50جم",
+          "source_info": {
+            "source_page": 133,
+            "source_file": "medications_page_133_phase5_batch6.json"
+          },
+          "alternative_urls": [
+            "https://chefaa.com/product/%D8%A8%D9%88%D9%84%D9%8A%D9%85%D8%A7%D8%B1%D8%AA-%D9%83%D9%88%D9%84-%D8%AC%D9%8A%D9%84-50%D8%AC%D9%85",
+            "https://chefaa.com/eg-ar/medications/%D8%A8%D9%88%D9%84%D9%8A%D9%85%D8%A7%D8%B1%D8%AA-%D9%83%D9%88%D9%84-%D8%AC%D9%8A%D9%84-50%D8%AC%D9%85"
+          ]
+        },
+        {
+          "url": "https://chefaa.com/eg-ar/nowProduct/%D9%81%D9%8A%D9%85%D9%88%D8%B3%D8%AA%D9%88%D9%86-110-%D9%85%D8%AC%D9%85-28-%D9%82%D8%B1%D8%B5",
+          "product_id": 2261,
+          "product_name": "فيموستون 1/10 مجم | 28 قرص",
+          "source_info": {
+            "source_page": 133,
+            "source_file": "medications_page_133_phase5_batch6.json"
+          },
+          "alternative_urls": [
+            "https://chefaa.com/product/%D9%81%D9%8A%D9%85%D9%88%D8%B3%D8%AA%D9%88%D9%86-110-%D9%85%D8%AC%D9%85-28-%D9%82%D8%B1%D8%B5",
+            "https://chefaa.com/eg-ar/medications/%D9%81%D9%8A%D9%85%D9%88%D8%B3%D8%AA%D9%88%D9%86-110-%D9%85%D8%AC%D9%85-28-%D9%82%D8%B1%D8%B5"
+          ]
+        },
+        {
+          "url": "https://chefaa.com/eg-ar/nowProduct/%D9%81%D9%8A%D9%85%D9%88%D8%B3%D8%AA%D9%88%D9%86-15-%D9%85%D8%AC%D9%85-28-%D9%82%D8%B1%D8%B5",
+          "product_id": 2262,
+          "product_name": "فيموستون 1/5 مجم | 28 قرص",
+          "source_info": {
+            "source_page": 133,
+            "source_file": "medications_page_133_phase5_batch6.json"
+          },
+          "alternative_urls": [
+            "https://chefaa.com/product/%D9%81%D9%8A%D9%85%D9%88%D8%B3%D8%AA%D9%88%D9%86-15-%D9%85%D8%AC%D9%85-28-%D9%82%D8%B1%D8%B5",
+            "https://chefaa.com/eg-ar/medications/%D9%81%D9%8A%D9%85%D9%88%D8%B3%D8%AA%D9%88%D9%86-15-%D9%85%D8%AC%D9%85-28-%D9%82%D8%B1%D8%B5"
+          ]
+        },
+        {
+          "url": "https://chefaa.com/eg-ar/nowProduct/%D9%81%D9%8A%D9%85%D9%88%D8%B3%D8%AA%D9%88%D9%86-210-%D9%85%D8%AC%D9%85-28-%D9%82%D8%B1%D8%B5",
+          "product_id": 2263,
+          "product_name": "فيموستون 2/10 مجم | 28 قرص",
+          "source_info": {
+            "source_page": 133,
+            "source_file": "medications_page_133_phase5_batch6.json"
+          },
+          "alternative_urls": [
+            "https://chefaa.com/product/%D9%81%D9%8A%D9%85%D9%88%D8%B3%D8%AA%D9%88%D9%86-210-%D9%85%D8%AC%D9%85-28-%D9%82%D8%B1%D8%B5",
+            "https://chefaa.com/eg-ar/medications/%D9%81%D9%8A%D9%85%D9%88%D8%B3%D8%AA%D9%88%D9%86-210-%D9%85%D8%AC%D9%85-28-%D9%82%D8%B1%D8%B5"
+          ]
+        },
+        {
+          "url": "https://chefaa.com/eg-ar/nowProduct/%D8%A7%D9%84%D9%81%D8%A7%D9%84%D9%8A%D8%A8%D9%88-600-%D9%85%D8%AC%D9%85-20-%D9%82%D8%B1%D8%B5",
+          "product_id": 2264,
+          "product_name": "الفاليبو 600 مجم | 20 قرص",
+          "source_info": {
+            "source_page": 133,
+            "source_file": "medications_page_133_phase5_batch6.json"
+          },
+          "alternative_urls": [
+            "https://chefaa.com/product/%D8%A7%D9%84%D9%81%D8%A7%D9%84%D9%8A%D8%A8%D9%88-600-%D9%85%D8%AC%D9%85-20-%D9%82%D8%B1%D8%B5",
+            "https://chefaa.com/eg-ar/medications/%D8%A7%D9%84%D9%81%D8%A7%D9%84%D9%8A%D8%A8%D9%88-600-%D9%85%D8%AC%D9%85-20-%D9%82%D8%B1%D8%B5"
+          ]
+        },
+        {
+          "url": "https://chefaa.com/eg-ar/nowProduct/%D8%A7%D8%AA%D9%83%D9%88%D9%83%D9%88%D9%83%D8%B3%D9%8A%D8%A8-60-%D9%85%D8%AC%D9%85-30-%D9%82%D8%B1%D8%B5",
+          "product_id": 2265,
+          "product_name": "اتكوكوكسيب 60 مجم | 30 قرص",
+          "source_info": {
+            "source_page": 133,
+            "source_file": "medications_page_133_phase5_batch6.json"
+          },
+          "alternative_urls": [
+            "https://chefaa.com/product/%D8%A7%D8%AA%D9%83%D9%88%D9%83%D9%88%D9%83%D8%B3%D9%8A%D8%A8-60-%D9%85%D8%AC%D9%85-30-%D9%82%D8%B1%D8%B5",
+            "https://chefaa.com/eg-ar/medications/%D8%A7%D8%AA%D9%83%D9%88%D9%83%D9%88%D9%83%D8%B3%D9%8A%D8%A8-60-%D9%85%D8%AC%D9%85-30-%D9%82%D8%B1%D8%B5"
+          ]
+        },
+        {
+          "url": "https://chefaa.com/eg-ar/nowProduct/%D8%A8%D8%B1%D8%A7%D8%AF%D9%88%D8%B2%D9%86-05-%D9%85%D8%AC%D9%85-20-%D9%82%D8%B1%D8%B5",
+          "product_id": 2266,
+          "product_name": "برادوزن 0.5 مجم | 20 قرص",
+          "source_info": {
+            "source_page": 133,
+            "source_file": "medications_page_133_phase5_batch6.json"
+          },
+          "alternative_urls": [
+            "https://chefaa.com/product/%D8%A8%D8%B1%D8%A7%D8%AF%D9%88%D8%B2%D9%86-05-%D9%85%D8%AC%D9%85-20-%D9%82%D8%B1%D8%B5",
+            "https://chefaa.com/eg-ar/medications/%D8%A8%D8%B1%D8%A7%D8%AF%D9%88%D8%B2%D9%86-05-%D9%85%D8%AC%D9%85-20-%D9%82%D8%B1%D8%B5"
+          ]
+        },
+        {
+          "url": "https://chefaa.com/eg-ar/nowProduct/%D9%83%D8%A7%D8%B3%D9%8A%D8%B1%D9%88%D9%81%D8%A7%D8%A8%D9%88%D9%86-%D8%B4%D8%B1%D8%A7%D8%A8-120%D9%85%D9%84",
+          "product_id": 2267,
+          "product_name": "كاسيروفابون شراب | 120مل",
+          "source_info": {
+            "source_page": 133,
+            "source_file": "medications_page_133_phase5_batch6.json"
+          },
+          "alternative_urls": [
+            "https://chefaa.com/product/%D9%83%D8%A7%D8%B3%D9%8A%D8%B1%D9%88%D9%81%D8%A7%D8%A8%D9%88%D9%86-%D8%B4%D8%B1%D8%A7%D8%A8-120%D9%85%D9%84",
+            "https://chefaa.com/eg-ar/medications/%D9%83%D8%A7%D8%B3%D9%8A%D8%B1%D9%88%D9%81%D8%A7%D8%A8%D9%88%D9%86-%D8%B4%D8%B1%D8%A7%D8%A8-120%D9%85%D9%84"
+          ]
+        },
+        {
+          "url": "https://chefaa.com/eg-ar/nowProduct/%D8%B3%D9%8A%D9%86%D8%AA%D8%B1%D8%A7%D9%81%D9%8A%D8%AA%D8%A7-%D8%AA%D8%B1%D9%8A-%D8%A3%D9%88%D9%85%D9%8A%D8%AC%D8%A7-30-%D9%83%D8%A8%D8%B3%D9%88%D9%84%D8%A9",
+          "product_id": 2268,
+          "product_name": "سينترافيتا تري أوميجا | 30 كبسولة",
+          "source_info": {
+            "source_page": 133,
+            "source_file": "medications_page_133_phase5_batch6.json"
+          },
+          "alternative_urls": [
+            "https://chefaa.com/product/%D8%B3%D9%8A%D9%86%D8%AA%D8%B1%D8%A7%D9%81%D9%8A%D8%AA%D8%A7-%D8%AA%D8%B1%D9%8A-%D8%A3%D9%88%D9%85%D9%8A%D8%AC%D8%A7-30-%D9%83%D8%A8%D8%B3%D9%88%D9%84%D8%A9",
+            "https://chefaa.com/eg-ar/medications/%D8%B3%D9%8A%D9%86%D8%AA%D8%B1%D8%A7%D9%81%D9%8A%D8%AA%D8%A7-%D8%AA%D8%B1%D9%8A-%D8%A3%D9%88%D9%85%D9%8A%D8%AC%D8%A7-30-%D9%83%D8%A8%D8%B3%D9%88%D9%84%D8%A9"
+          ]
+        },
+        {
+          "url": "https://chefaa.com/eg-ar/nowProduct/%D9%83%D9%88%D9%84%D8%A7%D8%AC%D9%8A%D9%83%D8%A7-%D9%81%D9%88%D8%B1%D8%AA-10-%D8%A7%D9%85%D8%A8%D9%88%D9%84%D8%A7%D8%AA-25%D9%85%D9%84",
+          "product_id": 2269,
+          "product_name": "كولاجيكا فورت | 10 امبولات | 25مل",
+          "source_info": {
+            "source_page": 133,
+            "source_file": "medications_page_133_phase5_batch6.json"
+          },
+          "alternative_urls": [
+            "https://chefaa.com/product/%D9%83%D9%88%D9%84%D8%A7%D8%AC%D9%8A%D9%83%D8%A7-%D9%81%D9%88%D8%B1%D8%AA-10-%D8%A7%D9%85%D8%A8%D9%88%D9%84%D8%A7%D8%AA-25%D9%85%D9%84",
+            "https://chefaa.com/eg-ar/medications/%D9%83%D9%88%D9%84%D8%A7%D8%AC%D9%8A%D9%83%D8%A7-%D9%81%D9%88%D8%B1%D8%AA-10-%D8%A7%D9%85%D8%A8%D9%88%D9%84%D8%A7%D8%AA-25%D9%85%D9%84"
+          ]
+        },
+        {
+          "url": "https://chefaa.com/eg-ar/nowProduct/%D8%AF-3---%D8%AA%D8%A7%D8%AC-%D9%86%D9%82%D8%B7-%D8%A8%D8%A7%D9%84%D9%81%D9%85-30%D9%85%D9%84",
+          "product_id": 2270,
+          "product_name": "د 3 - تاج نقط بالفم | 30مل",
+          "source_info": {
+            "source_page": 133,
+            "source_file": "medications_page_133_phase5_batch6.json"
+          },
+          "alternative_urls": [
+            "https://chefaa.com/product/%D8%AF-3---%D8%AA%D8%A7%D8%AC-%D9%86%D9%82%D8%B7-%D8%A8%D8%A7%D9%84%D9%81%D9%85-30%D9%85%D9%84",
+            "https://chefaa.com/eg-ar/medications/%D8%AF-3---%D8%AA%D8%A7%D8%AC-%D9%86%D9%82%D8%B7-%D8%A8%D8%A7%D9%84%D9%81%D9%85-30%D9%85%D9%84"
+          ]
+        },
+        {
+          "url": "https://chefaa.com/eg-ar/nowProduct/%D8%AF%D9%8A%D8%A8%D8%B1%D8%A7%D8%AA%D9%8A%D9%88%D9%83%D8%B3-20%D9%85%D8%AC%D9%85-20-%D9%82%D8%B1%D8%B5",
+          "product_id": 2271,
+          "product_name": "ديبراتيوكس 20مجم | 20 قرص",
+          "source_info": {
+            "source_page": 133,
+            "source_file": "medications_page_133_phase5_batch6.json"
+          },
+          "alternative_urls": [
+            "https://chefaa.com/product/%D8%AF%D9%8A%D8%A8%D8%B1%D8%A7%D8%AA%D9%8A%D9%88%D9%83%D8%B3-20%D9%85%D8%AC%D9%85-20-%D9%82%D8%B1%D8%B5",
+            "https://chefaa.com/eg-ar/medications/%D8%AF%D9%8A%D8%A8%D8%B1%D8%A7%D8%AA%D9%8A%D9%88%D9%83%D8%B3-20%D9%85%D8%AC%D9%85-20-%D9%82%D8%B1%D8%B5"
+          ]
+        },
+        {
+          "url": "https://chefaa.com/eg-ar/nowProduct/%D9%87%D9%8A%D8%A7%D9%84%D9%88%D9%85%D8%A7%D8%B1%D9%83-%D9%83%D8%B1%D9%8A%D9%85-25%D8%AC%D9%85",
+          "product_id": 2272,
+          "product_name": "هيالومارك كريم | 25جم",
+          "source_info": {
+            "source_page": 133,
+            "source_file": "medications_page_133_phase5_batch6.json"
+          },
+          "alternative_urls": [
+            "https://chefaa.com/product/%D9%87%D9%8A%D8%A7%D9%84%D9%88%D9%85%D8%A7%D8%B1%D9%83-%D9%83%D8%B1%D9%8A%D9%85-25%D8%AC%D9%85",
+            "https://chefaa.com/eg-ar/medications/%D9%87%D9%8A%D8%A7%D9%84%D9%88%D9%85%D8%A7%D8%B1%D9%83-%D9%83%D8%B1%D9%8A%D9%85-25%D8%AC%D9%85"
+          ]
+        },
+        {
+          "url": "https://chefaa.com/eg-ar/nowProduct/%D8%A7%D9%88%D9%84%D8%A7%D9%86%D9%81%D9%8A%D9%83%D8%B3%D8%A7-10%D9%85%D8%AC%D9%85-30-%D9%82%D8%B1%D8%B5-%D9%82%D8%A7%D8%A8%D9%84-%D9%84%D9%84%D8%B0%D9%88%D8%A8%D8%A7%D9%86-%D8%A8%D8%A7%D9%84%D9%81%D9%85",
+          "product_id": 2273,
+          "product_name": "اولانفيكسا 10مجم | 30 قرص قابل للذوبان بالفم",
+          "source_info": {
+            "source_page": 133,
+            "source_file": "medications_page_133_phase5_batch6.json"
+          },
+          "alternative_urls": [
+            "https://chefaa.com/product/%D8%A7%D9%88%D9%84%D8%A7%D9%86%D9%81%D9%8A%D9%83%D8%B3%D8%A7-10%D9%85%D8%AC%D9%85-30-%D9%82%D8%B1%D8%B5-%D9%82%D8%A7%D8%A8%D9%84-%D9%84%D9%84%D8%B0%D9%88%D8%A8%D8%A7%D9%86-%D8%A8%D8%A7%D9%84%D9%81%D9%85",
+            "https://chefaa.com/eg-ar/medications/%D8%A7%D9%88%D9%84%D8%A7%D9%86%D9%81%D9%8A%D9%83%D8%B3%D8%A7-10%D9%85%D8%AC%D9%85-30-%D9%82%D8%B1%D8%B5-%D9%82%D8%A7%D8%A8%D9%84-%D9%84%D9%84%D8%B0%D9%88%D8%A8%D8%A7%D9%86-%D8%A8%D8%A7%D9%84%D9%81%D9%85"
+          ]
+        },
+        {
+          "url": "https://chefaa.com/eg-ar/nowProduct/%D8%A7%D9%8A-%D8%A7%D9%85-%D8%A7%D8%B3-%D8%A7%D9%88%D9%81%D8%A7-%D9%85%D8%A7%D9%83%D8%B3-%D9%84%D8%AA%D8%AD%D8%B3%D9%8A%D9%86-%D8%A7%D9%84%D8%AE%D8%B5%D9%88%D8%A8%D8%A9-%D9%84%D8%AF%D9%89-%D8%A7%D9%84%D9%86%D8%B3%D8%A7%D8%A1-120-%D9%83%D8%A8%D8%B3%D9%88%D9%84%D8%A9",
+          "product_id": 2274,
+          "product_name": "اي ام اس | اوفا-ماكس لتحسين الخصوبة لدى النساء | 120 كبسولة",
+          "source_info": {
+            "source_page": 133,
+            "source_file": "medications_page_133_phase5_batch6.json"
+          },
+          "alternative_urls": [
+            "https://chefaa.com/product/%D8%A7%D9%8A-%D8%A7%D9%85-%D8%A7%D8%B3-%D8%A7%D9%88%D9%81%D8%A7-%D9%85%D8%A7%D9%83%D8%B3-%D9%84%D8%AA%D8%AD%D8%B3%D9%8A%D9%86-%D8%A7%D9%84%D8%AE%D8%B5%D9%88%D8%A8%D8%A9-%D9%84%D8%AF%D9%89-%D8%A7%D9%84%D9%86%D8%B3%D8%A7%D8%A1-120-%D9%83%D8%A8%D8%B3%D9%88%D9%84%D8%A9",
+            "https://chefaa.com/eg-ar/medications/%D8%A7%D9%8A-%D8%A7%D9%85-%D8%A7%D8%B3-%D8%A7%D9%88%D9%81%D8%A7-%D9%85%D8%A7%D9%83%D8%B3-%D9%84%D8%AA%D8%AD%D8%B3%D9%8A%D9%86-%D8%A7%D9%84%D8%AE%D8%B5%D9%88%D8%A8%D8%A9-%D9%84%D8%AF%D9%89-%D8%A7%D9%84%D9%86%D8%B3%D8%A7%D8%A1-120-%D9%83%D8%A8%D8%B3%D9%88%D9%84%D8%A9"
+          ]
+        },
+        {
+          "url": "https://chefaa.com/eg-ar/nowProduct/%D8%A8%D9%8A-%D8%A7%D9%8A-%D8%A7%D9%8A%D9%87-%D9%84%D8%AF%D8%B9%D9%85-%D8%B5%D8%AD%D8%A9-%D8%A7%D9%84%D8%AC%D9%87%D8%A7%D8%B2-%D8%A7%D9%84%D8%B9%D8%B5%D8%A8%D9%8A-300%D9%85%D8%AC%D9%85-20-%D9%83%D8%A8%D8%B3%D9%88%D9%84%D8%A9",
+          "product_id": 2275,
+          "product_name": "بي اي ايه لدعم صحة الجهاز العصبي 300مجم | 20 كبسولة",
+          "source_info": {
+            "source_page": 133,
+            "source_file": "medications_page_133_phase5_batch6.json"
+          },
+          "alternative_urls": [
+            "https://chefaa.com/product/%D8%A8%D9%8A-%D8%A7%D9%8A-%D8%A7%D9%8A%D9%87-%D9%84%D8%AF%D8%B9%D9%85-%D8%B5%D8%AD%D8%A9-%D8%A7%D9%84%D8%AC%D9%87%D8%A7%D8%B2-%D8%A7%D9%84%D8%B9%D8%B5%D8%A8%D9%8A-300%D9%85%D8%AC%D9%85-20-%D9%83%D8%A8%D8%B3%D9%88%D9%84%D8%A9",
+            "https://chefaa.com/eg-ar/medications/%D8%A8%D9%8A-%D8%A7%D9%8A-%D8%A7%D9%8A%D9%87-%D9%84%D8%AF%D8%B9%D9%85-%D8%B5%D8%AD%D8%A9-%D8%A7%D9%84%D8%AC%D9%87%D8%A7%D8%B2-%D8%A7%D9%84%D8%B9%D8%B5%D8%A8%D9%8A-300%D9%85%D8%AC%D9%85-20-%D9%83%D8%A8%D8%B3%D9%88%D9%84%D8%A9"
+          ]
+        }
+      ],
+      "total_products": 20
+    },
+    {
+      "batch_number": 8,
+      "products": [
+        {
+          "url": "https://chefaa.com/eg-ar/nowProduct/%D8%A8%D9%8A%D9%83%D8%B3%D9%83%D9%88%D9%84%D8%AA-25%D9%85%D8%AC%D9%85-30-%D9%82%D8%B1%D8%B5-%D9%85%D8%BA%D9%84%D9%81",
+          "product_id": 2276,
+          "product_name": "بيكسكولت 2.5مجم | 30 قرص مغلف",
+          "source_info": {
+            "source_page": 133,
+            "source_file": "medications_page_133_phase5_batch6.json"
+          },
+          "alternative_urls": [
+            "https://chefaa.com/product/%D8%A8%D9%8A%D9%83%D8%B3%D9%83%D9%88%D9%84%D8%AA-25%D9%85%D8%AC%D9%85-30-%D9%82%D8%B1%D8%B5-%D9%85%D8%BA%D9%84%D9%81",
+            "https://chefaa.com/eg-ar/medications/%D8%A8%D9%8A%D9%83%D8%B3%D9%83%D9%88%D9%84%D8%AA-25%D9%85%D8%AC%D9%85-30-%D9%82%D8%B1%D8%B5-%D9%85%D8%BA%D9%84%D9%81"
+          ]
+        },
+        {
+          "url": "https://chefaa.com/eg-ar/nowProduct/%D8%B1%D9%88%D8%AC%D9%8A%D8%AA%D8%A7%D9%85%D9%8A%D9%86-10-%D9%85%D8%AC%D9%85%D9%85%D9%84-%D9%84%D9%84%D8%AD%D9%82%D9%86-%D8%A7%D9%84%D8%B9%D8%B6%D9%84%D9%8A",
+          "product_id": 2277,
+          "product_name": "روجيتامين 10 مجم/مل للحقن العضلي",
+          "source_info": {
+            "source_page": 134,
+            "source_file": "medications_page_134_phase5_batch6.json"
+          },
+          "alternative_urls": [
+            "https://chefaa.com/product/%D8%B1%D9%88%D8%AC%D9%8A%D8%AA%D8%A7%D9%85%D9%8A%D9%86-10-%D9%85%D8%AC%D9%85%D9%85%D9%84-%D9%84%D9%84%D8%AD%D9%82%D9%86-%D8%A7%D9%84%D8%B9%D8%B6%D9%84%D9%8A",
+            "https://chefaa.com/eg-ar/medications/%D8%B1%D9%88%D8%AC%D9%8A%D8%AA%D8%A7%D9%85%D9%8A%D9%86-10-%D9%85%D8%AC%D9%85%D9%85%D9%84-%D9%84%D9%84%D8%AD%D9%82%D9%86-%D8%A7%D9%84%D8%B9%D8%B6%D9%84%D9%8A"
+          ]
+        },
+        {
+          "url": "https://chefaa.com/eg-ar/nowProduct/%D8%B3%D8%A7%D9%86%D8%B3%D9%88-%D8%A8%D9%88%D8%AA%D8%A7%D8%B3%D9%8A%D9%88%D9%85-200%D9%85%D8%AC%D9%85",
+          "product_id": 2278,
+          "product_name": "سانسو بوتاسيوم 200مجم",
+          "source_info": {
+            "source_page": 134,
+            "source_file": "medications_page_134_phase5_batch6.json"
+          },
+          "alternative_urls": [
+            "https://chefaa.com/product/%D8%B3%D8%A7%D9%86%D8%B3%D9%88-%D8%A8%D9%88%D8%AA%D8%A7%D8%B3%D9%8A%D9%88%D9%85-200%D9%85%D8%AC%D9%85",
+            "https://chefaa.com/eg-ar/medications/%D8%B3%D8%A7%D9%86%D8%B3%D9%88-%D8%A8%D9%88%D8%AA%D8%A7%D8%B3%D9%8A%D9%88%D9%85-200%D9%85%D8%AC%D9%85"
+          ]
+        },
+        {
+          "url": "https://chefaa.com/eg-ar/nowProduct/%D8%B3%D8%AA%D8%B1%D9%88%D8%AC%D9%8A%D9%86%D8%B2%D9%88",
+          "product_id": 2279,
+          "product_name": "ستروجينزو",
+          "source_info": {
+            "source_page": 134,
+            "source_file": "medications_page_134_phase5_batch6.json"
+          },
+          "alternative_urls": [
+            "https://chefaa.com/product/%D8%B3%D8%AA%D8%B1%D9%88%D8%AC%D9%8A%D9%86%D8%B2%D9%88",
+            "https://chefaa.com/eg-ar/medications/%D8%B3%D8%AA%D8%B1%D9%88%D8%AC%D9%8A%D9%86%D8%B2%D9%88"
+          ]
+        },
+        {
+          "url": "https://chefaa.com/eg-ar/nowProduct/%D8%B2%D8%A7%D9%86%D8%A8%D8%B1%D8%A7%D8%B2%D8%A7%D9%86-10%D9%85%D8%AC%D9%85",
+          "product_id": 2280,
+          "product_name": "زانبرازان 10مجم",
+          "source_info": {
+            "source_page": 134,
+            "source_file": "medications_page_134_phase5_batch6.json"
+          },
+          "alternative_urls": [
+            "https://chefaa.com/product/%D8%B2%D8%A7%D9%86%D8%A8%D8%B1%D8%A7%D8%B2%D8%A7%D9%86-10%D9%85%D8%AC%D9%85",
+            "https://chefaa.com/eg-ar/medications/%D8%B2%D8%A7%D9%86%D8%A8%D8%B1%D8%A7%D8%B2%D8%A7%D9%86-10%D9%85%D8%AC%D9%85"
+          ]
+        }
+      ],
+      "total_products": 5
+    }
+  ],
+  "sample_products": [
+    {
+      "medication_name": "ديكونادال",
+      "price_egp": 82.5,
+      "brand_manufacturer": "Generic",
+      "dosage_information": "10 مجم | 21 قرص",
+      "prescription_requirements": "RX",
+      "therapeutic_category": "Cholesterol and Fats",
+      "special_notes": "None",
+      "sequential_id": 1401,
+      "source_page": 90,
+      "source_file": "medications_page_90_phase5_batch1.json"
+    },
+    {
+      "medication_name": "كانديبلوك-دي",
+      "price_egp": 106,
+      "brand_manufacturer": "Generic",
+      "dosage_information": "16/12.5 مج | 20 قرص",
+      "prescription_requirements": "RX",
+      "therapeutic_category": "Hypertension Treatment",
+      "special_notes": "None",
+      "sequential_id": 1402,
+      "source_page": 90,
+      "source_file": "medications_page_90_phase5_batch1.json"
+    },
+    {
+      "medication_name": "ايمباكوزا بلس",
+      "price_egp": 357,
+      "brand_manufacturer": "Generic",
+      "dosage_information": "25/5مجم | 30 قرص",
+      "prescription_requirements": "OTC",
+      "therapeutic_category": "Diabetes Treatment",
+      "special_notes": "None",
+      "sequential_id": 1403,
+      "source_page": 90,
+      "source_file": "medications_page_90_phase5_batch1.json"
+    },
+    {
+      "medication_name": "الكابرس تريو",
+      "price_egp": 118,
+      "brand_manufacturer": "Generic",
+      "dosage_information": "10/320/25مج | 14 قرص",
+      "prescription_requirements": "OTC",
+      "therapeutic_category": "Cardiovascular Combination",
+      "special_notes": "None",
+      "sequential_id": 1404,
+      "source_page": 90,
+      "source_file": "medications_page_90_phase5_batch1.json"
+    },
+    {
+      "medication_name": "روسوفاستاتين",
+      "price_egp": 66,
+      "brand_manufacturer": "Generic",
+      "dosage_information": "20مج | 14 قرص",
+      "prescription_requirements": "OTC",
+      "therapeutic_category": "Cholesterol Treatment",
+      "special_notes": "None",
+      "sequential_id": 1405,
+      "source_page": 90,
+      "source_file": "medications_page_90_phase5_batch1.json"
+    },
+    {
+      "medication_name": "جينوكمبوند",
+      "price_egp": 237,
+      "brand_manufacturer": "Generic",
+      "dosage_information": "20 كبسولة",
+      "prescription_requirements": "OTC",
+      "therapeutic_category": "Food Supplement",
+      "special_notes": "None",
+      "sequential_id": 1406,
+      "source_page": 90,
+      "source_file": "medications_page_90_phase5_batch1.json"
+    },
+    {
+      "medication_name": "جاردينس",
+      "price_egp": 626,
+      "brand_manufacturer": "Generic",
+      "dosage_information": "10مجم | 30 قرص",
+      "prescription_requirements": "OTC",
+      "therapeutic_category": "General Medication",
+      "special_notes": "None",
+      "sequential_id": 1407,
+      "source_page": 90,
+      "source_file": "medications_page_90_phase5_batch1.json"
+    },
+    {
+      "medication_name": "مافيلور",
+      "price_egp": 159,
+      "brand_manufacturer": "Generic",
+      "dosage_information": "10مجم | 30 قرص",
+      "prescription_requirements": "OTC",
+      "therapeutic_category": "General Medication",
+      "special_notes": "None",
+      "sequential_id": 1408,
+      "source_page": 90,
+      "source_file": "medications_page_90_phase5_batch1.json"
+    },
+    {
+      "medication_name": "صوديوم بايكارب",
+      "price_egp": 90,
+      "brand_manufacturer": "Generic",
+      "dosage_information": "1000مجم | 30 كبسولة",
+      "prescription_requirements": "OTC",
+      "therapeutic_category": "Alkalizing Agent",
+      "special_notes": "None",
+      "sequential_id": 1409,
+      "source_page": 90,
+      "source_file": "medications_page_90_phase5_batch1.json"
+    },
+    {
+      "medication_name": "إميجليسبير",
+      "price_egp": 145.5,
+      "brand_manufacturer": "Generic",
+      "dosage_information": "500مجم | 30 قرص",
+      "prescription_requirements": "OTC",
+      "therapeutic_category": "General Medication",
+      "special_notes": "None",
+      "sequential_id": 1410,
+      "source_page": 90,
+      "source_file": "medications_page_90_phase5_batch1.json"
+    }
+  ]
+}

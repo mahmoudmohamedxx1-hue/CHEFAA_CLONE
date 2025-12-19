@@ -1,0 +1,218 @@
+{
+  "extraction_metadata": {
+    "page_number": 66,
+    "phase": "Phase 4",
+    "extraction_date": "2025-11-01",
+    "source_url": "https://chefaa.com/eg-ar/now/category/medications?page=66",
+    "total_medications_extracted": 20,
+    "cumulative_total": 1177
+  },
+  "medications": [
+    {
+      "arabic_name": "اوركس-إي سي سبراي فموي",
+      "english_brand_name": "Orex-EC Oral Spray",
+      "price_egp": 79.5,
+      "availability_status": "In Stock",
+      "prescription_required": false,
+      "dosage_information": "60ml oral spray",
+      "therapeutic_uses": "Oral spray medication"
+    },
+    {
+      "arabic_name": "ميرتوفيوتال",
+      "english_brand_name": "Mirtofutal (Mirtazapine)",
+      "price_egp": 89.0,
+      "availability_status": "In Stock",
+      "prescription_required": false,
+      "dosage_information": "30mg | 20 tablets",
+      "therapeutic_uses": "Antidepressant medication"
+    },
+    {
+      "arabic_name": "ديجستين",
+      "english_brand_name": "Digestin",
+      "price_egp": 42.0,
+      "availability_status": "In Stock",
+      "prescription_required": false,
+      "dosage_information": "20 tablets",
+      "therapeutic_uses": "For treating indigestion"
+    },
+    {
+      "arabic_name": "روكسيكام",
+      "english_brand_name": "Rheuxicam",
+      "price_egp": 26.0,
+      "availability_status": "In Stock",
+      "prescription_required": false,
+      "dosage_information": "8mg | 1 vial + 1 ampoule",
+      "therapeutic_uses": "Anti-inflammatory medication"
+    },
+    {
+      "arabic_name": "سيمبيكورت",
+      "english_brand_name": "Symbicort",
+      "price_egp": 432.0,
+      "availability_status": "In Stock",
+      "prescription_required": true,
+      "dosage_information": "320/9mcg | 60 doses",
+      "therapeutic_uses": "Asthma treatment inhaler"
+    },
+    {
+      "arabic_name": "روتاهيلكس نايت شراب للاطفال",
+      "english_brand_name": "Rotahelex Night Syrup",
+      "price_egp": 60.0,
+      "availability_status": "In Stock",
+      "prescription_required": false,
+      "dosage_information": "100ml syrup for children",
+      "therapeutic_uses": "Children's nighttime syrup"
+    },
+    {
+      "arabic_name": "بريزتري إيروسفير",
+      "english_brand_name": "Breztri Aerosphere",
+      "price_egp": 1060.0,
+      "availability_status": "In Stock",
+      "prescription_required": true,
+      "dosage_information": "160/9/4.8 mcg | 120 doses",
+      "therapeutic_uses": "Advanced asthma treatment inhaler"
+    },
+    {
+      "arabic_name": "جليكسامبي",
+      "english_brand_name": "Glyxambi",
+      "price_egp": 886.0,
+      "availability_status": "In Stock",
+      "prescription_required": true,
+      "dosage_information": "25/5mg | 30 tablets",
+      "therapeutic_uses": "Diabetes medication"
+    },
+    {
+      "arabic_name": "هيدروكورتيزون",
+      "english_brand_name": "Hydrocortisone",
+      "price_egp": 26.0,
+      "availability_status": "Limited Quantity",
+      "prescription_required": true,
+      "dosage_information": "100mg | 1 injection",
+      "therapeutic_uses": "For treating inflammations"
+    },
+    {
+      "arabic_name": "إيبا-أكت أمبولات علاج نمو الشعر المتقدمة",
+      "english_brand_name": "Ebaact Advanced Hair Growth Treatment Ampoules",
+      "price_egp": 659.0,
+      "availability_status": "In Stock",
+      "prescription_required": false,
+      "dosage_information": "60ml ampoules",
+      "therapeutic_uses": "Advanced hair growth treatment"
+    },
+    {
+      "arabic_name": "مالڤا غسول مهبلي",
+      "english_brand_name": "Malva Liquid Cleanser",
+      "price_egp": 59.0,
+      "availability_status": "Limited Quantity",
+      "prescription_required": false,
+      "dosage_information": "240ml vaginal cleanser",
+      "therapeutic_uses": "Vaginal hygiene cleanser"
+    },
+    {
+      "arabic_name": "دي.ديب",
+      "english_brand_name": "D.Dep",
+      "price_egp": 300.0,
+      "availability_status": "In Stock",
+      "prescription_required": false,
+      "dosage_information": "10000 IU | 30 capsules",
+      "therapeutic_uses": "Vitamin D supplement"
+    },
+    {
+      "arabic_name": "قطرة بولى فريش للعين",
+      "english_brand_name": "Polyfresh Eye Drops",
+      "price_egp": 63.0,
+      "availability_status": "In Stock",
+      "prescription_required": false,
+      "dosage_information": "10ml eye drops",
+      "therapeutic_uses": "For treating dryness and burning in eyes"
+    },
+    {
+      "arabic_name": "ايزابريل-كو",
+      "english_brand_name": "Ezapril-Co",
+      "price_egp": 72.0,
+      "availability_status": "In Stock",
+      "prescription_required": false,
+      "dosage_information": "20/12.5mg | 30 tablets",
+      "therapeutic_uses": "Blood pressure medication"
+    },
+    {
+      "arabic_name": "كوبالامون",
+      "english_brand_name": "Cobalamoun",
+      "price_egp": 75.0,
+      "availability_status": "In Stock",
+      "prescription_required": false,
+      "dosage_information": "1000mcg | 30 sublingual tablets",
+      "therapeutic_uses": "Vitamin B12 sublingual supplement"
+    },
+    {
+      "arabic_name": "ليمتلس ميلجا ماكس للرجال والنساء",
+      "english_brand_name": "Limitless Milga Max",
+      "price_egp": 248.0,
+      "availability_status": "In Stock",
+      "prescription_required": false,
+      "dosage_information": "30 tablets for men and women",
+      "therapeutic_uses": "Multivitamin for men and women"
+    },
+    {
+      "arabic_name": "لبن بدياشور للاطفال فانيليا",
+      "english_brand_name": "Pediasure Complete Powder",
+      "price_egp": 476.8,
+      "availability_status": "In Stock",
+      "prescription_required": false,
+      "dosage_information": "400g vanilla flavored for children",
+      "therapeutic_uses": "Complete nutrition for children"
+    },
+    {
+      "arabic_name": "جلابتيفيا بلس",
+      "english_brand_name": "Glaptivia Plus",
+      "price_egp": 168.0,
+      "availability_status": "In Stock",
+      "prescription_required": true,
+      "dosage_information": "50/1000mg | 30 tablets",
+      "therapeutic_uses": "Diabetes medication"
+    },
+    {
+      "arabic_name": "فورتيموكس قطرة عين",
+      "english_brand_name": "Fortymox Ophthalmic Solution",
+      "price_egp": 62.0,
+      "availability_status": "In Stock",
+      "prescription_required": true,
+      "dosage_information": "5mg/ml | 10ml eye drops",
+      "therapeutic_uses": "Eye infection treatment"
+    },
+    {
+      "arabic_name": "مالوكس بلس شراب للحموضة وارتجاع المرئ",
+      "english_brand_name": "Maalox Plus Antacid Oral Suspension",
+      "price_egp": 76.0,
+      "availability_status": "In Stock",
+      "prescription_required": false,
+      "dosage_information": "180ml suspension",
+      "therapeutic_uses": "For heartburn and gastroesophageal reflux"
+    }
+  ],
+  "therapeutic_categories": {
+    "respiratory_asthma": ["Symbicort", "Breztri Aerosphere"],
+    "diabetes_treatments": ["Glyxambi", "Glaptivia Plus"],
+    "vitamins_supplements": ["D.Dep Vitamin D", "Cobalamoun B12", "Limitless Milga Max"],
+    "eye_medications": ["Polyfresh Eye Drops", "Fortymox"],
+    "blood_pressure": ["Ezapril-Co"],
+    "anti_inflammatory": ["Rheuxicam", "Hydrocortisone"],
+    "baby_formula": ["Pediasure Complete Powder"],
+    "hair_treatment": ["Ebaact Advanced Hair Growth"],
+    "digestive": ["Digestin", "Maalox Plus"],
+    "depression": ["Mirtofutal"],
+    "children_medications": ["Rotahelex Night Syrup"],
+    "oral_sprays": ["Orex-EC"],
+    "hygiene": ["Malva Liquid Cleanser"]
+  },
+  "price_analysis": {
+    "minimum_price": 26.0,
+    "maximum_price": 1060.0,
+    "average_price": 242.3,
+    "total_page_value": 4847.3
+  },
+  "prescription_distribution": {
+    "prescription_required": 6,
+    "otc_available": 14,
+    "prescription_percentage": 30.0
+  }
+}

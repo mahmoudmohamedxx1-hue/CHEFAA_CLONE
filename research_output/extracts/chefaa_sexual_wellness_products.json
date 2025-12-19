@@ -1,0 +1,227 @@
+📄 Extracted from page: الصحة الجنسية - شفاء
+URL: https://chefaa.com/eg-ar/now/category/sexual-welness
+
+Extracted content:
+```json
+{
+  "title": "الصحة الجنسية - شفاء",
+  "url": "https://chefaa.com/eg-ar/now/category/sexual-welness",
+  "summary": "This page from Chefaa.com, titled 'Sexual Wellness', is a main category page displaying various products related to sexual health. It features subcategories like condoms, intimate lubricants, and pregnancy tests, along with a list of individual products. For each product, the page provides its name, price, and a brief description/specifications. Users can add products to their cart, indicating availability. The page also includes navigation options for subcategories and pagination for browsing additional products.",
+  "key_points": [
+    {
+      "type": "Subcategory Navigation",
+      "subcategories": [
+        {
+          "name": "واقي ذكري",
+          "url": "https://chefaa.com:443/eg-ar/now/category/sexual-welness/condom"
+        },
+        {
+          "name": "مزلقات حميمية",
+          "url": "https://chefaa.com:443/eg-ar/now/category/sexual-welness/intimate-lubricants"
+        },
+        {
+          "name": "اختبارات الحمل",
+          "url": "https://chefaa.com:443/eg-ar/now/category/sexual-welness/pregnancy-tests"
+        }
+      ]
+    },
+    {
+      "type": "Products",
+      "products": [
+        {
+          "name": "حبوب سياليس 20 للرجال لضعف الانتصاب",
+          "description": "4 قرص",
+          "price": "474 جنيه",
+          "brand": "Cialis",
+          "rating": "N/A",
+          "stock_status": "In Stock",
+          "specifications": "20mg, 4 tablets, for erectile dysfunction"
+        },
+        {
+          "name": "برشام سياليس 20 للرجال أفضل منشط للعضو الذكري",
+          "description": "2 قرص",
+          "price": "237 جنيه",
+          "brand": "Cialis",
+          "rating": "N/A",
+          "stock_status": "In Stock",
+          "specifications": "20mg, 2 tablets, male enhancement"
+        },
+        {
+          "name": "ديامونركتا 20مجم",
+          "description": "5 افلام",
+          "price": "125 جنيه",
+          "brand": "Diamonrecta",
+          "rating": "N/A",
+          "stock_status": "In Stock",
+          "specifications": "20mg, 5 oral dispersible films"
+        },
+        {
+          "name": "أقراص تاردانزا 60 tardanza لسرعة القذف",
+          "description": "3 أقراص",
+          "price": "90 جنيه",
+          "brand": "Tardanza",
+          "rating": "N/A",
+          "stock_status": "In Stock",
+          "specifications": "60mg, 3 film-coated tablets, for premature ejaculation"
+        },
+        {
+          "name": "فايركتا 100مجم",
+          "description": "12 قرص",
+          "price": "132 جنيه",
+          "brand": "Virecta",
+          "rating": "N/A",
+          "stock_status": "In Stock",
+          "specifications": "100mg, 12 tablets"
+        },
+        {
+          "name": "ديامونركتا 20مجم",
+          "description": "4 قرص",
+          "price": "140 جنيه",
+          "brand": "Diamonrecta",
+          "rating": "N/A",
+          "stock_status": "In Stock",
+          "specifications": "20mg, 4 tablets"
+        },
+        {
+          "name": "برشام باوريكتا استحلاب powerecta 10 للانتصاب والتاخير",
+          "description": "٦ أقراص",
+          "price": "69 جنيه",
+          "brand": "Powerecta",
+          "rating": "N/A",
+          "stock_status": "In Stock",
+          "specifications": "10mg, for erection and delay, 6 tablets (implied)"
+        },
+        {
+          "name": "باوريكتا | لعلاج ضعف الانتصاب",
+          "description": "20مج | 4 اقراص",
+          "price": "58 جنيه",
+          "brand": "Powerecta",
+          "rating": "N/A",
+          "stock_status": "In Stock",
+          "specifications": "20mg, 4 tablets, for erectile dysfunction"
+        },
+        {
+          "name": "ديوركس اكسترا سيف كوندوم واقي ذكرى",
+          "description": "12 قطعة",
+          "price": "425 جنيه",
+          "brand": "Durex",
+          "rating": "N/A",
+          "stock_status": "In Stock",
+          "specifications": "Extra safe condom, 12 pieces"
+        },
+        {
+          "name": "ديوركس كوندوم للرجال الترا فيثرلايت واقي ذكري",
+          "description": "10 قطع",
+          "price": "385 جنيه",
+          "brand": "Durex",
+          "rating": "N/A",
+          "stock_status": "In Stock",
+          "specifications": "Ultra featherlite condom, 10 pieces"
+        },
+        {
+          "name": "ديوركس بيرفورماكس durex performax intense كوندوم للرجال",
+          "description": "3 قطع",
+          "price": "169.6 جنيه",
+          "brand": "Durex",
+          "rating": "N/A",
+          "stock_status": "In Stock",
+          "specifications": "Performax intense condom, 3 pieces"
+        },
+        {
+          "name": "ديوركس اكسترا سيف كوندوم واقي ذكرى",
+          "description": "3 قطع",
+          "price": "160 جنيه",
+          "brand": "Durex",
+          "rating": "N/A",
+          "stock_status": "In Stock",
+          "specifications": "Extra safe condom, 3 pieces"
+        },
+        {
+          "name": "دوريكس | واقي ذكري فائق النحافة بنكهة الشوكولاتة المكثفة",
+          "description": "3 قطع",
+          "price": "170 جنيه",
+          "brand": "Durex",
+          "rating": "N/A",
+          "stock_status": "In Stock",
+          "specifications": "Ultra-thin chocolate flavored condom, 3 pieces"
+        },
+        {
+          "name": "ديوركس | تشيري بلاي جل",
+          "description": "50مل",
+          "price": "280 جنيه",
+          "brand": "Durex",
+          "rating": "N/A",
+          "stock_status": "In Stock",
+          "specifications": "Cherry Play pleasure gel, 50ml"
+        },
+        {
+          "name": "ديوركس | بلاي فيل",
+          "description": "50مل",
+          "price": "400 جنيه",
+          "brand": "Durex",
+          "rating": "N/A",
+          "stock_status": "In Stock",
+          "specifications": "Play Feel lubricant, 50ml"
+        },
+        {
+          "name": "ديوركس | بلاي بيرفكت جلايد سيليكون مزلق",
+          "description": "50مل",
+          "price": "280 جنيه",
+          "brand": "Durex",
+          "rating": "N/A",
+          "stock_status": "In Stock",
+          "specifications": "Play Perfect Glide silicone lubricant, 50ml"
+        },
+        {
+          "name": "ديوركس | بلاى الفراولة",
+          "description": "50مل",
+          "price": "300 جنيه",
+          "brand": "Durex",
+          "rating": "N/A",
+          "stock_status": "In Stock",
+          "specifications": "Play Strawberry lubricant, 50ml"
+        },
+        {
+          "name": "ديوركس بلاى جل مزلق حميمى للرجال | بلاى جيل وارمينج",
+          "description": "50 مل",
+          "price": "280 جنيه",
+          "brand": "Durex",
+          "rating": "N/A",
+          "stock_status": "In Stock",
+          "specifications": "Play Warming intimate lubricant gel for men, 50ml"
+        },
+        {
+          "name": "ديوركس | واقي ذكري",
+          "description": "3 قطع",
+          "price": "164 جنيه",
+          "brand": "Durex",
+          "rating": "N/A",
+          "stock_status": "In Stock",
+          "specifications": "Pleasuremax condom, 3 pieces"
+        },
+        {
+          "name": "واقي ذكري ديوركس فراولة توبس للرجال",
+          "description": "3 قطع",
+          "price": "75 جنيه",
+          "brand": "Durex",
+          "rating": "N/A",
+          "stock_status": "In Stock",
+          "specifications": "Strawberry flavored condoms, 3 pieces"
+        }
+      ]
+    },
+    {
+      "type": "Pagination Options",
+      "pages": [
+        {"number": 1, "url": "https://chefaa.com/eg-ar/now/category/sexual-welness?products_eg%5Bpage%5D=1", "current": true},
+        {"number": 2, "url": "https://chefaa.com:443/eg-ar/now/category/sexual-welness?page=2", "current": false},
+        {"number": 3, "url": "https://chefaa.com:443/eg-ar/now/category/sexual-welness?page=3", "current": false}
+      ],
+      "next_page_url": "https://chefaa.com:443/eg-ar/now/category/sexual-welness?page=2",
+      "previous_page_url": null
+    }
+  ],
+  "relevant_links": [],
+  "file_name": "chefaa_sexual_wellness_products.json"
+}
+```

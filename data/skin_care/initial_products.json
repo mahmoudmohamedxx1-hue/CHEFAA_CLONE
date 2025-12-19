@@ -1,0 +1,108 @@
+{
+  "extraction_metadata": {
+    "extraction_date": "2025-11-01",
+    "website": "https://chefaa.com",
+    "category": "Skin Care",
+    "pages_total": 56,
+    "products_per_page": 21,
+    "extraction_status": "partial",
+    "note": "Initial extraction - continuing to extract all products"
+  },
+  "products": [
+    {
+      "product_id": "1",
+      "product_name": "Nivea Soft Moisturizing Cream 50ml",
+      "product_name_arabic": "نيفيا كريم الترطيب الناعم 50 مل",
+      "description": "Nivea Soft Moisturizing Cream for daily hydration",
+      "price": {
+        "value": 48,
+        "currency": "EGP"
+      },
+      "brand": "Nivea",
+      "brand_arabic": "نيفيا",
+      "product_type": "Moisturizing Cream",
+      "category": "Face Moisturizers",
+      "size_volume": "50ml",
+      "availability": "Available",
+      "customer_ratings": null,
+      "key_features": [
+        "Daily hydration",
+        "Quick absorption",
+        "24-hour moisturizing effect"
+      ],
+      "target_skin_type": "All skin types"
+    },
+    {
+      "product_id": "2", 
+      "product_name": "Eva Niacinamide Facial Serum 30ml",
+      "product_name_arabic": "إيفا سيروم النياسيناميد 30 مل",
+      "description": "Eva Niacinamide Facial Serum for glow and hydration",
+      "price": {
+        "value": 210,
+        "currency": "EGP"
+      },
+      "brand": "Eva",
+      "brand_arabic": "إيفا",
+      "product_type": "Facial Serum",
+      "category": "Serums",
+      "size_volume": "30ml",
+      "availability": "Available",
+      "customer_ratings": null,
+      "key_features": [
+        "Niacinamide 10%",
+        "Brightens skin",
+        "Reduces dark spots",
+        "Hydrating formula"
+      ],
+      "target_skin_type": "All skin types, particularly for glow"
+    },
+    {
+      "product_id": "3",
+      "product_name": "Eva Charcoal Sheet Mask (3-pack)",
+      "product_name_arabic": "إيفا ماسك الفحم الثلاثي",
+      "description": "Eva Charcoal Sheet Mask pack for deep cleansing",
+      "price": {
+        "value": 90,
+        "currency": "EGP"
+      },
+      "brand": "Eva",
+      "brand_arabic": "إيفا", 
+      "product_type": "Sheet Mask",
+      "category": "Masks",
+      "size_volume": "3 masks pack",
+      "availability": "Available",
+      "customer_ratings": null,
+      "key_features": [
+        "Activated charcoal",
+        "Deep cleansing",
+        "Pore refinement",
+        "3-piece pack"
+      ],
+      "target_skin_type": "Oily and combination skin"
+    },
+    {
+      "product_id": "4",
+      "product_name": "Bepanthen Moisturizing Cream 30gm",
+      "product_name_arabic": "بيبانثين كريم مرطب 30 جم",
+      "description": "Bepanthen Moisturizing Cream for sensitive skin",
+      "price": {
+        "value": 207.5,
+        "currency": "EGP"
+      },
+      "brand": "Bepanthen",
+      "brand_arabic": "بيبانثين",
+      "product_type": "Moisturizing Cream",
+      "category": "Face Moisturizers",
+      "size_volume": "30gm",
+      "availability": "Available",
+      "customer_ratings": null,
+      "key_features": [
+        "Pro-vitamin B5",
+        "Healing properties",
+        "Sensitive skin friendly",
+        "Dermatologist recommended"
+      ],
+      "target_skin_type": "Sensitive and irritated skin"
+    }
+  ]
+}

@@ -1,0 +1,124 @@
+📄 Extracted from page: العناية اليومية - شفاء
+URL: https://chefaa.com/eg-ar/now/category/daily-essentials
+
+Extracted content:
+```json
+{
+  "title": "العناية اليومية - شفاء",
+  "url": "https://chefaa.com/eg-ar/now/category/daily-essentials",
+  "summary": "The page is a category page for 'Daily Essentials' on Chefaa, an Egyptian online pharmacy/health store. It displays various daily personal care products like deodorants, toothpaste, foot powders, soaps, body splashes, and sexual wellness items. The page includes extensive navigation menus, search functionality, location selection, and e-commerce features like 'add to cart'. A prominent navigation menu lists major product categories, including 'Medications'.",
+  "key_points": [
+    "The page title is 'العناية اليومية - شفاء' (Daily Essentials - Chefaa).",
+    "The main navigation menu, labeled 'كل الأقسام' (All Departments) and also duplicated lower on the page under 'الأقسام' (Departments), lists major product categories.",
+    "The 'الأدوية' (Medications) category is clearly visible and is a primary category.",
+    "Sub-categories under 'الأدوية' include: 'كل الأدوية' (All Medications), 'حسب الحالة الصحية' (By Health Condition), 'أدوية الكحة والزكام' (Cough and Cold Medications), 'قطرات العين والأذن' (Eye and Ear Medications), 'أدوية الأطفال' (Kids Medications), 'ادوية المعدة والقولون' (Stomach and Bowel Medications), 'مسكنات الألم' (Pain Relief), 'أدوية الجلدية' (Skin Treatments), and 'الحساسية' (Allergy).",
+    "Other main categories include: 'العناية بالشعر' (Hair Care), 'العناية بالبشرة' (Skin Care), 'العناية اليومية' (Daily Essentials - the current page), 'الأم والطفل' (Mom and Baby), 'المكياج و الاكسسوارات' (Makeup & Accessories), 'المستلزمات الطبية' (Medical Supplies), 'الفيتامينات والمكملات' (Vitamins & Supplements), 'الصحة الجنسية' (Sexual Wellness), and 'مستلزمات الحيوانات' (Pet Supplies).",
+    "The page features elements for location selection ('توصيل إلى' - Deliver to), search ('ابحث' - Search), and user account management (Favorites, Cart, Login/Registration).",
+    "There is a breadcrumb navigation indicating 'الرئيسية > العناية اليومية' (Home > Daily Essentials).",
+    "The footer contains links to 'عن شفاء' (About Chefaa), 'المدونة' (Blog), 'تواصل معنا' (Contact Us), 'هل تملك صيدلية؟' (Own a Pharmacy?), and links for app downloads."
+  ],
+  "relevant_links": [
+    {
+      "text": "كل الأدوية",
+      "url": "https://chefaa.com:443/eg-ar/now/category/medications"
+    },
+    {
+      "text": "حسب الحالة الصحية",
+      "url": "https://chefaa.com:443/eg-ar/now/category/medications/health-condition"
+    },
+    {
+      "text": "أدوية الكحة والزكام",
+      "url": "https://chefaa.com:443/eg-ar/now/category/medications/cough-cold-allergy"
+    },
+    {
+      "text": "قطرات العين والأذن",
+      "url": "https://chefaa.com:443/eg-ar/now/category/medications/eye-ear-medications"
+    },
+    {
+      "text": "أدوية الأطفال",
+      "url": "https://chefaa.com:443/eg-ar/now/category/medications/kids-infant-medications"
+    },
+    {
+      "text": "ادوية المعدة والقولون",
+      "url": "https://chefaa.com:443/eg-ar/now/category/medications/stomach-bowel"
+    },
+    {
+      "text": "مسكنات الألم",
+      "url": "https://chefaa.com:443/eg-ar/now/category/medications/pain-relief"
+    },
+    {
+      "text": "أدوية الجلدية",
+      "url": "https://chefaa.com:443/eg-ar/now/category/medications/skin-treatments"
+    },
+    {
+      "text": "الحساسية",
+      "url": "https://chefaa.com:443/eg-ar/now/category/medications/allergy"
+    },
+    {
+      "text": "العناية بالشعر",
+      "url": "https://chefaa.com:443/eg-ar/now/category/hair-care"
+    },
+    {
+      "text": "العناية بالبشرة",
+      "url": "https://chefaa.com:443/eg-ar/now/category/skin-care"
+    },
+    {
+      "text": "العناية اليومية",
+      "url": "https://chefaa.com:443/eg-ar/now/category/daily-essentials"
+    },
+    {
+      "text": "الأم والطفل",
+      "url": "https://chefaa.com:443/eg-ar/now/category/mom-baby"
+    },
+    {
+      "text": "المكياج و الاكسسوارات",
+      "url": "https://chefaa.com:443/eg-ar/now/category/makeup-accessories"
+    },
+    {
+      "text": "المستلزمات الطبية",
+      "url": "https://chefaa.com:443/eg-ar/now/category/health-care-devices"
+    },
+    {
+      "text": "الفيتامينات والمكملات",
+      "url": "https://chefaa.com:443/eg-ar/now/category/vitamins-supplements"
+    },
+    {
+      "text": "الصحة الجنسية",
+      "url": "https://chefaa.com:443/eg-ar/now/category/sexual-welness"
+    },
+    {
+      "text": "مستلزمات الحيوانات",
+      "url": "https://chefaa.com:443/eg-ar/now/category/pet-supplies"
+    },
+    {
+      "text": "الرئيسية",
+      "url": "https://chefaa.com:443/eg-ar"
+    },
+    {
+      "text": "الروشتة",
+      "url": "https://chefaa.com:443/eg-ar/now/order-medicine-online-prescription"
+    },
+    {
+      "text": "تسجيل الدخول",
+      "url": "https://chefaa.com:443/eg-ar/login"
+    },
+    {
+      "text": "عن شفاء",
+      "url": "https://chefaa.com:443/eg-ar/about-us"
+    },
+    {
+      "text": "المدونة",
+      "url": "https://chefaa.com/blog"
+    },
+    {
+      "text": "تواصل معنا",
+      "url": "https://chefaa.com:443/eg-ar/contact-us"
+    },
+    {
+      "text": "هل تملك صيدلية؟",
+      "url": "https://chefaa.com:443/eg-ar/become-partner-pharmacy"
+    }
+  ],
+  "file_name": "chefaa_daily_essentials_page_info.json"
+}
+```

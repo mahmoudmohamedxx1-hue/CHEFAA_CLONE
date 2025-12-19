@@ -1,0 +1,46 @@
+📄 Extracted from page: اختبارات الحمل - شفاء
+URL: https://chefaa.com/eg-ar/now/category/sexual-welness/pregnancy-tests
+
+Extracted content:
+```json
+{
+    "title": "اختبارات الحمل - شفاء",
+    "url": "https://chefaa.com/eg-ar/now/category/sexual-welness/pregnancy-tests",
+    "summary": "The Chefaa.com page for pregnancy tests displays one product, the \"Surecheck home pregnancy test\", which is listed with its price and availability for purchase. Interestingly, the page also includes a message stating \"No results for undefined\", which contradicts the presence of the product. The site features extensive navigation through various health and beauty categories, along with general information about Chefaa.",
+    "key_points": [
+        "One pregnancy test product, \"Surecheck home pregnancy test\" (شور تشيك اختبار حمل تحليل منزلي مضمون وسريع), is explicitly listed.",
+        "The listed product is priced at 99 EGP (جنيه) and is indicated as in stock with an \"Add to Cart\" option.",
+        "No customer ratings or reviews are visible for the displayed product.",
+        "A conflicting message \"لا توجد نتائج ل undefined\" (No results for undefined) appears on the page, despite the presence of a product listing.",
+        "Pagination controls are present, indicating current page '1' and options for next/previous, but no other specific page numbers are shown.",
+        "The page is part of the 'Sexual Wellness' category on Chefaa.com."
+    ],
+    "relevant_links": [
+        "https://chefaa.com:443/eg-ar/nowProduct/surecheck-pregnancy-test",
+        "https://chefaa.com:443/eg-ar/now/category/sexual-welness"
+    ],
+    "pregnancy_tests": [
+        {
+            "product_name": "شور تشيك اختبار حمل تحليل منزلي مضمون وسريع",
+            "description": "تحليل منزلي مضمون وسريع (Reliable and fast home pregnancy test)",
+            "price": "99",
+            "currency": "جنيه (EGP)",
+            "brand": "شور تشيك (Surecheck)",
+            "rating": null,
+            "stock_status": "In Stock",
+            "specifications": "1 قطعة (1 piece)",
+            "product_url": "https://chefaa.com:443/eg-ar/nowProduct/surecheck-pregnancy-test"
+        }
+    ],
+    "pagination": {
+        "current_page": 1,
+        "total_pages": null,
+        "has_next_page": true,
+        "has_previous_page": false,
+        "available_pages_links": {
+            "1": "https://chefaa.com/eg-ar/now/category/sexual-welness/pregnancy-tests?products_eg%5Bpage%5D=1"
+        }
+    },
+    "file_name": "chefaa_pregnancy_tests.json"
+}
+```

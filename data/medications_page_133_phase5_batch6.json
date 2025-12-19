@@ -1,0 +1,144 @@
+{
+  "medications": [
+    {
+      "product_name": "بلينكورست 125مجم | 30 قرص",
+      "price_egp": 69,
+      "brand_manufacturer": null,
+      "product_description_category": "الأدوية",
+      "package_size_quantity": "30 قرص"
+    },
+    {
+      "product_name": "تيري ميكس لوشن للأظافر | 15مل",
+      "price_egp": 65,
+      "brand_manufacturer": "Terry Mix",
+      "product_description_category": "لوشن للأظافر",
+      "package_size_quantity": "15مل"
+    },
+    {
+      "product_name": "ايفي كويل شراب | 120مل",
+      "price_egp": 50,
+      "brand_manufacturer": "Ivy Quill",
+      "product_description_category": "شراب",
+      "package_size_quantity": "120مل"
+    },
+    {
+      "product_name": "بوليمارت | كول جيل | 50جم",
+      "price_egp": 150,
+      "brand_manufacturer": "Polymart",
+      "product_description_category": "كول جيل",
+      "package_size_quantity": "50جم"
+    },
+    {
+      "product_name": "فيموستون 1/10 مجم | 28 قرص",
+      "price_egp": 275,
+      "brand_manufacturer": "Femoston",
+      "product_description_category": "الأدوية",
+      "package_size_quantity": "28 قرص"
+    },
+    {
+      "product_name": "فيموستون 1/5 مجم | 28 قرص",
+      "price_egp": 275,
+      "brand_manufacturer": "Femoston",
+      "product_description_category": "الأدوية",
+      "package_size_quantity": "28 قرص"
+    },
+    {
+      "product_name": "فيموستون 2/10 مجم | 28 قرص",
+      "price_egp": 275,
+      "brand_manufacturer": "Femoston",
+      "product_description_category": "الأدوية",
+      "package_size_quantity": "28 قرص"
+    },
+    {
+      "product_name": "الفاليبو 600 مجم | 20 قرص",
+      "price_egp": 150,
+      "brand_manufacturer": "Alphalipo",
+      "product_description_category": "الأدوية",
+      "package_size_quantity": "20 قرص"
+    },
+    {
+      "product_name": "اتكوكوكسيب 60 مجم | 30 قرص",
+      "price_egp": 160.5,
+      "brand_manufacturer": "Atcocoxib",
+      "product_description_category": "الأدوية",
+      "package_size_quantity": "30 قرص"
+    },
+    {
+      "product_name": "برادوزن 0.5 مجم | 20 قرص",
+      "price_egp": 34,
+      "brand_manufacturer": "Bradozen",
+      "product_description_category": "الأدوية",
+      "package_size_quantity": "20 قرص"
+    },
+    {
+      "product_name": "كاسيروفابون شراب | 120مل",
+      "price_egp": 90,
+      "brand_manufacturer": "Cacirovabone",
+      "product_description_category": "شراب",
+      "package_size_quantity": "120مل"
+    },
+    {
+      "product_name": "سينترافيتا تري أوميجا | 30 كبسولة",
+      "price_egp": 195,
+      "brand_manufacturer": "Centravita",
+      "product_description_category": "الأدوية",
+      "package_size_quantity": "30 كبسولة"
+    },
+    {
+      "product_name": "كولاجيكا فورت | 10 امبولات | 25مل",
+      "price_egp": 350,
+      "brand_manufacturer": "Collagica",
+      "product_description_category": "الأدوية",
+      "package_size_quantity": "10 امبولات | 25مل"
+    },
+    {
+      "product_name": "د 3 - تاج نقط بالفم | 30مل",
+      "price_egp": 69,
+      "brand_manufacturer": "Tag",
+      "product_description_category": "نقط بالفم",
+      "package_size_quantity": "30مل"
+    },
+    {
+      "product_name": "ديبراتيوكس 20مجم | 20 قرص",
+      "price_egp": 396,
+      "brand_manufacturer": "Depratiox",
+      "product_description_category": "الأدوية",
+      "package_size_quantity": "20 قرص"
+    },
+    {
+      "product_name": "هيالومارك كريم | 25جم",
+      "price_egp": 95,
+      "brand_manufacturer": "Hyalomark",
+      "product_description_category": "كريم",
+      "package_size_quantity": "25جم"
+    },
+    {
+      "product_name": "اولانفيكسا 10مجم | 30 قرص قابل للذوبان بالفم",
+      "price_egp": 201,
+      "brand_manufacturer": "Olanvexa",
+      "product_description_category": "قرص قابل للذوبان بالفم",
+      "package_size_quantity": "30 قرص"
+    },
+    {
+      "product_name": "اي ام اس | اوفا-ماكس لتحسين الخصوبة لدى النساء | 120 كبسولة",
+      "price_egp": 4290,
+      "brand_manufacturer": "AMS",
+      "product_description_category": "لتحسين الخصوبة لدى النساء",
+      "package_size_quantity": "120 كبسولة"
+    },
+    {
+      "product_name": "بي اي ايه لدعم صحة الجهاز العصبي 300مجم | 20 كبسولة",
+      "price_egp": 120,
+      "brand_manufacturer": "PEA",
+      "product_description_category": "لدعم صحة الجهاز العصبي",
+      "package_size_quantity": "20 كبسولة"
+    },
+    {
+      "product_name": "بيكسكولت 2.5مجم | 30 قرص مغلف",
+      "price_egp": 268.5,
+      "brand_manufacturer": "Pixcolt",
+      "product_description_category": "قرص مغلف",
+      "package_size_quantity": "30 قرص"
+    }
+  ]
+}

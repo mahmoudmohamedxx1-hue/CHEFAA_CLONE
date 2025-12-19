@@ -1,0 +1,238 @@
+📄 Extracted from page: الأدوية - شفاء
+URL: https://chefaa.com/eg-ar/now/category/medications
+
+Extracted content:
+```json
+{
+  "title": "الأدوية - شفاء",
+  "url": "https://chefaa.com/eg-ar/now/category/medications",
+  "summary": "This page is the general 'Medications' category page on Chefaa.com (an online pharmacy platform). It displays a list of various pharmaceutical products for different ailments, including pain relievers, cold and flu medications, allergy treatments, and digestive aids. While some products listed are 'pain relief' medications, no 'pain management medical supplies products' are found on this specific page. The page also provides extensive navigation to other categories, including a dedicated section for 'Medical Supplies' and a subcategory for 'Pain Management' within medical supplies.",
+  "key_points": [
+    "The page is a category listing for general 'Medications' (الأدوية).",
+    "It presents 20 pharmaceutical products on the first page of results.",
+    "Products include pain relievers (e.g., Panadol Extra, Doliprane), cold/flu remedies (e.g., Panadol Cold & Flu, Comtrex, Congestal), allergy medications (e.g., Aerius, Telfast, Nasonex, Nasacort), antacids (e.g., Controloc, Maalox, Antopral), probiotics (e.g., Enterogermina, Linex, Rotadigest), and cough/throat relief (e.g., Bronchicum, Rotahelex).",
+    "Prices are listed in Egyptian Pounds (جنيه).",
+    "Pagination indicates a total of 134 pages for medications.",
+    "No products identified as 'pain management medical supplies' were found on this specific page. The products are all pharmaceutical medications.",
+    "The navigation menu includes a distinct category for 'المستلزمات الطبية' (Medical Supplies) which further contains 'ادارة الالم' (Pain Management), indicating such products exist elsewhere on the site but not on this medication listing page."
+  ],
+  "extracted_products": [],
+  "note": "No 'pain management medical supplies products' were found on this specific page, which is dedicated to 'Medications'. The products listed are pharmaceuticals, some of which are for pain relief, but none are categorized as 'medical supplies' based on the page's content and navigation structure.",
+  "general_products_on_page": [
+    {
+      "product_name_arabic": "كونترولوك 20ملجم | 14 قرص | 2 شريط",
+      "product_name_english": "Controloc 20mg | 14 tablets | 2 strips",
+      "full_description": "Antacid medication for stomach acid and heartburn.",
+      "price_egp": 100,
+      "brand": "Controloc",
+      "ratings_reviews": "N/A",
+      "stock_availability": "In Stock",
+      "detailed_specifications": "N/A"
+    },
+    {
+      "product_name_arabic": "بانادول اكسترا لتخفيف إضافي مسكن فعال للألم والحمي | 24 قرص",
+      "product_name_english": "Panadol Extra for extra relief, effective pain and fever reliever | 24 tablets",
+      "full_description": "Medication for effective relief of pain and fever.",
+      "price_egp": 54,
+      "brand": "Panadol",
+      "ratings_reviews": "N/A",
+      "stock_availability": "In Stock",
+      "detailed_specifications": "N/A"
+    },
+    {
+      "product_name_arabic": "دوليبران 1000 مجم باراسيتامول مسكن للصداع والآلام | 20 قرص",
+      "product_name_english": "Doliprane 1000 mg Paracetamol, headache and pain reliever | 20 tablets",
+      "full_description": "Paracetamol-based medication for headache and general pain relief.",
+      "price_egp": 60,
+      "brand": "Doliprane",
+      "ratings_reviews": "N/A",
+      "stock_availability": "In Stock",
+      "detailed_specifications": "N/A"
+    },
+    {
+      "product_name_arabic": "اقراص دوليبران 1000 باراسيتامول doliprane | ١٥ قرص",
+      "product_name_english": "Doliprane 1000 Paracetamol tablets | 15 tablets",
+      "full_description": "Paracetamol tablets for pain relief.",
+      "price_egp": 48,
+      "brand": "Doliprane",
+      "ratings_reviews": "N/A",
+      "stock_availability": "In Stock",
+      "detailed_specifications": "N/A"
+    },
+    {
+      "product_name_arabic": "بانادول كولد اند فلو علاج فعال لأعراض البرد و الإنفلونزا | ...",
+      "product_name_english": "Panadol Cold & Flu, effective treatment for cold and flu symptoms | ...",
+      "full_description": "Effective medication for treating cold and flu symptoms.",
+      "price_egp": 76,
+      "brand": "Panadol",
+      "ratings_reviews": "N/A",
+      "stock_availability": "In Stock",
+      "detailed_specifications": "N/A"
+    },
+    {
+      "product_name_arabic": "ايريوس أقراص لحساسية الانف والارتيكاريا 5 مجم |20 قرص",
+      "product_name_english": "Aerius tablets for nasal allergy and urticaria 5 mg | 20 tablets",
+      "full_description": "Antihistamine tablets for nasal allergy and urticaria.",
+      "price_egp": 118,
+      "brand": "Aerius",
+      "ratings_reviews": "N/A",
+      "stock_availability": "In Stock",
+      "detailed_specifications": "N/A"
+    },
+    {
+      "product_name_arabic": "نازونيكس 0.05% بخاخ للانف موميتازون فيورات مونوهيدرات 120 ب...",
+      "product_name_english": "Nasonex 0.05% nasal spray Mometasone Furoate Monohydrate 120 doses",
+      "full_description": "Nasal spray for allergy relief containing Mometasone Furoate Monohydrate.",
+      "price_egp": 157,
+      "brand": "Nasonex",
+      "ratings_reviews": "N/A",
+      "stock_availability": "In Stock",
+      "detailed_specifications": "N/A"
+    },
+    {
+      "product_name_arabic": "تلفاست مضاده للحساسية ولا تسبب النعاس 120مجم | 20 قرص",
+      "product_name_english": "Telfast anti-allergy and non-drowsy 120mg | 20 tablets",
+      "full_description": "Non-drowsy anti-allergy tablets.",
+      "price_egp": 116,
+      "brand": "Telfast",
+      "ratings_reviews": "N/A",
+      "stock_availability": "In Stock",
+      "detailed_specifications": "N/A"
+    },
+    {
+      "product_name_arabic": "بخاخ نازاكورت للانف للحساسية واحتقان الانف 55 ميكجم | 120جرعه",
+      "product_name_english": "Nasacort nasal spray for allergy and nasal congestion 55mcg | 120 doses",
+      "full_description": "Nasal spray for allergy and nasal congestion relief.",
+      "price_egp": 151,
+      "brand": "Nasacort",
+      "ratings_reviews": "N/A",
+      "stock_availability": "In Stock",
+      "detailed_specifications": "N/A"
+    },
+    {
+      "product_name_arabic": "انتروجرمينا امبول بروبيوتيك للقولون للاطفال والكبار 2 مليار...",
+      "product_name_english": "Enterogermina probiotic ampoules for colon for children and adults 2 billion...",
+      "full_description": "Probiotic ampoules for digestive health in children and adults.",
+      "price_egp": 180,
+      "brand": "Enterogermina",
+      "ratings_reviews": "N/A",
+      "stock_availability": "In Stock",
+      "detailed_specifications": "N/A"
+    },
+    {
+      "product_name_arabic": "دواء برونشيكم شراب للكبار وللاطفال للكحة bronchicum syrup |...",
+      "product_name_english": "Bronchicum syrup for adults and children for cough |...",
+      "full_description": "Cough syrup for adults and children.",
+      "price_egp": 69,
+      "brand": "Bronchicum",
+      "ratings_reviews": "N/A",
+      "stock_availability": "In Stock",
+      "detailed_specifications": "N/A"
+    },
+    {
+      "product_name_arabic": "لينكس للبالغين | 14 كبسولة",
+      "product_name_english": "Linex for adults | 14 capsules",
+      "full_description": "Probiotic capsules for adults.",
+      "price_egp": 225,
+      "brand": "Linex",
+      "ratings_reviews": "N/A",
+      "stock_availability": "In Stock",
+      "detailed_specifications": "N/A"
+    },
+    {
+      "product_name_arabic": "مالوكس اكياس maalox دواء للحموضه والحرقان - ليمون | 20 كيس",
+      "product_name_english": "Maalox sachets maalox medication for acidity and heartburn - lemon | 20 sachets",
+      "full_description": "Antacid sachets for acidity and heartburn with lemon flavor.",
+      "price_egp": 120,
+      "brand": "Maalox",
+      "ratings_reviews": "N/A",
+      "stock_availability": "In Stock",
+      "detailed_specifications": "N/A"
+    },
+    {
+      "product_name_arabic": "انتوبرال ٢٠ مجم حبوب المعدة لعلاج الحموضة والحرقان | 14 قرص",
+      "product_name_english": "Antopral 20mg stomach pills for treating acidity and heartburn | 14 tablets",
+      "full_description": "Stomach pills for treating acidity and heartburn.",
+      "price_egp": 88,
+      "brand": "Antopral",
+      "ratings_reviews": "N/A",
+      "stock_availability": "In Stock",
+      "detailed_specifications": "N/A"
+    },
+    {
+      "product_name_arabic": "تلفاست اقراص لحساسية الانف والارتيكاريا 180مجم | 20 قرص",
+      "product_name_english": "Telfast tablets for nasal allergy and urticaria 180mg | 20 tablets",
+      "full_description": "Antihistamine tablets for nasal allergy and urticaria.",
+      "price_egp": 160,
+      "brand": "Telfast",
+      "ratings_reviews": "N/A",
+      "stock_availability": "In Stock",
+      "detailed_specifications": "N/A"
+    },
+    {
+      "product_name_arabic": "روتادايجست | 30 كبسولة",
+      "product_name_english": "Rotadigest | 30 capsules",
+      "full_description": "Digestive capsules.",
+      "price_egp": 195,
+      "brand": "Rotadigest",
+      "ratings_reviews": "N/A",
+      "stock_availability": "In Stock",
+      "detailed_specifications": "N/A"
+    },
+    {
+      "product_name_arabic": "روتاهيلكس اكسترا اقراص استحلاب بنكهة العسل والليمون | 24 قرص",
+      "product_name_english": "Rotahelex Extra lozenges with honey and lemon flavor | 24 tablets",
+      "full_description": "Throat lozenges with honey and lemon flavor for relief.",
+      "price_egp": 150,
+      "brand": "Rotahelex",
+      "ratings_reviews": "N/A",
+      "stock_availability": "In Stock",
+      "detailed_specifications": "N/A"
+    },
+    {
+      "product_name_arabic": "بانادول لعلاج نزلات البرد الحادة (كومتركس أقراص comtrex ) |...",
+      "product_name_english": "Panadol for treating severe colds (Comtrex tablets) |...",
+      "full_description": "Comtrex tablets for treating severe cold symptoms.",
+      "price_egp": 62,
+      "brand": "Comtrex",
+      "ratings_reviews": "N/A",
+      "stock_availability": "In Stock",
+      "detailed_specifications": "N/A"
+    },
+    {
+      "product_name_arabic": "قطرة أوتريفين للكبار نقط للانف Otrivin للاحتقان والانسداد |...",
+      "product_name_english": "Otrivin nasal drops for adults for congestion and blockage |...",
+      "full_description": "Nasal drops for adults to relieve congestion and blockage.",
+      "price_egp": 24,
+      "brand": "Otrivin",
+      "ratings_reviews": "N/A",
+      "stock_availability": "In Stock",
+      "detailed_specifications": "N/A"
+    },
+    {
+      "product_name_arabic": "اقراص كونجستال للبرد congestal tab | ٢٠ قرص",
+      "product_name_english": "Congestal cold tablets | 20 tablets",
+      "full_description": "Congestal tablets for cold relief.",
+      "price_egp": 50,
+      "brand": "Congestal",
+      "ratings_reviews": "N/A",
+      "stock_availability": "Limited quantity",
+      "detailed_specifications": "N/A"
+    }
+  ],
+  "pagination": {
+    "current_page": 1,
+    "total_pages": 134,
+    "products_on_current_page": 20,
+    "estimated_total_products": 2680
+  },
+  "relevant_links": [
+    "https://chefaa.com:443/eg-ar/now/category/health-care-devices/pain-management",
+    "https://chefaa.com:443/eg-ar/now/category/medications/pain-relief",
+    "https://chefaa.com:443/eg-ar/now/category/medications/cough-cold-allergy",
+    "https://chefaa.com:443/eg-ar/now/category/medications/stomach-bowel",
+    "https://chefaa.com:443/eg-ar/now/category/health-care-devices"
+  ],
+  "file_name": "chefaa_medications_page_extraction.json"
+}
+```

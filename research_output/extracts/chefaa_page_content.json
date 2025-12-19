@@ -1,0 +1,35 @@
+📄 Extracted from page: شفاء لطلب كل احتياجاتك من الصيدلية أونلاين
+URL: https://chefaa.com/eg-ar/
+
+Extracted content:
+```json
+{
+  "title": "شفاء لطلب كل احتياجاتك من الصيدلية أونلاين",
+  "url": "https://chefaa.com/eg-ar/",
+  "summary": "Chefaa (شفاء) is an online pharmacy platform based in Egypt, offering a wide range of pharmacy products, including medications, hair care, skin care, daily essentials, mother & baby products, makeup, medical supplies, vitamins & supplements, sexual wellness products, and pet supplies. The platform emphasizes fast and safe delivery from licensed pharmacies, provides a 'Super Saving' service with discounts and free delivery, and allows users to upload prescriptions. It also features customer testimonials and links to download its mobile application.",
+  "key_points": [
+    "**Core Service**: Online pharmacy for all needs, emphasizing fast and safe delivery within 30-60 minutes from licensed pharmacies.",
+    "**Main Categories**: The site features comprehensive categories including: Medications, Hair Care, Skin Care, Daily Essentials, Mom & Baby, Makeup & Accessories, Medical Supplies, Vitamins & Supplements, Sexual Wellness, and Pet Supplies.",
+    "**Kids-Infant Medications**: Explicitly listed as a subcategory under 'الأدوية' (Medications) as 'أدوية الأطفال' (Kids-Infant Medications).",
+    "**Mom & Baby Category**: A dedicated main category 'الأم والطفل' (Mom & Baby) includes subcategories like: Diapers & Changing, Mommy Care, Baby Food & Tools, Breastfeeding Care, and Bathing Baby Care.",
+    "**Kids Products Examples**: Specific products mentioned on the page for kids/infants include: Elbavit Multivitamins Syrup for children, Simethicone oral drops for gas, Limitless Kids Multivitamins, Superkids baby shampoo and leave-in conditioner, Mustela baby cleansing gel, Sanosan Kids Shower Shampoo, Hero Baby food, Aptamil 1 milk formula, and Dermactive Kids Sun Lotion Spray.",
+    "**Pagination Elements**: The page displays pagination links: « (Previous Page Block), ‹ (Previous Page), [1] (Current Page), › (Next Page), » (Next Page Block).",
+    "**Special Services**: Offers a 'Super Saving' service (سوبر توفير) with up to 15% discount, free delivery, and delivery within 72 hours for orders over 600 EGP. Also supports prescription uploads.",
+    "**Reach**: Covers over 1000 pharmacies in 25 cities with over 41,000 licensed products and 24/7 pharmacist support.",
+    "**Mobile App**: Available for download on Apple App Store, Google Play Store, and Huawei AppGallery."
+  ],
+  "relevant_links": [
+    "https://chefaa.com:443/eg-ar/now/category/medications",
+    "https://chefaa.com:443/eg-ar/now/category/medications/kids-infant-medications",
+    "https://chefaa.com:443/eg-ar/now/category/mom-baby",
+    "https://chefaa.com:443/eg-ar/now/category/mom-baby/diapers-changing",
+    "https://chefaa.com:443/eg-ar/now/category/mom-baby/baby-food-tools",
+    "https://chefaa.com/eg-ar/?products_eg%5Bpage%5D=1",
+    "https://chefaa.com:443/eg-ar/now/order-medicine-online-prescription",
+    "https://apps.apple.com/eg/app/chefaa-medicine-delivery/id1438961456",
+    "https://play.google.com/store/apps/details?id=app.com.chefaa&hl=ar",
+    "https://appgallery.huawei.com/#/app/C102545145"
+  ],
+  "file_name": "chefaa_page_content.json"
+}
+```

@@ -1,0 +1,355 @@
+2025-11-01 13:02:12,640 - ERROR - Error loading medications data: Expecting ',' delimiter: line 255 column 9 (char 10043)
+2025-11-01 13:02:28,696 - INFO - Loaded medications data: {'source_url': 'https://chefaa.com', 'extraction_date': '2025-11-01', 'currency': 'EGP', 'total_products': 148, 'subcategories': 9, 'language': 'Arabic with English translations where available'}
+2025-11-01 13:02:28,697 - INFO - Prepared extraction queue with 168 medications
+2025-11-01 13:02:28,699 - INFO - Initialized extractor for batch medications_batch_4
+2025-11-01 13:02:28,700 - INFO - Input file: data/medications/medications_products.json
+2025-11-01 13:02:28,703 - INFO - Output directory: data/overviews/medications_batch_4
+2025-11-01 13:02:28,706 - INFO - Target products: 200
+2025-11-01 13:02:28,713 - INFO - Starting medications batch 4 extraction process
+2025-11-01 13:02:28,785 - INFO - Processing product 1/168: Abilify Antipsychotic 15mg
+2025-11-01 13:02:28,786 - WARNING - Could not construct URL for product: Abilify Antipsychotic 15mg
+2025-11-01 13:02:28,786 - INFO - Processing product 2/168: Abilify Antipsychotic 5mg
+2025-11-01 13:02:28,786 - WARNING - Could not construct URL for product: Abilify Antipsychotic 5mg
+2025-11-01 13:02:28,788 - INFO - Processing product 3/168: Adol 500mg
+2025-11-01 13:02:28,788 - WARNING - Could not construct URL for product: Adol 500mg
+2025-11-01 13:02:28,791 - INFO - Processing product 4/168: Agera Acne Cream
+2025-11-01 13:02:28,795 - WARNING - Could not construct URL for product: Agera Acne Cream
+2025-11-01 13:02:28,797 - INFO - Processing product 5/168: Aggrex for Thrombosis Prevention 75mg
+2025-11-01 13:02:28,799 - WARNING - Could not construct URL for product: Aggrex for Thrombosis Prevention 75mg
+2025-11-01 13:02:28,801 - INFO - Processing product 6/168: Agiolax Granules
+2025-11-01 13:02:28,801 - WARNING - Could not construct URL for product: Agiolax Granules
+2025-11-01 13:02:28,801 - INFO - Processing product 7/168: Albothyl Vaginal Suppositories
+2025-11-01 13:02:28,801 - WARNING - Could not construct URL for product: Albothyl Vaginal Suppositories
+2025-11-01 13:02:28,801 - INFO - Processing product 8/168: Aldomet for Lowering Blood Pressure 250mg
+2025-11-01 13:02:28,801 - WARNING - Could not construct URL for product: Aldomet for Lowering Blood Pressure 250mg
+2025-11-01 13:02:28,801 - INFO - Processing product 9/168: Alergoliber 10mg
+2025-11-01 13:02:28,801 - WARNING - Could not construct URL for product: Alergoliber 10mg
+2025-11-01 13:02:28,802 - INFO - Processing product 10/168: Algason Cream for Rheumatic Pain Treatment
+2025-11-01 13:02:28,802 - WARNING - Could not construct URL for product: Algason Cream for Rheumatic Pain Treatment
+2025-11-01 13:02:28,805 - INFO - Processing product 11/168: Alkapress for High Blood Pressure Treatment 5mg
+2025-11-01 13:02:28,807 - WARNING - Could not construct URL for product: Alkapress for High Blood Pressure Treatment 5mg
+2025-11-01 13:02:28,810 - INFO - Processing product 12/168: Alphintern Anti-inflammatory
+2025-11-01 13:02:28,812 - WARNING - Could not construct URL for product: Alphintern Anti-inflammatory
+2025-11-01 13:02:28,814 - INFO - Processing product 13/168: Amebazole Tablets
+2025-11-01 13:02:28,816 - WARNING - Could not construct URL for product: Amebazole Tablets
+2025-11-01 13:02:28,816 - INFO - Processing product 14/168: Amrizole
+2025-11-01 13:02:28,816 - WARNING - Could not construct URL for product: Amrizole
+2025-11-01 13:02:28,816 - INFO - Processing product 15/168: Antinal
+2025-11-01 13:02:28,816 - WARNING - Could not construct URL for product: Antinal
+2025-11-01 13:02:28,816 - INFO - Processing product 16/168: Antopral 20mg
+2025-11-01 13:02:28,817 - WARNING - Could not construct URL for product: Antopral 20mg
+2025-11-01 13:02:28,817 - INFO - Processing product 17/168: Bronchicum Lozenges
+2025-11-01 13:02:28,819 - WARNING - Could not construct URL for product: Bronchicum Lozenges
+2025-11-01 13:02:28,837 - INFO - Processing product 18/168: Buscopan Injections
+2025-11-01 13:02:28,839 - WARNING - Could not construct URL for product: Buscopan Injections
+2025-11-01 13:02:28,858 - INFO - Processing product 19/168: Buscopan Medicine
+2025-11-01 13:02:28,858 - WARNING - Could not construct URL for product: Buscopan Medicine
+2025-11-01 13:02:28,858 - INFO - Processing product 20/168: Controloc 20mg
+2025-11-01 13:02:28,858 - WARNING - Could not construct URL for product: Controloc 20mg
+2025-11-01 13:02:28,858 - INFO - Progress: 20/168 products processed
+2025-11-01 13:02:28,858 - INFO - Processing product 21/168: Dentinox Infant Colic Drops
+2025-11-01 13:02:28,858 - WARNING - Could not construct URL for product: Dentinox Infant Colic Drops
+2025-11-01 13:02:28,858 - INFO - Processing product 22/168: Duphalac Syrup
+2025-11-01 13:02:28,858 - WARNING - Could not construct URL for product: Duphalac Syrup
+2025-11-01 13:02:28,858 - INFO - Processing product 23/168: Enterogermina Ampoule
+2025-11-01 13:02:28,858 - WARNING - Could not construct URL for product: Enterogermina Ampoule
+2025-11-01 13:02:28,858 - INFO - Processing product 24/168: Enterogermina Ampoules
+2025-11-01 13:02:28,858 - WARNING - Could not construct URL for product: Enterogermina Ampoules
+2025-11-01 13:02:28,858 - INFO - Processing product 25/168: Esomeprazole 40mg
+2025-11-01 13:02:28,858 - WARNING - Could not construct URL for product: Esomeprazole 40mg
+2025-11-01 13:02:28,858 - INFO - Processing product 26/168: Eucarbon Charcoal Tablets
+2025-11-01 13:02:28,858 - WARNING - Could not construct URL for product: Eucarbon Charcoal Tablets
+2025-11-01 13:02:28,858 - INFO - Processing product 27/168: Flagyl 500 Tablet
+2025-11-01 13:02:28,858 - WARNING - Could not construct URL for product: Flagyl 500 Tablet
+2025-11-01 13:02:28,858 - INFO - Processing product 28/168: Flatidyl Tablets
+2025-11-01 13:02:28,858 - WARNING - Could not construct URL for product: Flatidyl Tablets
+2025-11-01 13:02:28,858 - INFO - Processing product 29/168: Lidocaine Topical Anesthetic Spray for Hair Removal and Delayed Ejaculation
+2025-11-01 13:02:28,858 - WARNING - Could not construct URL for product: Lidocaine Topical Anesthetic Spray for Hair Removal and Delayed Ejaculation
+2025-11-01 13:02:28,858 - INFO - Processing product 30/168: Linex for Adults
+2025-11-01 13:02:28,858 - WARNING - Could not construct URL for product: Linex for Adults
+2025-11-01 13:02:28,858 - INFO - Processing product 31/168: Maalox Sachets
+2025-11-01 13:02:28,858 - WARNING - Could not construct URL for product: Maalox Sachets
+2025-11-01 13:02:28,858 - INFO - Processing product 32/168: Manovipercaine Plus Topical Anesthetic Spray
+2025-11-01 13:02:28,858 - WARNING - Could not construct URL for product: Manovipercaine Plus Topical Anesthetic Spray
+2025-11-01 13:02:28,858 - INFO - Processing product 33/168: Mepaco Chromium Capsules for Weight Loss
+2025-11-01 13:02:28,858 - WARNING - Could not construct URL for product: Mepaco Chromium Capsules for Weight Loss
+2025-11-01 13:02:28,858 - INFO - Processing product 34/168: Mepaco Folic Acid 500mcg Tablets
+2025-11-01 13:02:28,858 - WARNING - Could not construct URL for product: Mepaco Folic Acid 500mcg Tablets
+2025-11-01 13:02:28,858 - INFO - Processing product 35/168: Panthenol Cream 2%
+2025-11-01 13:02:28,858 - WARNING - Could not construct URL for product: Panthenol Cream 2%
+2025-11-01 13:02:28,858 - INFO - Processing product 36/168: Pectol Lozenges for Throat with Lemon and Honey
+2025-11-01 13:02:28,858 - WARNING - Could not construct URL for product: Pectol Lozenges for Throat with Lemon and Honey
+2025-11-01 13:02:28,858 - INFO - Processing product 37/168: Rotadigest
+2025-11-01 13:02:28,858 - WARNING - Could not construct URL for product: Rotadigest
+2025-11-01 13:02:28,858 - INFO - Processing product 38/168: Ultracaine Gel Topical Anesthetic
+2025-11-01 13:02:28,858 - WARNING - Could not construct URL for product: Ultracaine Gel Topical Anesthetic
+2025-11-01 13:02:28,858 - INFO - Processing product 39/168: Viagra 100mg Tablets for Men's Erection
+2025-11-01 13:02:28,859 - WARNING - Could not construct URL for product: Viagra 100mg Tablets for Men's Erection
+2025-11-01 13:02:28,859 - INFO - Processing product 40/168: Viagra 50mg Pills for Men's Erectile Dysfunction
+2025-11-01 13:02:28,859 - WARNING - Could not construct URL for product: Viagra 50mg Pills for Men's Erectile Dysfunction
+2025-11-01 13:02:28,859 - INFO - Progress: 40/168 products processed
+2025-11-01 13:02:28,859 - INFO - Processing product 41/168: أبيمول أكسترا | مسكن وخافض للحرارة 500/30مج
+2025-11-01 13:02:28,859 - WARNING - Could not construct URL for product: أبيمول أكسترا | مسكن وخافض للحرارة 500/30مج
+2025-11-01 13:02:28,859 - INFO - Processing product 42/168: أبيمول مسكن وخافض للحرارة 500مج
+2025-11-01 13:02:28,859 - WARNING - Could not construct URL for product: أبيمول مسكن وخافض للحرارة 500مج
+2025-11-01 13:02:28,859 - INFO - Processing product 43/168: أكياس اكتى كولا سي进行治疗 التهاب وخشونة المفاصل
+2025-11-01 13:02:28,859 - WARNING - Could not construct URL for product: أكياس اكتى كولا سي进行治疗 التهاب وخشونة المفاصل
+2025-11-01 13:02:28,859 - INFO - Processing product 44/168: ألفانوفا نقط للعين 0.15٪
+2025-11-01 13:02:28,859 - INFO - Extracting from: https://chefaa.com/products/alphanova-eye-drops-015
+2025-11-01 13:02:28,859 - INFO - Processing product 45/168: ألليربان进行治疗过敏 1مج/5مل
+2025-11-01 13:02:28,859 - WARNING - Could not construct URL for product: ألليربان进行治疗过敏 1مج/5مل
+2025-11-01 13:02:28,859 - INFO - Processing product 46/168: أنجيفلاش بخاخ لالتهاب الحلق
+2025-11-01 13:02:28,859 - WARNING - Could not construct URL for product: أنجيفلاش بخاخ لالتهاب الحلق
+2025-11-01 13:02:28,859 - INFO - Processing product 47/168: أوبلكس-ن شراب
+2025-11-01 13:02:28,859 - WARNING - Could not construct URL for product: أوبلكس-ن شراب
+2025-11-01 13:02:28,859 - INFO - Processing product 48/168: إكتوميثرين 5 (بيرميثرين 5٪)
+2025-11-01 13:02:28,859 - WARNING - Could not construct URL for product: إكتوميثرين 5 (بيرميثرين 5٪)
+2025-11-01 13:02:28,859 - INFO - Processing product 49/168: ابيدون شراب مضاد للحساسية والالتهابات
+2025-11-01 13:02:28,859 - WARNING - Could not construct URL for product: ابيدون شراب مضاد للحساسية والالتهابات
+2025-11-01 13:02:28,859 - INFO - Processing product 50/168: استيل سستايين طارد للبلغم 200مج
+2025-11-01 13:02:28,859 - WARNING - Could not construct URL for product: استيل سستايين طارد للبلغم 200مج
+2025-11-01 13:02:28,859 - INFO - Processing product 51/168: افيل حقن进行治疗过敏 للحقن العضلي 45.5 مج/ 2مل
+2025-11-01 13:02:28,859 - WARNING - Could not construct URL for product: افيل حقن进行治疗过敏 للحقن العضلي 45.5 مج/ 2مل
+2025-11-01 13:02:28,859 - INFO - Processing product 52/168: افيميو قطرات للعين
+2025-11-01 13:02:28,859 - INFO - Extracting from: https://chefaa.com/products/efemyo-eye-drops
+2025-11-01 13:02:28,859 - INFO - Processing product 53/168: اقراص دوليبران 1000 باراسيتامول doliprane
+2025-11-01 13:02:28,859 - WARNING - Could not construct URL for product: اقراص دوليبران 1000 باراسيتامول doliprane
+2025-11-01 13:02:28,859 - INFO - Processing product 54/168: اقراص دوليبران 1000 باراسيتامول doliprane
+2025-11-01 13:02:28,859 - WARNING - Could not construct URL for product: اقراص دوليبران 1000 باراسيتامول doliprane
+2025-11-01 13:02:28,859 - INFO - Processing product 55/168: اقراص كتافلام 50 مسكن للاسنان والصداع cataflam
+2025-11-01 13:02:28,859 - WARNING - Could not construct URL for product: اقراص كتافلام 50 مسكن للاسنان والصداع cataflam
+2025-11-01 13:02:28,859 - INFO - Processing product 56/168: اقراص كونجستال للبرد congestal tab
+2025-11-01 13:02:28,859 - WARNING - Could not construct URL for product: اقراص كونجستال للبرد congestal tab
+2025-11-01 13:02:28,859 - INFO - Processing product 57/168: اقراص كونجستال进行治疗感冒
+2025-11-01 13:02:28,860 - WARNING - Could not construct URL for product: اقراص كونجستال进行治疗感冒
+2025-11-01 13:02:28,860 - INFO - Processing product 58/168: اكتى كولا سي进行治疗 التهاب وخشونة المفاصل
+2025-11-01 13:02:28,860 - WARNING - Could not construct URL for product: اكتى كولا سي进行治疗 التهاب وخشونة المفاصل
+2025-11-01 13:02:28,860 - INFO - Processing product 59/168: اكستروما فورت جيل
+2025-11-01 13:02:28,860 - WARNING - Could not construct URL for product: اكستروما فورت جيل
+2025-11-01 13:02:28,860 - INFO - Processing product 60/168: اكستروما فورت جيل
+2025-11-01 13:02:28,860 - WARNING - Could not construct URL for product: اكستروما فورت جيل
+2025-11-01 13:02:28,860 - INFO - Progress: 60/168 products processed
+2025-11-01 13:02:28,860 - INFO - Processing product 61/168: اكستروما كريم دي إن إيه
+2025-11-01 13:02:28,860 - WARNING - Could not construct URL for product: اكستروما كريم دي إن إيه
+2025-11-01 13:02:28,860 - INFO - Processing product 62/168: اليرفين 180مجم أقراص进行治疗 أمراض الحساسية
+2025-11-01 13:02:28,860 - WARNING - Could not construct URL for product: اليرفين 180مجم أقراص进行治疗 أمراض الحساسية
+2025-11-01 13:02:28,860 - INFO - Processing product 63/168: اليريد مضاد للحساسية 10مج
+2025-11-01 13:02:28,860 - WARNING - Could not construct URL for product: اليريد مضاد للحساسية 10مج
+2025-11-01 13:02:28,860 - INFO - Processing product 64/168: امبروكسول نقط“是的
+2025-11-01 13:02:28,862 - WARNING - Could not construct URL for product: امبروكسول نقط“是的
+2025-11-01 13:02:28,862 - INFO - Processing product 65/168: اميجراويست 2.5 amigrawest tab برشام للصداع النصفي
+2025-11-01 13:02:28,862 - WARNING - Could not construct URL for product: اميجراويست 2.5 amigrawest tab برشام للصداع النصفي
+2025-11-01 13:02:28,862 - INFO - Processing product 66/168: اناللرج进行治疗过敏 4 مجم
+2025-11-01 13:02:28,862 - WARNING - Could not construct URL for product: اناللرج进行治疗过敏 4 مجم
+2025-11-01 13:02:28,862 - INFO - Processing product 67/168: انتروجرمينا امبول بروبيوتيك للقولون للاطفال والكبار 2 مليار
+2025-11-01 13:02:28,862 - WARNING - Could not construct URL for product: انتروجرمينا امبول بروبيوتيك للقولون للاطفال والكبار 2 مليار
+2025-11-01 13:02:28,864 - INFO - Processing product 68/168: انتوبرال ٢٠ مجم进行治疗胃酸过多الحموضه والحرقان
+2025-11-01 13:02:28,867 - WARNING - Could not construct URL for product: انتوبرال ٢٠ مجم进行治疗胃酸过多الحموضه والحرقان
+2025-11-01 13:02:28,869 - INFO - Processing product 69/168: انسيلاكوكس 120مجم
+2025-11-01 13:02:28,875 - WARNING - Could not construct URL for product: انسيلاكوكس 120مجم
+2025-11-01 13:02:28,877 - INFO - Processing product 70/168: اوتوكورت قطرة للاذن
+2025-11-01 13:02:28,879 - INFO - Extracting from: https://chefaa.com/products/otocort-ear-drops
+2025-11-01 13:02:28,879 - INFO - Processing product 71/168: اوركازيد قطرة للعين orchazid للحساسية والاحمرار
+2025-11-01 13:02:28,879 - INFO - Extracting from: https://chefaa.com/products/orchazid-eye-drops-for-allergy-and-redness
+2025-11-01 13:02:28,880 - INFO - Processing product 72/168: اولفنت شراب للاطفال والكبار للكحة allvent syrup
+2025-11-01 13:02:28,880 - WARNING - Could not construct URL for product: اولفنت شراب للاطفال والكبار للكحة allvent syrup
+2025-11-01 13:02:28,880 - INFO - Processing product 73/168: ايريوس أقراص لحساسية الانف والارتيكاريا 5 مجم
+2025-11-01 13:02:28,882 - WARNING - Could not construct URL for product: ايريوس أقراص لحساسية الانف والارتيكاريا 5 مجم
+2025-11-01 13:02:28,884 - INFO - Processing product 74/168: ايريوس进行治疗过敏 والانف والارتيكاريا 5 مجم
+2025-11-01 13:02:28,885 - WARNING - Could not construct URL for product: ايريوس进行治疗过敏 والانف والارتيكاريا 5 مجم
+2025-11-01 13:02:28,888 - INFO - Processing product 75/168: ايفاستين مضاد للحساسية للاطفال 10مج
+2025-11-01 13:02:28,890 - WARNING - Could not construct URL for product: ايفاستين مضاد للحساسية للاطفال 10مج
+2025-11-01 13:02:28,892 - INFO - Processing product 76/168: ايمو سوفت كريم
+2025-11-01 13:02:28,892 - WARNING - Could not construct URL for product: ايمو سوفت كريم
+2025-11-01 13:02:28,892 - INFO - Processing product 77/168: ايمو سوفت كريم
+2025-11-01 13:02:28,892 - WARNING - Could not construct URL for product: ايمو سوفت كريم
+2025-11-01 13:02:28,892 - INFO - Processing product 78/168: بانادول ادفانس 500 مجم باراسيتامول مسكن للألم بفاعلية
+2025-11-01 13:02:28,892 - WARNING - Could not construct URL for product: بانادول ادفانس 500 مجم باراسيتامول مسكن للألم بفاعلية
+2025-11-01 13:02:28,895 - INFO - Processing product 79/168: بانادول اكسترا لتخفيف إضافي مسكن فعال للألم والحمي
+2025-11-01 13:02:28,895 - WARNING - Could not construct URL for product: بانادول اكسترا لتخفيف إضافي مسكن فعال للألم والحمي
+2025-11-01 13:02:28,895 - INFO - Processing product 80/168: بانادول اكسترا لتخفيف إضافي مسكن فعال للألم والحمي
+2025-11-01 13:02:28,897 - WARNING - Could not construct URL for product: بانادول اكسترا لتخفيف إضافي مسكن فعال للألم والحمي
+2025-11-01 13:02:28,899 - INFO - Progress: 80/168 products processed
+2025-11-01 13:02:28,901 - INFO - Processing product 81/168: بانادول كولد اند فلو治疗有效 لأعراض البرد و الإنفلونزا
+2025-11-01 13:02:28,903 - WARNING - Could not construct URL for product: بانادول كولد اند فلو治疗有效 لأعراض البرد و الإنفلونزا
+2025-11-01 13:02:28,906 - INFO - Processing product 82/168: بانادول لعلاج نزلات البرد الحادة (كومتركس أقراص comtrex )
+2025-11-01 13:02:28,906 - WARNING - Could not construct URL for product: بانادول لعلاج نزلات البرد الحادة (كومتركس أقراص comtrex )
+2025-11-01 13:02:28,906 - INFO - Processing product 83/168: بانادول مايجرين اقراص مسكن للصداع النصفي
+2025-11-01 13:02:28,906 - WARNING - Could not construct URL for product: بانادول مايجرين اقراص مسكن للصداع النصفي
+2025-11-01 13:02:28,906 - INFO - Processing product 84/168: بانادول进行治疗严重感冒Acute (كومتركس أقراص comtrex )
+2025-11-01 13:02:28,906 - WARNING - Could not construct URL for product: بانادول进行治疗严重感冒Acute (كومتركس أقراص comtrex )
+2025-11-01 13:02:28,906 - INFO - Processing product 85/168: بخاخ فليكس للانف进行治疗过敏 flix nasal spray
+2025-11-01 13:02:28,906 - WARNING - Could not construct URL for product: بخاخ فليكس للانف进行治疗过敏 flix nasal spray
+2025-11-01 13:02:28,906 - INFO - Processing product 86/168: بخاخ فليكسونيز进行治疗过敏 وحساسية الأنف 50 مكجم
+2025-11-01 13:02:28,908 - WARNING - Could not construct URL for product: بخاخ فليكسونيز进行治疗过敏 وحساسية الأنف 50 مكجم
+2025-11-01 13:02:28,910 - INFO - Processing product 87/168: بخاخ نازاكورت للانف للحساسية واحتقان الانف 55 ميكجم
+2025-11-01 13:02:28,912 - WARNING - Could not construct URL for product: بخاخ نازاكورت للانف للحساسية واحتقان الانف 55 ميكجم
+2025-11-01 13:02:28,915 - INFO - Processing product 88/168: بخاخ نازاكورت进行治疗过敏 واحتقان الانف 55 ميكجم
+2025-11-01 13:02:28,916 - WARNING - Could not construct URL for product: بخاخ نازاكورت进行治疗过敏 واحتقان الانف 55 ميكجم
+2025-11-01 13:02:28,917 - INFO - Processing product 89/168: بروفين 400 ملجم مسكن ومضاد للالتهاب قوي
+2025-11-01 13:02:28,917 - WARNING - Could not construct URL for product: بروفين 400 ملجم مسكن ومضاد للالتهاب قوي
+2025-11-01 13:02:28,917 - INFO - Processing product 90/168: بروفين 400 ملجم مسكن ومضاد للالتهاب قوي
+2025-11-01 13:02:28,917 - WARNING - Could not construct URL for product: بروفين 400 ملجم مسكن ومضاد للالتهاب قوي
+2025-11-01 13:02:28,918 - INFO - Processing product 91/168: بروفين 600 ملجم مسكن قوي
+2025-11-01 13:02:28,920 - WARNING - Could not construct URL for product: بروفين 600 ملجم مسكن قوي
+2025-11-01 13:02:28,926 - INFO - Processing product 92/168: بروفين 600 ملجم مسكن قوي
+2025-11-01 13:02:28,928 - WARNING - Could not construct URL for product: بروفين 600 ملجم مسكن قوي
+2025-11-01 13:02:28,930 - INFO - Processing product 93/168: بروفين | 200 مجم | 30 قرص
+2025-11-01 13:02:28,932 - WARNING - Could not construct URL for product: بروفين | 200 مجم | 30 قرص
+2025-11-01 13:02:28,935 - INFO - Processing product 94/168: بروفين | 200 مجم | 30 قرص
+2025-11-01 13:02:28,935 - WARNING - Could not construct URL for product: بروفين | 200 مجم | 30 قرص
+2025-11-01 13:02:28,935 - INFO - Processing product 95/168: بروفين | شراب 100 مجم | 150 مل
+2025-11-01 13:02:28,935 - WARNING - Could not construct URL for product: بروفين | شراب 100 مجم | 150 مل
+2025-11-01 13:02:28,935 - INFO - Processing product 96/168: بروفين | شراب 100 مجم | 150 مل
+2025-11-01 13:02:28,937 - WARNING - Could not construct URL for product: بروفين | شراب 100 مجم | 150 مل
+2025-11-01 13:02:28,937 - INFO - Processing product 97/168: بروفين فلو اقراص للبرد والرشح واحتقان الانف
+2025-11-01 13:02:28,940 - WARNING - Could not construct URL for product: بروفين فلو اقراص للبرد والرشح واحتقان الانف
+2025-11-01 13:02:28,942 - INFO - Processing product 98/168: بروفين كولد | 20 أقراص
+2025-11-01 13:02:28,945 - WARNING - Could not construct URL for product: بروفين كولد | 20 أقراص
+2025-11-01 13:02:28,947 - INFO - Processing product 99/168: بروفين كولد دواء للزكام والرشح والاحتقان 400/60مج
+2025-11-01 13:02:28,949 - WARNING - Could not construct URL for product: بروفين كولد دواء للزكام والرشح والاحتقان 400/60مج
+2025-11-01 13:02:28,949 - INFO - Processing product 100/168: بروفين مسكن للالم 600 مجم
+2025-11-01 13:02:28,949 - WARNING - Could not construct URL for product: بروفين مسكن للالم 600 مجم
+2025-11-01 13:02:28,949 - INFO - Progress: 100/168 products processed
+2025-11-01 13:02:28,949 - INFO - Processing product 101/168: بروفين مسكن للالم 600 مجم
+2025-11-01 13:02:28,949 - WARNING - Could not construct URL for product: بروفين مسكن للالم 600 مجم
+2025-11-01 13:02:28,952 - INFO - Processing product 102/168: برونشيكم شراب للكبار وللاطفال للكحة bronchicum syrup
+2025-11-01 13:02:28,954 - WARNING - Could not construct URL for product: برونشيكم شراب للكبار وللاطفال للكحة bronchicum syrup
+2025-11-01 13:02:28,956 - INFO - Processing product 103/168: بريدوكايين كريم
+2025-11-01 13:02:28,959 - WARNING - Could not construct URL for product: بريدوكايين كريم
+2025-11-01 13:02:28,959 - INFO - Processing product 104/168: بريزولين قطرة للعين والانف
+2025-11-01 13:02:28,959 - INFO - Extracting from: https://chefaa.com/products/prisoline-eye-and-nose-drops
+2025-11-01 13:02:28,959 - INFO - Processing product 105/168: بلينك blink قطرة غسول للعين للجفاف
+2025-11-01 13:02:28,959 - INFO - Extracting from: https://chefaa.com/products/blink-eye-wash-drops-for-dryness
+2025-11-01 13:02:28,959 - INFO - Processing product 106/168: بيبي ناديف سبراي الانف ماء البحر للجيوب الانفية للاطفال
+2025-11-01 13:02:28,959 - INFO - Extracting from: https://chefaa.com/products/baby-nadif-nasal-spray-sea-water
+2025-11-01 13:02:28,959 - INFO - Processing product 107/168: بيتادين محلول مطهر
+2025-11-01 13:02:28,959 - WARNING - Could not construct URL for product: بيتادين محلول مطهر
+2025-11-01 13:02:28,959 - INFO - Processing product 108/168: بيفاتراسين بخاخ
+2025-11-01 13:02:28,959 - WARNING - Could not construct URL for product: بيفاتراسين بخاخ
+2025-11-01 13:02:28,959 - INFO - Processing product 109/168: تلفاست اقراص لحساسية الانف والارتيكاريا 180مجم
+2025-11-01 13:02:28,959 - WARNING - Could not construct URL for product: تلفاست اقراص لحساسية الانف والارتيكاريا 180مجم
+2025-11-01 13:02:28,959 - INFO - Processing product 110/168: تلفاست شراب للاطفال لأعراض البرد والحساسية بطعم التوت
+2025-11-01 13:02:28,959 - WARNING - Could not construct URL for product: تلفاست شراب للاطفال لأعراض البرد والحساسية بطعم التوت
+2025-11-01 13:02:28,960 - INFO - Processing product 111/168: تلفاست مزيل للاحتقان والحساسية telfast decongestant
+2025-11-01 13:02:28,960 - WARNING - Could not construct URL for product: تلفاست مزيل للاحتقان والحساسية telfast decongestant
+2025-11-01 13:02:28,960 - INFO - Processing product 112/168: تلفاست مضاده للحساسية ولا تسبب النعاس 120مجم
+2025-11-01 13:02:28,960 - WARNING - Could not construct URL for product: تلفاست مضاده للحساسية ولا تسبب النعاس 120مجم
+2025-11-01 13:02:28,960 - INFO - Processing product 113/168: تلفاست مضاده进行治疗过敏 ولا تسبب النعاس 120مجم
+2025-11-01 13:02:28,960 - WARNING - Could not construct URL for product: تلفاست مضاده进行治疗过敏 ولا تسبب النعاس 120مجم
+2025-11-01 13:02:28,960 - INFO - Processing product 114/168: تلفاست进行治疗过敏 والانف والارتيكاريا 180مجم
+2025-11-01 13:02:28,960 - WARNING - Could not construct URL for product: تلفاست进行治疗过敏 والانف والارتيكاريا 180مجم
+2025-11-01 13:02:28,960 - INFO - Processing product 115/168: تيمبو جل كول لتقليل درجة حرارة الجسم للاطفال
+2025-11-01 13:02:28,960 - INFO - Extracting from: https://chefaa.com/products/tempo-cool-gel
+2025-11-01 13:02:28,960 - INFO - Processing product 116/168: جاتيستار 0.5% قطرة مضاد حيوى للعين
+2025-11-01 13:02:28,960 - INFO - Extracting from: https://chefaa.com/products/gatistar-05-antibiotic-eye-drops
+2025-11-01 13:02:28,960 - INFO - Processing product 117/168: درموفيت مرهم البني
+2025-11-01 13:02:28,960 - WARNING - Could not construct URL for product: درموفيت مرهم البني
+2025-11-01 13:02:28,960 - INFO - Processing product 118/168: دواء برونشيكم شراب للكبار وللاطفال进行治疗 الكحة
+2025-11-01 13:02:28,960 - WARNING - Could not construct URL for product: دواء برونشيكم شراب للكبار وللاطفال进行治疗 الكحة
+2025-11-01 13:02:28,960 - INFO - Processing product 119/168: دواء بيسلفون اقراص مذيبة للبلغم للكحة والسعال 8 مجم
+2025-11-01 13:02:28,960 - WARNING - Could not construct URL for product: دواء بيسلفون اقراص مذيبة للبلغم للكحة والسعال 8 مجم
+2025-11-01 13:02:28,960 - INFO - Processing product 120/168: دواء بيسلفون شراب للاطفال للكحة والسعال ٤مجم/5مل
+2025-11-01 13:02:28,960 - WARNING - Could not construct URL for product: دواء بيسلفون شراب للاطفال للكحة والسعال ٤مجم/5مل
+2025-11-01 13:02:28,960 - INFO - Progress: 120/168 products processed
+2025-11-01 13:02:28,960 - INFO - Processing product 121/168: دواء لاري برو استحلاب للزور والحلق للاحتقان والالتهاب
+2025-11-01 13:02:28,960 - WARNING - Could not construct URL for product: دواء لاري برو استحلاب للزور والحلق للاحتقان والالتهاب
+2025-11-01 13:02:28,960 - INFO - Processing product 122/168: دواء ليفوهستام نقط للاطفال الرضع进行治疗过敏
+2025-11-01 13:02:28,960 - WARNING - Could not construct URL for product: دواء ليفوهستام نقط للاطفال الرضع进行治疗过敏
+2025-11-01 13:02:28,960 - INFO - Processing product 123/168: دوليبران 1000 مجم باراسيتامول مسكن للصداع والآلام
+2025-11-01 13:02:28,960 - WARNING - Could not construct URL for product: دوليبران 1000 مجم باراسيتامول مسكن للصداع والآلام
+2025-11-01 13:02:28,960 - INFO - Processing product 124/168: دوليبران 1000 مجم باراسيتامول مسكن للصداع والآلام
+2025-11-01 13:02:28,960 - WARNING - Could not construct URL for product: دوليبران 1000 مجم باراسيتامول مسكن للصداع والآلام
+2025-11-01 13:02:28,960 - INFO - Processing product 125/168: ديكساترول قطرة عين/أذن
+2025-11-01 13:02:28,960 - INFO - Extracting from: https://chefaa.com/products/dexatrol-eyeear-drops
+2025-11-01 13:02:28,960 - INFO - Processing product 126/168: ديكسافين | شراب进行治疗过敏
+2025-11-01 13:02:28,960 - WARNING - Could not construct URL for product: ديكسافين | شراب进行治疗过敏
+2025-11-01 13:02:28,960 - INFO - Processing product 127/168: روتادايجست
+2025-11-01 13:02:28,960 - WARNING - Could not construct URL for product: روتادايجست
+2025-11-01 13:02:28,960 - INFO - Processing product 128/168: روتاهيلكس اكسترا اقراص استحلاب بنكهة العسل والليمون
+2025-11-01 13:02:28,960 - WARNING - Could not construct URL for product: روتاهيلكس اكسترا اقراص استحلاب بنكهة العسل والليمون
+2025-11-01 13:02:28,960 - INFO - Processing product 129/168: روتاهيلكس اكسترا进行治疗蜂蜜 والليمون
+2025-11-01 13:02:28,960 - WARNING - Could not construct URL for product: روتاهيلكس اكسترا进行治疗蜂蜜 والليمون
+2025-11-01 13:02:28,960 - INFO - Processing product 130/168: ريموواكس قطره تنظيف الاذن من الشمع
+2025-11-01 13:02:28,960 - INFO - Extracting from: https://chefaa.com/products/remowax-ear-wax-cleaning-drops
+2025-11-01 13:02:28,960 - INFO - Processing product 131/168: زيرتك نقط للرضع للبرد والحساسية zyrtec drops
+2025-11-01 13:02:28,961 - INFO - Extracting from: https://chefaa.com/products/zyrtec-infant-drops
+2025-11-01 13:02:28,961 - INFO - Processing product 132/168: سانسو ماء للبيبي لعلاج المغص والانتفاخ
+2025-11-01 13:02:28,961 - INFO - Extracting from: https://chefaa.com/products/sanzo-baby-water
+2025-11-01 13:02:28,961 - INFO - Processing product 133/168: سيبروسين | 0.3٪ قطرة للعين / الأذن
+2025-11-01 13:02:28,961 - INFO - Extracting from: https://chefaa.com/products/ciprocin-03-eye-ear-drops
+2025-11-01 13:02:28,961 - INFO - Processing product 134/168: سيتروبانتين كريم
+2025-11-01 13:02:28,961 - WARNING - Could not construct URL for product: سيتروبانتين كريم
+2025-11-01 13:02:28,961 - INFO - Processing product 135/168: فوار استيل سستايين 600 مذيب وطارد للبلغم
+2025-11-01 13:02:28,961 - WARNING - Could not construct URL for product: فوار استيل سستايين 600 مذيب وطارد للبلغم
+2025-11-01 13:02:28,961 - INFO - Processing product 136/168: فيوسيدين كريم
+2025-11-01 13:02:28,961 - WARNING - Could not construct URL for product: فيوسيدين كريم
+2025-11-01 13:02:28,961 - INFO - Processing product 137/168: قطرة أوتريفين للكبار نقط للانف Otrivin للاحتقان والانسداد
+2025-11-01 13:02:28,961 - WARNING - Could not construct URL for product: قطرة أوتريفين للكبار نقط للانف Otrivin للاحتقان والانسداد
+2025-11-01 13:02:28,961 - INFO - Processing product 138/168: قطرة أوتريفين进行治疗成人鼻塞 الأنف Otrivin
+2025-11-01 13:02:28,961 - WARNING - Could not construct URL for product: قطرة أوتريفين进行治疗成人鼻塞 الأنف Otrivin
+2025-11-01 13:02:28,961 - INFO - Processing product 139/168: قطرة كورنيتيرز جل للعين“是的
+2025-11-01 13:02:28,961 - WARNING - Could not construct URL for product: قطرة كورنيتيرز جل للعين“是的
+2025-11-01 13:02:28,961 - INFO - Processing product 140/168: قطرة لوبريستيرا مرطب للعين lubristira drops
+2025-11-01 13:02:28,961 - INFO - Extracting from: https://chefaa.com/products/lubristira-eye-lubricant-drops
+2025-11-01 13:02:28,961 - INFO - Progress: 140/168 products processed
+2025-11-01 13:02:28,961 - INFO - Processing product 141/168: قطرة هاي فريش للعين hyfresh مرطبة“是的
+2025-11-01 13:02:28,961 - WARNING - Could not construct URL for product: قطرة هاي فريش للعين hyfresh مرطبة“是的
+2025-11-01 13:02:28,961 - INFO - Processing product 142/168: كالوبين نقط بالفم
+2025-11-01 13:02:28,961 - INFO - Extracting from: https://chefaa.com/products/calobin-oral-drops
+2025-11-01 13:02:28,961 - INFO - Processing product 143/168: كانديستان 1% كريم موضعي
+2025-11-01 13:02:28,961 - WARNING - Could not construct URL for product: كانديستان 1% كريم موضعي
+2025-11-01 13:02:28,961 - INFO - Processing product 144/168: كريم بانثينول
+2025-11-01 13:02:28,961 - WARNING - Could not construct URL for product: كريم بانثينول
+2025-11-01 13:02:28,961 - INFO - Processing product 145/168: كريم فيوسيكورت
+2025-11-01 13:02:28,961 - WARNING - Could not construct URL for product: كريم فيوسيكورت
+2025-11-01 13:02:28,961 - INFO - Processing product 146/168: كريم فيوسيكورت
+2025-11-01 13:02:28,961 - WARNING - Could not construct URL for product: كريم فيوسيكورت
+2025-11-01 13:02:28,961 - INFO - Processing product 147/168: كريم كارباميد
+2025-11-01 13:02:28,961 - WARNING - Could not construct URL for product: كريم كارباميد
+2025-11-01 13:02:28,961 - INFO - Processing product 148/168: كلاريتين شراب |进行治疗过敏 والجيوب الأنفية والزكام
+2025-11-01 13:02:28,961 - WARNING - Could not construct URL for product: كلاريتين شراب |进行治疗过敏 والجيوب الأنفية والزكام
+2025-11-01 13:02:28,961 - INFO - Processing product 149/168: كونترولوك 20ملجم | 14 قرص | 2 شريط
+2025-11-01 13:02:28,961 - WARNING - Could not construct URL for product: كونترولوك 20ملجم | 14 قرص | 2 شريط
+2025-11-01 13:02:28,961 - INFO - Processing product 150/168: كونجي كلير 0.1% محلول معقم للعين
+2025-11-01 13:02:28,961 - INFO - Extracting from: https://chefaa.com/products/conjyclear-01-sterile-eye-solution
+2025-11-01 13:02:28,961 - INFO - Processing product 151/168: كونجي كلير فورت 0.2% محلول معقم للعين
+2025-11-01 13:02:28,961 - INFO - Extracting from: https://chefaa.com/products/conjyclear-forte-02-sterile-eye-solution
+2025-11-01 13:02:28,961 - INFO - Processing product 152/168: كيدز ابيتايت فيتامين شراب
+2025-11-01 13:02:28,961 - INFO - Extracting from: https://chefaa.com/products/kids-apetite-vitamin-syrup
+2025-11-01 13:02:28,962 - INFO - Processing product 153/168: كيناكومب كريم
+2025-11-01 13:02:28,962 - WARNING - Could not construct URL for product: كيناكومب كريم
+2025-11-01 13:02:28,962 - INFO - Processing product 154/168: لوبريفيسك قطرة للعين معقمة ومرطبة“是的
+2025-11-01 13:02:28,962 - WARNING - Could not construct URL for product: لوبريفيسك قطرة للعين معقمة ومرطبة“是的
+2025-11-01 13:02:28,962 - INFO - Processing product 155/168: ليفوهيستام معلق مضاد للحساسية 5مجم/10مل
+2025-11-01 13:02:28,962 - WARNING - Could not construct URL for product: ليفوهيستام معلق مضاد للحساسية 5مجم/10مل
+2025-11-01 13:02:28,962 - INFO - Processing product 156/168: ليمتلس بيبي نقط فيتامين د limitless baby d drops
+2025-11-01 13:02:28,962 - INFO - Extracting from: https://chefaa.com/products/limitless-baby-d-drops
+2025-11-01 13:02:28,962 - INFO - Processing product 157/168: لينكس للبالغين
+2025-11-01 13:02:28,962 - WARNING - Could not construct URL for product: لينكس للبالغين
+2025-11-01 13:02:28,962 - INFO - Processing product 158/168: ماء غريب سمايل شراب
+2025-11-01 13:02:28,962 - INFO - Extracting from: https://chefaa.com/products/smile-gripe-water
+2025-11-01 13:02:28,962 - INFO - Processing product 159/168: ماكرو بانثينول كريم
+2025-11-01 13:02:28,964 - WARNING - Could not construct URL for product: ماكرو بانثينول كريم
+2025-11-01 13:02:28,964 - INFO - Processing product 160/168: مالوكس اكياس maalox进行治疗 الحموضه والحرقان - ليمون
+2025-11-01 13:02:28,964 - WARNING - Could not construct URL for product: مالوكس اكياس maalox进行治疗 الحموضه والحرقان - ليمون
+2025-11-01 13:02:28,964 - INFO - Progress: 160/168 products processed
+2025-11-01 13:02:28,964 - INFO - Processing product 161/168: مونوديكسين 0.1% قطرة للعين 10 جرعات
+2025-11-01 13:02:28,964 - INFO - Extracting from: https://chefaa.com/products/monodexin-01-eye-drops-10-doses
+2025-11-01 13:02:28,966 - INFO - Processing product 162/168: نازونيكس 0.05% بخاخ للانف موميتازون فيورات مونوهيدرات 120 بخة
+2025-11-01 13:02:28,968 - WARNING - Could not construct URL for product: نازونيكس 0.05% بخاخ للانف موميتازون فيورات مونوهيدرات 120 بخة
+2025-11-01 13:02:28,970 - INFO - Processing product 163/168: نازونيكس 0.05% بخاخ للانف موميتازون فيورات مونوهيدرات 120 بخة
+2025-11-01 13:02:28,973 - WARNING - Could not construct URL for product: نازونيكس 0.05% بخاخ للانف موميتازون فيورات مونوهيدرات 120 بخة
+2025-11-01 13:02:28,975 - INFO - Processing product 164/168: نورمو تيرز قطرة لالتهاب العين والاحمرار
+2025-11-01 13:02:28,978 - INFO - Extracting from: https://chefaa.com/products/normo-tears-drops-for-eye-inflammation-and-redness
+2025-11-01 13:02:28,978 - INFO - Processing product 165/168: نوستامين | نقط لحساسية العين والتهاب الأنف
+2025-11-01 13:02:28,978 - INFO - Extracting from: https://chefaa.com/products/nostamine-drops-for-eye-allergy-and-nasal-inflammation
+2025-11-01 13:02:28,978 - INFO - Processing product 166/168: هاي ديرم لوشن
+2025-11-01 13:02:28,978 - WARNING - Could not construct URL for product: هاي ديرم لوشن
+2025-11-01 13:02:28,978 - INFO - Processing product 167/168: هياكارينول قطرات عين
+2025-11-01 13:02:28,978 - INFO - Extracting from: https://chefaa.com/products/hyacarenol-eye-drops
+2025-11-01 13:02:28,978 - INFO - Processing product 168/168: وان تو ثرى اقراص 123 للكبار للبرد والانفلونزا
+2025-11-01 13:02:28,978 - WARNING - Could not construct URL for product: وان تو ثرى اقراص 123 للكبار للبرد والانفلونزا
+2025-11-01 13:02:29,001 - INFO - Results successfully saved to: data/overviews/medications_batch_4/medications_overview_batch_4.json
+2025-11-01 13:02:29,001 - INFO - Extraction completed: 168/168 successful
+2025-11-01 13:02:29,006 - INFO - Results saved to: data/overviews/medications_batch_4/medications_overview_batch_4.json

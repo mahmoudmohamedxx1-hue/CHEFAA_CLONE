@@ -1,0 +1,222 @@
+{
+  "extraction_metadata": {
+    "page_number": 71,
+    "phase": "Post-Phase 4",
+    "extraction_date": "2025-11-01",
+    "source_url": "https://chefaa.com/eg-ar/now/category/medications?page=71",
+    "total_medications_extracted": 20,
+    "cumulative_total": 1257,
+    "progress_to_50_percent": "93.8% (1,257/1,340)"
+  },
+  "medications": [
+    {
+      "arabic_name": "فلويموسيل 600مجم | 10 قرص",
+      "english_brand_name": "Fluimucil",
+      "price_egp": 135.0,
+      "availability_status": "Available",
+      "prescription_required": false,
+      "dosage_information": "600mg | 10 tablets",
+      "therapeutic_uses": "Mucolytic for respiratory conditions"
+    },
+    {
+      "arabic_name": "كلاريتين اقراص للجيوب الأنفية والحساسية | 20 قرص",
+      "english_brand_name": "Claritine",
+      "price_egp": 110.0,
+      "availability_status": "Available",
+      "prescription_required": false,
+      "dosage_information": "10mg | 20 tablets",
+      "therapeutic_uses": "For sinusitis and allergies"
+    },
+    {
+      "arabic_name": "رينال إس | فوار مطهر للمسالك البولية | 12 كيس",
+      "english_brand_name": "Renal S",
+      "price_egp": 30.0,
+      "availability_status": "Available",
+      "prescription_required": true,
+      "dosage_information": "12 sachets | 5gm",
+      "therapeutic_uses": "Urinary antiseptic"
+    },
+    {
+      "arabic_name": "الزنتال | طارد للديدان | 20جم | 20 مل شراب",
+      "english_brand_name": "Alzental",
+      "price_egp": 21.0,
+      "availability_status": "Available",
+      "prescription_required": true,
+      "dosage_information": "20gm | 20ml syrup",
+      "therapeutic_uses": "Dewormer"
+    },
+    {
+      "arabic_name": "زيثروماكس | مضاد حيوى للأطفال | 900 مج | 22.5 مل شراب",
+      "english_brand_name": "Zithromax",
+      "price_egp": 100.0,
+      "availability_status": "Available",
+      "prescription_required": true,
+      "dosage_information": "900mg | 22.5ml syrup",
+      "therapeutic_uses": "Antibiotic for children"
+    },
+    {
+      "arabic_name": "ريسبيردال | لعلاج الاكتئاب والخوف | 2 مج | 20 قرص",
+      "english_brand_name": "Risperdal",
+      "price_egp": 190.0,
+      "availability_status": "Available",
+      "prescription_required": true,
+      "dosage_information": "2mg | 20 tablets",
+      "therapeutic_uses": "For treating depression and fear"
+    },
+    {
+      "arabic_name": "اريبيبرازول 10مجم | 20 قرص",
+      "english_brand_name": "Aripiprazole",
+      "price_egp": 99.0,
+      "availability_status": "Available",
+      "prescription_required": true,
+      "dosage_information": "10mg | 20 tablets",
+      "therapeutic_uses": "Antipsychotic medication"
+    },
+    {
+      "arabic_name": "بوريك أسيد | غسول 4% | 100مل",
+      "english_brand_name": "Boric Acid",
+      "price_egp": 12.0,
+      "availability_status": "Available",
+      "prescription_required": false,
+      "dosage_information": "4% lotion | 100ml",
+      "therapeutic_uses": "Antiseptic solution"
+    },
+    {
+      "arabic_name": "بنتاسا 500مجم | 100 قرص",
+      "english_brand_name": "Pentasa",
+      "price_egp": 1100.0,
+      "availability_status": "Available",
+      "prescription_required": true,
+      "dosage_information": "500mg | 100 tablets",
+      "therapeutic_uses": "Inflammatory bowel disease"
+    },
+    {
+      "arabic_name": "سيبرو نقط | 3مجم\\ 1 مل | 10مل",
+      "english_brand_name": "Cipro drops",
+      "price_egp": 15.0,
+      "availability_status": "Available",
+      "prescription_required": false,
+      "dosage_information": "3mg/1ml | 10ml",
+      "therapeutic_uses": "Antibiotic eye drops"
+    },
+    {
+      "arabic_name": "هيرو فيتامين د3+ك2 نقط بالفم | 10مل",
+      "english_brand_name": "Hero Vitamin D3+K2 drops",
+      "price_egp": 95.0,
+      "availability_status": "Available",
+      "prescription_required": false,
+      "dosage_information": "10ml | oral drops",
+      "therapeutic_uses": "Vitamin D3 + K2 supplement"
+    },
+    {
+      "arabic_name": "دواء ثيونيرف fpi thionerv 300 للاعصاب | 20 قرص",
+      "english_brand_name": "Thionerv",
+      "price_egp": 58.0,
+      "availability_status": "Available",
+      "prescription_required": false,
+      "dosage_information": "300mg | 20 tablets",
+      "therapeutic_uses": "For nerves"
+    },
+    {
+      "arabic_name": "بكتول | برتقال خالية من السكر مع فيتامين سي | 8 قطع",
+      "english_brand_name": "Pectol",
+      "price_egp": 25.0,
+      "availability_status": "Available",
+      "prescription_required": false,
+      "dosage_information": "8 pieces (drops) | sugar-free",
+      "therapeutic_uses": "With Vitamin C for throat relief"
+    },
+    {
+      "arabic_name": "تربين 1٪ | كريم | 15جم",
+      "english_brand_name": "Terbin",
+      "price_egp": 16.5,
+      "availability_status": "Available",
+      "prescription_required": false,
+      "dosage_information": "1% cream | 15g",
+      "therapeutic_uses": "Antifungal cream"
+    },
+    {
+      "arabic_name": "برينيل سي آر | 400 مجم | 30 قرص",
+      "english_brand_name": "PrianiL C.R.",
+      "price_egp": 162.0,
+      "availability_status": "Available",
+      "prescription_required": true,
+      "dosage_information": "400mg | 30 controlled-release tablets",
+      "therapeutic_uses": "Controlled-release pain medication"
+    },
+    {
+      "arabic_name": "نيفروميد ادفانس | بطعم التوتي فروتي | 14 كيس",
+      "english_brand_name": "Nephromed Advance",
+      "price_egp": 375.0,
+      "availability_status": "Available",
+      "prescription_required": false,
+      "dosage_information": "14 sachets | tutti frutti flavor",
+      "therapeutic_uses": "Kidney support supplement"
+    },
+    {
+      "arabic_name": "فيتامين هـ فورت 400 | 20 كبسولة",
+      "english_brand_name": "Vitamin E Forte 400",
+      "price_egp": 34.0,
+      "availability_status": "Available",
+      "prescription_required": false,
+      "dosage_information": "400 IU | 20 capsules",
+      "therapeutic_uses": "Vitamin E supplement"
+    },
+    {
+      "arabic_name": "كورتوبكت 300 ملجم (cortopect 300) | 30 كبسولة",
+      "english_brand_name": "Cortopect",
+      "price_egp": 150.0,
+      "availability_status": "Available",
+      "prescription_required": true,
+      "dosage_information": "300mg | 30 capsules",
+      "therapeutic_uses": "Corticosteroid medication"
+    },
+    {
+      "arabic_name": "بيسويفت 1000مكجم | 30 قرص",
+      "english_brand_name": "Bswift",
+      "price_egp": 95.0,
+      "availability_status": "Available",
+      "prescription_required": false,
+      "dosage_information": "1000mcg | 30 sublingual dispersible tablets",
+      "therapeutic_uses": "Vitamin B12 sublingual supplement"
+    },
+    {
+      "arabic_name": "مارفيل | اقراص خميرة لزيادة الوزن الطبيعي | 30قرص",
+      "english_brand_name": "Marvell (Yeast tablets)",
+      "price_egp": 40.0,
+      "availability_status": "Available",
+      "prescription_required": false,
+      "dosage_information": "30 tablets",
+      "therapeutic_uses": "For natural weight gain"
+    }
+  ],
+  "therapeutic_categories": {
+    "antibiotics": ["Zithromax", "Cipro drops"],
+    "mental_health": ["Risperdal", "Aripiprazole"],
+    "inflammatory_bowel": ["Pentasa"],
+    "respiratory": ["Fluimucil", "Claritine"],
+    "allergies": ["Claritine"],
+    "antifungal": ["Terbin"],
+    "vitamins_supplements": ["Hero Vitamin D3+K2", "Vitamin E Forte", "Bswift"],
+    "kidney_support": ["Nephromed Advance"],
+    "urinary": ["Renal S"],
+    "nervous_system": ["Thionerv"],
+    "weight_gain": ["Marvell yeast tablets"],
+    "throat_relief": ["Pectol"],
+    "deworming": ["Alzental"],
+    "corticosteroids": ["Cortopect"],
+    "controlled_release": ["PrianiL C.R."],
+    "antiseptics": ["Boric Acid"]
+  },
+  "price_analysis": {
+    "minimum_price": 12.0,
+    "maximum_price": 1100.0,
+    "average_price": 129.9,
+    "total_page_value": 2598.0
+  },
+  "prescription_distribution": {
+    "prescription_required": 8,
+    "otc_available": 12,
+    "prescription_percentage": 40.0
+  }
+}

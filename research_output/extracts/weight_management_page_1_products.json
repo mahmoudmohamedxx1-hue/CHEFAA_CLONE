@@ -1,0 +1,35 @@
+📄 Extracted from page: ادارة الوزن - شفاء
+URL: https://chefaa.com/eg-ar/now/category/health-care-devices/weight-management
+
+Extracted content:
+```json
+{
+  "title": "ادارة الوزن - شفاء",
+  "url": "https://chefaa.com/eg-ar/now/category/health-care-devices/weight-management",
+  "summary": "This page is titled 'Weight Management' (ادارة الوزن) and displays products for the 'Weight Management' category under 'Medical Supplies', contrary to the goal specifying 'Daily Essentials'. The pagination indicates this is page 1, and no products for 'page 4' are available. Despite a 'no results for undefined' message, one product is prominently listed.",
+  "key_points": [
+    "The page content is for the 'Weight Management' category, not 'Daily Essentials'.",
+    "The pagination shows this is page 1 of the category, not page 4.",
+    "Only one product is listed on this page.",
+    "Descriptions and specifications for products are not available on this category listing page."
+  ],
+  "products": [
+    {
+      "arabic_name": "جرانزيا برستيج | ميزان شخصي إلكتروني | 180كجم",
+      "english_name": "Granzia Prestige | Electronic Personal Scale | 180kg",
+      "description": "N/A (not available on category page)",
+      "price": "800 جنيه",
+      "brand": "جرانزيا برستيج",
+      "stock_status": "In Stock (implied by 'Add to cart')",
+      "specifications": "N/A (not available on category page)",
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/granzia-prestige-electronic-personal-scale-180kg-icmt"
+    }
+  ],
+  "relevant_links": [
+    "https://chefaa.com:443/eg-ar/nowProduct/granzia-prestige-electronic-personal-scale-180kg-icmt",
+    "https://chefaa.com:443/eg-ar/now/category/health-care-devices/weight-management",
+    "https://chefaa.com:443/eg-ar/now/category/daily-essentials"
+  ],
+  "file_name": "weight_management_page_1_products.json"
+}
+```

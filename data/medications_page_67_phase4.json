@@ -1,0 +1,222 @@
+{
+  "extraction_metadata": {
+    "page_number": 67,
+    "phase": "Phase 4",
+    "extraction_date": "2025-11-01",
+    "source_url": "https://chefaa.com/eg-ar/now/category/medications?page=67",
+    "total_medications_extracted": 20,
+    "cumulative_total": 1197,
+    "phase_completion": "PHASE 4 COMPLETED"
+  },
+  "medications": [
+    {
+      "arabic_name": "كونترولوك",
+      "english_brand_name": "Controloc",
+      "price_egp": "Not visible on page",
+      "availability_status": "Not visible on page",
+      "prescription_required": true,
+      "dosage_information": "20mg | 14 tablets",
+      "therapeutic_uses": "Antacid medication"
+    },
+    {
+      "arabic_name": "كوبالامون",
+      "english_brand_name": "Cobalamoun",
+      "price_egp": 75,
+      "availability_status": "In stock",
+      "prescription_required": false,
+      "dosage_information": "1000mcg | 30 sublingual tablets",
+      "therapeutic_uses": "Vitamin B12 supplement"
+    },
+    {
+      "arabic_name": "أسبوسيد",
+      "english_brand_name": "Aspocid",
+      "price_egp": 33,
+      "availability_status": "In stock",
+      "prescription_required": false,
+      "dosage_information": "75mg | 20 tablets",
+      "therapeutic_uses": "For prevention of blood clots"
+    },
+    {
+      "arabic_name": "فلوتاك",
+      "english_brand_name": "Flotac",
+      "price_egp": 90,
+      "availability_status": "In stock",
+      "prescription_required": false,
+      "dosage_information": "75mg | 20 capsules",
+      "therapeutic_uses": "Pain relief medication"
+    },
+    {
+      "arabic_name": "اوجمنتين",
+      "english_brand_name": "Augmentin",
+      "price_egp": 117,
+      "availability_status": "In stock",
+      "prescription_required": true,
+      "dosage_information": "625mg | 10 tablets",
+      "therapeutic_uses": "Antibiotic"
+    },
+    {
+      "arabic_name": "ديلتاكلاف",
+      "english_brand_name": "Deltaclav",
+      "price_egp": 89,
+      "availability_status": "In stock",
+      "prescription_required": true,
+      "dosage_information": "457mg | 80ml",
+      "therapeutic_uses": "Antibiotic"
+    },
+    {
+      "arabic_name": "لاموترين",
+      "english_brand_name": "Lamotrine",
+      "price_egp": 120,
+      "availability_status": "In stock",
+      "prescription_required": true,
+      "dosage_information": "100mg | 30 tablets",
+      "therapeutic_uses": "For treating epilepsy and convulsions"
+    },
+    {
+      "arabic_name": "بلنديل",
+      "english_brand_name": "Plendil",
+      "price_egp": 53,
+      "availability_status": "In stock",
+      "prescription_required": true,
+      "dosage_information": "2.5mg | 30 tablets",
+      "therapeutic_uses": "For treating high blood pressure"
+    },
+    {
+      "arabic_name": "انتريستو",
+      "english_brand_name": "Entresto",
+      "price_egp": 1700,
+      "availability_status": "In stock",
+      "prescription_required": true,
+      "dosage_information": "50mg | 28 tablets",
+      "therapeutic_uses": "Heart failure medication"
+    },
+    {
+      "arabic_name": "كريستوليب",
+      "english_brand_name": "Crestolip",
+      "price_egp": 108,
+      "availability_status": "In stock",
+      "prescription_required": true,
+      "dosage_information": "10mg | 30 tablets",
+      "therapeutic_uses": "For high cholesterol"
+    },
+    {
+      "arabic_name": "ديوسمين بلس",
+      "english_brand_name": "Diosmin Plus",
+      "price_egp": 111,
+      "availability_status": "In stock",
+      "prescription_required": true,
+      "dosage_information": "500mg | 30 tablets",
+      "therapeutic_uses": "Circulation support medication"
+    },
+    {
+      "arabic_name": "روتاهيلكس",
+      "english_brand_name": "Rotahelex",
+      "price_egp": 55,
+      "availability_status": "In stock",
+      "prescription_required": false,
+      "dosage_information": "30ml drops",
+      "therapeutic_uses": "For respiratory airways"
+    },
+    {
+      "arabic_name": "ادينوسين فورت",
+      "english_brand_name": "Adenosin Forte",
+      "price_egp": 45,
+      "availability_status": "In stock",
+      "prescription_required": true,
+      "dosage_information": "3 ampoules",
+      "therapeutic_uses": "Circulation medication"
+    },
+    {
+      "arabic_name": "ريبلسس",
+      "english_brand_name": "Rybelsus",
+      "price_egp": 1575,
+      "availability_status": "In stock",
+      "prescription_required": true,
+      "dosage_information": "14mg | 10 tablets",
+      "therapeutic_uses": "For weight loss and diabetes treatment"
+    },
+    {
+      "arabic_name": "ديجريزيان",
+      "english_brand_name": "Degreasian",
+      "price_egp": 384,
+      "availability_status": "In stock",
+      "prescription_required": false,
+      "dosage_information": "1mg | 28 capsules",
+      "therapeutic_uses": "For treating high triglycerides in blood"
+    },
+    {
+      "arabic_name": "تينورمين",
+      "english_brand_name": "Tenormin",
+      "price_egp": 60,
+      "availability_status": "In stock",
+      "prescription_required": false,
+      "dosage_information": "100mg | 28 tablets",
+      "therapeutic_uses": "Blood pressure medication"
+    },
+    {
+      "arabic_name": "فيروسارجين",
+      "english_brand_name": "Visceralgine",
+      "price_egp": 35,
+      "availability_status": "In stock",
+      "prescription_required": false,
+      "dosage_information": "120ml syrup",
+      "therapeutic_uses": "Digestive medication"
+    },
+    {
+      "arabic_name": "ريسبيردال",
+      "english_brand_name": "Risperdal",
+      "price_egp": 137,
+      "availability_status": "In stock",
+      "prescription_required": true,
+      "dosage_information": "1mg | 30ml drops",
+      "therapeutic_uses": "For treating depression and anxiety"
+    },
+    {
+      "arabic_name": "لاميكتال",
+      "english_brand_name": "Lamictal",
+      "price_egp": 87,
+      "availability_status": "Limited quantity",
+      "prescription_required": false,
+      "dosage_information": "25mg | 30 tablets",
+      "therapeutic_uses": "For treating epilepsy"
+    },
+    {
+      "arabic_name": "دونيفوكسات",
+      "english_brand_name": "Donifoxate",
+      "price_egp": 102,
+      "availability_status": "In stock",
+      "prescription_required": true,
+      "dosage_information": "40mg | 30 tablets",
+      "therapeutic_uses": "For treating gout"
+    }
+  ],
+  "therapeutic_categories": {
+    "antibiotics": ["Augmentin", "Deltaclav"],
+    "epilepsy": ["Lamotrine", "Lamictal"],
+    "blood_pressure": ["Plendil", "Tenormin"],
+    "heart_medications": ["Entresto", "Diosmin Plus"],
+    "cholesterol": ["Crestolip"],
+    "diabetes_weight_loss": ["Rybelsus"],
+    "triglycerides": ["Degreasian"],
+    "gout": ["Donifoxate"],
+    "respiratory": ["Rotahelex"],
+    "circulation": ["Adenosin Forte"],
+    "antacids": ["Controloc"],
+    "vitamins": ["Cobalamoun B12"],
+    "blood_clot_prevention": ["Aspocid"],
+    "pain_relief": ["Flotac"],
+    "digestive": ["Visceralgine"],
+    "depression": ["Risperdal"]
+  },
+  "price_analysis": {
+    "minimum_price": 33,
+    "maximum_price": 1700,
+    "average_price": 248.7,
+    "total_page_value": 4975
+  },
+  "prescription_distribution": {
+    "prescription_required": 12,
+    "otc_available": 7,
+    "prescription_percentage": 63.2
+  }
+}

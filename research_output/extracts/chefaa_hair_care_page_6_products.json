@@ -1,0 +1,233 @@
+📄 Extracted from page: العناية بالشعر - شفاء
+URL: https://chefaa.com/eg-ar/now/category/hair-care?page=6
+
+Extracted content:
+```json
+{
+  "title": "العناية بالشعر - شفاء",
+  "url": "https://chefaa.com/eg-ar/now/category/hair-care?page=6",
+  "page_confirmation": {
+    "is_page_6": true,
+    "category": "Hair Care"
+  },
+  "summary": "This page, identified as page 6 of the 'Hair Care' category on Chefaa, presents a list of 20 hair care products. For each product, the listing includes its name (in Arabic, with an inferred English translation), brand, price in EGP, and specifications like volume or weight. All products appear to be available for purchase, indicated by the 'Add to cart' option. No customer ratings or detailed usage instructions are provided directly on this listing page.",
+  "key_points": [
+    "Displays 20 hair care products.",
+    "Each product entry includes Arabic name, inferred English name, brand, price in EGP, and product size/volume.",
+    "Prices range from 15 EGP to 650 EGP.",
+    "Products include shampoos, conditioners, leave-ins, hair masks, serums, hair gels, and hair dyes.",
+    "Brands featured include L'Oreal Paris, Tresemme, Betadine, Bobana, Luna, Tettello, Aloe Eva, Capixy, Hair Code, Eva, Dabur Amla, Clary, and Karite.",
+    "Availability is indicated by an 'Add to cart' option for all listed items.",
+    "No explicit product descriptions, ratings, reviews, or usage instructions are present on this page."
+  ],
+  "products": [
+    {
+      "product_name_arabic": "لوريال باريس | بلسم إلفيف دريم طويل الأمد | 200مل",
+      "product_name_english": "L'Oreal Paris Elvive Dream Long Super Conditioner",
+      "brand": "لوريال باريس (L'Oreal Paris)",
+      "description": "بلسم إلفيف دريم طويل الأمد",
+      "price_egp": 110,
+      "size_volume": "200مل",
+      "ratings_reviews": "N/A",
+      "stock_availability": "In Stock"
+    },
+    {
+      "product_name_arabic": "تريسمى | شامبو الكيراتين | 400ملى",
+      "product_name_english": "Tresemme Keratin Shampoo",
+      "brand": "تريسمى (Tresemme)",
+      "description": "شامبو الكيراتين",
+      "price_egp": 240,
+      "size_volume": "400ملى",
+      "ratings_reviews": "N/A",
+      "stock_availability": "In Stock"
+    },
+    {
+      "product_name_arabic": "بيتادين | شامبو 7.5% بوفيدون أيودين | 120مل",
+      "product_name_english": "Betadine 7.5% Povidone Iodine Shampoo",
+      "brand": "بيتادين (Betadine)",
+      "description": "شامبو 7.5% بوفيدون أيودين",
+      "price_egp": 90,
+      "size_volume": "120مل",
+      "ratings_reviews": "N/A",
+      "stock_availability": "In Stock"
+    },
+    {
+      "product_name_arabic": "بوبانا | ليف ان بجوز الهند للشعر الكيرلى والجاف | 200مل",
+      "product_name_english": "Bobana Leave-in Coconut Oil Cream for Curly and Dry Hair",
+      "brand": "بوبانا (Bobana)",
+      "description": "ليف ان بجوز الهند للشعر الكيرلى والجاف",
+      "price_egp": 125,
+      "size_volume": "200مل",
+      "ratings_reviews": "N/A",
+      "stock_availability": "In Stock"
+    },
+    {
+      "product_name_arabic": "لونا | بانثينول شامبو للشعر بزيت النيم | 200مل",
+      "product_name_english": "Luna Panthenol Hair Shampoo with Neem Oil",
+      "brand": "لونا (Luna)",
+      "description": "بانثينول شامبو للشعر بزيت النيم",
+      "price_egp": 60,
+      "size_volume": "200مل",
+      "ratings_reviews": "N/A",
+      "stock_availability": "In Stock"
+    },
+    {
+      "product_name_arabic": "بوبانا | شامبو بزيت الثوم الاسود لتغذية الشعر وحمايته من ال...",
+      "product_name_english": "Bobana Black Garlic Oil Shampoo Against Hair Loss",
+      "brand": "بوبانا (Bobana)",
+      "description": "شامبو بزيت الثوم الاسود لتغذية الشعر وحمايته من التساقط",
+      "price_egp": 155,
+      "size_volume": "N/A",
+      "ratings_reviews": "N/A",
+      "stock_availability": "In Stock"
+    },
+    {
+      "product_name_arabic": "شامبو تيتلو للقشرة والحكة للنساء والرجال | 150مل",
+      "product_name_english": "Tettello Anti-Dandruff Shampoo for Men and Women",
+      "brand": "تيتلو (Tettello)",
+      "description": "شامبو للقشرة والحكة للنساء والرجال",
+      "price_egp": 215,
+      "size_volume": "150مل",
+      "ratings_reviews": "N/A",
+      "stock_availability": "In Stock"
+    },
+    {
+      "product_name_arabic": "شامبو بوبانا بجوز الهند للشعر الجاف والهايش | 400 مل",
+      "product_name_english": "Bobana Coconut Oil Shampoo for Dry and Brittle Hair",
+      "brand": "بوبانا (Bobana)",
+      "description": "شامبو بجوز الهند للشعر الجاف والهايش",
+      "price_egp": 150,
+      "size_volume": "400 مل",
+      "ratings_reviews": "N/A",
+      "stock_availability": "In Stock"
+    },
+    {
+      "product_name_arabic": "آلو إيڤا | بلسم الشعر بالارجان و الصبار | 230مل",
+      "product_name_english": "Aloe Eva Conditioner with Argan and Aloe Vera",
+      "brand": "آلو إيڤا (Aloe Eva)",
+      "description": "بلسم الشعر بالارجان و الصبار",
+      "price_egp": 85,
+      "size_volume": "230مل",
+      "ratings_reviews": "N/A",
+      "stock_availability": "In Stock"
+    },
+    {
+      "product_name_arabic": "كابكسي للشعر capixy intense spray سبراي لانبات الشعر | 125 مل",
+      "product_name_english": "Capixy Hair Fertilizer Intense Tonic Spray for Hair Growth",
+      "brand": "كابكسي (Capixy)",
+      "description": "سبراي لانبات الشعر",
+      "price_egp": 650,
+      "size_volume": "125 مل",
+      "ratings_reviews": "N/A",
+      "stock_availability": "In Stock"
+    },
+    {
+      "product_name_arabic": "هيركود | جل لتصفيف الشعر لمظهر مبلل الازرق | 160+25مل مجانًا",
+      "product_name_english": "Hair Code Free Style Wet Look Hair Gel (Blue)",
+      "brand": "هيركود (Hair Code)",
+      "description": "جل لتصفيف الشعر لمظهر مبلل الازرق",
+      "price_egp": 35,
+      "size_volume": "160+25مل",
+      "ratings_reviews": "N/A",
+      "stock_availability": "In Stock"
+    },
+    {
+      "product_name_arabic": "ايفا | شامبو ادفانس كير كلينك لتطويل الشعر التالف | 230مل",
+      "product_name_english": "Eva Advance Care Clinic Shampoo Castor Oil for Damaged Hair Growth",
+      "brand": "ايفا (Eva)",
+      "description": "شامبو ادفانس كير كلينك لتطويل الشعر التالف",
+      "price_egp": 150,
+      "size_volume": "230مل",
+      "ratings_reviews": "N/A",
+      "stock_availability": "In Stock"
+    },
+    {
+      "product_name_arabic": "دابر أملا | سيرم ذهبى لمعالجة واصلاح الشعر الجاف والمتضرر",
+      "product_name_english": "Dabur Amla Golden Serum to Treat and Repair Dry and Damaged Hair",
+      "brand": "دابر أملا (Dabur Amla)",
+      "description": "سيرم ذهبى لمعالجة واصلاح الشعر الجاف والمتضرر",
+      "price_egp": 175,
+      "size_volume": "N/A",
+      "ratings_reviews": "N/A",
+      "stock_availability": "In Stock"
+    },
+    {
+      "product_name_arabic": "لوريال باريس | صبغة شعر برودجي بدون أمونيا | 1.0 أسود",
+      "product_name_english": "L'Oreal Paris Prodigy Ammonia-Free Hair Color 1.0 Noir",
+      "brand": "لوريال باريس (L'Oreal Paris)",
+      "description": "صبغة شعر برودجي بدون أمونيا | 1.0 أسود",
+      "price_egp": 392,
+      "size_volume": "N/A (Hair Dye Kit)",
+      "ratings_reviews": "N/A",
+      "stock_availability": "In Stock"
+    },
+    {
+      "product_name_arabic": "بوبانا | حمام كريم بزيت الثوم الاسود للتساقط | 500مل",
+      "product_name_english": "Bobana Hair Mask with Black Garlic Oil for Hair Loss",
+      "brand": "بوبانا (Bobana)",
+      "description": "حمام كريم بزيت الثوم الاسود للتساقط",
+      "price_egp": 170,
+      "size_volume": "500مل",
+      "ratings_reviews": "N/A",
+      "stock_availability": "In Stock"
+    },
+    {
+      "product_name_arabic": "دوف | شامبو المغذي للعناية بالزيت للنساء | 180مل",
+      "product_name_english": "Dove Nourishing Oil Care Shampoo for Women",
+      "brand": "دوف (Dove)",
+      "description": "شامبو المغذي للعناية بالزيت للنساء",
+      "price_egp": 89,
+      "size_volume": "180مل",
+      "ratings_reviews": "N/A",
+      "stock_availability": "In Stock"
+    },
+    {
+      "product_name_arabic": "كلاري | بوستر شوت | 30مل",
+      "product_name_english": "Clary Booster Shot",
+      "brand": "كلاري (Clary)",
+      "description": "بوستر شوت",
+      "price_egp": 450,
+      "size_volume": "30مل",
+      "ratings_reviews": "N/A",
+      "stock_availability": "In Stock"
+    },
+    {
+      "product_name_arabic": "كلاري | بلسم للشعر الجاف والتالف | 300مل",
+      "product_name_english": "Clary Conditioner for Dry and Damaged Hair",
+      "brand": "كلاري (Clary)",
+      "description": "بلسم للشعر الجاف والتالف",
+      "price_egp": 320,
+      "size_volume": "300مل",
+      "ratings_reviews": "N/A",
+      "stock_availability": "In Stock"
+    },
+    {
+      "product_name_arabic": "الو إيڤا | كريم شعر صبار | 85جم",
+      "product_name_english": "Aloe Eva Hair Cream with Aloe Vera",
+      "brand": "الو إيڤا (Aloe Eva)",
+      "description": "كريم شعر صبار",
+      "price_egp": 50,
+      "size_volume": "85جم",
+      "ratings_reviews": "N/A",
+      "stock_availability": "In Stock"
+    },
+    {
+      "product_name_arabic": "كاريتيه | ماسك للشعر بزبدة الشيا | 35مل",
+      "product_name_english": "Karite Hair Mask with Shea Butter",
+      "brand": "كاريتيه (Karite)",
+      "description": "ماسك للشعر بزبدة الشيا",
+      "price_egp": 15,
+      "size_volume": "35مل",
+      "ratings_reviews": "N/A",
+      "stock_availability": "In Stock"
+    }
+  ],
+  "relevant_links": [
+    "https://chefaa.com:443/eg-ar/now/category/hair-care",
+    "https://chefaa.com:443/eg-ar/now/category/hair-care?page=5",
+    "https://chefaa.com:443/eg-ar/now/category/hair-care?page=7",
+    "https://chefaa.com:443/eg-ar/now/category/hair-care?products_eg%5Bpage%5D=1"
+  ],
+  "file_name": "chefaa_hair_care_page_6_products.json"
+}
+```

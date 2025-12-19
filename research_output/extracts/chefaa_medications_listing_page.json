@@ -1,0 +1,42 @@
+📄 Extracted from page: الأدوية - شفاء
+URL: https://chefaa.com/eg-ar/now/category/medications
+
+Extracted content:
+```json
+{
+  "title": "الأدوية - شفاء",
+  "url": "https://chefaa.com/eg-ar/now/category/medications",
+  "summary": "This page is a product listing page for 'Medications' on the Chefaa e-commerce platform, tailored for the Egyptian Arabic-speaking market. It serves as a comprehensive online pharmacy interface, allowing users to browse, search, filter, and sort medication products. A key feature is the location-based delivery system, which determines product availability. The page is structured with extensive navigation through main and sub-categories, providing a robust e-commerce experience with various filtering and sorting capabilities to help users find specific medications or related health products.",
+  "key_points": [
+    "**Page Category**: 'الأدوية' (Medications) is the current category, indicated by the title and breadcrumbs.",
+    "**Delivery Location Feature**: A prominent pop-up 'توصيل إلى' (Deliver to) allows users to specify their location, crucial for displaying available products and pharmacies. It includes options to 'حدد موقعك' (Select your location), 'اختر موقع آخر' (Choose another location), and offers a 'سوبر توفير' (Super Saving) service if no nearby pharmacies are found. Alerts for location issues are displayed.",
+    "**Layout**: The page features a header with search, user account, wishlist, and cart icons; a left sidebar for category navigation and filtering; a main content area displaying product listings; and a comprehensive footer with links to company information, services, app downloads, and social media.",
+    "**Main Navigation/Categories (Sidebar)**: Extensive list of main categories including الأدوية (Medications), العناية بالشعر (Hair Care), العناية بالبشرة (Skin Care), العناية اليومية (Daily Essentials), الأم والطفل (Mom & Baby), المكياج و الاكسسوارات (Makeup & Accessories), المستلزمات الطبية (Medical Supplies), الفيتامينات والمكملات (Vitamins & Supplements), الصحة الجنسية (Sexual Wellness), and مستلزمات الحيوانات (Pet Supplies). Each main category has multiple sub-categories.",
+    "**Search Functionality**: A search bar labeled 'ابحث باسم الدواء' (Search by medication name) is available in the header.",
+    "**Filtering Options**: A dedicated 'التصنيفات' (Classifications) section offers numerous filters, including: الأقسام الأساسية (Main Sections), الأقسام الفرعية (Sub Sections), الأقسام الفرعية الثانوية (Secondary Sub Sections), الماركات (Brands), النوع (Type), نوع البشرة (Skin Type), التكوين (Composition), الحجم (Size), التركيز (Concentration), اللون (Color), الفئة العمرية (Age Group), العناية بالاسنان (Dental Care), نوع الشعر (Hair Type), لون الشعر (Hair Color), حجم العبوه (Package Size), مناسب ل (Suitable for), خالي من (Free from), مميزات خاصة (Special Features), الرائحة (Scent), المذاق (Taste), and a 'السعر' (Price) range slider (0-8000 جنيه). A 'مسح الكل' (Clear All) option is provided.",
+    "**Sorting Options**: Users can 'ترتيب حسب' (Sort by) the following criteria: المتاح فقط (Available only), السعر : من الأعلى إلى الأقل (Price: High to Low), and السعر : من الأقل إلى الأعلى (Price: Low to High).",
+    "**Product Display Format**: Products are displayed in a grid-like fashion, each showing: an image, product name/title, price (in Egyptian Pounds 'جنيه'), and an 'اضف الى العربة' (Add to Cart) button. Some products may also show a 'كمية محدودة' (Limited Quantity) label.",
+    "**Pagination**: Standard pagination controls are present, including '«', '‹', page numbers (e.g., 1, 2, 3... up to 134 pages), '›', and '»' for navigation.",
+    "**E-commerce Features**: Includes a wishlist ('المفضلة'), shopping cart ('السلة'), login/registration options, language switcher (Arabic/English), 'الروشتة' (Prescription) upload service, 'الروشتة الشهرية' (Monthly Prescription) service, links to mobile apps (Apple App Store, Google Play, Huawei AppGallery), and social media links (Facebook, Instagram, LinkedIn, TikTok)."
+  ],
+  "relevant_links": [
+    "https://chefaa.com:443/eg-ar",
+    "https://chefaa.com:443/eg-ar/now/category/medications",
+    "https://chefaa.com:443/eg-ar/now/order-medicine-online-prescription",
+    "https://chefaa.com:443/login",
+    "https://chefaa.com:443/eg-ar/cart",
+    "https://chefaa.com:443/eg-en/now/category/medications",
+    "https://chefaa.com:443/eg-ar/about-us",
+    "https://chefaa.com/blog",
+    "https://chefaa.com:443/eg-ar/contact-us",
+    "https://chefaa.com:443/eg-ar/become-partner-pharmacy",
+    "https://chefaa.com:443/eg-ar/order_monthly_prescription",
+    "https://chefaa.com:443/eg-ar/nowProduct/controloc-antacid-20mg-14tab",
+    "https://chefaa.com:443/eg-ar/now/category/medications?page=2",
+    "https://apps.apple.com/eg/app/chefaa-medicine-delivery/id1438961456",
+    "https://play.google.com/store/apps/details?id=app.com.chefaa&hl=ar",
+    "https://appgallery.huawei.com/app/C102545145"
+  ],
+  "file_name": "chefaa_medications_listing_page.json"
+}
+```

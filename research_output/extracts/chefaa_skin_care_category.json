@@ -1,0 +1,177 @@
+📄 Extracted from page: العناية بالبشرة - شفاء
+URL: https://chefaa.com/eg-ar/now/category/skin-care
+
+Extracted content:
+```json
+{
+  "title": "العناية بالبشرة - شفاء",
+  "url": "https://chefaa.com/eg-ar/now/category/skin-care",
+  "summary": "This page is the 'Skin Care' category page on Chefaa.com. It displays a list of skin care products, including deodorants, moisturizers, serums, masks, and cleansers from brands like Nivea, Eva, and Starville. The page features pagination with 56 total pages, and a comprehensive set of filtering and sorting options.",
+  "key_points": [
+    {
+      "is_skin_care_category": true,
+      "page_title_match": "العناية بالبشرة"
+    },
+    {
+      "current_page_number": 1,
+      "total_number_of_pages": 56
+    },
+    {
+      "products_visible_on_page": [
+        {
+          "name": "نيفيا | مزيل العرق بروتكت اند كير ستيك للنساء | 40مل",
+          "price": "150 جنيه",
+          "brand": "نيفيا"
+        },
+        {
+          "name": "نيفيا | سوفت كريم مرطب ومنعش للجسم | 50مل",
+          "price": "48 جنيه",
+          "brand": "نيفيا"
+        },
+        {
+          "name": "نيفيا | سوفت كريم مرطب ومنعش للجسم | 100مل",
+          "price": "80 جنيه",
+          "brand": "نيفيا"
+        },
+        {
+          "name": "نيفيا | سوفت كريم مرطب ومنعش للجسم | 200مل",
+          "price": "145 جنيه",
+          "brand": "نيفيا"
+        },
+        {
+          "name": "إيفا | نياسيناميد مضاد للشيخوخة | 30 مل",
+          "price": "210 جنيه",
+          "brand": "إيفا"
+        },
+        {
+          "name": "إيفا | قناع الفحم ينقي البشرة",
+          "price": "90 جنيه",
+          "brand": "إيفا"
+        },
+        {
+          "name": "إيفا | مقشر لليد جولد سبيل | 50مل",
+          "price": "70 جنيه",
+          "brand": "إيفا"
+        },
+        {
+          "name": "إيفا | ناتشورال جلو كريم لتفتيح وترطيب منطقة حول العين | 15جم",
+          "price": "65 جنيه",
+          "brand": "إيفا"
+        },
+        {
+          "name": "إيفا | كريم نهاري للعناية بالبشرة بعامل حماية من الشمس SPF ...",
+          "price": "100 جنيه",
+          "brand": "إيفا"
+        },
+        {
+          "name": "ايفا | كريم الاستحمام سكين كير باشون | 250مل",
+          "price": "100 جنيه",
+          "brand": "ايفا"
+        },
+        {
+          "name": "إيفا | ماسك الكولاجين من سكين كلينيك",
+          "price": "90 جنيه",
+          "brand": "إيفا"
+        },
+        {
+          "name": "إيفا | كريم الوجه الخالي من البقع | 18 جرام",
+          "price": "25 جنيه",
+          "brand": "إيفا"
+        },
+        {
+          "name": "كريم ستارفيل للحبوب وإزالة الرؤوس السوداء للبشرة الدهنية | ...",
+          "price": "85 جنيه",
+          "brand": "ستارفيل"
+        },
+        {
+          "name": "ستارفيل غسول جل للبشرة الدهنية والمعرضة للحبوب | 100 مل",
+          "price": "80 جنيه",
+          "brand": "ستارفيل"
+        },
+        {
+          "name": "غسول ستارفيل للحبوب starville غسول للبشرة الدهنية والمختلطة...",
+          "price": "125 جنيه",
+          "brand": "ستارفيل"
+        },
+        {
+          "name": "ستارفيل غسول جل للبشرة الدهنية والمعرضة للحبوب | 400 مل",
+          "price": "210 جنيه",
+          "brand": "ستارفيل"
+        },
+        {
+          "name": "ستارفيل | جل مرطب للبشرة الدهنية | 100جم",
+          "price": "175 جنيه",
+          "brand": "ستارفيل"
+        },
+        {
+          "name": "صابونة ستارفيل للحبوب للبشره الدهنية | 100جم",
+          "price": "50 جنيه",
+          "brand": "ستارفيل"
+        },
+        {
+          "name": "ستارفيل | ماسك ورقي للبشرة المعرضة للحبوب | 1 كيس",
+          "price": "45 جنيه",
+          "brand": "ستارفيل"
+        },
+        {
+          "name": "ستارفيل | اي كونتور للعين للهالات السوداء | 30جم",
+          "price": "220 جنيه",
+          "brand": "ستارفيل"
+        }
+      ]
+    },
+    {
+      "pagination_structure": {
+        "has_previous_button": true,
+        "has_next_button": true,
+        "current_page_not_clickable": true,
+        "page_numbers_visible": ["1", "2", "3", "4", "5", "6", "7", "8", "9", "10"],
+        "has_ellipsis": true,
+        "last_pages_visible": ["55", "56"]
+      }
+    },
+    {
+      "filtering_options": [
+        "الأقسام الأساسية (Main Categories)",
+        "الأقسام الفرعية (Sub Categories)",
+        "الأقسام الفرعية الثانوية (Secondary Sub Categories)",
+        "الماركات (Brands)",
+        "النوع (Type)",
+        "نوع البشرة (Skin Type)",
+        "التكوين (Formulation)",
+        "الحجم (Size)",
+        "التركيز (Concentration)",
+        "اللون (Color)",
+        "الفئة العمرية (Age Group)",
+        "العناية بالاسنان (Dental Care)",
+        "نوع الشعر (Hair Type)",
+        "لون الشعر (Hair Color)",
+        "حجم العبوه (Pack Size)",
+        "مناسب ل (Suitable for)",
+        "خالي من (Free From)",
+        "مميزات خاصة (Special Features)",
+        "الرائحة (Scent)",
+        "المذاق (Taste)",
+        "السعر (Price range slider 0-8000)"
+      ],
+      "sorting_options": [
+        "المتاح فقط (Available only)",
+        "السعر : من الأعلى إلى الأقل (Price: High to Low)",
+        "السعر : من الأقل إلى الأعلى (Price: Low to High)"
+      ]
+    }
+  ],
+  "relevant_links": [
+    "https://chefaa.com:443/eg-ar/now/category/skin-care?page=2",
+    "https://chefaa.com:443/eg-ar/now/category/skin-care?page=56",
+    "https://chefaa.com:443/eg-ar/now/category/skin-care/cleansers",
+    "https://chefaa.com:443/eg-ar/now/category/skin-care/moisturizers",
+    "https://chefaa.com:443/eg-ar/now/category/skin-care/serum",
+    "https://chefaa.com:443/eg-ar/now/category/skin-care/masks",
+    "https://chefaa.com:443/eg-ar/now/category/skin-care/sun-care",
+    "https://chefaa.com:443/eg-ar/now/category/skin-care/skin-tech-tools",
+    "https://chefaa.com:443/eg-ar/now/category/skin-care/eye-care"
+  ],
+  "file_name": "chefaa_skin_care_category.json"
+}
+```

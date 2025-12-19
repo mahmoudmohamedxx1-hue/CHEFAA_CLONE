@@ -1,0 +1,189 @@
+📄 Extracted from page: شامبو وبلسم - شفاء
+URL: https://chefaa.com/eg-ar/now/category/hair-care/shampoo-conditioner
+
+Extracted content:
+```json
+{
+  "title": "شامبو وبلسم - شفاء",
+  "url": "https://chefaa.com/eg-ar/now/category/hair-care/shampoo-conditioner",
+  "summary": "This page displays a selection of 20 shampoo and conditioner products available on Chefaa.com. The products cover a range of hair care needs, including hydration, nourishment, anti-dandruff, and repair, from various brands such as Eva, L'Oréal, Selengena, ACM, Bio Soft, Clary, and Justin Blue. Product volumes typically range from 125ml to 600ml, and prices are listed in Egyptian Pounds (EGP). Pagination controls indicate that there are 11 pages of products in this category.",
+  "key_points": [
+    "20 shampoo and conditioner products are listed on this page.",
+    "Products are from various brands including Eva, L'Oréal, Selengena, ACM, Bio Soft, Clary, and Justin Blue.",
+    "Available product types address needs such as hydration, nourishment, anti-dandruff, hair health & density, and repair.",
+    "Product volumes vary, typically from 125ml to 600ml, with one product listed as 500gm.",
+    "Prices for the listed products range from 94 EGP to 549 EGP.",
+    "Pagination controls are present, showing a total of 11 pages for this category."
+  ],
+  "products": [
+    {
+      "name": "إيفا | اوبتيموم كير ريسبي هايدريتنج بلند شامبو برائحة التوت...",
+      "brand": "إيفا",
+      "type": "شامبو",
+      "details": "اوبتيموم كير ريسبي هايدريتنج بلند برائحة التوت",
+      "volume": "350ml",
+      "price": "125 جنيه"
+    },
+    {
+      "name": "إيفا | اوبتيموم كير ريسبي نوريشينج بلند بلسم برائحة جوز اله...",
+      "brand": "إيفا",
+      "type": "بلسم",
+      "details": "اوبتيموم كير ريسبي نوريشينج بلند برائحة جوز الهند",
+      "volume": "350ml",
+      "price": "125 جنيه"
+    },
+    {
+      "name": "إيفا | اوبتيموم كير ريسيبي نوريشينج بلند شامبو برائحة جوز ا...",
+      "brand": "إيفا",
+      "type": "شامبو",
+      "details": "اوبتيموم كير ريسيبي نوريشينج بلند برائحة جوز الهند",
+      "volume": "350ml",
+      "price": "125 جنيه"
+    },
+    {
+      "name": "إيفا | اوبتيموم كير ريسبي سيلك أند شاين بلند بلسم برائحة ال...",
+      "brand": "إيفا",
+      "type": "بلسم",
+      "details": "اوبتيموم كير ريسبي سيلك أند شاين بلند برائحة المارشميلو",
+      "volume": "350ml",
+      "price": "130 جنيه"
+    },
+    {
+      "name": "شامبو ايفا بالمارشميلو اوبتيموم كير ريسيبي | 350 مل",
+      "brand": "ايفا",
+      "type": "شامبو",
+      "details": "بالمارشميلو اوبتيموم كير ريسيبي",
+      "volume": "350 مل",
+      "price": "125 جنيه"
+    },
+    {
+      "name": "إيفا | اوبتيموم كير ريسبي سترينث بوستر بلند بلسم برائحة الم...",
+      "brand": "إيفا",
+      "type": "بلسم",
+      "details": "اوبتيموم كير ريسبي سترينث بوستر بلند برائحة الموكا",
+      "volume": "350ml",
+      "price": "125 جنيه"
+    },
+    {
+      "name": "إيفا | اوبتيموم كير ريسبي سترينث بوستر بلند شامبو برائحة ال...",
+      "brand": "إيفا",
+      "type": "شامبو",
+      "details": "اوبتيموم كير ريسبي سترينث بوستر بلند برائحة الموكا",
+      "volume": "350ml",
+      "price": "125 جنيه"
+    },
+    {
+      "name": "سيلينجينا | شامبو ضد القشرة | 220مل",
+      "brand": "سيلينجينا",
+      "type": "شامبو",
+      "details": "ضد القشرة",
+      "volume": "220مل",
+      "price": "165 جنيه"
+    },
+    {
+      "name": "لوريال | بلسم إلفيف هيالورون مويستشر 72 ساعة | 360مل",
+      "brand": "لوريال",
+      "type": "بلسم",
+      "details": "إلفيف هيالورون مويستشر 72 ساعة",
+      "volume": "360مل",
+      "price": "195 جنيه"
+    },
+    {
+      "name": "لوريال الفيف | بيور هيالورون شامبو للشعر الدهني | 200مل",
+      "brand": "لوريال الفيف",
+      "type": "شامبو",
+      "details": "بيور هيالورون للشعر الدهني",
+      "volume": "200مل",
+      "price": "125 جنيه"
+    },
+    {
+      "name": "لوريال باريس | الفيف شامبو بالزيوت الثمينة للشعر شديد الجفا...",
+      "brand": "لوريال باريس",
+      "type": "شامبو",
+      "details": "الفيف بالزيوت الثمينة للشعر شديد الجفاف",
+      "volume": "200ml",
+      "price": "125 جنيه"
+    },
+    {
+      "name": "لوريال باريس | بلسم مقاوم للتكسر الفيف فل رزيست | 200مل",
+      "brand": "لوريال باريس",
+      "type": "بلسم",
+      "details": "مقاوم للتكسر الفيف فل رزيست",
+      "volume": "200مل",
+      "price": "115 جنيه"
+    },
+    {
+      "name": "لوريال باريس الفيف هيالرون شامبو مرطب للشعر الجاف والتالف |...",
+      "brand": "لوريال باريس",
+      "type": "شامبو",
+      "details": "الفيف هيالرون شامبو مرطب للشعر الجاف والتالف",
+      "volume": "600ml",
+      "price": "214 جنيه"
+    },
+    {
+      "name": "لوريال باريس | شامبو توتال ريبير 5 الفيف | 600مل",
+      "brand": "لوريال باريس",
+      "type": "شامبو",
+      "details": "توتال ريبير 5 الفيف",
+      "volume": "600ml",
+      "price": "240 جنيه"
+    },
+    {
+      "name": "لوريال باريس إلفيف | هيالورون بيور بلسم لإعادة الترطيب للشع...",
+      "brand": "لوريال باريس",
+      "type": "بلسم",
+      "details": "إلفيف هيالورون بيور بلسم لإعادة الترطيب للشعر الدهني",
+      "volume": "360ml",
+      "price": "180 جنيه"
+    },
+    {
+      "name": "بلسم لوريال الفيف هيالرون البنفسجي للشعر الجاف بالهيالوروني...",
+      "brand": "لوريال الفيف",
+      "type": "بلسم",
+      "details": "هيالرون البنفسجي للشعر الجاف بالهيالورونيك",
+      "volume": "200ml",
+      "price": "94 جنيه"
+    },
+    {
+      "name": "ايه سي ام | شامبو لكل انواع الشعر | 125مل",
+      "brand": "ايه سي ام",
+      "type": "شامبو",
+      "details": "لكل انواع الشعر",
+      "volume": "125مل",
+      "price": "549 جنيه"
+    },
+    {
+      "name": "بايو سوفت | بلسم لترطيب الشعر بعمق بالافوكادو | 500جم",
+      "brand": "بايو سوفت",
+      "type": "بلسم",
+      "details": "لترطيب الشعر بعمق بالافوكادو",
+      "volume": "500جم",
+      "price": "110 جنيه"
+    },
+    {
+      "name": "كلاري | شامبو ضد القشرة | 300مل",
+      "brand": "كلاري",
+      "type": "شامبو",
+      "details": "ضد القشرة",
+      "volume": "300مل",
+      "price": "320 جنيه"
+    },
+    {
+      "name": "جاستن بلو | شامبو لصحة وكثافة الشعر ومضاد للقشرة | 175مل",
+      "brand": "جاستن بلو",
+      "type": "شامبو",
+      "details": "لصحة وكثافة الشعر ومضاد للقشرة",
+      "volume": "175مل",
+      "price": "360 جنيه"
+    }
+  ],
+  "pagination": {
+    "has_pagination": true,
+    "current_page": 1,
+    "total_pages": 11,
+    "pagination_controls_exist": true
+  },
+  "total_products_on_page": 20,
+  "file_name": "chefaa_shampoo_conditioner_page1_products.json"
+}
+```

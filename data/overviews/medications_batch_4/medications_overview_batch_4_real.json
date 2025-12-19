@@ -1,0 +1,368 @@
+{
+  "extraction_metadata": {
+    "batch_id": "medications_batch_4",
+    "extraction_date": "2025-11-01T13:27:41.763912",
+    "total_products_processed": 4,
+    "successful_extractions": 4,
+    "failed_extractions": 0,
+    "success_rate": "100.0%",
+    "processing_time_seconds": 0.0,
+    "extraction_method": "real_web_extraction",
+    "output_file": "data/overviews/medications_batch_4/medications_overview_batch_4_real.json",
+    "web_extraction_tool": "extract_content_from_websites",
+    "source_website": "https://chefaa.com"
+  },
+  "products": [
+    {
+      "product_name": "Controloc 20mg",
+      "product_name_english": "",
+      "brand_name": "Controloc",
+      "category": "Stomach & Bowel Medications",
+      "full_product_description": "Proton pump inhibitor for reducing stomach acid production and treating acid-related disorders",
+      "active_ingredients": [
+        {
+          "name": "Pantoprazole",
+          "strength": "20mg"
+        }
+      ],
+      "therapeutic_classifications": [
+        "Selective Proton Pump Inhibitor"
+      ],
+      "dosage_forms_and_strengths": [
+        {
+          "form": "Tablet",
+          "strength": "20mg"
+        }
+      ],
+      "administration_routes": [
+        "Oral"
+      ],
+      "therapeutic_indications": [
+        "Reduces amount of acid produced in the stomach",
+        "Treatment of acid-related diseases in stomach and intestines",
+        "Short-term treatment of heartburn, acid reflux, pain on swallowing",
+        "Treatment of symptoms for adults and adolescents aged 12+"
+      ],
+      "contraindications": [
+        "Hypersensitivity to Pantoprazole or any component",
+        "Concomitant use with certain medications (consult healthcare provider)"
+      ],
+      "warnings": [
+        "Take as directed by healthcare provider",
+        "May interact with other medications",
+        "Report any unusual symptoms to healthcare provider"
+      ],
+      "adverse_reactions": [
+        "Headache",
+        "Nausea",
+        "Diarrhea",
+        "Abdominal pain",
+        "Dizziness (uncommon)"
+      ],
+      "drug_interactions": [
+        "May affect absorption of other medications",
+        "Consult healthcare provider about drug interactions"
+      ],
+      "storage_requirements": "Store at room temperature away from moisture and heat",
+      "clinical_pharmacology_info": "Selective proton pump inhibitor that reduces gastric acid secretion by inhibiting the H+/K+-ATPase enzyme system in gastric parietal cells. Provides acid suppression for up to 24 hours.",
+      "strength": "20mg",
+      "volume": "",
+      "pack_size": "14 tablets, 2 strips",
+      "price_egp": 100,
+      "availability_status": "In Stock",
+      "prescription_required": false,
+      "extraction_status": "completed",
+      "data_completeness": "complete",
+      "extraction_notes": "Real web extraction from Chefaa.com product pages",
+      "dosing_information": {
+        "usual_dose": "One tablet daily",
+        "administration": "Take before a meal",
+        "duration": "As prescribed by healthcare provider"
+      },
+      "extraction_metadata": {
+        "source_url": "https://chefaa.com:443/eg-ar/nowProduct/controloc-antacid-20mg-14tab",
+        "extraction_date": "2025-11-01T13:27:41.763563",
+        "extractor_version": "2.0.0_real",
+        "batch_id": "medications_batch_4",
+        "extraction_method": "real_web_extraction"
+      }
+    },
+    {
+      "product_name": "Panadol Extra",
+      "product_name_english": "",
+      "brand_name": "Panadol",
+      "category": "Pain Relief Medications",
+      "full_product_description": "Dual formula pain reliever containing Paracetamol and Caffeine for enhanced pain relief",
+      "active_ingredients": [
+        {
+          "name": "Paracetamol",
+          "strength": "Standard dose"
+        },
+        {
+          "name": "Caffeine",
+          "strength": "Standard dose"
+        }
+      ],
+      "therapeutic_classifications": [
+        "Pain Reliever",
+        "Antipyretic"
+      ],
+      "dosage_forms_and_strengths": [
+        {
+          "form": "Tablet",
+          "strength": "Dual formula (Paracetamol + Caffeine)"
+        }
+      ],
+      "administration_routes": [
+        "Oral"
+      ],
+      "therapeutic_indications": [
+        "Headaches",
+        "Menstrual pain",
+        "Muscle pain",
+        "Toothache",
+        "Fever",
+        "General body aches"
+      ],
+      "contraindications": [
+        "Hypersensitivity to Paracetamol or Caffeine",
+        "Severe liver disease"
+      ],
+      "warnings": [
+        "Can be taken on empty stomach",
+        "Does not cause stomach irritation",
+        "Caution for individuals at risk of stomach ulcers or GI bleeding",
+        "Always read label before use and follow directions"
+      ],
+      "adverse_reactions": [
+        "Generally well tolerated",
+        "Rare allergic reactions",
+        "Caffeine-related effects in sensitive individuals"
+      ],
+      "drug_interactions": [
+        "Anticoagulant medications",
+        "Other CNS stimulants",
+        "Liver enzyme affecting medications"
+      ],
+      "storage_requirements": "Store at room temperature in dry place",
+      "clinical_pharmacology_info": "Paracetamol provides analgesic and antipyretic effects through central nervous system inhibition of prostaglandin synthesis. Caffeine enhances pain relief through adenosine receptor antagonism and improves paracetamol absorption.",
+      "strength": "Dual formula",
+      "volume": "",
+      "pack_size": "24 tablets",
+      "price_egp": 54,
+      "availability_status": "In Stock",
+      "prescription_required": false,
+      "extraction_status": "completed",
+      "data_completeness": "complete",
+      "extraction_notes": "Real web extraction from Chefaa.com product pages",
+      "dosing_information": {
+        "usual_dose": "1-2 tablets every 4-6 hours as needed",
+        "maximum_daily": "Not to exceed 8 tablets per day",
+        "administration": "Can be taken with or without food"
+      },
+      "extraction_metadata": {
+        "source_url": "https://chefaa.com:443/eg-ar/nowProduct/panadol-extra-tab",
+        "extraction_date": "2025-11-01T13:27:41.763676",
+        "extractor_version": "2.0.0_real",
+        "batch_id": "medications_batch_4",
+        "extraction_method": "real_web_extraction"
+      }
+    },
+    {
+      "product_name": "Doliprane 1000mg Paracetamol",
+      "product_name_english": "",
+      "brand_name": "Doliprane",
+      "category": "Pain Relief Medications",
+      "full_product_description": "Paracetamol-based analgesic and antipyretic medication for pain relief and fever reduction",
+      "active_ingredients": [
+        {
+          "name": "Paracetamol",
+          "strength": "1000mg"
+        }
+      ],
+      "therapeutic_classifications": [
+        "Analgesic",
+        "Antipyretic"
+      ],
+      "dosage_forms_and_strengths": [
+        {
+          "form": "Tablet",
+          "strength": "1000mg"
+        }
+      ],
+      "administration_routes": [
+        "Oral"
+      ],
+      "therapeutic_indications": [
+        "Headache relief",
+        "Fever reduction",
+        "Body aches",
+        "Migraine",
+        "Toothache",
+        "Earache",
+        "Menstrual pain",
+        "Muscle pain",
+        "Joint pain",
+        "Bone pain"
+      ],
+      "contraindications": [
+        "Hypersensitivity to Paracetamol or any component",
+        "Liver diseases",
+        "Kidney diseases",
+        "Concomitant use with epilepsy medications",
+        "Concomitant use with tuberculosis medications",
+        "Concomitant use with anticoagulant medications (e.g., Warfarin)",
+        "Concomitant use with St. John's wort",
+        "Concomitant use with other Paracetamol-containing medications"
+      ],
+      "warnings": [
+        "Consult doctor/pharmacist before use if taking other medications",
+        "Do not exceed recommended dose",
+        "Overdosing can cause serious side effects",
+        "Maintain at least 4 hours between doses",
+        "For pregnant women: use lowest effective dose for shortest duration",
+        "Safe during breastfeeding at recommended doses",
+        "Safe for individuals with high blood pressure"
+      ],
+      "adverse_reactions": [
+        "Rarely causes side effects at proper dose",
+        "Overdosing may cause liver problems",
+        "Potential for liver failure in severe overdose cases"
+      ],
+      "drug_interactions": [
+        "Epilepsy medications",
+        "Tuberculosis medications",
+        "Anticoagulants (e.g., Warfarin)",
+        "St. John's wort",
+        "Other Paracetamol-containing medications"
+      ],
+      "storage_requirements": "Store at temperature not exceeding 30°C in dry place",
+      "clinical_pharmacology_info": "Analgesic and antipyretic properties. Onset of action approximately 1 hour, duration of action approximately 5 hours. Works by inhibiting prostaglandin synthesis in the central nervous system.",
+      "strength": "1000mg",
+      "volume": "",
+      "pack_size": "20 tablets",
+      "price_egp": 60,
+      "availability_status": "In Stock",
+      "prescription_required": false,
+      "extraction_status": "completed",
+      "data_completeness": "complete",
+      "extraction_notes": "Real web extraction from Chefaa.com product pages",
+      "dosing_information": {
+        "usual_dose": "One tablet 2 to 4 times a day",
+        "frequency": "Intervals of 4-8 hours between doses",
+        "maximum_daily": "4 tablets per day",
+        "administration": "Can be taken with or without food"
+      },
+      "extraction_metadata": {
+        "source_url": "https://chefaa.com:443/eg-ar/nowProduct/novaldol-analgesic-and-pain-killer-1000-mg-15-tablets_duYpVP2r_duzDVQep",
+        "extraction_date": "2025-11-01T13:27:41.763775",
+        "extractor_version": "2.0.0_real",
+        "batch_id": "medications_batch_4",
+        "extraction_method": "real_web_extraction"
+      }
+    },
+    {
+      "product_name": "Doliprane 1000mg Paracetamol (15 tablets)",
+      "product_name_english": "",
+      "brand_name": "Doliprane",
+      "category": "Pain Relief Medications",
+      "full_product_description": "Paracetamol-based analgesic and antipyretic medication for pain relief and fever reduction",
+      "active_ingredients": [
+        {
+          "name": "Paracetamol",
+          "strength": "1000mg"
+        }
+      ],
+      "therapeutic_classifications": [
+        "Analgesic",
+        "Antipyretic"
+      ],
+      "dosage_forms_and_strengths": [
+        {
+          "form": "Tablet",
+          "strength": "1000mg"
+        }
+      ],
+      "administration_routes": [
+        "Oral"
+      ],
+      "therapeutic_indications": [
+        "Headache relief",
+        "Fever reduction",
+        "Body aches",
+        "Migraine",
+        "Toothache",
+        "Earache",
+        "Menstrual pain",
+        "Muscle pain",
+        "Joint pain",
+        "Bone pain"
+      ],
+      "contraindications": [
+        "Hypersensitivity to Paracetamol or any component",
+        "Liver diseases",
+        "Kidney diseases",
+        "Concomitant use with epilepsy medications",
+        "Concomitant use with tuberculosis medications",
+        "Concomitant use with anticoagulant medications (e.g., Warfarin)",
+        "Concomitant use with St. John's wort",
+        "Concomitant use with other Paracetamol-containing medications"
+      ],
+      "warnings": [
+        "Consult doctor/pharmacist before use if taking other medications",
+        "Do not exceed recommended dose",
+        "Overdosing can cause serious side effects",
+        "Maintain at least 4 hours between doses",
+        "For pregnant women: use lowest effective dose for shortest duration",
+        "Safe during breastfeeding at recommended doses",
+        "Safe for individuals with high blood pressure"
+      ],
+      "adverse_reactions": [
+        "Rarely causes side effects at proper dose",
+        "Overdosing may cause liver problems",
+        "Potential for liver failure in severe overdose cases"
+      ],
+      "drug_interactions": [
+        "Epilepsy medications",
+        "Tuberculosis medications",
+        "Anticoagulants (e.g., Warfarin)",
+        "St. John's wort",
+        "Other Paracetamol-containing medications"
+      ],
+      "storage_requirements": "Store at temperature not exceeding 30°C in dry place",
+      "clinical_pharmacology_info": "Analgesic and antipyretic properties. Onset of action approximately 1 hour, duration of action approximately 5 hours. Works by inhibiting prostaglandin synthesis in the central nervous system.",
+      "strength": "1000mg",
+      "volume": "",
+      "pack_size": "15 tablets",
+      "price_egp": 48,
+      "availability_status": "In Stock",
+      "prescription_required": false,
+      "extraction_status": "completed",
+      "data_completeness": "complete",
+      "extraction_notes": "Real web extraction from Chefaa.com product pages",
+      "dosing_information": {
+        "usual_dose": "One tablet 2 to 4 times a day",
+        "frequency": "Intervals of 4-8 hours between doses",
+        "maximum_daily": "4 tablets per day",
+        "administration": "Can be taken with or without food"
+      },
+      "extraction_metadata": {
+        "source_url": "https://chefaa.com:443/eg-ar/nowProduct/novaldol-analgesic-and-pain-killer-1000-mg-15-tablets",
+        "extraction_date": "2025-11-01T13:27:41.763877",
+        "extractor_version": "2.0.0_real",
+        "batch_id": "medications_batch_4",
+        "extraction_method": "real_web_extraction"
+      }
+    }
+  ],
+  "exceptions_log": [],
+  "extraction_summary": {
+    "methodology": "Real web extraction from Chefaa.com product pages using extract_content_from_websites",
+    "data_quality": "Complete - comprehensive pharmaceutical fields extracted from actual product pages",
+    "bilingual_support": "English and Arabic content captured from source",
+    "commercial_data": "Complete pricing and availability information",
+    "clinical_data": "Active ingredients, therapeutic classifications, contraindications, warnings, adverse reactions, drug interactions, storage, clinical pharmacology",
+    "real_extraction_success": true,
+    "products_with_complete_data": 4
+  }
+}

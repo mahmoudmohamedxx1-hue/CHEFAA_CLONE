@@ -1,0 +1,144 @@
+{
+  "medications": [
+    {
+      "product_name": "سينومارين | قارورة العناية بالانف هايبرتونيك للاطفال الرضع ...",
+      "price_egp": 295,
+      "brand_manufacturer": "سينومارين",
+      "product_description": "قارورة العناية بالانف هايبرتونيك للاطفال الرضع",
+      "package_size_quantity": "18 قوارير (مستنتج من الرابط)"
+    },
+    {
+      "product_name": "سوفيناسين | 1مجم شراب معلق | 120مل",
+      "price_egp": 88,
+      "brand_manufacturer": "سوفيناسين",
+      "product_description": "1مجم شراب معلق",
+      "package_size_quantity": "120مل"
+    },
+    {
+      "product_name": "سوليكا 100 وحدة/50 مجم سولوستار يقلل مستوى السكر في الدم | ...",
+      "price_egp": 2531,
+      "brand_manufacturer": "سوليكا",
+      "product_description": "100 وحدة/50 مجم سولوستار يقلل مستوى السكر في الدم",
+      "package_size_quantity": "قلم محلول مملوء مسبقًا للحقن"
+    },
+    {
+      "product_name": "سورسيري | انتينسيف كير لوشن للشعر | 160مل",
+      "price_egp": 2500,
+      "brand_manufacturer": "سورسيري",
+      "product_description": "انتينسيف كير لوشن للشعر",
+      "package_size_quantity": "160مل"
+    },
+    {
+      "product_name": "ستوبادول اكستند 650مجم | 30 قرص",
+      "price_egp": 75,
+      "brand_manufacturer": "ستوبادول",
+      "product_description": "اكستند 650مجم",
+      "package_size_quantity": "30 قرص"
+    },
+    {
+      "product_name": "ستراكوبينا | 2.5مجم | 30قرص",
+      "price_egp": 444,
+      "brand_manufacturer": "ستراكوبينا",
+      "product_description": "2.5مجم",
+      "package_size_quantity": "30قرص"
+    },
+    {
+      "product_name": "تينياريست كريم | 15جم",
+      "price_egp": 23,
+      "brand_manufacturer": "تينياريست",
+      "product_description": "كريم",
+      "package_size_quantity": "15جم"
+    },
+    {
+      "product_name": "توينجو | لوشن مهدئ للبشرة بالكالامين | 120مل",
+      "price_egp": 69,
+      "brand_manufacturer": "توينجو",
+      "product_description": "لوشن مهدئ للبشرة بالكالامين",
+      "package_size_quantity": "120مل"
+    },
+    {
+      "product_name": "فانفيلدا 50 مجم فيلداجليبتين | 30 قرص",
+      "price_egp": 114,
+      "brand_manufacturer": "فانفيلدا",
+      "product_description": "50 مجم فيلداجليبتين",
+      "package_size_quantity": "30 قرص"
+    },
+    {
+      "product_name": "فيلافوريا 40مجم | 30 قرص",
+      "price_egp": 477,
+      "brand_manufacturer": "فيلافوريا",
+      "product_description": "40مجم",
+      "package_size_quantity": "30 قرص"
+    },
+    {
+      "product_name": "بوسطن كيو ريزم | 30 كبسولة",
+      "price_egp": 480,
+      "brand_manufacturer": "بوسطن",
+      "product_description": "كيو ريزم",
+      "package_size_quantity": "30 كبسولة"
+    },
+    {
+      "product_name": "أريبيبرازول 1مجم/مل محلول فموي | 120مل",
+      "price_egp": 46,
+      "brand_manufacturer": "أريبيبرازول",
+      "product_description": "1مجم/مل محلول فموي",
+      "package_size_quantity": "120مل"
+    },
+    {
+      "product_name": "أسكيزادكس-إن جل | 40جم",
+      "price_egp": 46,
+      "brand_manufacturer": "أسكيزادكس-إن",
+      "product_description": "جل",
+      "package_size_quantity": "40جم"
+    },
+    {
+      "product_name": "بيسولوك | 10مجم | 20قرص",
+      "price_egp": 58.5,
+      "brand_manufacturer": "بيسولوك",
+      "product_description": "10مجم",
+      "package_size_quantity": "20 قرص"
+    },
+    {
+      "product_name": "بورجازون بلس | مرهم | 30جم",
+      "price_egp": 36,
+      "brand_manufacturer": "بورجازون بلس",
+      "product_description": "مرهم",
+      "package_size_quantity": "30جم"
+    },
+    {
+      "product_name": "كافينتول | شراب | 120مل",
+      "price_egp": 49,
+      "brand_manufacturer": "كافينتول",
+      "product_description": "شراب",
+      "package_size_quantity": "120مل"
+    },
+    {
+      "product_name": "سيفازون بلس | فيال | 1.5جرام",
+      "price_egp": 77,
+      "brand_manufacturer": "سيفازون بلس",
+      "product_description": "فيال",
+      "package_size_quantity": "1.5جرام"
+    },
+    {
+      "product_name": "كونفارزيوتام | 75مجم | 20قرص",
+      "price_egp": 200,
+      "brand_manufacturer": "كونفارزيوتام",
+      "product_description": "75مجم",
+      "package_size_quantity": "20قرص"
+    },
+    {
+      "product_name": "كوسيمبريل | 5مجم/10مجم | 15قرص",
+      "price_egp": 140,
+      "brand_manufacturer": "كوسيمبريل",
+      "product_description": "5مجم/10مجم",
+      "package_size_quantity": "15قرص"
+    },
+    {
+      "product_name": "كوكسريتور 60 مجم | 30 قرص",
+      "price_egp": 282,
+      "brand_manufacturer": "كوكسريتور",
+      "product_description": "60 مجم",
+      "package_size_quantity": "30 قرص"
+    }
+  ]
+}

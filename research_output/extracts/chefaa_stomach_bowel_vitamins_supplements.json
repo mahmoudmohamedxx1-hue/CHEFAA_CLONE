@@ -1,0 +1,115 @@
+📄 Extracted from page: ادوية المعدة والقولون - شفاء
+URL: https://chefaa.com/eg-ar/now/category/medications/stomach-bowel
+
+Extracted content:
+```json
+{
+  "title": "ادوية المعدة والقولون - شفاء",
+  "url": "https://chefaa.com/eg-ar/now/category/medications/stomach-bowel",
+  "summary": "This page, titled 'Stomach and Colon Medications' from Chefaa.com, lists various products aimed at digestive health. While predominantly featuring pharmaceutical medications for conditions like acidity, heartburn, and constipation, it also includes a selection of probiotics, natural laxatives, and other digestive aids that fall under the broader category of vitamins and supplements. Each product is presented with its name, price, and an option to add to the cart. Some products indicate a 'limited quantity' stock status.",
+  "key_points": [
+    "The page primarily lists products for stomach and colon health.",
+    "A subset of products on this page are identified as vitamins or supplements, such as probiotics and natural digestive aids.",
+    "Each listed product displays its name, price in EGP, and an 'Add to Cart' button.",
+    "Some product listings provide stock status, e.g., 'Limited Quantity'.",
+    "The website has a dedicated 'Vitamins and Supplements' main category in its navigation menu."
+  ],
+  "relevant_links": [
+    "https://chefaa.com:443/eg-ar",
+    "https://chefaa.com:443/eg-ar/now/category/medications",
+    "https://chefaa.com:443/eg-ar/now/category/vitamins-supplements",
+    "https://chefaa.com:443/eg-ar/contact-us",
+    "https://chefaa.com:443/eg-ar/about-us"
+  ],
+  "extracted_products": [
+    {
+      "product_name": "انتروجرمينا امبول بروبيوتيك للقولون للاطفال والكبار 2 مليار...",
+      "price": "180 جنيه",
+      "brand": "Enterogermina",
+      "description": "Oral probiotic ampoules for colon health for children and adults, 2 billion CFU.",
+      "stock_status": "In stock",
+      "ratings": "N/A",
+      "specifications": {
+        "type": "Probiotic",
+        "form": "Oral Suspension Ampoule",
+        "dosage": "2 Billion CFU",
+        "volume_per_vial": "5ml",
+        "quantity_per_pack": "20 vials",
+        "for": "Children and Adults"
+      }
+    },
+    {
+      "product_name": "لينكس للبالغين | 14 كبسولة",
+      "price": "225 جنيه",
+      "brand": "Linex",
+      "description": "Probiotic capsules for adults.",
+      "stock_status": "In stock",
+      "ratings": "N/A",
+      "specifications": {
+        "type": "Probiotic",
+        "form": "Capsules",
+        "for": "Adults",
+        "quantity_per_pack": "14 capsules"
+      }
+    },
+    {
+      "product_name": "روتادايجست | 30 كبسولة",
+      "price": "195 جنيه",
+      "brand": "Rotadigest",
+      "description": "Digestive supplement capsules.",
+      "stock_status": "In stock",
+      "ratings": "N/A",
+      "specifications": {
+        "type": "Digestive Aid/Supplement (Likely enzymes or probiotics)",
+        "form": "Capsules",
+        "quantity_per_pack": "30 capsules"
+      }
+    },
+    {
+      "product_name": "أجيولاكس حبيبات ملين طبيعي | 12 كيس",
+      "price": "100 جنيه",
+      "brand": "Agiolax",
+      "description": "Natural laxative granules.",
+      "stock_status": "In stock",
+      "ratings": "N/A",
+      "specifications": {
+        "type": "Natural Laxative / Herbal Supplement",
+        "form": "Granules",
+        "features": "Natural laxative",
+        "quantity_per_pack": "12 sachets"
+      }
+    },
+    {
+      "product_name": "امبولات انتروجرمينا للكبار والاطفال بروبيوتيك للقولون 4 ملي...",
+      "price": "200 جنيه",
+      "brand": "Enterogermina",
+      "description": "Oral probiotic ampoules for colon health for adults and children, 4 billion CFU.",
+      "stock_status": "In stock",
+      "ratings": "N/A",
+      "specifications": {
+        "type": "Probiotic",
+        "form": "Oral Suspension Ampoule",
+        "dosage": "4 Billion CFU",
+        "volume_per_vial": "5ml",
+        "quantity_per_pack": "10 vials",
+        "for": "Adults and Children"
+      }
+    },
+    {
+      "product_name": "اقراص اوكاربون بالفحم للقولون العصبي eucarbon tab | ٣٠ قرص",
+      "price": "105 جنيه",
+      "brand": "Eucarbon",
+      "description": "Activated charcoal tablets for irritable bowel syndrome.",
+      "stock_status": "كمية محدودة (Limited Quantity)",
+      "ratings": "N/A",
+      "specifications": {
+        "type": "Activated Charcoal / Digestive Supplement",
+        "form": "Tablets",
+        "features": "For irritable bowel syndrome",
+        "quantity_per_pack": "30 tablets"
+      }
+    }
+  ],
+  "file_name": "chefaa_stomach_bowel_vitamins_supplements.json"
+}
+```

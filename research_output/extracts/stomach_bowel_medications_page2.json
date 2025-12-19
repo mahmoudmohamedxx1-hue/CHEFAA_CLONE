@@ -1,0 +1,232 @@
+📄 Extracted from page: ادوية المعدة والقولون - شفاء
+URL: https://chefaa.com/eg-ar/now/category/medications/stomach-bowel?page=2
+
+Extracted content:
+```json
+{
+    "title": "ادوية المعدة والقولون - شفاء",
+    "url": "https://chefaa.com/eg-ar/now/category/medications/stomach-bowel?page=2",
+    "summary": "This page, the second in the 'Stomach & Bowel Medications' category on Chefaa.com, lists 20 various medications for gastrointestinal issues. Each entry provides details such as the product name, its primary use or description, price in Egyptian Pounds (EGP), brand name, specific dosage or quantity, availability status, and whether a medical prescription is required.",
+    "key_points": [
+        "20 stomach and bowel medication products are listed on this page.",
+        "Each product entry includes product name, description, price (EGP), brand name, specifications (dosage/quantity/form), availability status, and prescription requirement.",
+        "Availability is indicated by the presence of an 'Add to Cart' button for all products.",
+        "Some products explicitly state 'Requires Medical Prescription' (يلزم وصفة طبية).",
+        "Pagination controls are present, indicating a total of 3 pages, with links to navigate to page 1 and page 3."
+    ],
+    "products": [
+        {
+            "product_name": "جاناتون",
+            "description": "لعلاج اضطرابات المعدة",
+            "price_egp": 90,
+            "brand_name": "جاناتون",
+            "availability_status": "Available",
+            "prescription_required": false,
+            "specifications": "50مجم, 30 قرص",
+            "product_url": "https://chefaa.com:443/eg-ar/nowProduct/ganaton-to-treat-stomach-disorders-50mg-30tab-qhfg"
+        },
+        {
+            "product_name": "ديسفلاتيل اقراص",
+            "description": "للانتفاخ والقولون",
+            "price_egp": 54,
+            "brand_name": "ديسفلاتيل",
+            "availability_status": "Available",
+            "prescription_required": false,
+            "specifications": "40 مجم, 30 قرص",
+            "product_url": "https://chefaa.com:443/eg-ar/nowProduct/disflatyl-30-tab"
+        },
+        {
+            "product_name": "جافيسكون مضاعف القوة شراب",
+            "description": "للحموضة",
+            "price_egp": 144,
+            "brand_name": "جافيسكون",
+            "availability_status": "Available",
+            "prescription_required": false,
+            "specifications": "150مل",
+            "product_url": "https://chefaa.com:443/eg-ar/nowProduct/gaviscon-advance-150-ml_duhCi47e_duOcqghx_durhhF8C"
+        },
+        {
+            "product_name": "جليكودال أقراص مضغ",
+            "description": "لحرقان المعدة والانتفاخ",
+            "price_egp": 57,
+            "brand_name": "جليكودال",
+            "availability_status": "Available",
+            "prescription_required": false,
+            "specifications": "30 قرص",
+            "product_url": "https://chefaa.com:443/eg-ar/nowProduct/glycodal-antacid-30-tab-xbiu"
+        },
+        {
+            "product_name": "ايتوبريد",
+            "description": "منظم لحركة الجهاز الهضمى",
+            "price_egp": 54,
+            "brand_name": "ايتوبريد",
+            "availability_status": "Available",
+            "prescription_required": false,
+            "specifications": "50مج, 30 قرص",
+            "product_url": "https://chefaa.com:443/eg-ar/nowProduct/itopride-promotility-agent-50mg-30tab-dooa"
+        },
+        {
+            "product_name": "لاكتيول فورت",
+            "description": "لعلاج الاسهال",
+            "price_egp": 126,
+            "brand_name": "لاكتيول فورت",
+            "availability_status": "Available",
+            "prescription_required": true,
+            "specifications": "12 كبسول",
+            "product_url": "https://chefaa.com:443/eg-ar/nowProduct/lacteol-fort-antidiarrheal-12cap-bzzm"
+        },
+        {
+            "product_name": "لاكتيول فورت",
+            "description": "لعلاج الاسهال",
+            "price_egp": 120,
+            "brand_name": "لاكتيول فورت",
+            "availability_status": "Available",
+            "prescription_required": true,
+            "specifications": "6 اكياس",
+            "product_url": "https://chefaa.com:443/eg-ar/nowProduct/lacteol-fort-antidiarrheal-6sachets-9div"
+        },
+        {
+            "product_name": "لينكس نقط للاطفال",
+            "description": "بروبيوتيك",
+            "price_egp": 250,
+            "brand_name": "لينكس",
+            "availability_status": "Available",
+            "prescription_required": false,
+            "specifications": "8 مل",
+            "product_url": "https://chefaa.com:443/eg-ar/nowProduct/linex-baby-drops-8ml-ssma"
+        },
+        {
+            "product_name": "لينكس مكمل غذائي",
+            "description": "مكمل غذائي",
+            "price_egp": 180,
+            "brand_name": "لينكس",
+            "availability_status": "Available",
+            "prescription_required": false,
+            "specifications": "10 اكياس",
+            "product_url": "https://chefaa.com:443/eg-ar/nowProduct/linex-10-sachets-kedq"
+        },
+        {
+            "product_name": "مالوكس بلس شراب",
+            "description": "للحموضة وحرقة المعدة وعسر الهضم بطعم الليمون",
+            "price_egp": 143,
+            "brand_name": "مالوكس بلس",
+            "availability_status": "Available",
+            "prescription_required": false,
+            "specifications": "180 مل",
+            "product_url": "https://chefaa.com:443/eg-ar/nowProduct/maalox-plus-antacid-oral-suspension-180-ml_dufutxI0"
+        },
+        {
+            "product_name": "ملين مينالاكس اقراص",
+            "description": "لعلاج الامساك",
+            "price_egp": 18,
+            "brand_name": "مينالاكس",
+            "availability_status": "Available",
+            "prescription_required": true,
+            "specifications": "10 أقراص",
+            "product_url": "https://chefaa.com:443/eg-ar/nowProduct/minalax-10-tabs-x5ra"
+        },
+        {
+            "product_name": "نانازوكسيد شراب للاطفال",
+            "description": "مطهر معوي",
+            "price_egp": 39,
+            "brand_name": "نانازوكسيد",
+            "availability_status": "Available",
+            "prescription_required": false,
+            "specifications": "60 مل",
+            "product_url": "https://chefaa.com:443/eg-ar/nowProduct/nanazoxid-antifungal-100mg-5ml-susp-60ml"
+        },
+        {
+            "product_name": "نانازوكسيد اقراص",
+            "description": "مطهر معوي",
+            "price_egp": 114,
+            "brand_name": "نانازوكسيد",
+            "availability_status": "Available",
+            "prescription_required": true,
+            "specifications": "500مجم, 18 قرص",
+            "product_url": "https://chefaa.com:443/eg-ar/nowProduct/nanazoxid-intestinal-disinfectant-500mg-18tab"
+        },
+        {
+            "product_name": "نيكسيوم",
+            "description": "لعلاج حموضة المعدة",
+            "price_egp": 332,
+            "brand_name": "نيكسيوم",
+            "availability_status": "Available",
+            "prescription_required": true,
+            "specifications": "20مجم, 28 قرص",
+            "product_url": "https://chefaa.com:443/eg-ar/nowProduct/nexium-gastro-resistant-20mg-28tab"
+        },
+        {
+            "product_name": "نيتازود شراب",
+            "description": "للاطفال والرضع للاسهال",
+            "price_egp": 44,
+            "brand_name": "نيتازود",
+            "availability_status": "Available",
+            "prescription_required": true,
+            "specifications": "60 مل",
+            "product_url": "https://chefaa.com:443/eg-ar/nowProduct/nitazode-to-treat-diarrhea-100mg-5ml-susp-60ml"
+        },
+        {
+            "product_name": "اوندالينز لصقة",
+            "description": "للترجيع للاطفال",
+            "price_egp": 160,
+            "brand_name": "اوندالينز",
+            "availability_status": "Available",
+            "prescription_required": false,
+            "specifications": "4 مجم, 5 أفلام",
+            "product_url": "https://chefaa.com:443/eg-ar/nowProduct/ondalenz-antiemetic-4mg-5tab-qy3j"
+        },
+        {
+            "product_name": "اوندالينز لصقة",
+            "description": "للترجيع للكبار",
+            "price_egp": 265,
+            "brand_name": "اوندالينز",
+            "availability_status": "Available",
+            "prescription_required": true,
+            "specifications": "8 مجم, 5 أفلام",
+            "product_url": "https://chefaa.com:443/eg-ar/nowProduct/ondalenz-anti-nausea-8mg-5tab-ejym"
+        },
+        {
+            "product_name": "بيكولاكس نقط",
+            "description": "ملين للامساك للأطفال والكبار",
+            "price_egp": 24,
+            "brand_name": "بيكولاكس",
+            "availability_status": "Available",
+            "prescription_required": true,
+            "specifications": "15مل",
+            "product_url": "https://chefaa.com:443/eg-ar/nowProduct/picolax-drops"
+        },
+        {
+            "product_name": "بروتولوك",
+            "description": "لعلاج مشاكل المعدة",
+            "price_egp": 82,
+            "brand_name": "بروتولوك",
+            "availability_status": "Available",
+            "prescription_required": true,
+            "specifications": "40مجم, 14 قرص",
+            "product_url": "https://chefaa.com:443/eg-ar/nowProduct/protoloc-40mg-14-tablets-dbeb"
+        },
+        {
+            "product_name": "سيميثيكون نقط للرضع",
+            "description": "للانتفاخ والغازات",
+            "price_egp": 24,
+            "brand_name": "سيميثيكون",
+            "availability_status": "Available",
+            "prescription_required": false,
+            "specifications": "30مل",
+            "product_url": "https://chefaa.com:443/eg-ar/nowProduct/simethicone-oral-drops-30ml"
+        }
+    ],
+    "pagination_controls": {
+        "current_page": 2,
+        "total_pages": 3,
+        "prev_page_url": "https://chefaa.com:443/eg-ar/now/category/medications/stomach-bowel?page=1",
+        "next_page_url": "https://chefaa.com:443/eg-ar/now/category/medications/stomach-bowel?page=3"
+    },
+    "relevant_links": [
+        "https://chefaa.com/eg-ar/now/category/medications/stomach-bowel?page=1",
+        "https://chefaa.com/eg-ar/now/category/medications/stomach-bowel?page=2",
+        "https://chefaa.com/eg-ar/now/category/medications/stomach-bowel?page=3"
+    ],
+    "file_name": "stomach_bowel_medications_page2.json"
+}
+```

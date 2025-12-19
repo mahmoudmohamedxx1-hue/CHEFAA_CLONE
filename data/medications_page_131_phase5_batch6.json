@@ -1,0 +1,144 @@
+{
+  "medications": [
+    {
+      "product_name": "استيكانا 10مجم | 28 قرص",
+      "price_egp": 132,
+      "brand_manufacturer": "استيكانا",
+      "product_description_category": "أقراص",
+      "package_size_quantity": "28 قرص"
+    },
+    {
+      "product_name": "إليكسولايت محلول بنكهة الموز | 360مل",
+      "price_egp": 49,
+      "brand_manufacturer": "إليكسولايت",
+      "product_description_category": "محلول",
+      "package_size_quantity": "360مل"
+    },
+    {
+      "product_name": "لاكوساميت 100مجم | 30 قرص",
+      "price_egp": 252,
+      "brand_manufacturer": "لاكوساميت",
+      "product_description_category": "أقراص",
+      "package_size_quantity": "30 قرص"
+    },
+    {
+      "product_name": "فونافوت 20مجم | 20 قرص",
+      "price_egp": 138,
+      "brand_manufacturer": "فونافوت",
+      "product_description_category": "أقراص",
+      "package_size_quantity": "20 قرص"
+    },
+    {
+      "product_name": "كونتراهيستادين 20مجم | 30 قرص",
+      "price_egp": 120,
+      "brand_manufacturer": "كونتراهيستادين",
+      "product_description_category": "أقراص",
+      "package_size_quantity": "30 قرص"
+    },
+    {
+      "product_name": "بيرلايت كريم | 25جم",
+      "price_egp": 110,
+      "brand_manufacturer": "بيرلايت",
+      "product_description_category": "كريم",
+      "package_size_quantity": "25جم"
+    },
+    {
+      "product_name": "وينزوكسيب 60مجم | 30 قرص",
+      "price_egp": 189,
+      "brand_manufacturer": "وينزوكسيب",
+      "product_description_category": "أقراص",
+      "package_size_quantity": "30 قرص"
+    },
+    {
+      "product_name": "سيليكس أوميجا | 15 كيس",
+      "price_egp": 179,
+      "brand_manufacturer": "سيليكس أوميجا",
+      "product_description_category": "أكياس",
+      "package_size_quantity": "15 كيس"
+    },
+    {
+      "product_name": "روتابيريتك 1جم/100مل | 1 فيال",
+      "price_egp": 67,
+      "brand_manufacturer": "روتابيريتك",
+      "product_description_category": "فيال للحقن",
+      "package_size_quantity": "1 فيال (100 مل)"
+    },
+    {
+      "product_name": "ميرفيناسين إم آر 5/50مجم | 30 قرص",
+      "price_egp": 339,
+      "brand_manufacturer": "ميرفيناسين",
+      "product_description_category": "أقراص",
+      "package_size_quantity": "30 قرص"
+    },
+    {
+      "product_name": "سيلفر لاين | لولب نحاسي 380 Ag | قطعة واحدة",
+      "price_egp": 450,
+      "brand_manufacturer": "سيلفر لاين",
+      "product_description_category": "لولب نحاسي",
+      "package_size_quantity": "قطعة واحدة"
+    },
+    {
+      "product_name": "بي-ميلت مكمل غذائي | 30 قرصًا سريع الذوبان",
+      "price_egp": 160,
+      "brand_manufacturer": "بي-ميلت",
+      "product_description_category": "مكمل غذائي, أقراص سريعة الذوبان",
+      "package_size_quantity": "30 قرص"
+    },
+    {
+      "product_name": "زارزيو 30مكم/0.5مل | 1 حقنة مملوءة مسبقًا",
+      "price_egp": 721,
+      "brand_manufacturer": "زارزيو",
+      "product_description_category": "حقنة مملوءة مسبقًا",
+      "package_size_quantity": "1 حقنة (0.5 مل)"
+    },
+    {
+      "product_name": "اروميجا مساج جيل للجلد | 60جم",
+      "price_egp": 98,
+      "brand_manufacturer": "اروميجا",
+      "product_description_category": "جيل مساج",
+      "package_size_quantity": "60جم"
+    },
+    {
+      "product_name": "فري فيت مكمل غذائي | 20 قرص",
+      "price_egp": 135,
+      "brand_manufacturer": "فري فيت",
+      "product_description_category": "مكمل غذائي, أقراص",
+      "package_size_quantity": "20 قرص"
+    },
+    {
+      "product_name": "هايبولاكت 0.5مجم | 2 قرص",
+      "price_egp": 103,
+      "brand_manufacturer": "هايبولاكت",
+      "product_description_category": "أقراص",
+      "package_size_quantity": "2 قرص"
+    },
+    {
+      "product_name": "روتاهيلكس ثايم | أقراص استحلاب مُلطفة للحلق بنكهة القهوة | 24 قرص",
+      "price_egp": 140,
+      "brand_manufacturer": "روتاهيلكس",
+      "product_description_category": "أقراص استحلاب",
+      "package_size_quantity": "24 قرص"
+    },
+    {
+      "product_name": "شيتوسيل كريم | 50جم",
+      "price_egp": 98,
+      "brand_manufacturer": "شيتوسيل",
+      "product_description_category": "كريم",
+      "package_size_quantity": "50جم"
+    },
+    {
+      "product_name": "مينوبيس اوريجينال | 30 قرص",
+      "price_egp": 250,
+      "brand_manufacturer": "مينوبيس",
+      "product_description_category": "أقراص",
+      "package_size_quantity": "30 قرص"
+    },
+    {
+      "product_name": "روتاهيلكس ثايم | أقراص استحلاب مُلطفة للحلق بنكهة الليمون و العسل | 24 قرص",
+      "price_egp": 140,
+      "brand_manufacturer": "روتاهيلكس",
+      "product_description_category": "أقراص استحلاب",
+      "package_size_quantity": "24 قرص"
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+📄 Extracted from page: اجهزة مساعدات التنفس - شفاء
+URL: https://chefaa.com/eg-ar/now/category/health-care-devices/respiratory-equipments
+
+Extracted content:
+```json
+{
+  "title": "اجهزة مساعدات التنفس - شفاء",
+  "url": "https://chefaa.com/eg-ar/now/category/health-care-devices/respiratory-equipments",
+  "summary": "This page from Chefaa.com lists respiratory equipment medical supplies available in Egypt. It features three products: a nebulizer mask, a steam inhaler by Granzia, and an aero-spacer for children by Ultralife. For each product, the Arabic and inferred English names, price in EGP, brand (where available), and an implied 'in stock' status are provided. The page lacks detailed descriptions, specifications, or customer reviews for the listed items. Basic pagination indicates it's currently on page 1.",
+  "key_points": [
+    "The page is categorized under 'Respiratory Equipments' within 'Health Care Devices'.",
+    "Three respiratory medical supplies are listed: a nebulizer mask, a steam inhaler, and an aero-spacer.",
+    "Product names are available in Arabic, with English translations inferred from URL slugs.",
+    "Prices are clearly stated in Egyptian Pounds (EGP).",
+    "Brands are identified for two products: Granzia and Ultralife.",
+    "All listed products appear to be available for purchase ('Add to Cart' option is present).",
+    "No product descriptions, detailed specifications, ratings, or customer reviews are provided on this listing page.",
+    "Pagination shows a single page of results with options for previous/next, but only page 1 is listed."
+  ],
+  "products": [
+    {
+      "product_name_arabic": "نيبوليزر ماسك للاطفال و الكبار",
+      "product_name_english": "Nebulizer Mask for Children and Adults",
+      "description": null,
+      "price_egp": 22.00,
+      "brand": null,
+      "ratings_reviews": null,
+      "stock_status": "In Stock",
+      "specifications": null,
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/nebulizer-mask-for-children-and-adults-dw4o"
+    },
+    {
+      "product_name_arabic": "جرانزيا | بيور جهاز الاستنشاق بالبخار",
+      "product_name_english": "Granzia | Pure Steam Inhaler",
+      "description": null,
+      "price_egp": 1480.00,
+      "brand": "جرانزيا (Granzia)",
+      "ratings_reviews": null,
+      "stock_status": "In Stock",
+      "specifications": null,
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/pure-steam-inhaler-euay_duO9bz2P"
+    },
+    {
+      "product_name_arabic": "الترالايف | ايروشمبر اطفال أقل من 5 سنين Dlu-07",
+      "product_name_english": "Ultralife | Aero Spacer Children under 5 years Dlu-07",
+      "description": null,
+      "price_egp": 420.00,
+      "brand": "الترالايف (Ultralife)",
+      "ratings_reviews": null,
+      "stock_status": "In Stock",
+      "specifications": null,
+      "product_url": "https://chefaa.com:443/eg-ar/nowProduct/ultralife-aero-spacer-dlu-07-childern-xysh_duCAAEoR"
+    }
+  ],
+  "pagination": {
+    "current_page": 1,
+    "total_pages": null,
+    "has_next_page": false,
+    "has_previous_page": false,
+    "page_links": [
+      {
+        "page": 1,
+        "url": "https://chefaa.com/eg-ar/now/category/health-care-devices/respiratory-equipments?products_eg%5Bpage%5D=1"
+      }
+    ]
+  },
+  "relevant_links": [
+    "https://chefaa.com:443/eg-ar/nowProduct/nebulizer-mask-for-children-and-adults-dw4o",
+    "https://chefaa.com:443/eg-ar/nowProduct/pure-steam-inhaler-euay_duO9bz2P",
+    "https://chefaa.com:443/eg-ar/nowProduct/ultralife-aero-spacer-dlu-07-childern-xysh_duCAAEoR",
+    "https://chefaa.com/eg-ar/now/category/health-care-devices/respiratory-equipments?products_eg%5Bpage%5D=1"
+  ],
+  "file_name": "chefaa_respiratory_equipments.json"
+}
+```

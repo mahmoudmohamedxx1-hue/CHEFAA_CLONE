@@ -1,0 +1,49 @@
+📄 Extracted from page: كمامات - شفاء
+URL: https://chefaa.com/eg-ar/now/category/health-care-devices/face-masks
+
+Extracted content:
+```json
+{
+  "title": "كمامات - شفاء",
+  "url": "https://chefaa.com/eg-ar/now/category/health-care-devices/face-masks",
+  "summary": "This page is the 'Face Masks' category page on Chefaa.com, under 'Medical Supplies'. It lists two face mask products with their names (in Arabic and inferred English), prices, and some basic specifications. No detailed product descriptions or customer ratings are provided on this listing page. There is also a message indicating 'no results for undefined', despite the two products being displayed.",
+  "key_points": [
+    "The page successfully identifies as the 'Face Masks' category within 'Medical Supplies'.",
+    "Two face mask products are listed on the page.",
+    "Each product entry includes the Arabic name, an inferred English name, price in EGP, and basic specifications.",
+    "One product is a KN95 mask with a filter, priced at 15 EGP.",
+    "The other product is an Evony face mask pack containing 46 pieces, priced at 165 EGP.",
+    "No customer ratings or detailed product descriptions are available on this category listing page.",
+    "The page displays a 'No results for undefined' message, which might be a default or conditional display, but does not prevent the product listings from appearing."
+  ],
+  "products": [
+    {
+      "name_ar": "كي ان 95 ماسك للوجه بفلتر",
+      "name_en": "KN95 Face Mask with Filter",
+      "brand": null,
+      "price_egp": 15,
+      "description": null,
+      "specifications": "KN95, with filter",
+      "rating": null,
+      "url": "https://chefaa.com:443/eg-ar/nowProduct/mask-for-face-kn95-with-filter-xRV4"
+    },
+    {
+      "name_ar": "ايفوني | ماسك للوجه | 46قطعة",
+      "name_en": "Evony | Face Mask | 46 pieces",
+      "brand": "Evony",
+      "price_egp": 165,
+      "description": null,
+      "specifications": "46 pieces",
+      "rating": null,
+      "url": "https://chefaa.com:443/eg-ar/nowProduct/evony-face-mask-46pcs-mbhb_duYyt3O0"
+    }
+  ],
+  "relevant_links": [
+    "https://chefaa.com:443/eg-ar",
+    "https://chefaa.com:443/eg-ar/now/category/health-care-devices",
+    "https://chefaa.com:443/eg-ar/nowProduct/mask-for-face-kn95-with-filter-xRV4",
+    "https://chefaa.com:443/eg-ar/nowProduct/evony-face-mask-46pcs-mbhb_duYyt3O0"
+  ],
+  "file_name": "chefaa_face_masks_category.json"
+}
+```

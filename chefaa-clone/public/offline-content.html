@@ -1,0 +1,250 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Offline Content - PharmaCare</title>
+    <style>
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+            background: #f9fafb;
+            margin: 0;
+            padding: 20px;
+            min-height: 100vh;
+        }
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+        }
+        .header {
+            text-align: center;
+            margin-bottom: 40px;
+        }
+        .card {
+            background: white;
+            border-radius: 8px;
+            padding: 24px;
+            margin-bottom: 20px;
+            box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+        }
+        .product-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+            gap: 16px;
+        }
+        .product-card {
+            border: 1px solid #e5e7eb;
+            border-radius: 8px;
+            padding: 16px;
+            text-align: center;
+        }
+        .product-image {
+            width: 100px;
+            height: 100px;
+            background: #f3f4f6;
+            border-radius: 8px;
+            margin: 0 auto 12px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 40px;
+        }
+        .btn {
+            background: #2563eb;
+            color: white;
+            border: none;
+            padding: 12px 24px;
+            border-radius: 6px;
+            cursor: pointer;
+            font-size: 16px;
+            margin: 10px 5px;
+        }
+        .btn:hover {
+            background: #1d4ed8;
+        }
+        .status {
+            background: #fef3c7;
+            border: 1px solid #f59e0b;
+            color: #92400e;
+            padding: 12px;
+            border-radius: 6px;
+            margin-bottom: 20px;
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>📱 Offline Content</h1>
+            <p>Browse cached content while offline</p>
+        </div>
+
+        <div class="status">
+            📴 You are currently offline - browsing cached content
+        </div>
+
+        <div class="card">
+            <h2>Your Cart</h2>
+            <div id="cart-content">
+                <p>Loading cart data...</p>
+            </div>
+            <button class="btn" onclick="goToCart()">View Full Cart</button>
+        </div>
+
+        <div class="card">
+            <h2>Cached Products</h2>
+            <div id="products-content">
+                <p>Loading cached products...</p>
+            </div>
+        </div>
+
+        <div class="card">
+            <h2>Recent Prescriptions</h2>
+            <div id="prescriptions-content">
+                <p>Loading prescriptions...</p>
+            </div>
+        </div>
+
+        <div style="text-align: center; margin-top: 40px;">
+            <button class="btn" onclick="goBack()">← Go Back</button>
+            <button class="btn" onclick="retryConnection()">🔄 Check Connection</button>
+        </div>
+    </div>
+
+    <script>
+        function loadOfflineData() {
+            loadCartData();
+            loadCachedProducts();
+            loadPrescriptions();
+        }
+
+        function loadCartData() {
+            try {
+                const cartData = localStorage.getItem('pwa-offline-data-cart');
+                const cartElement = document.getElementById('cart-content');
+                
+                if (cartData) {
+                    const cart = JSON.parse(cartData);
+                    if (cart.items && cart.items.length > 0) {
+                        cartElement.innerHTML = `
+                            <p>Items in cart: ${cart.items.length}</p>
+                            <p>Total: $${(cart.total || 0).toFixed(2)}</p>
+                            <p><small>Data will sync when back online</small></p>
+                        `;
+                    } else {
+                        cartElement.innerHTML = '<p>Your cart is empty</p>';
+                    }
+                } else {
+                    cartElement.innerHTML = '<p>No cart data available</p>';
+                }
+            } catch (error) {
+                document.getElementById('cart-content').innerHTML = '<p>Error loading cart data</p>';
+            }
+        }
+
+        function loadCachedProducts() {
+            try {
+                const productsData = localStorage.getItem('pwa-offline-data-products');
+                const productsElement = document.getElementById('products-content');
+                
+                if (productsData) {
+                    const products = JSON.parse(productsData);
+                    const productList = products.products || [];
+                    
+                    if (productList.length > 0) {
+                        let html = '<div class="product-grid">';
+                        productList.slice(0, 6).forEach(product => {
+                            html += `
+                                <div class="product-card">
+                                    <div class="product-image">💊</div>
+                                    <h4>${product.name || 'Product'}</h4>
+                                    <p>$${(product.price || 0).toFixed(2)}</p>
+                                    <button class="btn" onclick="addToCart('${product.id}')">Add to Cart</button>
+                                </div>
+                            `;
+                        });
+                        html += '</div>';
+                        productsElement.innerHTML = html;
+                    } else {
+                        productsElement.innerHTML = '<p>No cached products available</p>';
+                    }
+                } else {
+                    productsElement.innerHTML = '<p>No cached products available</p>';
+                }
+            } catch (error) {
+                document.getElementById('products-content').innerHTML = '<p>Error loading products</p>';
+            }
+        }
+
+        function loadPrescriptions() {
+            try {
+                const prescriptionsData = localStorage.getItem('pwa-offline-data-prescriptions');
+                const prescriptionsElement = document.getElementById('prescriptions-content');
+                
+                if (prescriptionsData) {
+                    const prescriptions = JSON.parse(prescriptionsData);
+                    if (prescriptions.length > 0) {
+                        prescriptionsElement.innerHTML = `
+                            <p>${prescriptions.length} prescription(s) available</p>
+                            <p><small>Prescription data cached locally</small></p>
+                        `;
+                    } else {
+                        prescriptionsElement.innerHTML = '<p>No prescriptions available</p>';
+                    }
+                } else {
+                    prescriptionsElement.innerHTML = '<p>No prescriptions available</p>';
+                }
+            } catch (error) {
+                document.getElementById('prescriptions-content').innerHTML = '<p>Error loading prescriptions</p>';
+            }
+        }
+
+        function addToCart(productId) {
+            // Add to offline cart
+            let cart = JSON.parse(localStorage.getItem('pwa-offline-data-cart') || '{"items": [], "total": 0}');
+            
+            const existingItem = cart.items.find(item => item.id === productId);
+            if (existingItem) {
+                existingItem.quantity += 1;
+            } else {
+                cart.items.push({
+                    id: productId,
+                    name: 'Cached Product',
+                    price: 10.99,
+                    quantity: 1
+                });
+            }
+            
+            cart.total = cart.items.reduce((sum, item) => sum + (item.price * item.quantity), 0);
+            
+            localStorage.setItem('pwa-offline-data-cart', JSON.stringify(cart));
+            
+            // Show feedback
+            alert('Product added to cart (will sync when online)');
+            
+            // Reload cart data
+            loadCartData();
+        }
+
+        function goToCart() {
+            window.location.href = '/cart';
+        }
+
+        function goBack() {
+            window.history.back();
+        }
+
+        function retryConnection() {
+            if (navigator.onLine) {
+                window.location.href = '/';
+            } else {
+                alert('Still offline. Please check your connection.');
+            }
+        }
+
+        // Load data when page loads
+        document.addEventListener('DOMContentLoaded', loadOfflineData);
+    </script>
+</body>
+</html>

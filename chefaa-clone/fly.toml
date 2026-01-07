@@ -1,0 +1,109 @@
+# Fly.io Configuration for CHEFAA CLONE
+# Generated: December 26, 2025
+# App name must be globally unique on Fly.io
+app = "chefaa-clone"
+
+# Kill signal for graceful shutdown
+kill_signal = "SIGINT"
+kill_timeout = "5s"
+
+# Process supervisor configuration
+processes = {}
+
+[env]
+  # Environment variables
+  NODE_ENV = "production"
+  PORT = "8080"
+
+[build]
+  # Docker build configuration
+  dockerfile = "Dockerfile"
+  
+[build.args]
+  # Build arguments if needed
+  NODE_VERSION = "18"
+
+[http_service]
+  # HTTP service configuration
+  internal_port = 8080
+  force_https = true
+  auto_assign_port = false
+  
+  [http_service.concurrency]
+    type = "requests"
+    hard_limit = 1000
+    soft_limit = 500
+  
+  [[http_service.checks]]
+    grace_period = "10s"
+    interval = "30s"
+    method = "GET"
+    path = "/"
+    protocol = "http"
+    timeout = "10s"
+    type = "http"
+
+[[services]]
+  protocol = "tcp"
+  internal_port = 8080
+  ports = []
+  
+  [services.concurrency]
+    hard_limit = 1000
+    soft_limit = 500
+    type = "requests"
+  
+  [[services.tcp_checks]]
+    grace_period = "10s"
+    interval = "30s"
+    timeout = "10s"
+
+[checks]
+  [checks.alive]
+    grace_period = "10s"
+    interval = "30s"
+    method = "GET"
+    path = "/"
+    protocol = "http"
+    timeout = "10s"
+    type = "http"
+
+[deploy]
+  # Release configuration
+  strategy = "rolling"
+  max_unavailable = 1
+
+[metrics]
+  # Prometheus metrics
+  port = 9090
+  enabled = true
+
+# Regions where your app can run
+# Use close regions for better performance
+[[regions]]
+  code = "cdg"  # Paris (closest to Egypt)
+  count = 1
+
+# Additional regions for backup/fallover
+[[regions]]
+  code = "ams"  # Amsterdam
+  count = 0
+
+[[regions]]
+  code = "lax"  # Los Angeles
+  count = 0
+
+# Volume configuration (if needed for persistent storage)
+# [[mounts]]
+#   source = "data"
+#   destination = "/data"
+#   processes = ["app"]
+
+# Example of environment variables per environment
+# [[env]]
+#   ENVIRONMENT = "production"
+
+# Static files caching headers
+[http_service.handlers]
+  prefix = "/"
+  protocols = ["http", "https"]
